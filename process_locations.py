@@ -133,7 +133,7 @@ def main():
     os.makedirs('output', exist_ok=True)
     
     for person in people:
-        print(f"\n=== Processing person {person} ===")
+        print(f"\nprocessing person {person}")
         
         input_csv = f"raw_visits_{person}.csv"
         output_clean_csv = f"output/cleaned_visits_{person}.csv"
@@ -141,20 +141,20 @@ def main():
         
         # check if raw visits file exists
         if not os.path.exists(input_csv):
-            print(f"Skipping {person} - no raw visits file found")
+            print(f"skipping {person} no raw visits file found")
             continue
         
         df = pd.read_csv(input_csv)
         
         if len(df) == 0:
-            print(f"Skipping {person} - no visits found")
+            print(f"skipping {person}  no visits found")
             continue
 
         print("cleanig it now")
         clean_df = clean_data(df)
 
         clean_df.to_csv(output_clean_csv, index=False)
-        print(f"saved the data to → {output_clean_csv}")
+        print(f"saved the data to: {output_clean_csv}")
 
         print("map being made")
         build_daily_map(clean_df, output_map)
