@@ -90,13 +90,11 @@ def main():
         find_group_patterns(all_data)
         with open('pattern_summary.txt', 'w') as f:
             f.write("restaurant visit analysis\n")
-            f.write("="*60 + "\n\n")
             
             #this is per person
             for person, patterns in all_patterns.items():
                 f.write(f"\n\n")
                 f.write(f"Person {person}\n")
-                f.write(f"\n")
                 
                 f.write(f"\naverage visits per week: {patterns['avg_visits_per_week']}\n")
                 

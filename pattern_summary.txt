@@ -1,10 +1,7 @@
 restaurant visit analysis
-============================================================
-
 
 
 Person 64
-
 
 average visits per week: 2.76
 
@@ -36,7 +33,6 @@ average time spent:
 
 
 Person 67
-
 
 average visits per week: 3.09
 
@@ -70,7 +66,6 @@ average time spent:
 
 Person 68
 
-
 average visits per week: 4.12
 
 top restaurants:
@@ -102,7 +97,6 @@ average time spent:
 
 
 Person 69
-
 
 average visits per week: 4.85
 
@@ -136,7 +130,6 @@ average time spent:
 
 Person 70
 
-
 average visits per week: 3.75
 
 top restaurants:
@@ -167,7 +160,6 @@ average time spent:
 
 
 Person 175
-
 
 average visits per week: 14.27
 
@@ -201,7 +193,6 @@ average time spent:
 
 Person 177
 
-
 average visits per week: 2.75
 
 top restaurants:
@@ -232,7 +223,6 @@ average time spent:
 
 Person 179
 
-
 average visits per week: 1.25
 
 top restaurants:
@@ -260,7 +250,6 @@ average time spent:
 
 
 Person 181
-
 
 average visits per week: 3.88
 
@@ -294,7 +283,6 @@ average time spent:
 
 Person 182
 
-
 average visits per week: 1.0
 
 top restaurants:
@@ -325,7 +313,6 @@ average time spent:
 
 Person 258
 
-
 average visits per week: 2.2
 
 top restaurants:
@@ -355,7 +342,6 @@ average time spent:
 
 
 Person 269
-
 
 average visits per week: 11.96
 
@@ -389,7 +375,6 @@ average time spent:
 
 Person 272
 
-
 average visits per week: 2.0
 
 top restaurants:
@@ -419,7 +404,6 @@ average time spent:
 
 
 Person 273
-
 
 average visits per week: 9.81
 
@@ -453,7 +437,6 @@ average time spent:
 
 Person 276
 
-
 average visits per week: 1.33
 
 top restaurants:
@@ -479,7 +462,6 @@ average time spent:
 
 
 Person 328
-
 
 average visits per week: 8.43
 
@@ -513,7 +495,6 @@ average time spent:
 
 Person 336
 
-
 average visits per week: 6.98
 
 top restaurants:
@@ -545,7 +526,6 @@ average time spent:
 
 
 Person 338
-
 
 average visits per week: 4.52
 
@@ -579,7 +559,6 @@ average time spent:
 
 Person 343
 
-
 average visits per week: 25.92
 
 top restaurants:
@@ -611,7 +590,6 @@ average time spent:
 
 
 Person 344
-
 
 average visits per week: 1.6
 
