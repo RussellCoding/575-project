@@ -1,5 +1,6 @@
 from math import radians, cos, sin, asin, sqrt
 import pandas as pd
+import os
 
 # in minutes
 MIN_VISIT = 15
@@ -110,17 +111,49 @@ class Compute_Visits:
         c = 2 * asin(sqrt(a)) 
         r = 6371000 # radius of earth in meters
         return c * r
+    
+    #this will save it as a csv for the map
+    def save_to_csv(self, filename):
+        rows = []
+        for visit in self.visits:
+            rows.append({
+                'start': visit.visit_start.isoformat(),
+                'end': visit.visit_end.isoformat(),
+                'outlet info': str(visit.outlet)
+            })
+        df = pd.DataFrame(rows)
+        df.to_csv(filename, index=False)
 
 people = ['64', '67', '68', '69', '70', '175', '177', '179', '181', '182',
 '258', '269', '272', '273', '276', '328', '336', '338', '343', '344']
+
+# check if outlets file exists
+if not os.path.exists('outlets.csv'):
+    print("ERROR: outlets.csv not found in current directory")
+    print(f"Current directory: {os.getcwd()}")
+    exit(1)
+
 outlets_df = pd.read_csv('outlets.csv')
+
 # calc visits for each person
 for person in people:
-    df = pd.read_csv(f"locations/locations_{person}.csv")
+    location_file = f"locations/locations_{person}.csv"
+    
+    # check if its even there
+    if not os.path.exists(location_file):
+        print(f"skipping person {person}. file not found: {location_file}")
+        continue
+    
+    print(f"processing person {person}...")
+    df = pd.read_csv(location_file)
     visits = Compute_Visits(person, df, outlets_df)
     visits.calc_visits()
+    
+    output_file = f'raw_visits_{person}.csv'
+    visits.save_to_csv(output_file)
+    print(f"  -> saved {len(visits.visits)} visits to {output_file}")
     # this doesnt print anything interesting
     # print(f'visits for {person}:')
     # print(visits.visits)
     # print('----------')
-    break # TODO: remove
+    # break # TODO: remove

@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_b0e2a9ff310488edc586afc129d9db4f {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/iso8601-js-period@0.2.1/iso8601.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.control.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_b0e2a9ff310488edc586afc129d9db4f" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_b0e2a9ff310488edc586afc129d9db4f = L.map(
+                "map_b0e2a9ff310488edc586afc129d9db4f",
+                {
+                    center: [47.6, -122.33],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 8,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_dc4e6d6c6fe60d03a48c0d0b58647169 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_dc4e6d6c6fe60d03a48c0d0b58647169.addTo(map_b0e2a9ff310488edc586afc129d9db4f);
+        
+    
+            L.Control.TimeDimensionCustom = L.Control.TimeDimension.extend({
+                _getDisplayDateFormat: function(date){
+                    var newdate = new moment(date);
+                    console.log(newdate)
+                    return newdate.format("YYYY-MM-DD HH:mm:ss");
+                }
+            });
+            map_b0e2a9ff310488edc586afc129d9db4f.timeDimension = L.timeDimension(
+                {
+                    period: "PT1H",
+                }
+            );
+            var timeDimensionControl = new L.Control.TimeDimensionCustom(
+                {
+  "position": "bottomleft",
+  "minSpeed": 0.1,
+  "maxSpeed": 200,
+  "autoPlay": false,
+  "loopButton": false,
+  "timeSliderDragUpdate": false,
+  "speedSlider": true,
+  "playerOptions": {
+  "transitionTime": 200,
+  "loop": false,
+  "startOver": true,
+},
+}
+            );
+            map_b0e2a9ff310488edc586afc129d9db4f.addControl(this.timeDimensionControl);
+
+            var geoJsonLayer = L.geoJson({"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.354998, 47.68609]}, "properties": {"time": "2016-03-21T00:34:00", "popup": "<b>Wing Dome</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 00:34<br>End: 01:10<br>Date: 2016-03-21<br>Duration: 35.43 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.354998, 47.68609]}, "properties": {"time": "2016-03-21T20:29:00", "popup": "<b>Wing Dome</b><br>Seattle<br>Meal: Dinner<br>Start: 20:29<br>End: 21:30<br>Date: 2016-03-21<br>Duration: 61.27 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.897769, 47.045214]}, "properties": {"time": "2016-03-25T01:12:00", "popup": "<b>Voyeur</b><br>Olympia<br>Meal: Late Night / Other<br>Start: 01:12<br>End: 02:18<br>Date: 2016-03-25<br>Duration: 66.67 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.354998, 47.68609]}, "properties": {"time": "2016-03-26T03:28:00", "popup": "<b>Wing Dome</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 03:28<br>End: 05:33<br>Date: 2016-03-26<br>Duration: 124.67 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.354998, 47.68609]}, "properties": {"time": "2016-03-27T03:03:00", "popup": "<b>Wing Dome</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 03:03<br>End: 04:03<br>Date: 2016-03-27<br>Duration: 59.87 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.48919, 47.27134]}, "properties": {"time": "2016-05-10T19:56:00", "popup": "<b>LA Fondita II</b><br>Tacoma<br>Meal: Dinner<br>Start: 19:56<br>End: 21:03<br>Date: 2016-05-10<br>Duration: 67.38 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.475402, 47.280085]}, "properties": {"time": "2016-05-11T01:00:00", "popup": "<b>C I Shenanigans-Tacoma</b><br>Tacoma<br>Meal: Late Night / Other<br>Start: 01:00<br>End: 03:01<br>Date: 2016-05-11<br>Duration: 120.42 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.338548, 47.661612]}, "properties": {"time": "2016-09-07T19:11:00", "popup": "<b>May</b><br>Seattle<br>Meal: Dinner<br>Start: 19:11<br>End: 19:31<br>Date: 2016-09-07<br>Duration: 19.97 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.338702, 47.661612]}, "properties": {"time": "2016-09-07T19:46:00", "popup": "<b>Kozue Restaurant</b><br>Seattle<br>Meal: Dinner<br>Start: 19:46<br>End: 20:25<br>Date: 2016-09-07<br>Duration: 39.27 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.475836, 48.749324]}, "properties": {"time": "2016-09-08T02:34:00", "popup": "<b>Craft Bar & Grill</b><br>Bellingham<br>Meal: Late Night / Other<br>Start: 02:34<br>End: 03:16<br>Date: 2016-09-08<br>Duration: 42.67 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.82364, 46.998669]}, "properties": {"time": "2017-03-24T01:19:00", "popup": "<b>\"Hop Jack's\"</b><br>Lacey<br>Meal: Late Night / Other<br>Start: 01:19<br>End: 02:18<br>Date: 2017-03-24<br>Duration: 59.52 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.536238, 47.2274]}, "properties": {"time": "2017-03-25T19:12:00", "popup": "<b>Lumberyard Pizza</b><br>University Place<br>Meal: Dinner<br>Start: 19:12<br>End: 19:28<br>Date: 2017-03-25<br>Duration: 15.97 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.3377, 47.615137]}, "properties": {"time": "2017-03-26T02:41:00", "popup": "<b>Sweetgrass Food Co</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 02:41<br>End: 03:23<br>Date: 2017-03-26<br>Duration: 41.65 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.337945, 47.614407]}, "properties": {"time": "2017-03-26T05:11:00", "popup": "<b>\"Mc Donald's\"</b><br>Seattle<br>Meal: Breakfast<br>Start: 05:11<br>End: 05:33<br>Date: 2017-03-26<br>Duration: 22.55 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.337945, 47.614407]}, "properties": {"time": "2017-03-26T05:57:00", "popup": "<b>\"Mc Donald's\"</b><br>Seattle<br>Meal: Breakfast<br>Start: 05:57<br>End: 06:38<br>Date: 2017-03-26<br>Duration: 40.78 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.337945, 47.614407]}, "properties": {"time": "2017-03-26T06:39:00", "popup": "<b>\"Mc Donald's\"</b><br>Seattle<br>Meal: Breakfast<br>Start: 06:39<br>End: 07:37<br>Date: 2017-03-26<br>Duration: 58.07 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.338614, 47.614507]}, "properties": {"time": "2017-03-26T08:14:00", "popup": "<b>Sound Soups & Deli</b><br>Seattle<br>Meal: Breakfast<br>Start: 08:14<br>End: 09:19<br>Date: 2017-03-26<br>Duration: 64.45 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.376772, 47.667771]}, "properties": {"time": "2017-03-27T03:48:00", "popup": "<b>\"Wendy's\"</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 03:48<br>End: 04:15<br>Date: 2017-03-27<br>Duration: 26.3 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.376772, 47.667771]}, "properties": {"time": "2017-03-27T04:16:00", "popup": "<b>\"Wendy's\"</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 04:16<br>End: 04:40<br>Date: 2017-03-27<br>Duration: 23.58 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.383354, 47.666175]}, "properties": {"time": "2017-03-27T04:55:00", "popup": "<b>Bitterroot Bbq</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 04:55<br>End: 06:31<br>Date: 2017-03-27<br>Duration: 95.58 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.355663, 47.681288]}, "properties": {"time": "2017-11-26T19:31:00", "popup": "<b>Ridge Pizza</b><br>Seattle<br>Meal: Dinner<br>Start: 19:31<br>End: 20:50<br>Date: 2017-11-26<br>Duration: 79.03 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.376844, 47.663909]}, "properties": {"time": "2017-11-26T23:47:00", "popup": "<b>Mean Sandwich</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 23:47<br>End: 01:30<br>Date: 2017-11-26<br>Duration: 102.52 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.376844, 47.663909]}, "properties": {"time": "2017-11-27T01:30:00", "popup": "<b>Mean Sandwich</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 01:30<br>End: 02:42<br>Date: 2017-11-27<br>Duration: 72.0 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.380768, 47.66471]}, "properties": {"time": "2017-11-27T02:47:00", "popup": "<b>\"Bad Albert's Tap & Grill\"</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 02:47<br>End: 03:14<br>Date: 2017-11-27<br>Duration: 26.3 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.380768, 47.66471]}, "properties": {"time": "2017-11-27T03:18:00", "popup": "<b>\"Bad Albert's Tap & Grill\"</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 03:18<br>End: 03:59<br>Date: 2017-11-27<br>Duration: 41.27 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.387884, 47.674788]}, "properties": {"time": "2017-11-27T05:34:00", "popup": "<b>Olafs</b><br>Seattle<br>Meal: Breakfast<br>Start: 05:34<br>End: 07:49<br>Date: 2017-11-27<br>Duration: 134.48 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.342396, 47.627251]}, "properties": {"time": "2017-11-27T19:14:00", "popup": "<b>Mollusk</b><br>Seattle<br>Meal: Dinner<br>Start: 19:14<br>End: 20:02<br>Date: 2017-11-27<br>Duration: 48.22 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.81952, 47.03747]}, "properties": {"time": "2017-11-29T20:00:00", "popup": "<b>Cafe Manna</b><br>Lacey<br>Meal: Dinner<br>Start: 20:00<br>End: 20:54<br>Date: 2017-11-29<br>Duration: 53.48 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.489586, 47.269672]}, "properties": {"time": "2018-03-18T20:06:00", "popup": "<b>Metropolitan Market</b><br>Tacoma<br>Meal: Dinner<br>Start: 20:06<br>End: 20:29<br>Date: 2018-03-18<br>Duration: 22.92 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.480727, 47.271357]}, "properties": {"time": "2018-03-23T19:30:00", "popup": "<b>Rosewood Cafe</b><br>Tacoma<br>Meal: Dinner<br>Start: 19:30<br>End: 20:29<br>Date: 2018-03-23<br>Duration: 59.53 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.901498, 47.046399]}, "properties": {"time": "2018-03-25T18:14:00", "popup": "<b>Chelsea Farms Oyster Bar</b><br>Olympia<br>Meal: Dinner<br>Start: 18:14<br>End: 19:34<br>Date: 2018-03-25<br>Duration: 80.85 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.350308, 47.659242]}, "properties": {"time": "2018-03-26T17:42:00", "popup": "<b>Pecado Bueno</b><br>Seattle<br>Meal: Dinner<br>Start: 17:42<br>End: 18:15<br>Date: 2018-03-26<br>Duration: 33.0 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.337945, 47.614407]}, "properties": {"time": "2018-03-27T04:16:00", "popup": "<b>\"Mc Donald's\"</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 04:16<br>End: 05:56<br>Date: 2018-03-27<br>Duration: 99.77 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.337945, 47.614407]}, "properties": {"time": "2018-03-27T06:41:00", "popup": "<b>\"Mc Donald's\"</b><br>Seattle<br>Meal: Breakfast<br>Start: 06:41<br>End: 07:43<br>Date: 2018-03-27<br>Duration: 62.15 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.337945, 47.614407]}, "properties": {"time": "2018-03-27T08:18:00", "popup": "<b>\"Mc Donald's\"</b><br>Seattle<br>Meal: Breakfast<br>Start: 08:18<br>End: 09:26<br>Date: 2018-03-27<br>Duration: 67.75 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.33676, 47.66152]}, "properties": {"time": "2018-03-28T04:40:00", "popup": "<b>Jhanjay Vegetarian Thai Csn</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 04:40<br>End: 06:04<br>Date: 2018-03-28<br>Duration: 83.55 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.336078, 47.603717]}, "properties": {"time": "2018-06-03T22:43:00", "popup": "<b>Owl & Thistle Pub</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 22:43<br>End: 23:13<br>Date: 2018-06-03<br>Duration: 30.13 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.34004, 47.60861]}, "properties": {"time": "2018-06-04T04:00:00", "popup": "<b>Mas Macho LLC</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 04:00<br>End: 04:27<br>Date: 2018-06-04<br>Duration: 27.02 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.31256, 47.624215]}, "properties": {"time": "2018-06-04T17:32:00", "popup": "<b>Canterbury Ale House</b><br>Seattle<br>Meal: Dinner<br>Start: 17:32<br>End: 19:09<br>Date: 2018-06-04<br>Duration: 96.97 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.317432, 47.675104]}, "properties": {"time": "2018-06-04T19:32:00", "popup": "<b>Sunlight Cafe</b><br>Seattle<br>Meal: Dinner<br>Start: 19:32<br>End: 20:36<br>Date: 2018-06-04<br>Duration: 63.57 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.354998, 47.68609]}, "properties": {"time": "2018-06-04T21:43:00", "popup": "<b>Wing Dome</b><br>Seattle<br>Meal: Dinner<br>Start: 21:43<br>End: 22:13<br>Date: 2018-06-04<br>Duration: 29.55 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.901649, 47.049928]}, "properties": {"time": "2018-11-10T19:33:00", "popup": "<b>Mercato Ristorante</b><br>Olympia<br>Meal: Dinner<br>Start: 19:33<br>End: 20:06<br>Date: 2018-11-10<br>Duration: 32.77 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.893239, 47.045733]}, "properties": {"time": "2018-11-10T20:19:00", "popup": "<b>Tacos California</b><br>Olympia<br>Meal: Dinner<br>Start: 20:19<br>End: 20:37<br>Date: 2018-11-10<br>Duration: 17.8 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.32489, 47.64717]}, "properties": {"time": "2018-11-14T02:27:00", "popup": "<b>Little Water Cantina</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 02:27<br>End: 03:23<br>Date: 2018-11-14<br>Duration: 56.5 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.296345, 47.435717]}, "properties": {"time": "2019-03-19T05:05:00", "popup": "<b>\"Denny's\"</b><br>Seatac<br>Meal: Breakfast<br>Start: 05:05<br>End: 05:49<br>Date: 2019-03-19<br>Duration: 43.55 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.377226, 47.564899]}, "properties": {"time": "2019-03-26T01:23:00", "popup": "<b>Buddha Ruksa Thai Cuisine</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 01:23<br>End: 02:13<br>Date: 2019-03-26<br>Duration: 49.12 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.366995, 47.690884]}, "properties": {"time": "2019-03-26T23:38:00", "popup": "<b>\"Sweet Lou's\"</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 23:38<br>End: 00:42<br>Date: 2019-03-26<br>Duration: 64.43 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.354109, 47.673496]}, "properties": {"time": "2019-03-27T03:48:00", "popup": "<b>\"Mo's Sandwich Shop\"</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 03:48<br>End: 04:15<br>Date: 2019-03-27<br>Duration: 27.02 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.361893, 47.65638]}, "properties": {"time": "2019-11-10T01:43:00", "popup": "<b>Frelard Pizza Co</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 01:43<br>End: 03:40<br>Date: 2019-11-10<br>Duration: 116.98 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.349702, 47.64979]}, "properties": {"time": "2019-11-10T19:24:00", "popup": "<b>\"Lucky's Pho\"</b><br>Seattle<br>Meal: Dinner<br>Start: 19:24<br>End: 20:04<br>Date: 2019-11-10<br>Duration: 40.53 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.768111, 47.060881]}, "properties": {"time": "2019-11-11T00:48:00", "popup": "<b>Lemon Grass</b><br>Lacey<br>Meal: Late Night / Other<br>Start: 00:48<br>End: 01:49<br>Date: 2019-11-11<br>Duration: 61.73 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.476098, 47.255314]}, "properties": {"time": "2020-03-23T20:18:00", "popup": "<b>Wild Orchid</b><br>Tacoma<br>Meal: Dinner<br>Start: 20:18<br>End: 21:54<br>Date: 2020-03-23<br>Duration: 96.58 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.355341, 47.62412]}, "properties": {"time": "2020-03-26T02:03:00", "popup": "<b>Coba</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 02:03<br>End: 03:22<br>Date: 2020-03-26<br>Duration: 78.67 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.33748, 47.61457]}, "properties": {"time": "2020-03-26T08:13:00", "popup": "<b>Barolo</b><br>Seattle<br>Meal: Breakfast<br>Start: 08:13<br>End: 08:36<br>Date: 2020-03-26<br>Duration: 23.17 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.36074, 47.660561]}, "properties": {"time": "2020-03-26T18:49:00", "popup": "<b>\"Mr Bill's Food Store\"</b><br>Seattle<br>Meal: Dinner<br>Start: 18:49<br>End: 19:07<br>Date: 2020-03-26<br>Duration: 18.1 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.35553, 47.69113]}, "properties": {"time": "2020-03-27T01:44:00", "popup": "<b>Razzis</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 01:44<br>End: 02:51<br>Date: 2020-03-27<br>Duration: 67.52 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.35016, 47.65033]}, "properties": {"time": "2021-03-24T19:33:00", "popup": "<b>Jai Thai</b><br>Seattle<br>Meal: Dinner<br>Start: 19:33<br>End: 19:57<br>Date: 2021-03-24<br>Duration: 23.67 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.325446, 47.68018]}, "properties": {"time": "2022-10-03T02:15:00", "popup": "<b>Shelter Lounge</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 02:15<br>End: 03:03<br>Date: 2022-10-03<br>Duration: 47.77 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.889906, 47.038937]}, "properties": {"time": "2022-10-06T16:06:00", "popup": "<b>\"Dominick's\"</b><br>Olympia<br>Meal: Dinner<br>Start: 16:06<br>End: 16:29<br>Date: 2022-10-06<br>Duration: 22.83 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.821993, 47.048289]}, "properties": {"time": "2022-10-09T15:29:00", "popup": "<b>\"Denny's\"</b><br>Lacey<br>Meal: Lunch<br>Start: 15:29<br>End: 16:15<br>Date: 2022-10-09<br>Duration: 46.0 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.295157, 47.720505]}, "properties": {"time": "2023-06-12T21:08:00", "popup": "<b>Toyoda Sushi</b><br>Seattle<br>Meal: Dinner<br>Start: 21:08<br>End: 22:08<br>Date: 2023-06-12<br>Duration: 59.37 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.355681, 47.678142]}, "properties": {"time": "2023-06-13T19:16:00", "popup": "<b>Aaron Wright</b><br>Seattle<br>Meal: Dinner<br>Start: 19:16<br>End: 19:56<br>Date: 2023-06-13<br>Duration: 39.9 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.35016, 47.65033]}, "properties": {"time": "2023-06-14T22:41:00", "popup": "<b>Jai Thai</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 22:41<br>End: 23:09<br>Date: 2023-06-14<br>Duration: 28.37 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}]}, {
+                    pointToLayer: function (feature, latLng) {
+                        if (feature.properties.icon == 'marker') {
+                            if(feature.properties.iconstyle){
+                                return new L.Marker(latLng, {
+                                    icon: L.icon(feature.properties.iconstyle)});
+                            }
+                            //else
+                            return new L.Marker(latLng);
+                        }
+                        if (feature.properties.icon == 'circle') {
+                            if (feature.properties.iconstyle) {
+                                return new L.circleMarker(latLng, feature.properties.iconstyle)
+                                };
+                            //else
+                            return new L.circleMarker(latLng);
+                        }
+                        //else
+
+                        return new L.Marker(latLng);
+                    },
+                    style: function (feature) {
+                        return feature.properties.style;
+                    },
+                    onEachFeature: function(feature, layer) {
+                        if (feature.properties.popup) {
+                        layer.bindPopup(feature.properties.popup);
+                        }
+                        if (feature.properties.tooltip) {
+                        layer.bindTooltip(feature.properties.tooltip);
+                        }
+                    }
+                })
+
+            var timestamped_geo_json_a837ae85c371cfe0dac1b7cdbd97c85b = L.timeDimension.layer.geoJson(
+                geoJsonLayer,
+                {
+                    updateTimeDimension: true,
+                    addlastPoint: true,
+                    duration: undefined,
+                }
+            ).addTo(map_b0e2a9ff310488edc586afc129d9db4f);
+        
+</script>
+</html>

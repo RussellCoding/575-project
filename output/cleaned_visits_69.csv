@@ -1,0 +1,64 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2016-03-21,00:34,01:10,35.43,Late Night / Other,Wing Dome,Seattle,47.68609,-122.354998
+2016-03-21,20:29,21:30,61.27,Dinner,Wing Dome,Seattle,47.68609,-122.354998
+2016-03-25,01:12,02:18,66.67,Late Night / Other,Voyeur,Olympia,47.045214,-122.897769
+2016-03-26,03:28,05:33,124.67,Late Night / Other,Wing Dome,Seattle,47.68609,-122.354998
+2016-03-27,03:03,04:03,59.87,Late Night / Other,Wing Dome,Seattle,47.68609,-122.354998
+2016-05-10,19:56,21:03,67.38,Dinner,LA Fondita II,Tacoma,47.27134,-122.48919
+2016-05-11,01:00,03:01,120.42,Late Night / Other,C I Shenanigans-Tacoma,Tacoma,47.280085,-122.475402
+2016-09-07,19:11,19:31,19.97,Dinner,May,Seattle,47.661612,-122.338548
+2016-09-07,19:46,20:25,39.27,Dinner,Kozue Restaurant,Seattle,47.661612,-122.338702
+2016-09-08,02:34,03:16,42.67,Late Night / Other,Craft Bar & Grill,Bellingham,48.749324,-122.475836
+2017-03-24,01:19,02:18,59.52,Late Night / Other,"""Hop Jack's""",Lacey,46.998669,-122.82364
+2017-03-25,19:12,19:28,15.97,Dinner,Lumberyard Pizza,University Place,47.2274,-122.536238
+2017-03-26,02:41,03:23,41.65,Late Night / Other,Sweetgrass Food Co,Seattle,47.615137,-122.3377
+2017-03-26,05:11,05:33,22.55,Breakfast,"""Mc Donald's""",Seattle,47.614407,-122.337945
+2017-03-26,05:57,06:38,40.78,Breakfast,"""Mc Donald's""",Seattle,47.614407,-122.337945
+2017-03-26,06:39,07:37,58.07,Breakfast,"""Mc Donald's""",Seattle,47.614407,-122.337945
+2017-03-26,08:14,09:19,64.45,Breakfast,Sound Soups & Deli,Seattle,47.614507,-122.338614
+2017-03-27,03:48,04:15,26.3,Late Night / Other,"""Wendy's""",Seattle,47.667771,-122.376772
+2017-03-27,04:16,04:40,23.58,Late Night / Other,"""Wendy's""",Seattle,47.667771,-122.376772
+2017-03-27,04:55,06:31,95.58,Late Night / Other,Bitterroot Bbq,Seattle,47.666175,-122.383354
+2017-11-26,19:31,20:50,79.03,Dinner,Ridge Pizza,Seattle,47.681288,-122.355663
+2017-11-26,23:47,01:30,102.52,Late Night / Other,Mean Sandwich,Seattle,47.663909,-122.376844
+2017-11-27,01:30,02:42,72.0,Late Night / Other,Mean Sandwich,Seattle,47.663909,-122.376844
+2017-11-27,02:47,03:14,26.3,Late Night / Other,"""Bad Albert's Tap & Grill""",Seattle,47.66471,-122.380768
+2017-11-27,03:18,03:59,41.27,Late Night / Other,"""Bad Albert's Tap & Grill""",Seattle,47.66471,-122.380768
+2017-11-27,05:34,07:49,134.48,Breakfast,Olafs,Seattle,47.674788,-122.387884
+2017-11-27,19:14,20:02,48.22,Dinner,Mollusk,Seattle,47.627251,-122.342396
+2017-11-29,20:00,20:54,53.48,Dinner,Cafe Manna,Lacey,47.03747,-122.81952
+2018-03-18,20:06,20:29,22.92,Dinner,Metropolitan Market,Tacoma,47.269672,-122.489586
+2018-03-23,19:30,20:29,59.53,Dinner,Rosewood Cafe,Tacoma,47.271357,-122.480727
+2018-03-25,18:14,19:34,80.85,Dinner,Chelsea Farms Oyster Bar,Olympia,47.046399,-122.901498
+2018-03-26,17:42,18:15,33.0,Dinner,Pecado Bueno,Seattle,47.659242,-122.350308
+2018-03-27,04:16,05:56,99.77,Late Night / Other,"""Mc Donald's""",Seattle,47.614407,-122.337945
+2018-03-27,06:41,07:43,62.15,Breakfast,"""Mc Donald's""",Seattle,47.614407,-122.337945
+2018-03-27,08:18,09:26,67.75,Breakfast,"""Mc Donald's""",Seattle,47.614407,-122.337945
+2018-03-28,04:40,06:04,83.55,Late Night / Other,Jhanjay Vegetarian Thai Csn,Seattle,47.66152,-122.33676
+2018-06-03,22:43,23:13,30.13,Late Night / Other,Owl & Thistle Pub,Seattle,47.603717,-122.336078
+2018-06-04,04:00,04:27,27.02,Late Night / Other,Mas Macho LLC,Seattle,47.60861,-122.34004
+2018-06-04,17:32,19:09,96.97,Dinner,Canterbury Ale House,Seattle,47.624215,-122.31256
+2018-06-04,19:32,20:36,63.57,Dinner,Sunlight Cafe,Seattle,47.675104,-122.317432
+2018-06-04,21:43,22:13,29.55,Dinner,Wing Dome,Seattle,47.68609,-122.354998
+2018-11-10,19:33,20:06,32.77,Dinner,Mercato Ristorante,Olympia,47.049928,-122.901649
+2018-11-10,20:19,20:37,17.8,Dinner,Tacos California,Olympia,47.045733,-122.893239
+2018-11-14,02:27,03:23,56.5,Late Night / Other,Little Water Cantina,Seattle,47.64717,-122.32489
+2019-03-19,05:05,05:49,43.55,Breakfast,"""Denny's""",Seatac,47.435717,-122.296345
+2019-03-26,01:23,02:13,49.12,Late Night / Other,Buddha Ruksa Thai Cuisine,Seattle,47.564899,-122.377226
+2019-03-26,23:38,00:42,64.43,Late Night / Other,"""Sweet Lou's""",Seattle,47.690884,-122.366995
+2019-03-27,03:48,04:15,27.02,Late Night / Other,"""Mo's Sandwich Shop""",Seattle,47.673496,-122.354109
+2019-11-10,01:43,03:40,116.98,Late Night / Other,Frelard Pizza Co,Seattle,47.65638,-122.361893
+2019-11-10,19:24,20:04,40.53,Dinner,"""Lucky's Pho""",Seattle,47.64979,-122.349702
+2019-11-11,00:48,01:49,61.73,Late Night / Other,Lemon Grass,Lacey,47.060881,-122.768111
+2020-03-23,20:18,21:54,96.58,Dinner,Wild Orchid,Tacoma,47.255314,-122.476098
+2020-03-26,02:03,03:22,78.67,Late Night / Other,Coba,Seattle,47.62412,-122.355341
+2020-03-26,08:13,08:36,23.17,Breakfast,Barolo,Seattle,47.61457,-122.33748
+2020-03-26,18:49,19:07,18.1,Dinner,"""Mr Bill's Food Store""",Seattle,47.660561,-122.36074
+2020-03-27,01:44,02:51,67.52,Late Night / Other,Razzis,Seattle,47.69113,-122.35553
+2021-03-24,19:33,19:57,23.67,Dinner,Jai Thai,Seattle,47.65033,-122.35016
+2022-10-03,02:15,03:03,47.77,Late Night / Other,Shelter Lounge,Seattle,47.68018,-122.325446
+2022-10-06,16:06,16:29,22.83,Dinner,"""Dominick's""",Olympia,47.038937,-122.889906
+2022-10-09,15:29,16:15,46.0,Lunch,"""Denny's""",Lacey,47.048289,-122.821993
+2023-06-12,21:08,22:08,59.37,Dinner,Toyoda Sushi,Seattle,47.720505,-122.295157
+2023-06-13,19:16,19:56,39.9,Dinner,Aaron Wright,Seattle,47.678142,-122.355681
+2023-06-14,22:41,23:09,28.37,Late Night / Other,Jai Thai,Seattle,47.65033,-122.35016

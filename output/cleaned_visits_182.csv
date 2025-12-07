@@ -1,0 +1,6 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2019-08-11,17:23,17:53,29.65,Dinner,"""Mc Donald's""",Centralia,46.729995,-122.978248
+2021-08-16,17:50,18:07,16.52,Dinner,Roomian Cafe,Issaquah,47.547106,-122.037086
+2023-01-16,13:43,14:51,68.05,Lunch,Perkins Restaurant & Bakery,Spokane,47.66083,-117.410794
+2023-02-19,21:50,22:11,21.35,Dinner,SUBWAY,Lakewood,47.121243,-122.554068
+2023-12-22,20:50,21:07,16.85,Dinner,Asia BBQ & Fast Food,Seattle,47.599143,-122.324324

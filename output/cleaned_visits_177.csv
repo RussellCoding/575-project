@@ -1,0 +1,12 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2014-06-01,23:14,23:34,19.55,Late Night / Other,Smokehouse,Seattle,47.565468,-122.288648
+2014-06-02,03:38,04:58,80.0,Late Night / Other,Franks Oyster Hse-Champagne,Seattle,47.66867,-122.2989
+2014-06-05,00:25,02:16,110.93,Late Night / Other,Mizuki Buffet,Tukwila,47.44103,-122.25994
+2014-06-05,19:54,20:26,31.95,Dinner,Jack In The Box,Seatac,47.435086,-122.296136
+2018-04-28,19:22,19:57,35.1,Dinner,Michou Fresca,Seattle,47.60988,-122.34228
+2018-04-28,20:25,21:36,71.6,Dinner,Pasta Guys LLC,Seattle,47.608677,-122.341056
+2018-04-28,22:32,23:02,30.13,Late Night / Other,"""Big Mario's Pizza""",Seattle,47.626823,-122.347626
+2018-04-29,02:14,03:48,93.67,Late Night / Other,Sages Restaurant,Redmond,47.676713,-122.127535
+2018-04-30,16:12,16:58,45.65,Dinner,Hitchcock Deli,Bainbridge Isle,47.624807,-122.52058
+2018-04-30,19:00,20:35,95.28,Dinner,Hitchcock Deli,Bainbridge Isle,47.624807,-122.52058
+2018-05-01,00:37,01:09,32.48,Late Night / Other,Tahn Brothers Restaurant,Seattle,47.65858,-122.3134

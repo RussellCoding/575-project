@@ -1,0 +1,196 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2010-07-10,02:14,03:02,48.25,Late Night / Other,Two Seven Public House,Spokane,47.629781,-117.370292
+2010-07-18,21:36,22:28,52.2,Dinner,"""Caruso's Sandwiches""",Spokane Valley,47.678382,-117.282285
+2010-07-28,23:30,23:57,27.2,Late Night / Other,Rosauers Supermarkets,Spokane,47.627803,-117.373034
+2010-07-31,21:21,21:52,30.92,Dinner,"""Mc Donald's""",Spokane Valley,47.664944,-117.19748
+2010-08-01,21:39,22:11,32.12,Dinner,Pita Pit,Spokane Valley,47.673543,-117.206442
+2010-08-17,00:54,01:14,20.18,Late Night / Other,Fred Meyer,Spokane Valley,47.658828,-117.193806
+2010-08-29,20:51,21:37,46.18,Dinner,"""Jimmy John's""",Spokane,47.628248,-117.367843
+2010-12-21,00:28,01:12,44.05,Late Night / Other,Studio K Bar On Regal,Spokane,47.612,-117.368235
+2010-12-21,18:50,19:47,57.5,Dinner,"""Applebee's""",Spokane,47.628449,-117.379838
+2010-12-31,19:54,20:16,22.77,Dinner,Safeway,Spokane,47.699144,-117.448213
+2011-01-12,20:39,22:05,85.38,Dinner,Relish Burger Bistro,Seattle,47.613791,-122.338291
+2011-01-13,14:29,14:54,25.17,Lunch,Relish Burger Bistro,Seattle,47.613791,-122.338291
+2011-01-13,15:02,15:53,50.83,Lunch,Relish Burger Bistro,Seattle,47.613791,-122.338291
+2011-01-13,19:00,20:02,61.37,Dinner,"""Elliott's Oyster House""",Seattle,47.604986,-122.340183
+2011-01-13,20:46,22:51,125.0,Dinner,Relish Burger Bistro,Seattle,47.613791,-122.338291
+2011-01-13,23:05,00:45,100.22,Late Night / Other,Relish Burger Bistro,Seattle,47.613791,-122.338291
+2011-01-15,22:59,23:31,31.13,Late Night / Other,Safeway,Lake Stevens,48.003257,-122.103818
+2011-03-10,00:56,01:15,19.02,Late Night / Other,Target,Spokane,47.60969,-117.36543
+2011-03-13,00:18,00:39,21.13,Late Night / Other,"""Mc Donald's""",Spokane,47.628539,-117.368238
+2011-04-16,18:32,18:57,24.33,Dinner,Circle K,Ritzville,47.117801,-118.368592
+2011-05-07,18:48,19:06,18.17,Dinner,"""Fidelina's""",Ellensburg,46.988467,-120.548237
+2011-06-17,18:47,19:14,26.58,Dinner,Little Caesars Pizza,Spokane,47.656444,-117.350095
+2011-07-12,21:49,22:43,53.72,Dinner,MOD Pizza,Spokane,47.658987,-117.422488
+2011-07-26,23:36,00:08,32.32,Late Night / Other,Taco Bell,Spokane,47.668472,-117.426035
+2011-07-27,00:30,00:52,21.62,Late Night / Other,"""Jimmy John's""",Spokane,47.628248,-117.367843
+2011-08-28,19:09,20:08,59.08,Dinner,Barnes & Noble Cafe,Spokane Valley,47.67087,-117.198521
+2011-09-05,20:45,21:15,30.35,Dinner,Fred Meyer,Spokane,47.7675,-117.402752
+2011-09-29,00:45,01:08,22.38,Late Night / Other,Albertsons,Spokane Valley,47.681733,-117.28568
+2011-10-01,23:05,23:24,18.38,Late Night / Other,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2011-10-10,22:55,23:31,35.55,Late Night / Other,Mackenzie River Pizza Co,Spokane,47.6012,-117.366967
+2011-10-16,17:47,18:07,20.22,Dinner,Anthonys Restaurant,Spokane,47.610236,-117.367567
+2011-10-18,23:09,23:54,45.6,Late Night / Other,Mackenzie River Pizza Co,Spokane,47.6012,-117.366967
+2011-11-07,22:49,23:09,19.38,Late Night / Other,Mackenzie River Pizza Co,Spokane,47.6012,-117.366967
+2011-11-10,00:03,00:35,32.85,Late Night / Other,Little Caesars Pizza,Spokane,47.656444,-117.350095
+2012-01-10,22:51,23:06,15.62,Late Night / Other,Rosauers Supermarkets,Spokane,47.627803,-117.373034
+2012-01-18,23:06,23:30,23.37,Late Night / Other,Albertsons,Spokane,47.600953,-117.367532
+2012-01-24,21:49,22:16,26.77,Dinner,Rosauers Supermarkets,Spokane,47.627803,-117.373034
+2012-01-27,22:25,22:48,22.87,Late Night / Other,Rosauers Supermarkets,Spokane,47.627803,-117.373034
+2012-01-28,18:02,19:46,103.92,Dinner,Panda Express,Spokane,47.659518,-117.423503
+2012-01-28,19:49,20:53,64.72,Dinner,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2012-02-03,23:43,00:08,24.5,Late Night / Other,Target,Spokane,47.60969,-117.36543
+2012-02-04,18:52,19:57,64.85,Dinner,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2012-02-06,21:28,21:56,28.8,Dinner,Rosauers Supermarkets,Spokane,47.627803,-117.373034
+2012-04-15,19:10,19:28,18.4,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2012-07-04,16:02,16:24,21.97,Dinner,Island Grill Aloha,Spokane,47.673783,-117.426364
+2012-07-22,20:52,21:36,44.37,Dinner,"""Jimmy John's""",Spokane,47.628248,-117.367843
+2012-08-26,01:18,01:43,25.17,Late Night / Other,Quiznos,Federal Way,47.289379,-122.316257
+2012-09-01,22:11,22:33,22.52,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane,47.627104,-117.374072
+2012-09-16,02:21,03:36,74.77,Late Night / Other,Casper Fry,Spokane,47.646331,-117.390017
+2012-11-15,18:40,18:56,16.45,Dinner,Pita Pit,Spokane,47.669257,-117.397258
+2012-11-21,01:12,01:50,38.37,Late Night / Other,Barnes & Noble Cafe,Spokane Valley,47.67087,-117.198521
+2012-11-26,23:21,23:40,18.58,Late Night / Other,Albertsons,Spokane,47.600953,-117.367532
+2012-12-01,22:28,22:49,20.32,Late Night / Other,Safeway,Spokane,47.750462,-117.39766
+2012-12-15,19:38,21:07,88.57,Dinner,"""Jimmy John's""",Spokane,47.628248,-117.367843
+2012-12-21,19:26,19:46,19.2,Dinner,Slickrock Burrito,Spokane,47.62746,-117.40242
+2012-12-29,22:35,22:51,16.35,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane,47.627104,-117.374072
+2013-01-05,19:47,20:45,57.27,Dinner,Ash St Tacos,Spokane,47.716015,-117.436016
+2013-01-12,17:59,18:15,16.27,Dinner,Safeway,Spokane,47.62928,-117.37447
+2013-01-26,16:43,17:01,17.4,Dinner,Rosauers Supermarkets,Spokane,47.627803,-117.373034
+2013-02-21,23:15,23:32,17.28,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2013-02-28,22:53,23:10,17.3,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2013-03-15,20:53,21:15,21.77,Dinner,Mackenzie River Pizza Co,Spokane,47.6012,-117.366967
+2013-03-23,18:48,19:58,69.28,Dinner,Olive Garden Italian Kitchen,Spokane,47.74884,-117.401655
+2013-03-27,00:33,00:50,16.47,Late Night / Other,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2013-03-29,19:36,20:06,30.13,Dinner,Chipotle Mexican Grill,Spokane,47.66588,-117.41073
+2013-03-30,19:53,20:09,15.47,Dinner,"""Jimmy John's""",Spokane Valley,47.669159,-117.2822
+2013-04-05,19:47,20:14,27.0,Dinner,Chipotle Mexican Grill,Spokane,47.66588,-117.41073
+2013-04-27,22:05,22:22,16.5,Late Night / Other,Chipotle Mexican Grill,Spokane,47.66588,-117.41073
+2013-05-04,20:07,21:45,97.48,Dinner,Rock Top Burgers & Brew,Moses Lake,47.141239,-119.279188
+2013-06-01,21:50,22:07,17.28,Dinner,Safeway,Cheney,47.505723,-117.5664
+2013-06-09,22:17,22:36,18.63,Late Night / Other,SUBWAY,Spokane,47.602584,-117.366367
+2013-06-14,19:41,20:10,29.38,Dinner,Chipotle Mexican Grill,Spokane,47.66588,-117.41073
+2013-10-18,18:37,18:56,19.0,Dinner,Chipotle Mexican Grill,Spokane,47.66588,-117.41073
+2013-10-25,21:00,21:44,44.18,Dinner,Albertsons,Spokane Valley,47.681733,-117.28568
+2013-11-03,23:20,00:00,39.6,Late Night / Other,Safeway,Spokane,47.62928,-117.37447
+2013-11-23,00:54,01:10,16.07,Late Night / Other,Trader Joes,Spokane,47.62897,-117.36676
+2013-11-29,00:18,00:35,17.4,Late Night / Other,Albertsons,Spokane,47.600953,-117.367532
+2013-12-04,19:35,19:55,20.73,Dinner,"""Papa John's Pizza""",Spokane,47.627639,-117.369111
+2013-12-14,23:04,23:28,24.02,Late Night / Other,Chipotle Mexican Grill,Spokane,47.66588,-117.41073
+2013-12-15,19:53,20:12,18.47,Dinner,O Dohertys Irish Grille,Spokane,47.660141,-117.421272
+2013-12-25,01:53,02:20,27.23,Late Night / Other,Albertsons,Spokane,47.600953,-117.367532
+2014-01-31,19:46,20:05,18.18,Dinner,Blimpie Subs & Salads,East Wenatchee,47.406308,-120.281091
+2014-02-02,18:39,19:21,41.57,Dinner,Kates Greek & American Deli,Everett,47.984101,-122.208585
+2014-03-16,18:30,18:49,18.72,Dinner,Rosauers Supermarkets,Spokane,47.627803,-117.373034
+2014-04-25,19:36,20:05,29.77,Dinner,Chipotle Mexican Grill,Spokane,47.66588,-117.41073
+2014-05-03,16:40,17:00,20.28,Dinner,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2014-05-05,01:10,01:56,46.52,Late Night / Other,Remedy,Spokane,47.619567,-117.401629
+2014-05-07,22:53,23:16,22.93,Late Night / Other,"""Wendy's""",Spokane,47.665541,-117.410838
+2014-05-16,18:26,19:11,45.1,Dinner,Red Robin Gourmet Burgers,Spokane Valley,47.674214,-117.203554
+2014-05-27,22:53,23:41,48.1,Late Night / Other,Kims Korean Restaurant,Spokane,47.67,-117.41076
+2014-06-01,01:16,02:43,86.57,Late Night / Other,"""Hayley's Bar & Grill""",Everett,47.979155,-122.206212
+2014-06-11,18:01,18:24,22.53,Dinner,Safeway,Spokane,47.62928,-117.37447
+2014-06-14,00:46,01:03,16.27,Late Night / Other,"""Basil's Kitchen-Tukwila""",Tukwila,47.460349,-122.243805
+2014-06-14,20:00,22:00,119.63,Dinner,"""Basil's Kitchen-Tukwila""",Tukwila,47.460349,-122.243805
+2014-06-15,00:43,02:50,127.35,Late Night / Other,"""Basil's Kitchen-Tukwila""",Tukwila,47.460349,-122.243805
+2014-06-15,02:57,03:13,16.37,Late Night / Other,"""Basil's Kitchen-Tukwila""",Tukwila,47.460349,-122.243805
+2014-07-02,19:39,20:05,25.28,Dinner,Chipotle Mexican Grill,Spokane,47.66588,-117.41073
+2014-07-08,20:44,21:14,30.05,Dinner,Chipotle Mexican Grill,Spokane,47.66588,-117.41073
+2014-07-19,21:41,22:05,23.27,Dinner,Chipotle Mexican Grill,Spokane,47.66588,-117.41073
+2014-07-25,19:09,19:39,29.78,Dinner,Barnes & Noble Cafe,Spokane Valley,47.67087,-117.198521
+2014-08-09,21:26,22:44,77.58,Dinner,Red Robin Gourmet Burgers,Spokane Valley,47.674214,-117.203554
+2014-08-12,23:37,23:57,19.85,Late Night / Other,Sonic Drive-In,Spokane,47.669866,-117.409982
+2014-08-19,00:55,01:16,20.78,Late Night / Other,Safeway,Spokane,47.699144,-117.448213
+2014-08-23,21:39,21:57,17.82,Dinner,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2014-08-31,01:29,01:57,28.67,Late Night / Other,Rocky Rococo Pizza & Pasta,Spokane,47.659385,-117.420391
+2014-09-18,01:30,01:48,18.55,Late Night / Other,Safeway,Spokane,47.699144,-117.448213
+2014-09-20,21:54,22:23,29.43,Dinner,"""Han's Burger""",Lacey,47.038968,-122.823701
+2014-09-21,02:09,03:08,59.1,Late Night / Other,Brewery City Pizza Co,Olympia,47.047907,-122.82701
+2014-10-21,01:08,01:29,21.78,Late Night / Other,Chipotle Mexican Grill,Spokane,47.66588,-117.41073
+2014-11-14,00:42,01:51,68.57,Late Night / Other,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2014-11-17,23:11,23:36,24.5,Late Night / Other,Albertsons,Spokane,47.600953,-117.367532
+2014-11-20,00:49,01:17,28.27,Late Night / Other,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2014-11-28,21:19,21:40,21.72,Dinner,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2014-12-09,17:09,17:36,26.95,Dinner,Hogans Hamburgers,Spokane,47.6288,-117.36677
+2014-12-30,19:25,19:48,22.7,Dinner,Taco Bell,Spokane,47.653091,-117.424533
+2015-01-10,20:44,22:16,91.43,Dinner,Beaches Restaurant & Bar,Vancouver,45.614929,-122.652099
+2015-01-18,18:42,19:01,19.1,Dinner,Chipotle Mexican Grill,Lynnwood,47.829707,-122.272485
+2015-01-23,00:07,00:41,34.5,Late Night / Other,Pasta Guys LLC,Seattle,47.608677,-122.341056
+2015-01-23,00:50,01:08,18.28,Late Night / Other,Pasta Guys LLC,Seattle,47.608677,-122.341056
+2015-01-23,01:23,02:54,90.65,Late Night / Other,Serious Pie,Seattle,47.61285,-122.34056
+2015-01-23,18:15,19:14,59.53,Dinner,Duvall Grill & Tap Room,Duvall,47.74105,-121.98561
+2015-01-26,23:10,23:27,16.82,Late Night / Other,Scoop,Spokane,47.631463,-117.426823
+2015-01-31,00:03,00:54,50.75,Late Night / Other,Contos Pizza,Lake Stevens,48.004485,-122.104973
+2015-01-31,20:28,20:59,31.4,Dinner,Pho Mignon,Kirkland,47.71267,-122.18739
+2015-02-02,18:56,20:10,73.73,Dinner,Palace Cafe,Ellensburg,46.995252,-120.549031
+2015-03-06,17:47,18:37,49.55,Dinner,Panda Express,Spokane,47.659518,-117.423503
+2015-03-25,18:28,18:52,24.28,Dinner,Chipotle Mexican Grill,Spokane,47.66588,-117.41073
+2015-03-26,18:14,18:29,15.48,Dinner,"""Jimmy John's""",Spokane,47.67206,-117.409236
+2015-03-28,19:39,19:59,20.48,Dinner,"""Papa John's Pizza""",Spokane,47.627639,-117.369111
+2015-04-30,00:52,01:08,15.58,Late Night / Other,"""Papa John's Pizza""",Spokane,47.627639,-117.369111
+2015-05-03,18:22,19:24,61.5,Dinner,"""Jimmy John's""",Cheney,47.48672,-117.57587
+2015-05-27,18:43,19:01,18.27,Dinner,SUBWAY,Spokane,47.668919,-117.409608
+2015-05-29,19:28,19:57,29.27,Dinner,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2015-06-20,18:20,18:46,26.3,Dinner,Pita Pit,Spokane,47.669257,-117.397258
+2015-06-26,19:44,20:04,20.55,Dinner,"""Mc Donald's""",Spokane,47.652236,-117.436426
+2015-07-06,19:06,20:11,65.12,Dinner,Central Food,Spokane,47.661573,-117.432087
+2015-07-24,21:09,21:41,31.58,Dinner,Chipotle Mexican Grill,Spokane,47.66588,-117.41073
+2015-07-25,19:39,20:20,40.17,Dinner,Little Caesars Pizza,Spokane,47.656444,-117.350095
+2015-08-10,02:29,04:20,111.55,Late Night / Other,Olive Garden Italian Kitchen,Tukwila,47.456274,-122.257722
+2015-08-25,22:40,23:00,20.23,Late Night / Other,"""Papa John's Pizza""",Spokane,47.627639,-117.369111
+2015-08-30,18:24,18:48,24.22,Dinner,Barnes & Noble Cafe,Spokane Valley,47.67087,-117.198521
+2015-09-15,02:06,02:57,50.97,Late Night / Other,Anthonys Restaurant,Spokane,47.610236,-117.367567
+2015-10-17,23:47,00:07,20.1,Late Night / Other,Qdoba Mexican Eats,Spokane,47.646989,-117.41283
+2015-10-18,18:28,19:22,54.83,Dinner,Wisconsin Burger,Spokane,47.646489,-117.400914
+2015-10-23,22:22,00:20,118.4,Late Night / Other,Great American Grill,Renton,47.463281,-122.219468
+2015-10-24,21:56,23:52,115.72,Dinner,Great American Grill,Renton,47.463281,-122.219468
+2015-10-30,17:01,17:17,16.02,Dinner,Pizza Hut,Spokane,47.627318,-117.372497
+2015-10-31,21:41,22:09,28.72,Dinner,Miners Drive In Restaurant,Yakima,46.566483,-120.48259
+2015-11-03,21:22,21:39,16.92,Dinner,"""Papa John's Pizza""",Spokane,47.627639,-117.369111
+2015-12-25,17:18,18:10,51.92,Dinner,Safeway,Spokane,47.62928,-117.37447
+2016-01-21,20:22,21:07,45.02,Dinner,Quiznos,Duvall,47.728226,-121.98704
+2016-01-23,15:46,17:42,116.35,Lunch,Japan Terriaki,Lake Stevens,47.978619,-122.08976
+2016-01-24,00:21,01:04,42.57,Late Night / Other,Contos Pizza,Lake Stevens,48.004485,-122.104973
+2016-01-27,22:30,22:48,17.77,Late Night / Other,"""Mc Donald's""",Spokane,47.628539,-117.368238
+2016-02-02,19:47,20:05,18.1,Dinner,"""Jimmy John's""",Bellevue,47.576349,-122.168595
+2016-02-12,18:58,19:35,37.15,Dinner,Red Robin Gourmet Burgers,Spokane Valley,47.674214,-117.203554
+2016-02-12,19:44,20:02,17.9,Dinner,Barnes & Noble Cafe,Spokane Valley,47.67087,-117.198521
+2016-03-04,19:04,19:32,27.63,Dinner,Something Else Deli,Spokane,47.65492,-117.404057
+2016-03-19,21:14,21:30,16.73,Dinner,Safeway,Spokane,47.62928,-117.37447
+2016-03-26,23:27,23:47,19.97,Late Night / Other,Safeway,Spokane,47.62928,-117.37447
+2016-04-24,00:33,01:23,50.28,Late Night / Other,Remedy,Spokane,47.619567,-117.401629
+2016-05-28,03:16,03:40,23.58,Late Night / Other,"""Nino's Mexican Grill""",Union Gap,46.570767,-120.480208
+2016-05-29,00:59,02:49,109.88,Late Night / Other,Olive Garden Italian Kitchen,Yakima,46.602545,-120.503364
+2016-06-11,22:16,22:42,26.18,Late Night / Other,Doras Deli,Walla Walla,46.051908,-118.335251
+2016-08-26,20:11,20:48,37.07,Dinner,Something Else Deli,Spokane,47.65492,-117.404057
+2016-09-10,21:57,22:17,19.85,Dinner,"""Ron's Drive In""",Spokane Valley,47.656449,-117.237071
+2016-09-14,01:51,02:55,63.22,Late Night / Other,"""Mamma Mia's Ristorante-Pzzr""",Spokane,47.71539,-117.418932
+2016-09-18,00:41,01:38,57.32,Late Night / Other,Sharps Roasthouse,Seatac,47.43719,-122.29614
+2016-09-18,02:05,02:54,48.73,Late Night / Other,"""Duke's Chowder House""",Tukwila,47.45786,-122.2585
+2016-09-18,22:42,23:27,45.4,Late Night / Other,Sushi Town,Bonney Lake,47.16656,-122.15449
+2016-10-05,20:56,21:20,23.63,Dinner,Albertsons,Spokane,47.600953,-117.367532
+2017-01-20,00:45,01:05,19.58,Late Night / Other,Taco Del Mar,Ritzville,47.117448,-118.36751
+2017-01-20,16:08,18:07,119.38,Dinner,Japan Terriaki,Lake Stevens,47.978619,-122.08976
+2017-01-20,18:20,19:05,45.07,Dinner,Safeway,Lake Stevens,48.003257,-122.103818
+2017-02-19,18:03,18:24,20.53,Dinner,Fred Meyer,Spokane Valley,47.658828,-117.193806
+2017-03-27,18:08,18:33,24.63,Dinner,Albertsons,Spokane,47.600953,-117.367532
+2017-04-12,00:45,01:07,22.33,Late Night / Other,Fred Meyer,Spokane Valley,47.658828,-117.193806
+2017-04-30,17:01,17:21,20.38,Dinner,Das Stein Haus,Spokane,47.716581,-117.438727
+2017-06-09,21:39,21:55,16.2,Dinner,Safeway,Spokane,47.62928,-117.37447
+2017-07-12,19:32,19:48,16.17,Dinner,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2017-08-06,20:15,20:40,24.78,Dinner,Albertsons,Spokane,47.600953,-117.367532
+2017-10-14,18:20,18:53,32.93,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane,47.627104,-117.374072
+2017-10-26,00:52,02:18,85.58,Late Night / Other,Wisconsin Burger,Spokane,47.646489,-117.400914
+2017-12-28,19:38,20:02,24.12,Dinner,Rosauers Supermarkets,Spokane,47.627803,-117.373034
+2018-01-02,22:06,22:25,19.05,Late Night / Other,"""Chili's Grill & Bar""",Spokane,47.625456,-117.537243
+2018-02-05,19:57,20:17,20.37,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane,47.627104,-117.374072
+2018-03-14,01:52,04:07,134.48,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2018-03-18,22:02,22:19,16.95,Late Night / Other,Shambala Bistro,Mt Vernon,48.4182,-122.338459
+2018-03-19,19:35,21:17,101.28,Dinner,Paraiso,Arlington,48.148938,-122.180913
+2018-03-20,16:41,16:57,16.55,Dinner,Taco Del Mar,Burlington,48.45283,-122.33658
+2018-06-02,19:53,20:17,23.13,Dinner,O Dohertys Irish Grille,Spokane,47.660141,-117.421272
+2018-06-16,00:26,00:44,18.05,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane,47.627104,-117.374072
+2018-07-18,02:15,04:19,124.28,Late Night / Other,"""Boston's Restaurant-Sports Bar""",Spokane Valley,47.67563,-117.21285
+2018-07-19,20:16,20:34,17.8,Dinner,Mackenzie River Pizza Co,Spokane,47.6012,-117.366967
+2018-07-22,02:25,03:31,66.2,Late Night / Other,Old Spaghetti Factory,Spokane,47.655173,-117.426614

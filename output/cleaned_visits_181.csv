@@ -1,0 +1,199 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2018-12-19,19:54,20:52,57.17,Dinner,Cornuto By Via Tribunali,Seattle,47.682639,-122.355235
+2018-12-27,14:56,15:44,47.88,Lunch,Soskoo Persian & Mediterranean,Bellevue,47.628039,-122.152135
+2019-01-02,18:35,20:07,91.08,Dinner,Cafe Five,Seattle,47.606005,-122.331382
+2019-01-15,03:19,03:40,21.22,Late Night / Other,"""Izzy's""",Olympia,47.042144,-122.844725
+2019-01-31,16:17,16:33,15.87,Dinner,Sahara Pizza,Mercer Island,47.54174,-122.22519
+2019-01-31,22:30,23:06,36.08,Late Night / Other,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2019-04-28,00:49,01:45,56.53,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-04-28,21:29,22:32,62.8,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2019-04-28,22:36,23:39,62.5,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-04-30,22:45,00:50,125.08,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-05-01,21:08,23:03,115.1,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2019-05-01,23:08,00:16,68.02,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-05-04,16:59,19:17,137.5,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2019-05-06,15:53,17:18,85.62,Lunch,Asian Express,Seattle,47.604759,-122.33023
+2019-05-06,22:52,23:33,40.7,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-05-18,23:37,01:51,134.58,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-05-20,22:30,00:18,107.65,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-05-21,00:19,01:41,81.75,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-05-22,17:24,18:59,95.03,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2019-05-26,21:20,23:35,135.03,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2019-05-26,23:42,00:51,68.27,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-06-03,00:06,00:49,43.37,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-06-05,22:32,00:13,101.4,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-06-06,00:19,00:43,23.85,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-06-16,21:29,23:49,139.6,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2019-06-16,23:54,01:23,89.3,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-06-19,21:00,23:06,126.8,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2019-06-19,23:15,00:09,53.77,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-06-22,16:58,18:45,106.78,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2019-06-23,23:08,00:57,108.42,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-08-01,02:13,02:36,22.67,Late Night / Other,QFC,Mercer Island,47.541717,-122.225919
+2019-08-11,22:53,23:34,41.6,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-08-22,23:00,00:14,74.17,Late Night / Other,QFC,Mercer Island,47.541717,-122.225919
+2019-09-23,18:50,20:55,124.9,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2019-09-28,20:02,21:49,106.92,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2019-09-28,23:27,00:38,71.37,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2019-10-05,20:03,20:25,21.9,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2019-10-05,20:31,21:45,74.18,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2019-12-03,18:35,19:59,83.72,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2019-12-07,18:54,20:29,95.28,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2019-12-15,00:01,00:56,54.37,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2020-01-08,02:52,04:01,69.32,Late Night / Other,LA Spiga,Seattle,47.61377,-122.31703
+2020-01-12,00:24,01:04,40.42,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2020-01-17,02:29,03:00,30.45,Late Night / Other,Mai Lee Thai Restaurant,East Wenatchee,47.409089,-120.289344
+2020-01-18,05:00,05:21,21.13,Breakfast,Globe,Spokane,47.65916,-117.411042
+2020-03-22,18:52,20:58,126.32,Dinner,Bebas & Amigos,Seattle,47.6048,-122.330111
+2020-04-04,22:25,23:15,50.75,Late Night / Other,"""T J's Deli""",Seattle,47.605673,-122.330719
+2020-04-13,18:52,21:01,129.57,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2020-04-14,01:22,01:50,28.92,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2020-04-16,17:17,17:48,30.93,Dinner,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2020-04-17,01:14,02:57,102.53,Late Night / Other,Racha Noodles & Thai,Seattle,47.624306,-122.355639
+2020-04-27,22:02,22:56,54.47,Late Night / Other,Vovito Caffe & Gelato,Seattle,47.607114,-122.333789
+2020-05-11,00:44,01:07,23.58,Late Night / Other,QFC,Mercer Island,47.541717,-122.225919
+2020-06-15,20:16,21:02,45.62,Dinner,"""Von's Roasthouse""",Seattle,47.606764,-122.338224
+2020-06-16,22:13,22:49,36.08,Late Night / Other,"""Mccormick & Schmick's Catring""",Tukwila,47.518188,-122.29634
+2020-06-18,02:38,03:33,54.43,Late Night / Other,Porterhouse,Mt Vernon,48.419419,-122.338568
+2020-06-29,22:28,23:04,36.3,Late Night / Other,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2020-07-15,15:50,16:16,25.7,Lunch,Anise Thai Cuisine,Mercer Island,47.5864,-122.23536
+2020-07-18,20:06,20:40,34.55,Dinner,"""Von's Roasthouse""",Seattle,47.606764,-122.338224
+2020-07-27,18:54,20:12,78.48,Dinner,Dog In The Park,Seattle,47.610794,-122.337142
+2020-08-05,19:34,19:59,24.38,Dinner,"""Tat's Delicatessen""",Seattle,47.601681,-122.332084
+2020-09-01,20:50,21:47,56.82,Dinner,Vovito Caffe & Gelato,Seattle,47.607114,-122.333789
+2020-09-03,17:52,18:08,16.1,Dinner,QFC,Mercer Island,47.541717,-122.225919
+2020-09-07,01:52,02:12,19.87,Late Night / Other,QFC,Mercer Island,47.541717,-122.225919
+2020-09-11,02:11,02:38,27.18,Late Night / Other,Pane Pane Sandwiches,Seattle,47.60897,-122.3368
+2020-10-05,15:18,15:34,15.7,Lunch,Asian Express,Seattle,47.604759,-122.33023
+2020-10-20,18:48,20:12,83.9,Dinner,"""Jimmy John's""",Seattle,47.610384,-122.33521
+2020-10-28,18:37,19:32,55.65,Dinner,727 Pine,Seattle,47.612831,-122.333219
+2020-10-31,00:50,02:12,81.9,Late Night / Other,LA Spiga,Seattle,47.61377,-122.31703
+2020-11-16,23:33,00:15,41.32,Late Night / Other,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2020-12-06,02:03,02:32,28.58,Late Night / Other,QFC,Mercer Island,47.541717,-122.225919
+2021-01-06,20:07,21:34,87.08,Dinner,LA Spiga,Seattle,47.61377,-122.31703
+2021-01-07,20:22,21:04,42.0,Dinner,Kozue Restaurant,Seattle,47.661612,-122.338702
+2021-01-23,23:41,23:56,15.5,Late Night / Other,Hongkong & Shanghai Bank,Seattle,47.608819,-122.336685
+2021-02-13,00:56,01:12,16.53,Late Night / Other,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2021-02-13,19:19,20:53,94.28,Dinner,West Edge Market,Seattle,47.6066,-122.338831
+2021-02-15,19:27,20:14,47.02,Dinner,Grappa Mediterranean Cuisine,Seattle,47.638616,-122.35653
+2021-02-17,23:22,01:23,121.15,Late Night / Other,Wild Ginger-Seattle,Seattle,47.608833,-122.337419
+2021-02-21,19:30,20:00,30.55,Dinner,Hole In The Wall Barbecue,Seattle,47.602256,-122.332521
+2021-02-23,19:34,20:06,32.25,Dinner,"""Tat's Delicatessen""",Seattle,47.601681,-122.332084
+2021-02-28,19:26,19:56,30.17,Dinner,"""Von's Roasthouse""",Seattle,47.606764,-122.338224
+2021-02-28,19:59,20:15,16.15,Dinner,"""Von's Roasthouse""",Seattle,47.606764,-122.338224
+2021-03-02,22:01,23:11,69.72,Late Night / Other,Vovito Caffe & Gelato,Seattle,47.607114,-122.333789
+2021-03-07,17:07,17:23,15.95,Dinner,Asian Express,Seattle,47.604759,-122.33023
+2021-03-19,01:14,02:21,66.6,Late Night / Other,Jhanjay Vegetarian Thai Csn,Seattle,47.66152,-122.33676
+2021-04-01,23:39,00:01,22.15,Late Night / Other,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2021-04-02,23:07,23:30,23.3,Late Night / Other,Le Petit Cochon,Seattle,47.651057,-122.349546
+2021-05-12,16:47,17:57,69.98,Dinner,Bar Cantinetta,Seattle,47.623616,-122.295508
+2021-05-16,18:22,18:48,26.25,Dinner,Eleven Madison Park,Seattle,47.623239,-122.296468
+2021-06-03,00:57,01:40,43.02,Late Night / Other,Piroshki On 3rd,Seattle,47.60378,-122.332266
+2021-06-15,23:05,23:51,46.28,Late Night / Other,Vovito Caffe & Gelato,Seattle,47.607114,-122.333789
+2021-06-22,03:04,03:22,18.03,Late Night / Other,QFC,Mercer Island,47.541717,-122.225919
+2021-07-26,18:29,19:01,31.97,Dinner,Pho Fuchsia,Seattle,47.600341,-122.33458
+2021-08-01,23:26,23:54,28.03,Late Night / Other,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2021-08-21,15:59,16:16,17.25,Lunch,Dong Hing Market,Seattle,47.59915,-122.325162
+2021-08-26,01:59,03:45,105.47,Late Night / Other,Chiang Gourmet,Seattle,47.686432,-122.314178
+2021-08-26,18:00,18:21,20.75,Dinner,QFC,Mercer Island,47.541717,-122.225919
+2021-08-28,21:33,22:12,38.17,Dinner,Pagliacci Pizza,Seattle,47.625516,-122.292833
+2021-08-28,22:19,23:16,56.38,Late Night / Other,Eleven Madison Park,Seattle,47.623239,-122.296468
+2021-09-02,00:49,01:40,50.62,Late Night / Other,Georgian,Seattle,47.60815,-122.334931
+2021-09-03,21:37,22:20,42.87,Dinner,Best Pho & Thai,Renton,47.47307,-122.2177
+2021-09-05,18:34,19:22,48.03,Dinner,Dome Burger,Seattle,47.601305,-122.332992
+2021-09-15,16:10,16:41,31.52,Dinner,Panera Bread,Seattle,47.615899,-122.320387
+2021-09-19,02:21,02:39,17.38,Late Night / Other,Sahara Pizza,Mercer Island,47.54174,-122.22519
+2021-09-21,22:06,22:44,38.15,Late Night / Other,Trace,Seattle,47.607386,-122.333631
+2021-10-05,19:09,19:45,35.83,Dinner,Tasty Thai,Edmonds,47.793915,-122.334861
+2021-10-14,19:56,20:32,35.38,Dinner,Pane Pane Sandwiches,Seattle,47.60897,-122.3368
+2021-10-18,19:20,19:54,33.43,Dinner,Thai Ku,Seattle,47.678033,-122.355682
+2021-10-26,21:12,21:51,38.55,Dinner,Cherry Street Coffee House,Seattle,47.604548,-122.332988
+2021-11-04,01:03,01:43,40.32,Late Night / Other,Pane Pane Sandwiches,Seattle,47.60897,-122.3368
+2021-11-08,01:25,02:21,55.97,Late Night / Other,Eggs & Plants,Seattle,47.615859,-122.342951
+2021-11-16,18:18,18:55,37.02,Dinner,Cherry Street Coffee House,Seattle,47.604548,-122.332988
+2021-11-24,19:50,20:27,37.05,Dinner,"""George's Sausage & Deli""",Seattle,47.60879,-122.326383
+2021-12-01,19:03,19:56,53.02,Dinner,Soskoo Persian & Mediterranean,Bellevue,47.628039,-122.152135
+2021-12-02,02:31,03:46,74.67,Late Night / Other,7-Eleven,Bellevue,47.577062,-122.169864
+2021-12-15,19:00,21:02,122.2,Dinner,Kimpton Hotel Vintage,Seattle,47.607617,-122.332329
+2021-12-26,23:11,23:58,47.23,Late Night / Other,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2021-12-27,02:15,02:41,26.03,Late Night / Other,Chiang Gourmet,Seattle,47.686432,-122.314178
+2022-01-22,15:55,16:26,30.9,Lunch,"""George's Sausage & Deli""",Seattle,47.60879,-122.326383
+2022-01-22,22:01,22:19,18.42,Late Night / Other,"""T J's Deli""",Seattle,47.605673,-122.330719
+2022-01-23,21:58,22:54,56.23,Dinner,Vovito Caffe & Gelato,Seattle,47.607114,-122.333789
+2022-01-26,23:47,00:30,43.37,Late Night / Other,Good Bar,Seattle,47.600189,-122.331521
+2022-01-31,19:13,20:25,71.95,Dinner,Hongkong & Shanghai Bank,Seattle,47.608819,-122.336685
+2022-02-16,23:49,01:13,84.88,Late Night / Other,Collins Pub,Seattle,47.602218,-122.332373
+2022-03-03,19:38,20:35,57.02,Dinner,Hongkong & Shanghai Bank,Seattle,47.608819,-122.336685
+2022-03-26,16:57,17:41,44.05,Dinner,Lotus Asian Kitchen & Lounge,Seattle,47.608408,-122.326879
+2022-03-28,19:42,20:13,31.22,Dinner,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2022-04-16,22:56,23:55,59.45,Late Night / Other,Vovito Caffe & Gelato,Seattle,47.607114,-122.333789
+2022-04-28,01:04,02:38,94.37,Late Night / Other,Shawn Odonnels,Seattle,47.602009,-122.33219
+2022-05-01,02:46,03:58,71.92,Late Night / Other,Chiang Gourmet,Seattle,47.686432,-122.314178
+2022-05-04,23:22,23:51,28.73,Late Night / Other,QFC,Mercer Island,47.541717,-122.225919
+2022-05-11,02:47,04:41,114.53,Late Night / Other,Chiang Gourmet,Seattle,47.686432,-122.314178
+2022-05-18,02:08,03:03,54.75,Late Night / Other,Chiang Gourmet,Seattle,47.686432,-122.314178
+2022-05-25,01:36,02:05,28.82,Late Night / Other,Lotus Asian Kitchen & Lounge,Seattle,47.608408,-122.326879
+2022-06-13,20:43,21:13,30.6,Dinner,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2022-06-17,18:42,19:57,75.8,Dinner,Cactus Restaurants,Seattle,47.62173,-122.33697
+2022-07-15,03:13,03:40,27.0,Late Night / Other,Hongkong & Shanghai Bank,Seattle,47.608819,-122.336685
+2022-07-17,02:03,03:42,99.12,Late Night / Other,Wild Ginger-Seattle,Seattle,47.608833,-122.337419
+2022-07-17,19:52,20:53,60.95,Dinner,Kimpton Hotel Vintage,Seattle,47.607617,-122.332329
+2022-07-22,22:36,23:20,44.17,Late Night / Other,QFC,Mercer Island,47.541717,-122.225919
+2022-07-23,15:55,16:35,39.82,Lunch,"""George's Sausage & Deli""",Seattle,47.60879,-122.326383
+2022-07-24,01:45,02:50,64.65,Late Night / Other,Chiang Gourmet,Seattle,47.686432,-122.314178
+2022-09-13,00:53,01:32,38.75,Late Night / Other,Chiang Gourmet,Seattle,47.686432,-122.314178
+2022-09-19,00:27,01:02,35.08,Late Night / Other,"""George's Sausage & Deli""",Seattle,47.60879,-122.326383
+2022-10-03,01:45,02:47,62.47,Late Night / Other,Bai Tong Thai Restaurant,Seattle,47.613835,-122.317239
+2022-10-04,00:05,00:54,48.82,Late Night / Other,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2022-10-08,18:42,19:07,25.13,Dinner,Mill,Lynden,48.941906,-122.454881
+2022-10-28,19:59,20:22,23.2,Dinner,Sip Thai Bistro,Redmond,47.68018,-122.12369
+2022-11-19,20:14,20:42,28.02,Dinner,Piroshki On 3rd,Seattle,47.60378,-122.332266
+2022-11-21,00:28,00:50,22.25,Late Night / Other,Tap House Grill,Seattle,47.611629,-122.33447
+2022-11-25,01:08,01:55,46.85,Late Night / Other,Dragonfly,Centralia,46.695908,-122.957233
+2022-11-30,21:02,21:39,36.37,Dinner,"""George's Sausage & Deli""",Seattle,47.60879,-122.326383
+2022-12-23,01:29,02:46,77.05,Late Night / Other,Chiang Gourmet,Seattle,47.686432,-122.314178
+2023-01-01,19:23,20:43,79.97,Dinner,Cherry Street Public House,Seattle,47.600543,-122.332825
+2023-01-03,01:57,03:03,66.23,Late Night / Other,Chiang Gourmet,Seattle,47.686432,-122.314178
+2023-01-05,14:58,15:34,36.58,Lunch,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2023-02-20,01:11,01:57,46.4,Late Night / Other,LA Spiga,Seattle,47.61377,-122.31703
+2023-03-30,18:22,18:45,22.57,Dinner,QFC,Mercer Island,47.541717,-122.225919
+2023-04-05,00:38,01:11,32.5,Late Night / Other,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2023-04-05,20:01,20:42,40.75,Dinner,"""George's Sausage & Deli""",Seattle,47.60879,-122.326383
+2023-04-09,19:55,20:23,27.45,Dinner,Mae Phim Thai Restaurant,Seattle,47.60323,-122.33539
+2023-04-20,15:49,16:05,16.23,Lunch,QFC,Mercer Island,47.541717,-122.225919
+2023-05-13,02:28,03:53,84.42,Late Night / Other,Chiang Gourmet,Seattle,47.686432,-122.314178
+2023-05-24,23:54,00:31,36.52,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2023-05-25,11:37,12:13,35.98,Lunch,KFC,Seattle,47.668939,-122.372719
+2023-06-07,21:49,22:22,32.45,Dinner,"""George's Sausage & Deli""",Seattle,47.60879,-122.326383
+2023-06-11,12:31,13:17,46.65,Lunch,KFC,Seattle,47.668939,-122.372719
+2023-06-14,09:55,11:24,88.48,Breakfast,KFC,Seattle,47.668939,-122.372719
+2023-06-29,21:18,21:53,35.08,Dinner,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2023-07-01,01:57,02:54,56.55,Late Night / Other,Racha Noodles & Thai,Seattle,47.624306,-122.355639
+2023-07-05,20:07,20:51,43.48,Dinner,Sichuanese Cuisine,Seattle,47.599517,-122.317496
+2023-07-14,02:42,03:20,38.48,Late Night / Other,Potbelly Sandwich Shop,Seattle,47.6099,-122.33664
+2023-07-25,17:56,18:12,15.85,Dinner,Paradise Cafe,Bellingham,48.720315,-122.503021
+2023-07-25,19:59,20:43,44.05,Dinner,Burrito King,Bellingham,48.729564,-122.474887
+2023-07-27,21:54,22:16,22.33,Dinner,QFC,Mercer Island,47.541717,-122.225919
+2023-07-28,19:50,20:20,29.55,Dinner,QFC,Mercer Island,47.541717,-122.225919
+2023-09-26,23:26,00:13,47.15,Late Night / Other,"""George's Sausage & Deli""",Seattle,47.60879,-122.326383
+2023-11-25,20:30,20:48,17.75,Dinner,Lotus Asian Kitchen & Lounge,Seattle,47.608408,-122.326879
+2023-12-11,23:03,23:25,22.58,Late Night / Other,QFC,Mercer Island,47.541717,-122.225919
+2024-03-17,20:26,20:43,16.85,Dinner,Soup Bowl,Ellensburg,46.99635,-120.5489
+2024-04-02,01:17,01:51,34.45,Late Night / Other,"""George's Sausage & Deli""",Seattle,47.60879,-122.326383
+2024-04-09,17:56,18:17,20.93,Dinner,QFC,Mercer Island,47.541717,-122.225919
+2024-05-28,00:19,00:53,34.23,Late Night / Other,"""George's Sausage & Deli""",Seattle,47.60879,-122.326383
+2024-06-26,20:37,21:04,26.68,Dinner,Greek Pita Kitchen,Bellevue,47.57729,-122.16797
+2024-07-23,00:23,00:43,19.68,Late Night / Other,"""George's Sausage & Deli""",Seattle,47.60879,-122.326383
+2024-09-23,15:59,16:28,29.03,Lunch,I Love Pho,Mercer Island,47.586687,-122.237501
+2024-09-30,22:25,23:08,42.63,Late Night / Other,"""George's Sausage & Deli""",Seattle,47.60879,-122.326383
+2024-10-07,00:17,01:02,44.75,Late Night / Other,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2024-11-18,01:34,02:36,61.92,Late Night / Other,Chiang Gourmet,Seattle,47.686432,-122.314178
+2024-12-01,22:09,22:38,28.47,Late Night / Other,"""Delfino's Chicago Style Pizza""",Seattle,47.663242,-122.299146
+2024-12-17,02:21,02:59,37.47,Late Night / Other,"""George's Sausage & Deli""",Seattle,47.60879,-122.326383
+2024-12-21,01:42,02:56,73.75,Late Night / Other,Chutneys Bistro,Seattle,47.660836,-122.335587
+2024-12-21,16:34,17:24,50.23,Dinner,Pon Proem Thai,Mercer Island,47.58218,-122.23474
+2025-04-07,23:36,00:06,30.92,Late Night / Other,Lotus Asian Kitchen & Lounge,Seattle,47.608408,-122.326879
+2025-06-03,00:23,01:16,52.97,Late Night / Other,"""George's Sausage & Deli""",Seattle,47.60879,-122.326383
+2025-07-08,02:36,05:05,148.58,Late Night / Other,Cherry Street Coffeehouse,Seattle,47.612075,-122.344915
+2025-07-19,16:58,17:28,30.33,Dinner,I Love Pho,Mercer Island,47.586687,-122.237501
+2025-07-29,00:36,00:54,17.67,Late Night / Other,"""George's Sausage & Deli""",Seattle,47.60879,-122.326383

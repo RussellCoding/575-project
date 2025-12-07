@@ -1,0 +1,236 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2015-08-04,21:23,21:49,25.97,Dinner,High Nooner,Spokane Valley,47.662265,-117.240471
+2012-06-13,22:54,23:42,48.63,Late Night / Other,"""Denny's""",Spokane Valley,47.675201,-117.281745
+2012-06-28,19:27,20:01,34.25,Dinner,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2012-08-23,03:32,05:06,93.88,Late Night / Other,Panda Express,Spokane,47.659518,-117.423503
+2012-09-30,23:28,23:55,27.62,Late Night / Other,Taco Time,Spokane Valley,47.656767,-117.238147
+2012-10-03,07:54,09:27,92.25,Breakfast,Globe,Spokane,47.65916,-117.411042
+2012-10-12,22:41,22:59,17.47,Late Night / Other,High Nooner,Spokane Valley,47.662265,-117.240471
+2012-10-14,01:57,03:55,118.17,Late Night / Other,Azteca Mexican Restaurants,Spokane,47.660107,-117.414944
+2012-10-30,00:49,01:08,19.6,Late Night / Other,Qdoba Mexican Eats,Spokane Valley,47.671261,-117.240526
+2012-10-31,21:17,21:37,19.93,Dinner,IHOP Restaurant,Spokane Valley,47.675787,-117.21036
+2012-12-24,04:09,05:23,74.15,Late Night / Other,Iron Horse Restaurant,Spokane Valley,47.657699,-117.255399
+2013-02-01,01:17,01:59,41.97,Late Night / Other,Burger King,Spokane Valley,47.666353,-117.191765
+2013-02-12,22:07,22:27,20.12,Late Night / Other,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2013-03-22,03:35,04:24,48.6,Late Night / Other,Red Robin Gourmet Burgers,Spokane Valley,47.674214,-117.203554
+2013-04-11,03:37,04:15,37.75,Late Night / Other,El Albanil,Bellingham,48.733864,-122.468925
+2013-04-23,20:21,21:22,61.12,Dinner,"""Mamma Mia's Ristorante-Pzzr""",Spokane,47.71539,-117.418932
+2013-05-01,18:53,19:09,15.82,Dinner,Jack In The Box,Spokane Valley,47.670996,-117.240121
+2013-05-05,03:54,04:32,37.93,Late Night / Other,Azteca Mexican Restaurants,Spokane,47.660107,-117.414944
+2013-05-05,04:36,05:20,43.9,Late Night / Other,Fast Eddies Bar & Grill,Spokane,47.66014,-117.411472
+2013-05-08,23:29,23:47,17.57,Late Night / Other,"""Ron's Drive In""",Spokane Valley,47.656449,-117.237071
+2013-05-15,18:58,19:23,24.67,Dinner,"""Caruso's Sandwiches""",Spokane Valley,47.678382,-117.282285
+2013-05-29,18:49,19:13,23.32,Dinner,High Nooner,Spokane Valley,47.662265,-117.240471
+2013-07-03,16:46,17:01,15.78,Dinner,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2013-07-10,23:54,01:04,70.0,Late Night / Other,SUSHI.COM,Spokane,47.659302,-117.419341
+2013-07-14,00:45,02:18,92.48,Late Night / Other,Shogun Hibachi Steak Sushi,Spokane,47.653868,-117.39802
+2013-08-04,23:51,00:07,16.12,Late Night / Other,Pita Pit,Spokane Valley,47.673543,-117.206442
+2013-08-11,02:16,02:39,22.3,Late Night / Other,Pita Pit,Spokane Valley,47.673543,-117.206442
+2013-08-14,21:15,21:42,27.33,Dinner,Pita Pit,Spokane Valley,47.673543,-117.206442
+2013-08-29,20:56,21:45,48.52,Dinner,3 Sisters Restaurant,Spokane Valley,47.657469,-117.262528
+2013-09-03,22:10,22:58,48.23,Late Night / Other,Pita Pit,Spokane Valley,47.673543,-117.206442
+2013-09-06,04:02,04:18,16.25,Late Night / Other,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2013-09-16,23:24,23:45,21.63,Late Night / Other,Pita Pit,Spokane Valley,47.673543,-117.206442
+2013-09-20,20:56,21:19,22.95,Dinner,Thrifty Scotsman Drive Inn,Spokane Valley,47.656771,-117.242659
+2013-09-22,05:57,06:58,61.17,Breakfast,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2013-10-16,02:45,03:07,22.25,Late Night / Other,Pita Pit,Spokane Valley,47.673543,-117.206442
+2013-10-18,03:34,03:56,22.17,Late Night / Other,"""Carl's Jr""",Spokane Valley,47.656795,-117.217201
+2013-10-29,01:05,02:14,68.83,Late Night / Other,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2013-10-30,21:03,21:24,21.38,Dinner,Pita Pit,Spokane Valley,47.673543,-117.206442
+2013-10-30,22:37,22:52,15.47,Late Night / Other,Pita Pit,Spokane Valley,47.673543,-117.206442
+2013-10-31,02:45,03:27,42.4,Late Night / Other,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2013-11-06,05:23,05:39,15.95,Breakfast,Jack In The Box,Spokane Valley,47.670996,-117.240121
+2013-11-14,19:35,19:52,17.3,Dinner,Jack In The Box,Spokane Valley,47.670996,-117.240121
+2013-11-20,19:04,19:21,16.77,Dinner,Jack In The Box,Spokane Valley,47.670996,-117.240121
+2013-11-28,02:51,03:43,52.82,Late Night / Other,"""Boston's Restaurant-Sports Bar""",Spokane Valley,47.67563,-117.21285
+2013-12-06,19:40,20:56,75.77,Dinner,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2013-12-29,04:15,04:31,15.6,Late Night / Other,Jack In The Box,Spokane Valley,47.670996,-117.240121
+2013-12-31,19:29,19:49,19.85,Dinner,Qdoba Mexican Eats,Spokane Valley,47.671261,-117.240526
+2014-01-09,01:54,02:50,56.33,Late Night / Other,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2014-01-15,21:55,22:10,15.65,Dinner,Pita Pit,Spokane Valley,47.673543,-117.206442
+2014-01-20,00:52,02:09,76.45,Late Night / Other,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2014-01-21,18:49,19:26,37.13,Dinner,Two Columns,Spokane Valley,47.657542,-117.249656
+2014-01-28,16:54,17:37,43.32,Dinner,"""Jenny's Cafe""",Spokane Valley,47.65746,-117.277823
+2014-01-29,01:25,01:41,16.0,Late Night / Other,Qdoba Mexican Eats,Spokane Valley,47.671261,-117.240526
+2014-02-06,19:46,20:06,19.53,Dinner,Jack In The Box,Spokane Valley,47.670996,-117.240121
+2014-03-13,16:32,16:49,17.0,Dinner,Jack In The Box,Spokane Valley,47.670996,-117.240121
+2014-04-05,22:07,22:28,21.35,Late Night / Other,Italian Kitchen,Spokane,47.658501,-117.416092
+2014-04-06,00:38,01:09,30.48,Late Night / Other,Sante Restaurant & Charcuterie,Spokane,47.659384,-117.418598
+2014-04-15,20:00,20:32,31.8,Dinner,"""Caruso's Sandwiches""",Spokane Valley,47.678382,-117.282285
+2014-04-29,17:36,17:59,23.07,Dinner,"""Caruso's Sandwiches""",Spokane Valley,47.678382,-117.282285
+2014-05-13,15:37,17:14,97.7,Lunch,SUBWAY,Spokane Valley,47.657487,-117.233478
+2014-05-27,00:16,01:14,58.02,Late Night / Other,Italian Kitchen,Spokane,47.658501,-117.416092
+2014-06-10,04:28,05:21,53.45,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2014-06-11,19:07,19:54,47.2,Dinner,Outback Steakhouse,Spokane Valley,47.671576,-117.202978
+2014-06-17,04:26,05:13,46.27,Late Night / Other,Italian Kitchen,Spokane,47.658501,-117.416092
+2014-06-19,01:25,02:08,43.58,Late Night / Other,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2014-06-23,04:07,04:59,52.72,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2014-06-30,04:00,05:09,69.37,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2014-07-01,04:30,05:28,58.02,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2014-07-03,17:46,18:51,64.7,Dinner,IHOP Restaurant,Spokane Valley,47.675787,-117.21036
+2014-07-25,04:16,05:04,47.62,Late Night / Other,Italian Kitchen,Spokane,47.658501,-117.416092
+2014-07-29,04:31,05:34,63.12,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2014-07-31,01:12,01:51,39.32,Late Night / Other,Thrifty Scotsman Drive Inn,Spokane Valley,47.656771,-117.242659
+2014-08-09,00:53,01:14,20.8,Late Night / Other,3 Sisters Restaurant,Spokane Valley,47.657469,-117.262528
+2014-08-11,05:05,06:12,67.63,Breakfast,Italian Kitchen,Spokane,47.658501,-117.416092
+2014-08-12,20:31,21:03,32.17,Dinner,Thrifty Scotsman Drive Inn,Spokane Valley,47.656771,-117.242659
+2014-08-26,01:59,02:48,49.3,Late Night / Other,3 Sisters Restaurant,Spokane Valley,47.657469,-117.262528
+2014-08-26,19:18,19:43,24.45,Dinner,Littleeurorestaurant,Spokane Valley,47.662027,-117.240504
+2014-09-01,04:43,05:42,59.15,Late Night / Other,Italian Kitchen,Spokane,47.658501,-117.416092
+2014-09-13,20:11,21:02,51.17,Dinner,Red Robin Gourmet Burgers,Spokane Valley,47.674214,-117.203554
+2014-09-25,01:41,02:36,55.0,Late Night / Other,3 Sisters Restaurant,Spokane Valley,47.657469,-117.262528
+2014-10-02,02:53,03:46,52.37,Late Night / Other,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2014-10-07,05:23,06:05,42.17,Breakfast,Italian Kitchen,Spokane,47.658501,-117.416092
+2014-10-15,21:20,21:41,21.73,Dinner,High Nooner,Spokane Valley,47.662265,-117.240471
+2014-10-21,23:42,01:08,86.0,Late Night / Other,3 Sisters Restaurant,Spokane Valley,47.657469,-117.262528
+2014-10-25,20:59,21:43,43.73,Dinner,Pita Pit,Spokane Valley,47.673543,-117.206442
+2014-10-31,04:50,05:46,55.75,Late Night / Other,Italian Kitchen,Spokane,47.658501,-117.416092
+2014-11-08,01:40,02:02,22.75,Late Night / Other,Panda Express,Spokane Valley,47.664635,-117.194063
+2014-11-13,02:45,03:20,34.93,Late Night / Other,IHOP Restaurant,Spokane Valley,47.675787,-117.21036
+2014-11-14,01:43,02:38,55.82,Late Night / Other,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2014-11-17,20:02,20:28,26.17,Dinner,High Nooner,Spokane Valley,47.662265,-117.240471
+2014-11-18,05:17,06:18,61.05,Breakfast,Satellite Diner,Spokane,47.656871,-117.419179
+2014-11-18,17:48,18:12,24.37,Dinner,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2014-12-08,20:37,20:56,18.95,Dinner,High Nooner,Spokane Valley,47.662265,-117.240471
+2014-12-13,22:20,22:39,19.13,Late Night / Other,"""Caruso's Sandwiches""",Spokane Valley,47.678382,-117.282285
+2014-12-14,18:42,19:37,54.67,Dinner,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2014-12-18,01:50,02:32,41.8,Late Night / Other,3 Sisters Restaurant,Spokane Valley,47.657469,-117.262528
+2014-12-20,19:33,20:17,44.52,Dinner,Crickets Deli,Spokane,47.657578,-117.421602
+2014-12-20,20:24,20:54,29.9,Dinner,Panda Express,Spokane,47.659518,-117.423503
+2014-12-21,22:10,22:43,32.77,Late Night / Other,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2014-12-23,00:55,01:44,49.17,Late Night / Other,3 Sisters Restaurant,Spokane Valley,47.657469,-117.262528
+2014-12-23,19:29,20:34,65.15,Dinner,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2014-12-23,21:19,21:47,28.6,Dinner,Pita Pit,Spokane Valley,47.673543,-117.206442
+2014-12-26,01:31,01:59,27.63,Late Night / Other,"""Caruso's Sandwiches""",Spokane Valley,47.678382,-117.282285
+2014-12-28,21:57,22:27,29.43,Dinner,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2015-01-07,04:46,05:34,47.87,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2015-01-11,00:55,02:11,75.95,Late Night / Other,Red Robin Gourmet Burgers,Spokane Valley,47.674214,-117.203554
+2015-01-20,19:06,19:59,52.78,Dinner,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2015-01-22,20:56,21:12,15.22,Dinner,"""Carl's Jr""",Spokane Valley,47.656795,-117.217201
+2015-02-03,19:17,19:51,33.18,Dinner,High Nooner,Spokane Valley,47.662265,-117.240471
+2015-02-06,22:39,22:57,18.65,Late Night / Other,"""Ron's Drive In""",Spokane Valley,47.656449,-117.237071
+2015-02-15,17:47,18:15,27.92,Dinner,"""Andy's North""",Pasco,46.24185,-119.13557
+2015-02-17,18:40,19:14,34.08,Dinner,"""Denny's""",Kennewick,46.209124,-119.159426
+2015-03-07,22:10,22:30,20.77,Late Night / Other,"""Caruso's Sandwiches""",Spokane Valley,47.678382,-117.282285
+2015-03-15,20:12,20:39,26.85,Dinner,High Nooner,Spokane Valley,47.662265,-117.240471
+2015-03-20,02:42,03:48,66.17,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2015-03-25,01:26,01:59,32.62,Late Night / Other,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2015-03-26,21:33,22:21,48.72,Dinner,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2015-03-29,00:52,02:02,70.47,Late Night / Other,Round Table Pizza,Spokane Valley,47.655758,-117.197282
+2015-04-17,20:21,21:00,38.8,Dinner,High Nooner,Spokane Valley,47.662265,-117.240471
+2015-05-06,03:44,04:44,60.78,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2015-05-21,21:27,22:03,36.22,Dinner,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2015-05-26,04:20,05:14,53.68,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2015-05-29,02:31,03:35,63.95,Late Night / Other,Crave Eats Drinks Nightlife,Spokane,47.657903,-117.418278
+2015-06-01,20:34,21:00,26.25,Dinner,Taco Time,Spokane Valley,47.656767,-117.238147
+2015-06-05,20:28,21:06,37.65,Dinner,"""Caruso's Sandwiches""",Spokane Valley,47.678382,-117.282285
+2015-06-12,03:13,05:14,121.45,Late Night / Other,P M Jacoys,Spokane,47.657463,-117.418535
+2015-06-19,20:27,20:51,24.07,Dinner,Thrifty Scotsman Drive Inn,Spokane Valley,47.656771,-117.242659
+2015-06-21,03:15,04:21,66.67,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2015-06-22,00:13,00:28,15.4,Late Night / Other,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2015-06-24,18:30,19:23,52.92,Dinner,Nudo Ramen House,Spokane,47.745975,-117.404516
+2015-07-01,23:48,00:15,26.73,Late Night / Other,Thrifty Scotsman Drive Inn,Spokane Valley,47.656771,-117.242659
+2015-07-07,04:22,04:43,20.37,Late Night / Other,P M Jacoys,Spokane,47.657463,-117.418535
+2015-07-10,00:28,01:03,35.17,Late Night / Other,3 Sisters Restaurant,Spokane Valley,47.657469,-117.262528
+2015-07-15,20:13,20:35,22.1,Dinner,Thrifty Scotsman Drive Inn,Spokane Valley,47.656771,-117.242659
+2015-07-17,00:52,02:09,77.42,Late Night / Other,Red Robin Gourmet Burgers,Spokane Valley,47.674214,-117.203554
+2015-07-21,20:04,20:28,23.73,Dinner,High Nooner,Spokane Valley,47.662265,-117.240471
+2015-07-23,19:47,20:20,33.18,Dinner,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2015-07-31,21:49,22:05,16.42,Dinner,High Nooner,Spokane Valley,47.662265,-117.240471
+2015-08-02,04:04,05:07,62.23,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2015-08-26,21:25,22:18,52.88,Dinner,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2015-09-01,21:26,21:59,33.02,Dinner,High Nooner,Spokane Valley,47.662265,-117.240471
+2015-11-11,22:30,23:23,52.92,Late Night / Other,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2015-11-18,20:54,21:40,45.32,Dinner,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2015-12-02,19:39,20:35,55.8,Dinner,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2015-12-24,19:34,20:46,72.0,Dinner,Sky Ribbon Cafe,Spokane,47.660174,-117.423124
+2015-12-27,19:09,19:43,33.65,Dinner,Panda Express,Spokane,47.659518,-117.423503
+2016-01-06,20:13,20:59,45.65,Dinner,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2016-01-14,19:50,20:41,50.1,Dinner,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2016-01-19,01:03,01:56,52.95,Late Night / Other,IHOP Restaurant,Spokane,47.696822,-117.411542
+2016-01-20,19:39,20:25,46.12,Dinner,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2016-01-21,19:43,20:10,26.95,Dinner,Thrifty Scotsman Drive Inn,Spokane Valley,47.656771,-117.242659
+2016-02-10,20:43,21:26,43.1,Dinner,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2016-02-15,03:59,05:01,62.1,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2016-02-17,18:22,19:09,46.98,Dinner,"""Aracelia's Li""",Spokane Valley,47.678296,-117.298565
+2016-02-19,00:51,01:51,59.2,Late Night / Other,Pho Thinh,Spokane,47.713022,-117.410732
+2016-02-20,00:01,00:23,21.22,Late Night / Other,"""Ron's Drive In""",Spokane Valley,47.656449,-117.237071
+2016-02-24,19:44,20:09,25.07,Dinner,High Nooner,Spokane Valley,47.662265,-117.240471
+2016-02-26,01:18,02:40,81.82,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2016-03-02,18:45,19:34,49.68,Dinner,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2016-03-24,01:43,02:40,57.02,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2016-03-24,20:33,21:27,54.48,Dinner,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2016-03-26,00:23,01:09,46.33,Late Night / Other,Pizza Hut,Spokane Valley,47.679793,-117.281426
+2016-03-31,00:29,01:47,77.78,Late Night / Other,Longhorn Barbecue,Spokane Valley,47.678226,-117.283576
+2016-05-06,00:47,01:33,46.32,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2016-05-26,17:42,18:36,54.07,Dinner,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2016-06-13,01:33,02:47,73.52,Late Night / Other,Olive Garden Italian Kitchen,Spokane,47.74884,-117.401655
+2016-06-14,17:50,18:36,45.17,Dinner,IHOP Restaurant,Spokane,47.696822,-117.411542
+2016-06-29,19:04,19:46,41.45,Dinner,IHOP Restaurant,Spokane,47.696822,-117.411542
+2016-07-02,00:50,01:53,62.68,Late Night / Other,3 Sisters Restaurant,Spokane Valley,47.657469,-117.262528
+2016-08-20,01:52,02:44,52.22,Late Night / Other,3 Sisters Restaurant,Spokane Valley,47.657469,-117.262528
+2016-08-24,19:19,19:43,23.83,Dinner,High Nooner,Spokane Valley,47.662265,-117.240471
+2016-08-24,20:05,21:25,80.07,Dinner,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2016-09-01,01:34,02:32,57.17,Late Night / Other,Pho Thinh,Spokane,47.713022,-117.410732
+2016-09-07,20:30,21:29,59.22,Dinner,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2016-09-13,00:51,01:37,45.08,Late Night / Other,Panera Bread,Spokane Valley,47.669937,-117.193542
+2016-09-28,01:36,02:32,55.68,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2016-11-10,22:33,23:24,51.33,Late Night / Other,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2016-11-20,00:54,02:01,66.98,Late Night / Other,3 Sisters Restaurant,Spokane Valley,47.657469,-117.262528
+2017-02-19,00:13,00:34,21.25,Late Night / Other,3 Sisters Restaurant,Spokane Valley,47.657469,-117.262528
+2017-03-02,21:31,22:33,62.57,Dinner,"""Hill's Restaurant & Lounge""",Spokane,47.659009,-117.41829
+2017-03-03,01:19,03:07,108.03,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2017-03-09,00:51,01:49,58.13,Late Night / Other,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2017-03-15,19:08,19:31,23.07,Dinner,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2017-03-19,00:32,01:17,44.65,Late Night / Other,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2017-03-29,18:31,19:26,55.45,Dinner,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2017-05-10,21:26,22:29,62.52,Dinner,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2017-05-26,22:36,23:04,27.88,Late Night / Other,Nudo Ramen House,Spokane,47.745975,-117.404516
+2017-07-13,21:08,22:07,59.63,Dinner,Fergusons Cafe,Spokane,47.69364,-117.423585
+2017-08-12,19:39,19:55,15.72,Dinner,Qdoba Mexican Eats,Spokane,47.646989,-117.41283
+2017-08-30,01:32,01:49,17.53,Late Night / Other,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2017-11-13,01:31,01:50,19.72,Late Night / Other,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2017-11-16,02:11,02:29,17.88,Late Night / Other,3 Sisters Restaurant,Spokane Valley,47.657469,-117.262528
+2017-11-17,00:58,02:26,88.23,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2017-11-21,19:23,20:52,88.53,Dinner,Fergusons Cafe,Spokane,47.69364,-117.423585
+2017-12-12,00:57,01:18,21.33,Late Night / Other,Capitol Bar & Grill,Spokane,47.703846,-117.365115
+2017-12-26,01:26,01:41,15.8,Late Night / Other,3 Sisters Restaurant,Spokane Valley,47.657469,-117.262528
+2018-01-23,18:05,19:36,90.27,Dinner,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2018-02-13,17:40,18:04,23.77,Dinner,"""Jimmy John's""",Spokane,47.67206,-117.409236
+2018-02-16,18:44,19:06,22.03,Dinner,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2018-03-01,23:17,23:39,22.18,Late Night / Other,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2018-03-07,18:11,18:46,35.22,Dinner,Tomato Street-Spokane,Spokane,47.71448,-117.41083
+2018-03-15,19:17,19:39,21.57,Dinner,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2018-03-20,20:53,21:46,53.1,Dinner,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2018-04-07,00:56,01:16,20.28,Late Night / Other,"""Denny's""",Spokane Valley,47.675201,-117.281745
+2018-05-03,21:08,22:27,79.17,Dinner,Pueblo Amigo,Spokane,47.702729,-117.411736
+2018-05-28,19:15,20:32,76.47,Dinner,3 Sisters Restaurant,Spokane Valley,47.657469,-117.262528
+2018-06-11,23:18,00:32,74.63,Late Night / Other,Italian Kitchen,Spokane,47.658501,-117.416092
+2018-06-18,19:02,19:49,47.57,Dinner,Tomato Street-Spokane,Spokane,47.71448,-117.41083
+2018-06-19,02:58,03:13,15.03,Late Night / Other,Burger King,Spokane Valley,47.666353,-117.191765
+2018-06-30,19:24,19:50,26.78,Dinner,Rosauers Supermarkets,Spokane Valley,47.656012,-117.262396
+2018-07-07,20:18,20:40,21.88,Dinner,Qdoba Mexican Eats,Spokane Valley,47.671261,-117.240526
+2018-07-09,18:42,19:23,40.85,Dinner,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2018-07-11,20:27,21:15,48.08,Dinner,Red Robin Gourmet Burgers,Spokane Valley,47.674214,-117.203554
+2018-07-14,00:54,02:28,94.63,Late Night / Other,Outback Steakhouse,Spokane Valley,47.671576,-117.202978
+2018-07-24,01:01,03:11,129.72,Late Night / Other,Maxwell House Restaurant,Spokane,47.67067,-117.4372
+2018-08-12,20:02,20:20,18.02,Dinner,"""Yoke's Fresh Market""",Spokane Valley,47.656062,-117.230096
+2018-08-12,20:50,21:30,39.93,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane Valley,47.656398,-117.281897
+2018-08-14,20:35,20:53,17.73,Dinner,De Leon Foods,Spokane Valley,47.655933,-117.195211
+2018-09-02,21:32,21:48,16.22,Dinner,"""Yoke's Fresh Market""",Spokane Valley,47.656062,-117.230096
+2018-09-03,19:36,19:54,18.28,Dinner,"""Yoke's Fresh Market""",Spokane Valley,47.656062,-117.230096
+2018-09-09,20:46,21:05,18.93,Dinner,"""Yoke's Fresh Market""",Spokane Valley,47.656062,-117.230096
+2018-11-14,21:06,21:30,23.52,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane Valley,47.656398,-117.281897
+2018-12-05,22:11,22:35,24.33,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane Valley,47.656398,-117.281897
+2018-12-10,19:21,19:36,15.5,Dinner,Noodle Express,Spokane Valley,47.66365,-117.19697
+2019-01-02,19:11,19:56,45.65,Dinner,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2019-01-07,01:02,03:04,122.83,Late Night / Other,"""Churchill's Steakhouse""",Spokane,47.655083,-117.423206
+2019-04-07,23:15,23:33,17.33,Late Night / Other,Barnes & Noble Cafe,Spokane Valley,47.67087,-117.198521
+2019-04-17,01:01,01:38,37.58,Late Night / Other,Red Robin Gourmet Burgers,Spokane Valley,47.674214,-117.203554
+2019-04-24,02:32,03:53,81.48,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2019-05-26,23:25,23:43,18.18,Late Night / Other,Barnes & Noble Cafe,Spokane Valley,47.67087,-117.198521
+2019-06-12,02:20,04:05,104.8,Late Night / Other,Suki Yaki Inn Japanese Rest,Spokane,47.65862,-117.41622
+2019-06-19,18:23,19:06,43.07,Dinner,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2019-07-03,22:29,22:46,17.05,Late Night / Other,"""Yoke's Fresh Market""",Spokane Valley,47.656062,-117.230096
+2019-07-17,17:56,18:41,44.6,Dinner,"""Denny's""",Spokane Valley,47.657459,-117.23937
+2019-08-01,22:41,23:07,25.97,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane Valley,47.656398,-117.281897

@@ -1,0 +1,12 @@
+start,end,outlet info
+2014-06-01T23:14:45,2014-06-01T23:34:18,"Pandas(_0='Smokehouse', CITY='Seattle', LATITUDE=47.565468, LONGITUDE=-122.288648, _4='Full-Service Restaurants')"
+2014-06-02T03:38:19,2014-06-02T04:58:19,"Pandas(_0='Franks Oyster Hse-Champagne', CITY='Seattle', LATITUDE=47.66867, LONGITUDE=-122.2989, _4='Full-Service Restaurants')"
+2014-06-05T00:25:38,2014-06-05T02:16:34,"Pandas(_0='Mizuki Buffet', CITY='Tukwila', LATITUDE=47.44103, LONGITUDE=-122.25994, _4='Full-Service Restaurants')"
+2014-06-05T19:54:27,2014-06-05T20:26:24,"Pandas(_0='Jack In The Box', CITY='Seatac', LATITUDE=47.435086, LONGITUDE=-122.296136, _4='Limited-Service Restaurants')"
+2018-04-28T19:22:42,2018-04-28T19:57:48,"Pandas(_0='Michou Fresca', CITY='Seattle', LATITUDE=47.60988, LONGITUDE=-122.34228, _4='Full-Service Restaurants')"
+2018-04-28T20:25:07,2018-04-28T21:36:43,"Pandas(_0='Pasta Guys LLC', CITY='Seattle', LATITUDE=47.608677, LONGITUDE=-122.341056, _4='Supermarkets/Other Grocery (Exc Convenience) Strs')"
+2018-04-28T22:32:10,2018-04-28T23:02:18,"Pandas(_0=""Big Mario's Pizza"", CITY='Seattle', LATITUDE=47.626823, LONGITUDE=-122.347626, _4='Full-Service Restaurants')"
+2018-04-29T02:14:44,2018-04-29T03:48:24,"Pandas(_0='Sages Restaurant', CITY='Redmond', LATITUDE=47.676713, LONGITUDE=-122.127535, _4='Full-Service Restaurants')"
+2018-04-30T16:12:24,2018-04-30T16:58:03,"Pandas(_0='Hitchcock Deli', CITY='Bainbridge Isle', LATITUDE=47.624807, LONGITUDE=-122.52058, _4='Limited-Service Restaurants')"
+2018-04-30T19:00:38,2018-04-30T20:35:55,"Pandas(_0='Hitchcock Deli', CITY='Bainbridge Isle', LATITUDE=47.624807, LONGITUDE=-122.52058, _4='Limited-Service Restaurants')"
+2018-05-01T00:37:13,2018-05-01T01:09:42,"Pandas(_0='Tahn Brothers Restaurant', CITY='Seattle', LATITUDE=47.65858, LONGITUDE=-122.3134, _4='Full-Service Restaurants')"

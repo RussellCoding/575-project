@@ -1,0 +1,448 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2016-07-29,19:32,20:51,78.52,Dinner,Sky Ribbon Cafe,Spokane,47.660174,-117.423124
+2016-07-29,20:55,21:10,15.02,Dinner,O Dohertys Irish Grille,Spokane,47.660141,-117.421272
+2016-07-29,21:28,22:26,58.13,Dinner,"""P F Chang's China Bistro""",Spokane,47.65881,-117.423756
+2016-08-01,22:17,23:15,57.65,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2016-08-07,09:23,10:59,95.55,Breakfast,Safeway,Cheney,47.505723,-117.5664
+2016-08-20,00:48,01:22,34.15,Late Night / Other,"""Taco John's""",Spokane,47.70041,-117.394669
+2016-09-13,06:42,07:10,28.02,Breakfast,"""Denny's""",Spokane,47.620638,-117.505778
+2016-11-07,18:35,19:32,56.97,Dinner,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2016-11-23,16:03,16:33,29.38,Dinner,SUBWAY,Cheney,47.50652,-117.5671
+2016-11-27,11:39,12:23,44.0,Lunch,SUBWAY,Cheney,47.50652,-117.5671
+2016-12-01,07:12,09:11,119.03,Breakfast,SUBWAY,Cheney,47.50652,-117.5671
+2016-12-01,10:20,12:03,102.73,Breakfast,SUBWAY,Cheney,47.50652,-117.5671
+2016-12-04,22:53,23:22,29.02,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Cheney,47.497682,-117.565408
+2016-12-17,18:08,18:34,26.08,Dinner,Safeway,Cheney,47.505723,-117.5664
+2016-12-18,14:02,14:22,20.35,Lunch,SUBWAY,Cheney,47.50652,-117.5671
+2016-12-18,17:57,18:25,27.7,Dinner,SUBWAY,Cheney,47.50652,-117.5671
+2016-12-19,18:09,18:52,43.25,Dinner,SUBWAY,Cheney,47.50652,-117.5671
+2016-12-28,14:25,14:55,30.63,Lunch,Safeway,Cheney,47.505723,-117.5664
+2017-03-04,01:09,01:28,18.98,Late Night / Other,"""Denny's""",Spokane,47.620638,-117.505778
+2017-04-09,21:06,21:47,40.72,Dinner,Chicken N More Spokane,Spokane,47.65737,-117.41873
+2017-04-25,00:30,01:46,75.77,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2017-04-26,19:56,20:19,23.8,Dinner,Ugly Mug Cafe,Seattle,47.659765,-122.313736
+2017-04-27,02:31,02:57,25.98,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2017-04-28,02:28,03:00,32.08,Late Night / Other,"""Honeybee's Cafe""",Seattle,47.657803,-122.31329
+2017-04-28,22:08,23:33,84.6,Late Night / Other,Asian Express,Seattle,47.604759,-122.33023
+2017-07-19,19:28,20:21,52.97,Dinner,Chicken N More Spokane,Spokane,47.65737,-117.41873
+2017-07-24,01:51,02:19,28.12,Late Night / Other,SUBWAY,Cheney,47.50652,-117.5671
+2017-09-25,20:51,21:14,22.32,Dinner,"""Matt's In The Market""",Seattle,47.608847,-122.34036
+2018-03-05,16:25,17:24,58.52,Dinner,Golden Corral Buffet & Grill,Spokane,47.723708,-117.412101
+2018-03-08,20:09,21:09,59.63,Dinner,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2017-11-07,23:40,00:00,19.25,Late Night / Other,O Dohertys Irish Grille,Spokane,47.660141,-117.421272
+2017-11-17,20:57,21:31,34.03,Dinner,Mizuna Restaurant & Wine Bar,Spokane,47.65953,-117.42087
+2018-01-03,11:57,12:43,45.28,Lunch,Safeway,Cheney,47.505723,-117.5664
+2018-01-07,01:53,02:21,27.35,Late Night / Other,China Buffet Chinese Rest,Cheney,47.49819,-117.56285
+2018-01-18,00:03,00:28,25.8,Late Night / Other,Harvester Restaurant,Spangle,47.4875,-117.575387
+2018-01-26,08:42,09:38,55.47,Breakfast,SUBWAY,Cheney,47.50652,-117.5671
+2018-01-26,15:05,16:33,88.15,Lunch,SUBWAY,Cheney,47.50652,-117.5671
+2018-01-26,17:00,17:17,17.8,Dinner,SUBWAY,Cheney,47.50652,-117.5671
+2018-01-27,11:59,14:16,136.83,Lunch,SUBWAY,Cheney,47.50652,-117.5671
+2018-01-27,14:34,16:07,92.98,Lunch,SUBWAY,Cheney,47.50652,-117.5671
+2018-02-21,19:44,20:27,42.9,Dinner,Chicken N More Spokane,Spokane,47.65737,-117.41873
+2018-02-21,23:24,23:42,18.4,Late Night / Other,Rokkos Teriyaki,Cheney,47.48779,-117.57514
+2018-03-18,01:45,02:51,65.8,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2018-03-23,20:15,20:49,34.43,Dinner,Round Table Pizza,Spokane,47.716277,-117.440013
+2018-04-01,02:30,03:23,52.58,Late Night / Other,China Buffet Chinese Rest,Cheney,47.49819,-117.56285
+2018-04-10,20:31,21:14,43.42,Dinner,"""Jimmy John's""",Cheney,47.48672,-117.57587
+2018-04-18,23:46,00:02,15.8,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2018-05-06,17:50,18:27,37.13,Dinner,SUBWAY,Cheney,47.50652,-117.5671
+2018-05-11,17:15,17:55,40.65,Dinner,SUBWAY,Cheney,47.50652,-117.5671
+2018-05-18,16:40,17:28,48.15,Dinner,SUBWAY,Cheney,47.50652,-117.5671
+2018-05-20,15:40,16:59,79.47,Lunch,SUBWAY,Cheney,47.50652,-117.5671
+2018-05-22,12:32,13:22,49.9,Lunch,SUBWAY,Cheney,47.50652,-117.5671
+2018-05-22,19:16,20:05,48.27,Dinner,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2018-05-23,19:27,20:07,40.85,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2018-05-29,12:33,13:24,50.55,Lunch,SUBWAY,Cheney,47.50652,-117.5671
+2018-05-30,18:48,19:03,15.33,Dinner,SUBWAY,Cheney,47.50652,-117.5671
+2018-05-30,22:46,23:18,31.4,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2018-06-04,14:52,16:06,74.63,Lunch,Golden Corral Buffet & Grill,Spokane,47.723708,-117.412101
+2018-06-05,18:22,19:27,64.82,Dinner,Burger King,Spokane Valley,47.666353,-117.191765
+2018-06-10,16:11,16:26,15.08,Dinner,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2018-06-21,21:17,21:56,38.57,Dinner,"""Domino's""",Cheney,47.498054,-117.562968
+2018-06-27,22:19,22:46,27.12,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2018-06-30,00:27,00:43,15.37,Late Night / Other,"""Mitchell's Harvest Foods""",Cheney,47.483304,-117.58182
+2018-07-01,01:39,01:58,18.63,Late Night / Other,Rokkos Teriyaki,Cheney,47.48779,-117.57514
+2018-07-09,14:51,15:33,42.57,Lunch,Golden Corral Buffet & Grill,Spokane,47.723708,-117.412101
+2018-07-09,15:41,16:28,47.13,Lunch,Golden Corral Buffet & Grill,Spokane,47.723708,-117.412101
+2018-07-11,22:53,23:24,30.93,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2018-07-20,01:28,02:15,47.25,Late Night / Other,China Buffet Chinese Rest,Cheney,47.49819,-117.56285
+2018-07-25,22:43,23:19,36.23,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2018-08-04,01:46,02:31,45.42,Late Night / Other,China Buffet Chinese Rest,Cheney,47.49819,-117.56285
+2018-08-18,14:10,14:44,34.33,Lunch,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2018-08-19,19:30,19:56,26.38,Dinner,"""Frankie Doodle's""",Spokane,47.653226,-117.410264
+2018-09-02,20:24,21:26,61.9,Dinner,Canaan Buffet,Spokane,47.745938,-117.402639
+2018-09-15,18:15,19:05,49.58,Dinner,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2018-10-21,23:53,01:00,66.98,Late Night / Other,Fado Irish Publishing,Seattle,47.603481,-122.335597
+2018-12-21,19:35,20:06,30.73,Dinner,Round Table Pizza,Spokane,47.716277,-117.440013
+2019-01-26,15:19,15:36,17.28,Lunch,"""Mc Donald's""",Cheney,47.502041,-117.565473
+2019-03-03,17:14,17:39,25.45,Dinner,Panda Express,Spokane,47.659518,-117.423503
+2019-03-03,17:42,18:07,24.85,Dinner,Panda Express,Spokane,47.659518,-117.423503
+2019-03-17,20:59,21:56,57.27,Dinner,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2019-03-18,22:41,00:11,90.07,Late Night / Other,SUBWAY,Cheney,47.50652,-117.5671
+2019-05-01,18:10,18:59,49.58,Dinner,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2019-05-24,19:15,19:41,25.78,Dinner,Safeway,Spokane,47.699144,-117.448213
+2019-06-02,15:21,16:18,56.98,Lunch,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2019-06-21,20:43,21:11,28.35,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-06-25,18:18,19:05,46.48,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-06-26,20:15,20:49,33.33,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-06-27,21:05,22:34,89.03,Dinner,"""Jimmy John's""",Cheney,47.48672,-117.57587
+2019-06-29,07:37,08:06,28.72,Breakfast,Harvester Restaurant,Spangle,47.4875,-117.575387
+2019-07-06,20:45,21:09,24.75,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-07-12,02:49,04:49,119.75,Late Night / Other,"""Jimmy John's""",Cheney,47.48672,-117.57587
+2019-07-12,05:05,06:13,68.12,Breakfast,"""Jimmy John's""",Cheney,47.48672,-117.57587
+2019-07-14,18:12,18:32,20.72,Dinner,SUBWAY,Spokane,47.64697,-117.412766
+2019-07-19,20:36,21:12,36.08,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-07-22,19:28,20:38,69.42,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-07-24,03:30,04:32,62.63,Late Night / Other,"""Jimmy John's""",Cheney,47.48672,-117.57587
+2019-07-27,06:09,06:58,49.02,Breakfast,Harvester Restaurant,Spangle,47.4875,-117.575387
+2019-07-27,07:57,08:59,61.85,Breakfast,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2019-07-27,21:13,21:38,25.45,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-08-18,19:25,20:25,60.22,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-08-19,18:57,19:32,34.48,Dinner,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2019-08-22,19:08,19:29,21.03,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-08-24,17:55,18:11,15.67,Dinner,"""Mitchell's Harvest Foods""",Cheney,47.483304,-117.58182
+2019-08-25,00:30,01:47,76.12,Late Night / Other,Tomato Street-Spokane,Spokane,47.71448,-117.41083
+2019-08-31,21:59,23:42,103.37,Dinner,"""Jimmy John's""",Cheney,47.48672,-117.57587
+2019-08-31,23:52,00:11,18.6,Late Night / Other,"""Jimmy John's""",Cheney,47.48672,-117.57587
+2019-09-01,18:50,19:27,36.52,Dinner,"""Papa Murphy's Take 'N' Bake""",Cheney,47.497682,-117.565408
+2019-09-06,19:28,19:56,27.67,Dinner,Nudo Ramen Restaurant,Spokane,47.657222,-117.424284
+2019-09-07,17:55,18:14,18.8,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-09-09,16:20,16:36,15.57,Dinner,Thai On 1,Seattle,47.61741,-122.353247
+2019-09-15,19:24,20:16,51.65,Dinner,"""Domino's""",Cheney,47.498054,-117.562968
+2019-09-18,20:33,21:21,48.35,Dinner,Monterey Pub N Grub,Cheney,47.486585,-117.575857
+2019-09-19,04:53,06:48,115.37,Late Night / Other,Harvester Restaurant,Spangle,47.4875,-117.575387
+2019-09-19,23:11,23:50,38.5,Late Night / Other,China Buffet Chinese Rest,Cheney,47.49819,-117.56285
+2019-09-23,04:28,05:21,52.97,Late Night / Other,Globe,Spokane,47.65916,-117.411042
+2019-09-23,07:18,08:28,69.18,Breakfast,Harvester Restaurant,Spangle,47.4875,-117.575387
+2019-09-23,17:55,18:43,48.37,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-09-26,04:06,04:21,15.77,Late Night / Other,Harvester Restaurant,Spangle,47.4875,-117.575387
+2019-09-27,23:41,00:09,28.27,Late Night / Other,Safeway,Spokane,47.750462,-117.39766
+2019-09-28,23:45,00:00,15.25,Late Night / Other,Monterey Pub N Grub,Cheney,47.486585,-117.575857
+2019-09-29,19:53,20:53,60.0,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-09-30,14:47,15:13,25.95,Lunch,Golden Corral Buffet & Grill,Spokane,47.723708,-117.412101
+2019-09-30,15:43,16:01,18.15,Lunch,Golden Corral Buffet & Grill,Spokane,47.723708,-117.412101
+2019-09-30,23:27,01:08,101.57,Late Night / Other,Panda Express,Spokane,47.659518,-117.423503
+2019-10-01,01:08,02:08,59.27,Late Night / Other,Panda Express,Spokane,47.659518,-117.423503
+2019-10-02,19:48,20:45,56.75,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-10-04,20:41,21:11,30.6,Dinner,Pho Van,Spokane,47.684703,-117.411677
+2019-10-05,20:23,20:50,27.87,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-10-06,05:01,06:10,68.6,Breakfast,Harvester Restaurant,Spangle,47.4875,-117.575387
+2019-10-06,06:12,07:06,53.22,Breakfast,"""Jimmy John's""",Cheney,47.48672,-117.57587
+2019-10-06,07:22,08:51,89.12,Breakfast,Harvester Restaurant,Spangle,47.4875,-117.575387
+2019-10-09,05:14,06:13,59.33,Breakfast,"""Jimmy John's""",Cheney,47.48672,-117.57587
+2019-10-15,23:11,23:33,22.85,Late Night / Other,Rokkos Teriyaki,Cheney,47.48779,-117.57514
+2019-10-18,21:31,22:28,57.33,Dinner,"""Mccormick & Schmick's Catring""",Tukwila,47.518188,-122.29634
+2019-10-23,23:47,00:27,40.65,Late Night / Other,Panda Express,Spokane,47.659518,-117.423503
+2019-10-25,21:12,21:35,22.5,Dinner,Sonic Drive-In,Spokane,47.669866,-117.409982
+2019-10-27,01:17,01:32,15.03,Late Night / Other,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2019-10-27,14:33,15:01,28.55,Lunch,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2019-10-29,19:33,20:14,41.3,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-12-19,03:03,03:24,20.6,Late Night / Other,Taco Bell,Cheney,47.504199,-117.565538
+2019-12-20,22:18,23:02,43.28,Late Night / Other,Monterey Pub N Grub,Cheney,47.486585,-117.575857
+2019-12-27,18:10,18:36,25.57,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-12-29,01:08,01:56,48.3,Late Night / Other,IHOP Restaurant,Spokane,47.696822,-117.411542
+2020-01-05,03:09,04:43,94.13,Late Night / Other,Zola,Spokane,47.659129,-117.412479
+2020-01-08,20:39,20:58,19.43,Dinner,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2020-01-12,00:06,01:24,78.13,Late Night / Other,Charleys Grill & Spirits,Spokane,47.664651,-117.427208
+2020-01-26,02:41,03:00,19.23,Late Night / Other,Taco Bell,Spokane,47.668472,-117.426035
+2019-11-09,22:24,22:47,22.23,Late Night / Other,El Rodeo Mexican Restaurant,Cheney,47.48816,-117.575483
+2019-11-09,23:41,23:57,16.02,Late Night / Other,Trader Joes,Spokane,47.70891,-117.40957
+2019-11-10,20:53,21:26,33.58,Dinner,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2019-11-18,19:42,20:01,19.48,Dinner,Veggie Grill,Seattle,47.62309,-122.33673
+2019-11-19,16:34,16:55,20.68,Dinner,Mililani,Seattle,47.608915,-122.339683
+2019-11-21,18:57,19:15,17.73,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2019-11-27,22:12,22:47,34.87,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2019-11-28,22:19,22:47,27.6,Late Night / Other,El Rodeo Mexican Restaurant,Cheney,47.48816,-117.575483
+2019-12-01,08:52,09:14,22.17,Breakfast,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2019-12-03,16:02,16:18,16.53,Dinner,"""Mc Donald's""",Cheney,47.502041,-117.565473
+2019-12-12,00:49,01:11,22.13,Late Night / Other,SUBWAY,Cheney,47.50652,-117.5671
+2020-02-06,20:43,21:16,32.48,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-02-13,23:02,23:24,21.9,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2020-02-24,22:11,22:36,25.12,Late Night / Other,O Dohertys Irish Grille,Spokane,47.660141,-117.421272
+2020-02-25,00:24,00:50,26.23,Late Night / Other,Panda Express,Spokane,47.659518,-117.423503
+2020-02-27,21:02,21:23,20.35,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-03-02,15:50,16:07,17.12,Lunch,Golden Corral Buffet & Grill,Spokane,47.723708,-117.412101
+2020-03-03,10:32,11:55,83.45,Breakfast,"""Denny's""",Spokane,47.690512,-117.4117
+2020-03-07,19:55,20:22,26.88,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-03-08,03:03,04:17,74.02,Late Night / Other,Fast Eddies Bar & Grill,Spokane,47.66014,-117.411472
+2020-03-08,05:24,06:28,63.73,Breakfast,Globe,Spokane,47.65916,-117.411042
+2020-03-12,06:03,06:31,27.55,Breakfast,Harvester Restaurant,Spangle,47.4875,-117.575387
+2020-03-12,06:40,07:18,37.35,Breakfast,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2020-03-20,01:10,01:40,29.98,Late Night / Other,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2020-03-23,01:31,02:18,47.32,Late Night / Other,SUBWAY,Liberty Lake,47.670389,-117.104238
+2020-03-23,04:01,05:26,84.92,Late Night / Other,"""Jimmy John's""",Cheney,47.48672,-117.57587
+2020-03-26,00:22,00:48,25.52,Late Night / Other,"""Mc Donald's""",Cheney,47.502041,-117.565473
+2020-03-29,04:10,04:59,49.28,Late Night / Other,IHOP Restaurant,Spokane,47.696822,-117.411542
+2020-04-02,23:42,01:19,97.1,Late Night / Other,Barrelhouse Pub & Pizza,Cheney,47.487916,-117.575935
+2020-04-05,04:03,05:19,75.98,Late Night / Other,Charleys Grill & Spirits,Spokane,47.664651,-117.427208
+2020-04-13,06:23,08:29,126.15,Breakfast,Scratch Spokane,Spokane,47.656214,-117.426987
+2020-04-17,20:06,20:47,40.3,Dinner,"""Moon's Mongolian Grill & Lng""",Spokane,47.716481,-117.411921
+2020-04-19,22:44,23:24,39.7,Late Night / Other,Monterey Pub N Grub,Cheney,47.486585,-117.575857
+2020-04-21,21:13,21:42,29.77,Dinner,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2020-05-03,01:42,02:41,59.13,Late Night / Other,IHOP Restaurant,Spokane,47.696822,-117.411542
+2020-05-07,20:53,21:29,35.42,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-05-17,20:49,21:24,34.98,Dinner,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2020-05-27,01:07,02:30,83.43,Late Night / Other,Monterey Pub N Grub,Cheney,47.486585,-117.575857
+2020-05-30,18:49,19:32,42.87,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-05-31,07:19,08:57,97.88,Breakfast,Harvester Restaurant,Spangle,47.4875,-117.575387
+2020-05-31,09:02,10:13,71.53,Breakfast,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2020-06-04,13:51,14:13,21.97,Lunch,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2020-06-24,18:11,19:35,84.65,Dinner,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2020-06-27,19:04,19:35,30.75,Dinner,"""Moon's Mongolian Grill & Lng""",Spokane,47.716481,-117.411921
+2020-07-01,20:52,21:21,29.02,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-07-03,22:09,22:52,42.98,Late Night / Other,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2020-07-05,21:15,21:32,16.9,Dinner,Barrelhouse Pub & Pizza,Cheney,47.487916,-117.575935
+2020-07-10,21:04,21:58,54.35,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-07-13,02:49,03:30,41.48,Late Night / Other,"""Bruchi's Cheesesteaks & Subs""",Spokane,47.668765,-117.397021
+2020-07-17,18:55,20:24,88.22,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-07-24,19:44,20:18,34.67,Dinner,Mizuna Restaurant & Wine Bar,Spokane,47.65953,-117.42087
+2020-07-25,19:58,20:40,41.92,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-07-26,04:32,05:28,56.38,Late Night / Other,"""Jimmy John's""",Cheney,47.48672,-117.57587
+2020-07-27,01:24,03:16,111.62,Late Night / Other,Harvester Restaurant,Spangle,47.4875,-117.575387
+2020-07-28,19:39,20:37,57.77,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-07-29,20:35,21:12,37.55,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-07-31,20:28,20:51,22.67,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-08-05,19:46,20:39,53.02,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-08-06,19:16,19:43,27.52,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-08-11,16:49,17:54,64.93,Dinner,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2020-08-18,16:44,17:14,29.35,Dinner,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2020-08-21,18:27,19:06,38.9,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-08-21,21:20,21:53,32.9,Dinner,Sonic Drive-In,Spokane,47.669866,-117.409982
+2020-08-22,19:52,20:11,19.15,Dinner,Safeway,Cheney,47.505723,-117.5664
+2020-08-23,03:18,05:17,119.28,Late Night / Other,Fast Eddies Bar & Grill,Spokane,47.66014,-117.411472
+2020-08-23,06:37,07:10,32.97,Breakfast,Borracho Tacos & Tequileria,Spokane,47.659223,-117.411175
+2020-08-23,22:17,22:37,19.73,Late Night / Other,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2020-09-01,20:32,21:10,38.15,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-09-04,19:23,20:05,42.1,Dinner,"""Jimmy John's""",Cheney,47.48672,-117.57587
+2020-09-05,03:51,05:03,71.85,Late Night / Other,Harvester Restaurant,Spangle,47.4875,-117.575387
+2020-09-05,05:11,05:56,45.27,Breakfast,Barrelhouse Pub & Pizza,Cheney,47.487916,-117.575935
+2020-09-06,00:22,01:09,46.47,Late Night / Other,IHOP Restaurant,Spokane,47.696822,-117.411542
+2020-09-06,06:23,08:19,116.07,Breakfast,Harvester Restaurant,Spangle,47.4875,-117.575387
+2020-09-11,21:12,22:27,74.53,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-09-21,19:41,20:15,33.63,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-09-25,02:33,03:29,55.53,Late Night / Other,"""Zip's""",Spokane,47.653758,-117.424522
+2020-09-27,18:38,19:12,33.95,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-09-28,01:43,02:03,20.42,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Cheney,47.497682,-117.565408
+2020-10-03,17:37,18:11,34.48,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2020-10-10,20:34,21:03,29.62,Dinner,SUBWAY,Spokane,47.645186,-117.558866
+2020-10-12,00:13,00:31,17.97,Late Night / Other,Taco Bell,Cheney,47.504199,-117.565538
+2020-10-13,19:26,21:26,119.82,Dinner,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2020-10-16,23:13,00:01,47.97,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2020-11-10,20:04,22:13,128.25,Dinner,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2020-11-14,21:09,21:31,21.45,Dinner,O Dohertys Irish Grille,Spokane,47.660141,-117.421272
+2020-11-15,07:17,07:39,21.92,Breakfast,Harvester Restaurant,Spangle,47.4875,-117.575387
+2020-11-23,02:12,02:48,36.55,Late Night / Other,Azteca Mexican Restaurants,Spokane,47.74814,-117.40243
+2020-11-24,12:47,13:45,57.67,Lunch,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2020-12-17,00:52,01:34,41.95,Late Night / Other,China Buffet Chinese Rest,Cheney,47.49819,-117.56285
+2020-12-20,00:46,01:08,21.57,Late Night / Other,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2020-12-25,19:55,20:23,28.28,Dinner,"""Arby's""",Medical Lake,47.643603,-117.612001
+2020-12-30,22:11,22:45,34.0,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2021-01-06,14:58,16:08,70.13,Lunch,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2021-01-06,22:10,22:44,33.77,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2021-01-08,18:50,19:41,50.97,Dinner,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2021-01-10,20:33,21:15,42.58,Dinner,El Rodeo Mexican Restaurant,Cheney,47.48816,-117.575483
+2021-01-13,21:43,22:18,35.62,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2021-01-19,15:51,17:11,80.28,Lunch,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2021-01-23,20:05,21:02,57.48,Dinner,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2021-01-24,03:08,05:08,120.67,Late Night / Other,Harvester Restaurant,Spangle,47.4875,-117.575387
+2021-02-02,21:13,21:48,34.87,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2021-02-19,20:58,21:29,30.57,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2021-02-23,22:20,22:48,27.95,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2021-02-24,23:11,23:38,26.97,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2021-03-05,22:41,23:16,34.87,Late Night / Other,SUBWAY,Cheney,47.50652,-117.5671
+2021-03-06,09:51,10:28,37.6,Breakfast,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2021-03-08,05:50,06:53,63.27,Breakfast,Harvester Restaurant,Spangle,47.4875,-117.575387
+2021-03-08,06:53,07:19,25.73,Breakfast,Harvester Restaurant,Spangle,47.4875,-117.575387
+2021-03-20,23:25,23:49,24.47,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2021-04-02,01:05,01:54,48.5,Late Night / Other,China Buffet Chinese Rest,Cheney,47.49819,-117.56285
+2021-04-17,01:47,02:11,24.27,Late Night / Other,Mary Lous Milk Bottle,Spokane,47.693632,-117.423406
+2021-04-20,23:10,23:41,30.6,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2021-04-28,23:30,00:03,32.98,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2021-04-30,03:25,05:36,131.87,Late Night / Other,Fast Eddies Bar & Grill,Spokane,47.66014,-117.411472
+2021-04-30,05:37,06:27,50.23,Breakfast,Fast Eddies Bar & Grill,Spokane,47.66014,-117.411472
+2021-05-15,21:29,21:55,25.88,Dinner,Barrelhouse Pub & Pizza,Cheney,47.487916,-117.575935
+2021-05-22,22:48,23:33,44.58,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2021-05-30,19:50,20:30,40.5,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2021-06-06,20:12,21:37,85.12,Dinner,"""Frankie Doodle's""",Spokane,47.653226,-117.410264
+2021-06-25,19:28,20:16,47.88,Dinner,Monterey Pub N Grub,Cheney,47.486585,-117.575857
+2021-07-16,15:35,16:03,28.03,Lunch,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2021-07-23,18:58,19:35,37.2,Dinner,Monterey Pub N Grub,Cheney,47.486585,-117.575857
+2021-08-28,19:08,20:34,86.17,Dinner,"""Frankie Doodle's""",Spokane,47.653226,-117.410264
+2021-09-03,19:21,19:45,24.25,Dinner,SUBWAY,Cheney,47.50652,-117.5671
+2021-09-12,00:46,01:57,71.55,Late Night / Other,Panda Express,Spokane,47.659518,-117.423503
+2021-10-08,19:15,19:47,31.47,Dinner,"""Mc Donald's""",Cheney,47.502041,-117.565473
+2021-10-19,00:56,01:28,31.95,Late Night / Other,Monterey Pub N Grub,Cheney,47.486585,-117.575857
+2021-10-27,16:13,17:00,47.62,Dinner,Sky City Restaurant,Seattle,47.620386,-122.349283
+2021-10-27,17:07,17:56,48.47,Dinner,Tilikum Place Cafe,Seattle,47.618058,-122.347631
+2021-10-27,18:34,19:37,62.9,Dinner,"""Mccormick & Schmick's Catring""",Tukwila,47.518188,-122.29634
+2021-10-27,22:12,22:28,16.65,Late Night / Other,Kells Irish Restaurant & Pub,Seattle,47.610363,-122.342318
+2021-10-28,03:24,03:46,21.52,Late Night / Other,"""Domino's""",Tacoma,47.256235,-122.438828
+2021-10-28,17:14,18:07,52.9,Dinner,Corina Bakery,Tacoma,47.25793,-122.44485
+2021-10-28,22:33,00:21,107.87,Late Night / Other,Arts House Cafe,Tacoma,47.264795,-122.44903
+2021-10-29,14:41,15:34,52.48,Lunch,Lumberyard Pizza,University Place,47.2274,-122.536238
+2021-10-31,23:57,01:13,76.15,Late Night / Other,"""Chan's Dragon Inn""",Spokane,47.653808,-117.432958
+2021-11-06,23:22,00:18,56.07,Late Night / Other,Barrelhouse Pub & Pizza,Cheney,47.487916,-117.575935
+2021-11-18,21:41,22:23,42.13,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2021-11-19,22:19,22:44,25.0,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2021-11-21,03:32,04:06,33.63,Late Night / Other,Mecca Cafe,Seattle,47.62412,-122.356336
+2021-11-21,20:53,21:22,29.63,Dinner,Sandwich Tree,Seattle,47.618866,-122.35713
+2021-11-25,14:42,15:25,43.55,Lunch,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2021-11-26,19:08,19:51,43.05,Dinner,Red Robin Gourmet Burgers,Spokane Valley,47.674214,-117.203554
+2021-11-29,01:00,02:38,98.68,Late Night / Other,Olive Garden Italian Kitchen,Spokane,47.74884,-117.401655
+2021-12-12,23:28,00:16,48.0,Late Night / Other,SUSHI.COM,Spokane,47.659302,-117.419341
+2021-12-26,20:37,21:03,26.22,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2021-12-31,01:16,01:53,36.92,Late Night / Other,China Buffet Chinese Rest,Cheney,47.49819,-117.56285
+2022-01-01,15:10,15:58,47.98,Lunch,Mason Jar,Cheney,47.487119,-117.576268
+2022-01-16,19:02,20:12,69.95,Dinner,Mexico Lindo Y Que Rico,Pasco,46.241664,-119.113114
+2022-01-17,22:42,23:03,21.12,Late Night / Other,Sante Restaurant & Charcuterie,Spokane,47.659384,-117.418598
+2022-01-17,23:09,00:32,82.85,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2022-01-22,16:36,17:08,32.07,Dinner,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2022-02-22,23:35,23:52,16.78,Late Night / Other,Taco Bell,Cheney,47.504199,-117.565538
+2022-02-25,00:15,01:12,56.83,Late Night / Other,El Rodeo Mexican Restaurant,Cheney,47.48816,-117.575483
+2022-02-25,20:06,20:49,43.03,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2022-03-11,20:30,21:08,38.12,Dinner,"""Denny's""",Spokane,47.690512,-117.4117
+2022-03-18,02:02,02:45,43.35,Late Night / Other,China Buffet Chinese Rest,Cheney,47.49819,-117.56285
+2022-03-21,01:40,02:38,57.85,Late Night / Other,Canaan Buffet,Spokane,47.745938,-117.402639
+2022-03-27,20:48,21:40,52.0,Dinner,Steelhead Bar & Grille,Spokane,47.659689,-117.420782
+2022-03-29,20:25,21:54,89.8,Dinner,Steelhead Bar & Grille,Spokane,47.659689,-117.420782
+2022-04-01,19:30,20:16,45.48,Dinner,Panda Express,Spokane,47.659518,-117.423503
+2022-04-01,20:22,21:40,78.83,Dinner,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2022-04-01,21:57,22:15,17.85,Dinner,Steelhead Bar & Grille,Spokane,47.659689,-117.420782
+2022-04-09,19:21,19:43,21.8,Dinner,Safeway,Cheney,47.505723,-117.5664
+2022-04-16,01:58,02:44,45.2,Late Night / Other,China Buffet Chinese Rest,Cheney,47.49819,-117.56285
+2022-04-16,21:09,21:44,35.3,Dinner,Steelhead Bar & Grille,Spokane,47.659689,-117.420782
+2022-04-17,02:44,03:53,68.65,Late Night / Other,Barrelhouse Pub & Pizza,Cheney,47.487916,-117.575935
+2022-04-22,17:58,19:36,97.8,Dinner,Steelhead Bar & Grille,Spokane,47.659689,-117.420782
+2022-04-29,02:26,02:50,24.67,Late Night / Other,"""Mc Donald's""",Cheney,47.502041,-117.565473
+2022-04-29,20:39,21:19,39.75,Dinner,Steelhead Bar & Grille,Spokane,47.659689,-117.420782
+2022-05-03,18:10,18:26,15.23,Dinner,"""Yoke's Fresh Market""",Cheney,47.499543,-117.562706
+2022-05-28,00:30,01:12,41.53,Late Night / Other,Swiss Restaurant & Pub,Tacoma,47.244586,-122.439032
+2022-05-28,01:14,03:11,116.57,Late Night / Other,Hello Cupcake,Tacoma,47.245763,-122.436996
+2022-05-28,20:36,22:28,112.42,Dinner,Abella Pizzeria,Tacoma,47.2436,-122.43679
+2022-05-30,19:13,20:35,82.08,Dinner,Cafe Vincero,Tacoma,47.256753,-122.439451
+2022-05-31,15:20,15:47,27.57,Lunch,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2022-06-02,19:30,20:01,31.05,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2022-06-09,16:54,17:20,25.98,Dinner,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2022-06-18,00:31,01:06,35.2,Late Night / Other,China Buffet Chinese Rest,Cheney,47.49819,-117.56285
+2022-06-24,19:56,20:31,35.03,Dinner,Steelhead Bar & Grille,Spokane,47.659689,-117.420782
+2022-06-24,20:41,20:58,16.68,Dinner,Caffe Affogato,Spokane,47.658701,-117.411967
+2022-07-08,01:42,02:04,22.72,Late Night / Other,"""Rosa's Pizza""",Cheney,47.497127,-117.56614
+2022-07-16,17:12,17:40,27.68,Dinner,Safeway,Spokane,47.750462,-117.39766
+2022-07-17,21:42,22:31,48.75,Dinner,Safeway,Spokane,47.750462,-117.39766
+2022-07-20,21:55,22:48,53.23,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2022-07-24,02:10,02:54,43.25,Late Night / Other,Sala Thai Restaurant,Airway Heights,47.64327,-117.589967
+2022-07-24,20:13,20:28,15.57,Dinner,Harvester Restaurant,Spangle,47.4875,-117.575387
+2022-07-24,22:44,23:43,58.02,Late Night / Other,Wisconsin Burger,Spokane,47.646489,-117.400914
+2022-08-12,22:48,00:05,77.45,Late Night / Other,Munchen Haus,Leavenworth,47.594424,-120.662958
+2022-08-13,00:11,00:26,15.08,Late Night / Other,South,Leavenworth,47.59576,-120.660446
+2022-08-19,00:18,00:53,35.42,Late Night / Other,China Buffet Chinese Rest,Cheney,47.49819,-117.56285
+2022-08-20,01:09,02:27,78.33,Late Night / Other,Happiness Chinese Restaurant,Spokane,47.657019,-117.3595
+2022-08-30,00:38,01:30,52.63,Late Night / Other,Canaan Buffet,Spokane,47.745938,-117.402639
+2022-09-10,15:51,16:17,25.82,Lunch,Mason Jar,Cheney,47.487119,-117.576268
+2022-09-13,20:38,21:12,33.82,Dinner,Mary Lous Milk Bottle,Spokane,47.693632,-117.423406
+2022-09-15,19:40,20:23,42.55,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2022-09-27,01:34,02:00,25.15,Late Night / Other,KFC,Airway Heights,47.642405,-117.576525
+2022-10-01,22:08,22:40,31.63,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2022-10-07,20:47,21:31,44.1,Dinner,Market Place,Cheney,47.491139,-117.570336
+2022-10-29,18:13,19:05,52.1,Dinner,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2022-10-30,23:34,00:43,69.1,Late Night / Other,Old Spaghetti Factory,Spokane,47.655173,-117.426614
+2022-11-15,00:26,00:58,32.48,Late Night / Other,"""Papa John's Pizza""",Spokane,47.627639,-117.369111
+2022-11-18,23:09,00:26,76.42,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2022-11-24,02:27,02:49,22.5,Late Night / Other,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2022-11-25,04:40,05:28,48.45,Late Night / Other,Harvester Restaurant,Spangle,47.4875,-117.575387
+2022-11-25,22:53,23:24,30.92,Late Night / Other,"""Jimmy John's""",Cheney,47.48672,-117.57587
+2022-11-28,00:59,01:59,60.33,Late Night / Other,Sky Ribbon Cafe,Spokane,47.660174,-117.423124
+2022-12-24,01:08,01:27,18.32,Late Night / Other,Barrelhouse Pub & Pizza,Cheney,47.487916,-117.575935
+2023-01-07,22:19,22:53,34.08,Late Night / Other,Mason Jar,Cheney,47.487119,-117.576268
+2023-01-14,00:37,01:22,44.55,Late Night / Other,Sante Restaurant & Charcuterie,Spokane,47.659384,-117.418598
+2023-01-14,01:55,04:03,127.4,Late Night / Other,Harvester Restaurant,Spangle,47.4875,-117.575387
+2023-01-20,03:43,04:18,35.3,Late Night / Other,Peking North,Spokane,47.695905,-117.4108
+2023-01-27,21:15,21:56,40.55,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2023-02-01,01:12,01:41,29.17,Late Night / Other,Barrelhouse Pub & Pizza,Cheney,47.487916,-117.575935
+2023-02-17,19:21,19:37,15.68,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2023-02-25,18:30,18:53,22.7,Dinner,Safeway,Spokane,47.750462,-117.39766
+2023-02-26,06:46,07:10,23.62,Breakfast,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2023-02-26,23:51,00:07,15.15,Late Night / Other,Panda Express,Spokane Valley,47.664635,-117.194063
+2023-02-27,03:36,04:14,37.92,Late Night / Other,Harvester Restaurant,Spangle,47.4875,-117.575387
+2023-03-02,00:00,00:52,52.37,Late Night / Other,Barrelhouse Pub & Pizza,Cheney,47.487916,-117.575935
+2023-03-03,16:42,17:04,21.83,Dinner,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2023-03-04,04:22,05:19,56.47,Late Night / Other,P M Jacoys,Spokane,47.657463,-117.418535
+2023-03-04,06:05,08:17,131.87,Breakfast,Harvester Restaurant,Spangle,47.4875,-117.575387
+2023-03-04,08:21,08:40,18.75,Breakfast,"""Zip's Drive-In""",Cheney,47.49035,-117.571274
+2023-03-17,00:38,01:03,25.57,Late Night / Other,Barrelhouse Pub & Pizza,Cheney,47.487916,-117.575935
+2023-03-18,01:35,02:37,62.77,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.749431,-117.401049
+2023-03-25,18:25,19:19,54.65,Dinner,Steelhead Bar & Grille,Spokane,47.659689,-117.420782
+2023-04-01,01:02,01:32,29.08,Late Night / Other,Trader Joes,Spokane,47.62897,-117.36676
+2023-07-21,21:21,21:45,23.42,Dinner,SUBWAY,Cheney,47.50652,-117.5671
+2023-08-29,22:46,23:46,60.02,Late Night / Other,Elemental Pizza,Tacoma,47.246745,-122.437377
+2023-08-30,01:03,01:28,24.23,Late Night / Other,Metropolitan Market,Tacoma,47.269672,-122.489586
+2023-09-20,00:40,00:58,17.97,Late Night / Other,Rocket Market,Spokane,47.614456,-117.399584
+2023-09-30,21:07,22:28,81.43,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2023-10-05,21:13,21:29,16.37,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2023-10-13,20:14,20:42,27.65,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2023-10-14,19:32,21:13,101.23,Dinner,Palm Bar & Grill,Benton City,46.264126,-119.488019
+2023-10-21,18:03,18:34,30.95,Dinner,"""Mc Donald's""",Deer Park,47.944631,-117.477591
+2023-11-03,23:00,00:01,61.43,Late Night / Other,Onion Bar & Grill-North,Spokane,47.726709,-117.410695
+2023-12-08,19:47,20:23,35.87,Dinner,Trader Joes,Spokane,47.62897,-117.36676
+2023-12-22,21:14,21:46,31.88,Dinner,Hogans Hamburgers,Spokane,47.6288,-117.36677
+2023-12-29,03:22,05:11,108.58,Late Night / Other,Fergusons Cafe,Spokane,47.69364,-117.423585
+2023-12-30,04:43,05:24,41.33,Late Night / Other,"""Yoke's Fresh Market""",Spokane,47.61528,-117.428505
+2024-01-15,02:01,04:03,122.6,Late Night / Other,"""Jimmy John's""",Cheney,47.48672,-117.57587
+2024-01-19,19:38,20:12,34.02,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2024-01-27,20:50,21:06,16.35,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2024-01-28,19:57,20:34,37.7,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2024-03-15,19:34,20:05,31.37,Dinner,Asian World Food Market,Spokane,47.689049,-117.410781
+2024-04-05,19:44,19:59,15.97,Dinner,Asian World Food Market,Spokane,47.689049,-117.410781
+2024-05-10,19:28,20:06,38.08,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2024-05-24,21:35,21:56,20.85,Dinner,Cash & Carry Smart Foodservice,Spokane,47.727062,-117.408703
+2024-06-12,22:22,22:38,16.3,Late Night / Other,Rocket Market,Spokane,47.614456,-117.399584
+2024-07-11,19:08,19:40,32.18,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2024-07-18,18:15,18:56,41.6,Dinner,Mary Lous Milk Bottle,Spokane,47.693632,-117.423406
+2024-07-29,04:21,05:59,97.67,Late Night / Other,Harvester Restaurant,Spangle,47.4875,-117.575387
+2024-07-29,20:09,20:35,26.0,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2024-08-05,21:08,21:27,19.32,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2024-08-11,00:03,01:23,79.85,Late Night / Other,Indo Asian Street Eatery,Tacoma,47.264526,-122.449251
+2024-08-11,04:45,05:32,46.88,Late Night / Other,Cafe Vincero,Tacoma,47.256753,-122.439451
+2024-08-12,19:23,19:42,19.47,Dinner,Lumberyard Pizza,University Place,47.2274,-122.536238
+2024-08-25,22:13,22:35,22.75,Late Night / Other,Harvester Restaurant,Spangle,47.4875,-117.575387
+2024-09-09,00:28,01:23,55.22,Late Night / Other,Canaan Buffet,Spokane,47.745938,-117.402639
+2024-09-12,19:36,20:21,44.77,Dinner,SUBWAY,Cheney,47.50652,-117.5671
+2024-09-13,18:11,18:30,18.18,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2024-09-20,20:15,20:43,28.37,Dinner,"""Yoke's Fresh Market""",Spokane,47.61528,-117.428505
+2024-09-20,20:45,21:29,43.32,Dinner,Chaps Diner & Bakery,Spokane,47.614638,-117.428068
+2024-09-21,17:23,17:53,30.72,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2024-09-30,00:26,02:09,103.58,Late Night / Other,Barrelhouse Pub & Pizza,Cheney,47.487916,-117.575935
+2024-10-04,21:34,22:25,50.88,Dinner,"""Yoke's Fresh Market""",Spokane,47.61528,-117.428505
+2024-10-06,03:00,04:10,69.62,Late Night / Other,Harvester Restaurant,Spangle,47.4875,-117.575387
+2024-10-12,00:18,00:52,34.3,Late Night / Other,"""Lenny's American-Italian Fine""",Cheney,47.492708,-117.569355
+2024-11-04,20:22,20:55,32.9,Dinner,China Buffet Chinese Rest,Cheney,47.49819,-117.56285
+2024-11-15,20:43,21:29,45.27,Dinner,Franks Diner,Spokane,47.654641,-117.434699
+2024-12-20,18:30,18:48,17.15,Dinner,Trader Joes,Spokane,47.62897,-117.36676
+2024-12-23,18:55,19:34,39.72,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2024-12-30,23:41,01:34,113.38,Late Night / Other,Barrelhouse Pub & Pizza,Cheney,47.487916,-117.575935
+2025-01-03,19:14,19:30,16.58,Dinner,Pita Pit,Spokane Valley,47.673543,-117.206442
+2025-01-10,23:10,23:51,40.7,Late Night / Other,Saranac Public House,Spokane,47.658711,-117.412187
+2025-01-20,00:06,00:26,19.38,Late Night / Other,"""Rosa's Pizza""",Cheney,47.497127,-117.56614
+2025-02-02,04:36,05:21,44.72,Late Night / Other,Fergusons Cafe,Spokane,47.69364,-117.423585
+2025-02-09,19:23,19:39,15.57,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2025-02-09,22:17,23:26,69.6,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2025-02-15,23:33,00:42,69.3,Late Night / Other,"""Lenny's American-Italian Fine""",Cheney,47.492708,-117.569355
+2025-02-22,20:26,21:11,45.07,Dinner,Chaps Diner & Bakery,Spokane,47.614638,-117.428068
+2025-02-23,01:30,02:26,55.58,Late Night / Other,El Rodeo Mexican Restaurant,Cheney,47.48816,-117.575483
+2025-02-26,16:52,17:12,20.82,Dinner,"""Yoke's Fresh Market""",Spokane,47.61528,-117.428505
+2025-03-08,22:03,22:40,36.95,Late Night / Other,"""Flamin Joe's""",Spokane,47.721876,-117.411872
+2025-03-17,21:28,21:59,30.53,Dinner,"""Yoke's Fresh Market""",Spokane,47.61528,-117.428505
+2025-03-21,23:36,00:40,64.0,Late Night / Other,"""Flamin Joe's""",Spokane,47.721876,-117.411872
+2025-03-22,21:31,22:13,41.87,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2025-03-23,01:57,03:10,72.92,Late Night / Other,Nudo Ramen House,Spokane,47.745975,-117.404516
+2025-03-31,00:54,01:40,45.78,Late Night / Other,"""Milford's Fish House""",Spokane,47.66422,-117.42684
+2025-04-14,23:56,00:41,44.98,Late Night / Other,"""Rosa's Pizza""",Cheney,47.497127,-117.56614
+2025-04-30,21:43,21:59,16.32,Dinner,"""Rosa's Pizza""",Cheney,47.497127,-117.56614
+2025-05-14,00:59,02:09,70.0,Late Night / Other,Sala Thai Restaurant,Airway Heights,47.64327,-117.589967
+2025-05-18,19:43,20:16,32.85,Dinner,Mason Jar,Cheney,47.487119,-117.576268
+2025-05-26,21:36,22:50,73.97,Dinner,"""Flamin Joe's""",Spokane,47.721876,-117.411872
+2025-05-31,21:23,21:53,30.4,Dinner,Hogans Hamburgers,Spokane,47.6288,-117.36677
+2025-06-01,23:47,00:30,42.6,Late Night / Other,Peking North,Spokane,47.695905,-117.4108
+2025-06-08,21:36,22:15,38.73,Dinner,Barrelhouse Pub & Pizza,Cheney,47.487916,-117.575935
+2025-06-28,18:07,18:35,28.5,Dinner,Mason Jar,Cheney,47.487119,-117.576268

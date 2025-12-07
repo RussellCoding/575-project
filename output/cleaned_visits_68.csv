@@ -1,0 +1,211 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2016-07-13,16:11,16:43,32.08,Dinner,"""Domino's""",Spokane,47.700248,-117.378591
+2016-07-13,17:52,18:12,19.48,Dinner,"""Domino's""",Spokane,47.700248,-117.378591
+2016-07-18,14:10,15:16,66.05,Lunch,"""Domino's""",Spokane,47.700248,-117.378591
+2016-08-06,21:05,21:48,43.15,Dinner,"""Milford's Fish House""",Spokane,47.66422,-117.42684
+2016-08-31,17:42,18:33,51.25,Dinner,Burger King,Spokane,47.742173,-117.408672
+2016-12-11,14:24,15:37,73.02,Lunch,Bangkok Thai Restaurant,Spokane,47.661962,-117.395185
+2017-05-04,00:11,01:57,106.87,Late Night / Other,Target,Seattle,47.608488,-122.338255
+2017-07-10,01:32,02:23,51.08,Late Night / Other,Twigs Bistro & Martini Bar,Spokane Valley,47.67558,-117.20581
+2017-07-17,01:01,01:34,33.48,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2017-07-17,17:09,19:27,137.6,Dinner,Bangkok Thai Restaurant,Spokane,47.661962,-117.395185
+2017-07-28,02:45,03:46,60.93,Late Night / Other,Mackenzie River Pizza Co,Spokane,47.740845,-117.395938
+2017-08-01,01:44,02:34,49.43,Late Night / Other,Tomato Street-Spokane,Spokane,47.71448,-117.41083
+2017-08-04,20:14,21:01,47.7,Dinner,"""Applebee's""",Spokane,47.747018,-117.403427
+2017-08-10,23:35,23:59,23.52,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2017-08-16,02:18,03:07,48.73,Late Night / Other,"""Scotty's Doghouse""",Spokane,47.66958,-117.396664
+2017-08-27,01:39,02:15,35.83,Late Night / Other,"""Boston's Restaurant-Sports Bar""",Spokane Valley,47.67563,-117.21285
+2017-08-30,02:07,02:25,18.83,Late Night / Other,"""Caruso's Sandwiches""",Spokane Valley,47.678382,-117.282285
+2017-09-07,01:10,02:22,71.77,Late Night / Other,Hugos On The Hill,Spokane,47.629538,-117.366411
+2017-09-20,16:16,17:32,75.68,Dinner,Meridian Valley Country Club,Kent,47.378494,-122.158506
+2017-10-06,23:08,23:28,20.93,Late Night / Other,Bangkok Thai Restaurant,Spokane,47.661962,-117.395185
+2017-10-20,02:00,02:50,49.92,Late Night / Other,Tomato Street-Spokane,Spokane,47.71448,-117.41083
+2017-11-01,19:12,19:51,39.03,Dinner,Onion Bar & Grill-North,Spokane,47.726709,-117.410695
+2017-11-02,15:35,15:50,15.57,Lunch,Grocery Outlet,Spokane,47.728789,-117.408715
+2017-12-27,19:53,21:32,98.5,Dinner,Wisconsin Burger,Spokane,47.646489,-117.400914
+2018-01-21,02:12,02:53,40.88,Late Night / Other,Taco Bell,Spokane,47.747586,-117.403019
+2018-02-04,18:25,19:13,48.22,Dinner,"""Boston's Restaurant-Sports Bar""",Spokane Valley,47.67563,-117.21285
+2018-04-16,19:03,19:25,21.83,Dinner,Safeway,Spokane Valley,47.656286,-117.216182
+2018-05-09,19:26,20:08,42.27,Dinner,Olive Garden Italian Kitchen,Spokane,47.74884,-117.401655
+2018-06-20,18:51,19:30,38.95,Dinner,"""Shari's Restaurant""",Spokane,47.708982,-117.410752
+2018-08-04,19:59,20:18,18.63,Dinner,SUBWAY,Spokane Valley,47.657487,-117.233478
+2018-08-06,01:36,01:51,15.55,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2018-08-09,00:50,01:12,22.02,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2018-09-16,01:58,03:43,104.55,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.749431,-117.401049
+2019-01-03,20:28,20:50,22.05,Dinner,Cowgirl Coffee,Bremerton,47.567825,-122.672673
+2019-01-16,14:18,14:43,24.77,Lunch,SUBWAY,Spokane,47.694604,-117.367009
+2019-01-23,01:57,02:17,20.42,Late Night / Other,Grocery Outlet,Spokane,47.728789,-117.408715
+2019-01-29,20:26,21:13,47.5,Dinner,Panera Bread,Spokane Valley,47.669937,-117.193542
+2019-02-11,19:16,19:56,40.08,Dinner,Pizza Factory,Burlington,48.46829,-122.33506
+2019-05-23,18:51,19:13,22.12,Dinner,Grocery Outlet,Spokane,47.728789,-117.408715
+2019-06-06,17:24,17:42,18.5,Dinner,Grocery Outlet,Spokane,47.656444,-117.34785
+2019-06-19,00:22,00:40,18.13,Late Night / Other,Grocery Outlet,Spokane,47.728789,-117.408715
+2019-08-11,23:54,01:35,100.65,Late Night / Other,Screaming Yak,Spokane,47.715439,-117.413517
+2019-08-15,01:40,02:13,32.3,Late Night / Other,Yakima Sports Ctr LLC,Yakima,46.602548,-120.503301
+2019-08-15,02:18,03:13,55.0,Late Night / Other,Yakima Sports Ctr LLC,Yakima,46.602548,-120.503301
+2019-08-22,01:40,01:59,19.8,Late Night / Other,Pita Pit,Spokane Valley,47.673543,-117.206442
+2019-09-04,20:32,21:09,37.42,Dinner,Cone & Steiner,Seattle,47.598229,-122.332634
+2019-09-05,03:30,04:50,79.85,Late Night / Other,"""Redmond's Bar & Grill""",Redmond,47.674509,-122.122918
+2019-09-08,01:29,02:16,47.45,Late Night / Other,"""Mc Donald's""",Spokane,47.741785,-117.410149
+2019-09-12,19:39,19:58,18.4,Dinner,Grocery Outlet,Spokane,47.656444,-117.34785
+2019-09-25,17:13,17:45,31.27,Dinner,Sportsman Cafe & Lounge,Spokane,47.716324,-117.364077
+2019-10-05,02:20,02:37,17.1,Late Night / Other,Grocery Outlet,Spokane,47.728789,-117.408715
+2019-10-13,01:03,02:07,64.08,Late Night / Other,SUSHI.COM,Spokane,47.659302,-117.419341
+2019-10-16,19:20,19:40,19.75,Dinner,"""Wendy's""",Spokane,47.665541,-117.410838
+2019-10-16,23:27,01:27,119.97,Late Night / Other,"""Anthony's At Spokane Falls""",Spokane,47.663,-117.42477
+2019-10-25,19:18,19:47,29.1,Dinner,"""Atilano's Mexican Food""",Spokane,47.653102,-117.42316
+2019-11-04,01:34,02:40,66.65,Late Night / Other,Olive Garden Italian Kitchen,Spokane,47.74884,-117.401655
+2019-11-05,00:31,02:59,148.32,Late Night / Other,Elk Public House,Spokane,47.655259,-117.441325
+2019-11-13,19:34,20:08,33.3,Dinner,Quinault River Vlg Internet Cf,Amanda Park,47.459456,-123.891725
+2019-11-14,19:41,20:03,22.03,Dinner,SUBWAY,Forks,47.956862,-124.388068
+2019-11-24,02:08,02:27,18.55,Late Night / Other,Burger King,Spokane Valley,47.666353,-117.191765
+2019-11-30,00:47,02:16,89.85,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.749431,-117.401049
+2019-12-18,00:29,00:50,21.37,Late Night / Other,"""Atilano's""",Spokane,47.657038,-117.356207
+2019-12-25,18:38,19:09,30.13,Dinner,Burger King,North Bend,47.489019,-121.793275
+2020-01-04,01:08,01:44,35.52,Late Night / Other,Noodle Express,Spokane,47.726029,-117.410688
+2020-01-10,02:03,03:33,90.02,Late Night / Other,"""Did's Pizza & Froyo""",Spokane,47.707271,-117.410438
+2020-01-13,01:25,02:07,42.45,Late Night / Other,"""Applebee's""",Spokane,47.747018,-117.403427
+2020-01-23,03:38,04:34,55.97,Late Night / Other,Red Dragon Chinese Delivery,Spokane,47.705384,-117.365664
+2020-01-30,22:35,23:21,46.57,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.749431,-117.401049
+2020-01-30,23:24,23:59,34.97,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.749431,-117.401049
+2020-02-12,22:09,22:39,29.38,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.749431,-117.401049
+2020-02-21,20:46,21:13,27.13,Dinner,"""Zip's""",Spokane,47.686829,-117.364823
+2020-02-26,01:42,02:17,34.25,Late Night / Other,Senor Froggy Mexican Foods,Spokane,47.724662,-117.410636
+2020-03-04,01:36,02:20,44.25,Late Night / Other,Azteca Mexican Restaurants,Spokane,47.74814,-117.40243
+2020-03-25,01:07,01:39,31.92,Late Night / Other,Lai-Thai Restaurant,Kirkland,47.676208,-122.205696
+2020-03-25,01:40,02:19,39.33,Late Night / Other,Lai-Thai Restaurant,Kirkland,47.676208,-122.205696
+2020-03-29,18:09,18:25,15.88,Dinner,SUBWAY,Spokane,47.694604,-117.367009
+2020-04-08,22:17,22:33,15.93,Late Night / Other,Trader Joes,Spokane,47.62897,-117.36676
+2020-04-08,22:48,23:09,20.78,Late Night / Other,"""Atilano's""",Spokane,47.657038,-117.356207
+2020-04-08,23:11,23:28,16.68,Late Night / Other,Grocery Outlet,Spokane,47.656444,-117.34785
+2020-04-28,19:35,20:32,56.9,Dinner,"""Mc Donald's""",Spokane,47.741785,-117.410149
+2020-04-30,17:13,17:32,19.13,Dinner,Safeway,Spokane,47.694097,-117.367009
+2020-05-21,02:32,02:53,20.38,Late Night / Other,Pizza Hut,Spokane Valley,47.679793,-117.281426
+2020-06-16,02:50,04:24,93.77,Late Night / Other,"""Moon's Mongolian Grill & Lng""",Spokane,47.716481,-117.411921
+2020-06-26,00:59,01:38,39.18,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.749431,-117.401049
+2020-07-02,01:06,02:45,98.62,Late Night / Other,Olive Garden Italian Kitchen,Lynnwood,47.821448,-122.29045
+2020-07-02,18:23,20:00,97.17,Dinner,IHOP Restaurant,Lynnwood,47.820588,-122.291076
+2020-07-02,20:52,21:42,50.2,Dinner,Sky City Restaurant,Seattle,47.620386,-122.349283
+2020-07-30,21:03,21:20,17.23,Dinner,Grocery Outlet,Spokane,47.656444,-117.34785
+2020-08-05,21:57,22:46,48.82,Dinner,Azteca Mexican Restaurants,Spokane,47.74814,-117.40243
+2020-08-25,00:03,00:19,15.32,Late Night / Other,Grocery Outlet,Spokane,47.656444,-117.34785
+2020-08-26,21:59,23:51,112.0,Dinner,"""Chuck E Cheese's""",Spokane Valley,47.657696,-117.203818
+2020-09-03,21:07,22:51,104.0,Dinner,Twigs Bistro & Martini Bar,Spokane Valley,47.67558,-117.20581
+2020-09-23,18:23,19:06,43.07,Dinner,Olive Garden Italian Kitchen,Spokane,47.74884,-117.401655
+2020-10-14,22:21,23:01,40.28,Late Night / Other,"""Mc Donald's""",Spokane Valley,47.689373,-117.196179
+2020-12-21,23:26,00:27,60.6,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2021-01-05,02:11,02:44,33.03,Late Night / Other,South Perry Pizza,Spokane,47.646045,-117.389603
+2021-01-18,19:09,19:25,16.03,Dinner,SUBWAY,Spokane,47.694604,-117.367009
+2021-01-27,01:08,02:06,57.63,Late Night / Other,"""Applebee's""",Spokane,47.747018,-117.403427
+2021-01-30,23:36,00:45,69.27,Late Night / Other,Pizza Pipeline,Spokane,47.670812,-117.411714
+2021-02-11,22:50,23:23,32.1,Late Night / Other,Azteca Mexican Restaurants,Spokane,47.74814,-117.40243
+2021-03-11,01:58,02:20,22.42,Late Night / Other,Prohibition Gastropub,Spokane,47.675495,-117.426259
+2021-03-11,03:04,04:07,62.82,Late Night / Other,"""P J's Pub""",Spokane,47.673721,-117.426781
+2021-03-25,17:39,18:01,21.72,Dinner,Noodle Express,Spokane,47.726029,-117.410688
+2021-03-29,00:21,01:52,90.83,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.749431,-117.401049
+2021-04-05,00:44,01:03,19.65,Late Night / Other,Jack In The Box,Spokane,47.694984,-117.365498
+2021-04-07,02:42,03:28,46.83,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.749431,-117.401049
+2021-04-07,23:53,00:09,15.87,Late Night / Other,Taco Time,Spokane Valley,47.681297,-117.28328
+2021-04-10,00:58,01:22,23.23,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2021-04-22,18:10,18:37,26.5,Dinner,Safeway,Spokane,47.694097,-117.367009
+2021-04-28,17:52,18:48,56.0,Dinner,Dickies BBCI Pit,Covington,47.35852,-122.097595
+2021-05-06,01:57,02:59,61.73,Late Night / Other,El Rincon Tapatio,Spokane,47.68666,-117.36555
+2021-05-12,03:38,04:47,69.87,Late Night / Other,"""Applebee's""",Spokane,47.747018,-117.403427
+2021-06-06,20:29,21:59,89.37,Dinner,Mackenzie River Pizza Co,Spokane,47.740845,-117.395938
+2021-06-13,02:53,03:47,54.43,Late Night / Other,Peking North,Spokane,47.695905,-117.4108
+2021-06-17,23:07,23:55,48.22,Late Night / Other,"""Flamin Joe's""",Spokane,47.721876,-117.411872
+2021-07-18,00:58,01:27,29.27,Late Night / Other,Taco Bell,Spokane,47.653091,-117.424533
+2021-07-22,19:49,21:16,87.08,Dinner,Brunchoenette,Spokane,47.664258,-117.427209
+2021-08-07,00:06,01:50,104.43,Late Night / Other,Panda Express,Spokane,47.659518,-117.423503
+2021-09-08,02:34,04:15,101.03,Late Night / Other,"""Chuck E Cheese's""",Spokane,47.749003,-117.396117
+2021-09-09,01:25,02:52,87.05,Late Night / Other,Azteca Mexican Restaurants,Spokane,47.74814,-117.40243
+2021-10-28,20:42,21:18,35.82,Dinner,Burger King,Moses Lake,47.102257,-119.247994
+2021-11-17,01:11,02:06,54.17,Late Night / Other,Red Dragon Chinese Delivery,Spokane,47.705384,-117.365664
+2021-11-24,18:35,19:03,28.13,Dinner,SUSHI.COM,Spokane,47.659302,-117.419341
+2021-11-24,20:48,21:11,23.03,Dinner,"""Mc Donald's""",Spokane,47.698565,-117.410585
+2021-12-06,01:09,01:59,49.62,Late Night / Other,Azteca Mexican Restaurants,Spokane,47.74814,-117.40243
+2021-12-09,06:07,07:09,62.15,Breakfast,Red Lion BBQ & Pub,Spokane,47.65891,-117.41088
+2021-12-15,20:13,20:36,23.27,Dinner,Panda Express,Spokane,47.693713,-117.365502
+2021-12-26,21:30,21:47,16.6,Dinner,"""Papa Murphy's Take 'N' Bake""",North Bend,47.488571,-121.793695
+2022-01-03,01:20,01:45,24.97,Late Night / Other,SUBWAY,Spokane,47.694604,-117.367009
+2022-01-10,18:09,18:40,30.63,Dinner,"""Mc Donald's""",Mead,47.785712,-117.353098
+2022-01-26,19:05,20:14,69.17,Dinner,"""Chuck E Cheese's""",Spokane,47.749003,-117.396117
+2022-01-27,01:24,01:41,17.4,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2022-02-01,01:58,03:41,103.57,Late Night / Other,South Perry Pizza,Spokane,47.646045,-117.389603
+2022-02-02,01:04,01:46,42.68,Late Night / Other,Azteca Mexican Restaurants,Spokane,47.74814,-117.40243
+2022-02-03,22:32,22:54,22.2,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane,47.744423,-117.405766
+2022-02-05,02:22,02:49,27.03,Late Night / Other,Panda Express,Spokane,47.693713,-117.365502
+2022-02-24,20:38,22:25,106.38,Dinner,"""Flamin Joe's""",Spokane,47.721876,-117.411872
+2022-03-21,23:44,01:44,120.97,Late Night / Other,"""Chuck E Cheese's""",Spokane,47.749003,-117.396117
+2022-03-24,16:42,17:23,40.42,Dinner,IHOP Restaurant,Spokane,47.696822,-117.411542
+2022-03-31,00:23,01:44,81.5,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.749431,-117.401049
+2022-04-11,01:46,02:09,23.08,Late Night / Other,Jack In The Box,Spokane,47.694984,-117.365498
+2022-04-13,15:30,16:16,46.47,Lunch,Sportsman Cafe & Lounge,Spokane,47.716324,-117.364077
+2022-05-18,01:57,02:21,23.28,Late Night / Other,Palomino-Bellevue,Bellevue,47.615841,-122.20156
+2022-05-18,02:23,03:21,57.33,Late Night / Other,Palomino-Bellevue,Bellevue,47.615841,-122.20156
+2022-05-18,04:25,04:43,17.37,Late Night / Other,Safeway,Maple Valley,47.360315,-122.018445
+2022-05-19,19:59,20:34,34.97,Dinner,"""Mc Donald's""",North Bend,47.488269,-121.794179
+2022-05-26,04:48,06:28,99.68,Late Night / Other,"""Scotty's Doghouse""",Spokane,47.66958,-117.396664
+2022-07-19,23:01,23:32,30.72,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2022-08-18,01:50,04:14,144.18,Late Night / Other,Wisconsin Burger,Spokane,47.646489,-117.400914
+2022-08-20,20:05,20:39,33.48,Dinner,O Dohertys Irish Grille,Spokane,47.660141,-117.421272
+2022-08-24,03:11,04:26,75.18,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.749431,-117.401049
+2022-08-26,21:53,23:09,76.05,Dinner,Garland Sandwich Shoppe,Spokane,47.693618,-117.427231
+2022-08-30,17:08,17:29,20.73,Dinner,Safeway,Spokane,47.694097,-117.367009
+2022-08-30,21:56,22:43,47.23,Dinner,Garland Sandwich Shoppe,Spokane,47.693618,-117.427231
+2022-09-02,18:10,18:44,34.3,Dinner,Safeway,Spokane,47.694097,-117.367009
+2022-09-02,22:31,00:36,124.27,Late Night / Other,Garland Sandwich Shoppe,Spokane,47.693618,-117.427231
+2022-09-09,15:25,16:55,89.27,Lunch,Garland Sandwich Shoppe,Spokane,47.693618,-117.427231
+2022-09-16,21:54,22:24,30.32,Dinner,Safeway,Spokane,47.694097,-117.367009
+2022-10-12,20:23,20:49,26.15,Dinner,7-Eleven,Spokane Valley,47.676752,-117.239315
+2022-11-24,16:29,16:45,16.13,Dinner,Safeway,Spokane,47.694097,-117.367009
+2022-11-30,23:27,23:58,31.02,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2022-12-09,02:19,02:40,21.8,Late Night / Other,"""Atilano's""",Spokane,47.657038,-117.356207
+2023-02-16,00:37,00:57,20.0,Late Night / Other,Cash & Carry Smart Foodservice,Spokane,47.727062,-117.408703
+2023-03-22,21:53,22:18,24.68,Dinner,"""Jimmy John's""",Spokane Valley,47.669159,-117.2822
+2023-04-19,18:25,18:49,24.72,Dinner,"""Mc Donald's""",Mead,47.785712,-117.353098
+2023-05-31,00:54,01:17,22.87,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2023-06-03,02:26,02:56,30.43,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2023-06-12,19:55,20:18,23.17,Dinner,Safeway,Spokane,47.694097,-117.367009
+2023-06-28,22:48,23:15,27.12,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2023-07-02,00:28,01:31,62.53,Late Night / Other,Baek Chun Sushiyama,Spokane,47.653215,-117.432072
+2023-07-05,19:42,20:29,47.32,Dinner,Safeway,Spokane,47.694097,-117.367009
+2023-07-09,00:31,01:35,64.1,Late Night / Other,Baek Chun Sushiyama,Spokane,47.653215,-117.432072
+2023-08-30,01:26,02:25,58.13,Late Night / Other,"""Chuck E Cheese's""",Spokane Valley,47.657696,-117.203818
+2023-09-01,00:20,00:39,19.0,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2023-09-02,01:04,01:34,29.35,Late Night / Other,Taco Time,Spokane,47.704603,-117.410739
+2023-10-04,18:14,18:43,29.13,Dinner,Qdoba Mexican Eats,Spokane Valley,47.671261,-117.240526
+2023-11-13,01:11,03:02,111.45,Late Night / Other,"""Boston's Restaurant-Sports Bar""",Spokane Valley,47.67563,-117.21285
+2023-11-21,23:57,00:42,44.82,Late Night / Other,Olive Garden Italian Kitchen,Spokane,47.74884,-117.401655
+2023-12-14,22:43,23:06,22.75,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2023-12-20,23:26,00:06,40.67,Late Night / Other,Golden Corral Buffet & Grill,Spokane,47.723708,-117.412101
+2024-01-03,00:05,00:41,36.08,Late Night / Other,Golden Corral Buffet & Grill,Spokane,47.723708,-117.412101
+2024-01-03,22:20,22:42,22.28,Late Night / Other,O Dohertys Irish Grille,Spokane,47.660141,-117.421272
+2024-01-03,22:44,23:00,15.43,Late Night / Other,Mizuna Restaurant & Wine Bar,Spokane,47.65953,-117.42087
+2024-01-03,23:02,01:31,149.63,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2024-01-11,00:59,01:40,41.2,Late Night / Other,Panda Express,Spokane,47.693713,-117.365502
+2024-02-12,16:28,18:01,93.15,Dinner,SUBWAY,Vancouver,45.685765,-122.600743
+2024-02-12,20:15,22:31,136.32,Dinner,"""Hudson's Bar & Grill""",Vancouver,45.65362,-122.59204
+2024-02-26,01:26,02:49,82.65,Late Night / Other,"""Anthony's At Spokane Falls""",Spokane,47.663,-117.42477
+2024-03-20,00:28,01:23,54.8,Late Night / Other,Golden Corral Buffet & Grill,Spokane,47.723708,-117.412101
+2024-04-02,23:36,23:53,16.57,Late Night / Other,Outback Steakhouse,Spokane Valley,47.671576,-117.202978
+2024-04-03,00:05,00:57,52.12,Late Night / Other,"""Boston's Restaurant-Sports Bar""",Spokane Valley,47.67563,-117.21285
+2024-04-04,01:34,01:51,17.13,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2024-04-04,01:53,02:11,17.88,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2024-04-07,00:02,01:10,67.82,Late Night / Other,"""Chuck E Cheese's""",Spokane,47.749003,-117.396117
+2024-04-24,02:52,04:12,80.02,Late Night / Other,Azteca Mexican Restaurants,Spokane,47.74814,-117.40243
+2024-05-09,00:29,01:01,32.18,Late Night / Other,SUBWAY,Spokane,47.694604,-117.367009
+2024-05-16,02:42,04:23,101.45,Late Night / Other,Panda Express,Spokane,47.659518,-117.423503
+2024-05-16,04:25,05:41,76.15,Late Night / Other,Method Juice Cafe,Spokane,47.658296,-117.422921
+2024-05-16,06:09,06:28,18.48,Breakfast,Safeway,Spokane,47.750462,-117.39766
+2024-05-20,01:55,02:24,28.52,Late Night / Other,Panda Express,Spokane,47.693713,-117.365502
+2024-06-11,02:06,02:37,30.95,Late Night / Other,Jack In The Box,Spokane,47.694984,-117.365498
+2024-06-26,01:07,02:03,56.57,Late Night / Other,Old Spaghetti Factory,Spokane,47.655173,-117.426614
+2024-07-05,01:14,01:45,30.88,Late Night / Other,SUBWAY,Spokane,47.694604,-117.367009
+2024-07-18,01:37,03:35,117.83,Late Night / Other,"""Applebee's""",Spokane,47.747018,-117.403427
+2024-07-19,23:42,23:58,16.32,Late Night / Other,Noodle Express,Spokane,47.726029,-117.410688
+2024-07-25,02:07,02:27,20.25,Late Night / Other,Panda Express,Spokane,47.693713,-117.365502
+2024-07-31,23:01,23:17,15.53,Late Night / Other,Safeway,Spokane,47.694097,-117.367009
+2024-08-15,23:00,23:41,41.07,Late Night / Other,Zips Drive In Colfax,Colfax,46.889477,-117.364001
+2024-08-24,00:57,01:27,29.48,Late Night / Other,Panda Express,Spokane,47.693713,-117.365502
+2024-08-28,20:34,20:57,23.65,Dinner,Qdoba Mexican Eats,Spokane Valley,47.671261,-117.240526

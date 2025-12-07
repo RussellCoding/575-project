@@ -1,0 +1,1375 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2018-07-23,01:41,02:54,73.07,Late Night / Other,Super Buffet,Lacey,47.06042,-122.76788
+2018-08-11,23:31,00:00,28.73,Late Night / Other,Caliburger,Seattle,47.661662,-122.313454
+2018-08-14,21:14,21:54,40.3,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-08-16,03:34,03:59,25.25,Late Night / Other,Pagliacci Pizza,Seattle,47.655966,-122.315167
+2018-08-16,04:15,06:02,106.5,Late Night / Other,Pagliacci Pizza,Seattle,47.655966,-122.315167
+2018-08-18,03:30,05:30,120.02,Late Night / Other,Pagliacci Pizza,Seattle,47.655966,-122.315167
+2018-08-18,18:43,19:49,66.12,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-08-20,05:13,07:01,108.12,Breakfast,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-08-27,14:35,16:03,87.67,Lunch,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-08-28,01:17,01:43,25.43,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-08-30,01:20,01:53,33.27,Late Night / Other,Kyoto Teriyaki,Seattle,47.614031,-122.32142
+2018-09-03,17:33,19:10,97.23,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-04,21:20,22:37,77.02,Dinner,Ichiro Teriyaki,Seattle,47.657588,-122.313163
+2018-09-05,03:20,04:09,48.85,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-05,09:39,11:43,123.13,Breakfast,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-06,08:47,09:52,65.52,Breakfast,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-06,09:55,10:19,24.62,Breakfast,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-06,13:10,13:30,20.13,Lunch,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-06,13:31,14:13,41.63,Lunch,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-06,14:26,16:05,98.9,Lunch,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-07,20:41,21:11,29.72,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-08,03:38,04:46,67.75,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-08,06:19,08:36,137.2,Breakfast,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-08,10:19,11:07,48.0,Breakfast,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-08,12:46,14:34,108.02,Lunch,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-08,14:35,15:00,25.0,Lunch,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-08,15:04,15:25,20.83,Lunch,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-08,20:41,21:02,20.97,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-09,01:17,01:44,26.38,Late Night / Other,"""P F Chang's China Bistro""",Seattle,47.611281,-122.337644
+2018-09-11,01:15,02:23,67.83,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-11,21:08,22:59,111.58,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-12,02:54,04:08,73.78,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-12,17:34,18:15,40.83,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-12,21:10,21:33,23.55,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-12,22:37,23:56,78.8,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-13,20:28,21:01,32.87,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-13,21:02,22:14,72.32,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-13,22:16,23:48,91.98,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-14,00:09,02:31,141.32,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-14,17:55,19:03,68.13,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-14,20:31,22:13,102.58,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-14,23:38,02:04,145.47,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-17,18:39,20:09,90.42,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-17,23:23,01:12,108.55,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-18,01:19,03:15,115.6,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-18,21:32,22:02,29.77,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-19,03:46,05:10,84.0,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-20,22:03,23:50,106.87,Late Night / Other,"""Vera's Restaurant""",Seattle,47.667749,-122.384827
+2018-09-23,02:54,03:10,15.93,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-23,03:43,04:04,20.88,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-23,10:48,12:48,120.0,Breakfast,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-23,12:52,14:51,118.98,Lunch,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-23,18:30,18:58,28.25,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-23,22:51,00:54,122.8,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-24,00:55,02:47,112.35,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-24,18:32,20:02,89.55,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-26,04:07,06:34,146.9,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-26,06:35,06:58,22.77,Breakfast,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-27,02:13,03:24,70.75,Late Night / Other,Caffe Ladro,Seattle,47.607975,-122.338859
+2018-09-27,21:15,23:15,119.37,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-28,02:58,04:25,86.55,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-30,00:48,01:47,59.2,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-09-30,22:23,23:50,86.38,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-10-01,23:27,01:04,96.67,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-10-02,01:41,02:03,22.63,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-10-02,02:05,03:23,77.33,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-10-02,14:46,17:06,140.0,Lunch,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-10-02,23:21,00:33,72.62,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-10-04,00:56,03:14,137.82,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-10-05,23:10,23:31,21.52,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-10-12,21:37,22:04,26.33,Dinner,Albertsons,Port Orchard,47.49669,-122.651648
+2018-10-15,00:12,00:29,17.03,Late Night / Other,Taco Bell,Centralia,46.729319,-122.97906
+2018-10-15,04:18,05:02,44.12,Late Night / Other,Caliburger,Seattle,47.661662,-122.313454
+2018-10-16,21:45,00:07,142.52,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-10-17,18:47,19:59,71.88,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-10-18,23:30,00:47,77.85,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-10-21,01:05,01:59,53.42,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2018-10-22,00:31,00:51,19.75,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2018-10-25,04:25,04:47,21.2,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-10-27,20:36,21:31,55.68,Dinner,U Don Fresh Japanese Noodle,Seattle,47.661735,-122.313192
+2018-10-28,04:43,05:12,29.67,Late Night / Other,"""Freddy Junior's""",Seattle,47.614513,-122.320868
+2018-10-28,05:17,06:18,60.33,Breakfast,"""Freddy Junior's""",Seattle,47.614513,-122.320868
+2018-10-30,01:41,02:03,22.37,Late Night / Other,Tahn Brothers Restaurant,Seattle,47.65858,-122.3134
+2018-10-31,21:45,22:15,29.98,Dinner,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2018-10-31,22:45,23:05,20.25,Late Night / Other,Ichiro Teriyaki,Seattle,47.657588,-122.313163
+2018-11-06,03:56,04:16,19.82,Late Night / Other,"""Mc Donald's""",Chehalis,46.67839,-122.97955
+2018-11-07,03:12,03:39,27.2,Late Night / Other,SUBWAY,Lakewood,47.16148,-122.484589
+2018-11-07,04:09,04:42,33.1,Late Night / Other,Boulangerie Bakery & Cafe,Lakewood,47.169138,-122.48294
+2018-11-09,23:52,00:22,30.03,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Centralia,46.72784,-122.980873
+2018-11-13,18:45,19:05,20.32,Dinner,Topside Bar & Grill,Steilacoom,47.172424,-122.597998
+2018-11-16,14:35,17:03,148.37,Lunch,Zheng Cafe,Seattle,47.620753,-122.344941
+2018-11-19,23:03,23:24,21.48,Late Night / Other,"""Shultzy's Sausage""",Seattle,47.65728,-122.313172
+2018-11-26,04:14,05:32,77.98,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-11-26,05:34,07:54,139.92,Breakfast,College Inn,Seattle,47.655491,-122.312987
+2018-12-02,02:51,03:49,57.98,Late Night / Other,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2018-12-02,04:15,05:11,56.57,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2018-12-02,05:17,06:17,59.98,Breakfast,College Inn,Seattle,47.655491,-122.312987
+2018-12-02,06:35,07:06,30.12,Breakfast,College Inn,Seattle,47.655491,-122.312987
+2018-12-02,17:22,18:52,89.2,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2018-12-16,03:44,04:47,63.33,Late Night / Other,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2018-12-16,04:58,05:14,15.73,Late Night / Other,U Don Fresh Japanese Noodle,Seattle,47.661735,-122.313192
+2018-12-16,08:34,10:59,145.37,Breakfast,College Inn,Seattle,47.655491,-122.312987
+2018-12-29,09:41,10:13,31.27,Breakfast,Jewel Of Indian Cuisine,Seattle,47.66418,-122.31326
+2019-01-03,03:24,04:01,37.08,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2019-01-04,21:50,22:26,35.43,Dinner,LA Vaca Mexican Restaurant,Seattle,47.657743,-122.313291
+2019-01-06,02:22,03:14,51.73,Late Night / Other,Chipotle Mexican Grill,Seattle,47.659223,-122.313346
+2019-01-12,02:34,03:28,53.73,Late Night / Other,Melting Pot,Seattle,47.62474,-122.356205
+2019-01-14,00:32,02:01,89.13,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2019-01-20,01:32,01:56,23.9,Late Night / Other,"""Memo's Mexican Food""",Seattle,47.66433,-122.31327
+2019-01-21,02:34,03:03,29.1,Late Night / Other,LA Vaca Mexican Restaurant,Seattle,47.657743,-122.313291
+2019-01-26,04:02,04:56,53.57,Late Night / Other,Chipotle Mexican Grill,Seattle,47.659223,-122.313346
+2019-01-27,02:40,03:18,38.6,Late Night / Other,Noodle Nation,Seattle,47.65926,-122.31296
+2019-01-27,04:47,06:04,76.48,Late Night / Other,Which WICH Superior Sandwiches,Seattle,47.663994,-122.313023
+2019-01-27,07:09,08:30,80.8,Breakfast,Which WICH Superior Sandwiches,Seattle,47.663994,-122.313023
+2019-01-31,01:30,01:47,17.35,Late Night / Other,Caffe Ladro,Seattle,47.607975,-122.338859
+2019-01-31,01:50,02:25,34.65,Late Night / Other,Caffe Ladro,Seattle,47.607975,-122.338859
+2019-02-01,01:25,01:43,18.13,Late Night / Other,Chipotle Mexican Grill,Seattle,47.659223,-122.313346
+2019-02-02,02:09,02:44,35.02,Late Night / Other,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2019-02-02,19:44,20:55,71.67,Dinner,IHOP Restaurant,Bellingham,48.790038,-122.496095
+2019-02-03,01:15,01:45,30.02,Late Night / Other,Veggie Grill,Seattle,47.6633,-122.298262
+2019-02-03,03:54,04:25,31.58,Late Night / Other,H Mart,Federal Way,47.322,-122.31523
+2019-02-07,19:10,20:13,62.32,Dinner,"""O'Blarney's Irish Pub""",Centralia,46.71806,-122.95382
+2019-02-07,21:12,21:28,15.25,Dinner,Casadores Mexican Restaurant,Centralia,46.718563,-122.953729
+2019-02-07,21:29,21:53,24.15,Dinner,"""O'Blarney's Irish Pub""",Centralia,46.71806,-122.95382
+2019-02-07,22:59,23:18,19.8,Late Night / Other,Dawns Delectables,Centralia,46.717341,-122.953777
+2019-02-10,01:34,01:49,15.35,Late Night / Other,KFC,Centralia,46.717834,-122.96112
+2019-02-15,00:10,00:57,47.2,Late Night / Other,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2019-02-15,01:08,02:00,52.07,Late Night / Other,College Inn,Seattle,47.655491,-122.312987
+2019-02-17,01:07,02:18,71.23,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2019-02-20,06:38,06:58,20.02,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2019-02-24,07:12,07:34,21.4,Breakfast,Big Time Brewery & Alehouse,Seattle,47.657865,-122.313288
+2019-02-24,22:48,23:38,49.32,Late Night / Other,LA Vaca Mexican Restaurant,Seattle,47.657743,-122.313291
+2019-03-01,19:50,20:37,47.45,Dinner,Chipotle Mexican Grill,Seattle,47.659223,-122.313346
+2019-03-02,00:26,00:44,17.67,Late Night / Other,"""Jimmy John's""",Seattle,47.6017,-122.334004
+2019-03-02,01:54,02:26,32.0,Late Night / Other,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2019-03-10,03:54,04:26,32.12,Late Night / Other,U Don Fresh Japanese Noodle,Seattle,47.661735,-122.313192
+2019-03-14,03:43,04:01,18.03,Late Night / Other,Aladdin Gyro-Cery & Deli,Seattle,47.658171,-122.313278
+2019-03-15,01:47,02:26,38.45,Late Night / Other,Big Time Brewery & Alehouse,Seattle,47.657865,-122.313288
+2019-03-16,22:51,23:20,29.37,Late Night / Other,Blue C Sushi,Seattle,47.66212,-122.29844
+2019-03-23,00:21,00:46,25.32,Late Night / Other,Honeyhole Sandwiches,Seattle,47.614012,-122.323007
+2019-03-23,00:49,01:28,38.85,Late Night / Other,Bimbos Bitchin Burrito Kitchen,Seattle,47.61397,-122.31875
+2019-03-23,01:31,01:56,25.02,Late Night / Other,Kyoto Teriyaki,Seattle,47.614031,-122.32142
+2019-03-28,02:23,02:55,31.2,Late Night / Other,LA Vaca Mexican Restaurant,Seattle,47.657743,-122.313291
+2019-03-30,18:07,18:30,22.8,Dinner,Shawerma King,Seattle,47.660998,-122.313208
+2019-04-01,00:35,01:05,30.28,Late Night / Other,LA Vaca Mexican Restaurant,Seattle,47.657743,-122.313291
+2019-04-02,17:11,18:24,73.62,Dinner,Spring Kitchen Uw,Seattle,47.655672,-122.313215
+2019-04-06,01:41,02:12,31.65,Late Night / Other,Tacos Guaymas,Seattle,47.67815,-122.3277
+2019-04-07,20:59,21:28,28.57,Dinner,Other Coast Cafe,Seattle,47.624623,-122.356515
+2019-04-13,01:26,01:48,21.75,Late Night / Other,Homegrown,Seattle,47.638554,-122.357318
+2019-04-13,04:37,05:54,76.53,Late Night / Other,How To Cook A Wolf,Seattle,47.63869,-122.35676
+2019-04-14,01:40,02:29,49.33,Late Night / Other,"""Shultzy's Sausage""",Seattle,47.65728,-122.313172
+2019-04-15,01:04,01:52,47.6,Late Night / Other,Chipotle Mexican Grill,Seattle,47.659223,-122.313346
+2019-04-15,01:54,02:20,25.98,Late Night / Other,Nasai Teriyaki 3,Seattle,47.65999,-122.31337
+2019-04-17,01:40,02:46,65.77,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2019-04-21,02:35,03:28,53.5,Late Night / Other,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2019-04-23,01:45,02:14,28.63,Late Night / Other,Thaiger Room,Seattle,47.65918,-122.31299
+2019-04-24,01:42,02:01,18.77,Late Night / Other,"""Shultzy's Sausage""",Seattle,47.65728,-122.313172
+2019-04-25,23:46,01:01,74.98,Late Night / Other,Caffe Ladro,Seattle,47.607975,-122.338859
+2019-04-26,17:56,18:37,41.47,Dinner,Big Time Brewery & Alehouse,Seattle,47.657865,-122.313288
+2019-04-26,22:56,23:19,23.12,Late Night / Other,Big Time Brewery & Alehouse,Seattle,47.657865,-122.313288
+2019-04-27,18:21,19:21,60.43,Dinner,"""Mc Donald's""",Seattle,47.667744,-122.300347
+2019-04-28,00:06,00:37,31.28,Late Night / Other,Winco Foods,Bellingham,48.786943,-122.481692
+2019-04-28,00:57,03:04,126.85,Late Night / Other,Olive Garden Italian Kitchen,Bellingham,48.795457,-122.485171
+2019-05-02,02:46,03:14,28.32,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2019-05-06,18:03,18:26,23.5,Dinner,Blue C Sushi,Seattle,47.66212,-122.29844
+2019-05-09,19:22,20:01,38.9,Dinner,Honeyhole Sandwiches,Seattle,47.614012,-122.323007
+2019-05-10,21:26,21:57,30.3,Dinner,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2019-05-11,00:25,00:59,34.33,Late Night / Other,Jai Thai,Seattle,47.62096,-122.32113
+2019-05-11,03:33,04:47,74.65,Late Night / Other,Mezcaleria Oaxaca,Seattle,47.637784,-122.357001
+2019-05-11,22:59,23:47,48.7,Late Night / Other,Americana,Seattle,47.620565,-122.320958
+2019-05-12,00:46,01:15,28.73,Late Night / Other,LA Cocina Santiago,Seattle,47.62293,-122.32072
+2019-05-12,02:57,03:50,52.33,Late Night / Other,Brownchicken Browncow,Seattle,47.620325,-122.32082
+2019-05-12,04:16,04:35,18.87,Late Night / Other,Brownchicken Browncow,Seattle,47.620325,-122.32082
+2019-05-22,01:44,02:34,50.37,Late Night / Other,"""Costa's Restaurant""",Seattle,47.66293,-122.31329
+2019-05-23,23:02,23:19,17.72,Late Night / Other,SUBWAY,Seattle,47.658792,-122.313326
+2019-05-23,23:28,00:02,34.02,Late Night / Other,Aladdin Falafel Corner,Seattle,47.66236,-122.31335
+2019-05-26,22:17,22:56,39.08,Late Night / Other,Puerto Vallarta Restaurant,Seattle,47.56047,-122.38699
+2019-05-26,23:11,23:36,24.75,Late Night / Other,Kizuki Ramen & Izakaya,Seattle,47.561,-122.385922
+2019-05-28,03:37,04:46,68.3,Late Night / Other,"""Shultzy's Sausage""",Seattle,47.65728,-122.313172
+2019-05-29,19:24,19:43,18.35,Dinner,Hokkaido Ramen Santouka,Seattle,47.662311,-122.299124
+2019-06-01,01:15,02:41,86.4,Late Night / Other,Tropicos Breeze,Seattle,47.69996,-122.34432
+2019-06-14,19:07,19:40,33.08,Dinner,Blue C Sushi,Seattle,47.66212,-122.29844
+2019-06-18,03:06,03:24,18.2,Late Night / Other,Slice Box,Seattle,47.587376,-122.334283
+2019-06-19,17:12,17:40,28.38,Dinner,Palermo,Seattle,47.621935,-122.312596
+2019-06-19,22:20,22:39,18.33,Late Night / Other,Piatti Ristorante & Bar,Seattle,47.66257,-122.29805
+2019-06-19,22:39,22:58,18.43,Late Night / Other,Piatti Ristorante & Bar,Seattle,47.66257,-122.29805
+2019-06-20,19:11,20:06,54.32,Dinner,"""Costa's Restaurant""",Seattle,47.66293,-122.31329
+2019-06-22,02:41,03:10,29.35,Late Night / Other,"""Ma'Ono Fried Chicken""",Seattle,47.662478,-122.299852
+2019-06-28,14:36,15:04,28.8,Lunch,Coastal Kitchen,Seattle,47.622999,-122.312714
+2019-07-03,00:55,01:15,19.57,Late Night / Other,Honeyhole Sandwiches,Seattle,47.614012,-122.323007
+2019-07-03,01:16,01:47,30.25,Late Night / Other,Kyoto Teriyaki,Seattle,47.614031,-122.32142
+2019-07-06,01:25,02:09,44.6,Late Night / Other,Shalimar Restaurant,Seattle,47.658759,-122.312883
+2019-07-06,02:58,04:04,66.08,Late Night / Other,University Pizzeria,Seattle,47.662162,-122.313447
+2019-07-06,04:16,04:49,32.85,Late Night / Other,Village Sushi,Seattle,47.667187,-122.313125
+2019-07-07,23:32,00:08,35.88,Late Night / Other,Pasta & Co,Seattle,47.662336,-122.299854
+2019-07-10,21:44,22:14,30.0,Dinner,Bombay Grill,Seattle,47.718468,-122.295567
+2019-07-12,20:49,21:24,34.63,Dinner,"""Costa's Restaurant""",Seattle,47.66293,-122.31329
+2019-07-15,17:23,17:42,19.67,Dinner,"""Costa's Restaurant""",Seattle,47.66293,-122.31329
+2019-07-15,17:50,18:46,55.2,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2019-07-19,02:52,03:30,37.22,Late Night / Other,Kimchi Bistro,Seattle,47.620571,-122.321287
+2019-07-19,03:32,03:50,18.42,Late Night / Other,Chili Basil Thai Grill,Seattle,47.620202,-122.321278
+2019-07-21,00:58,01:24,26.15,Late Night / Other,India Bistro LTD,Seattle,47.6755,-122.31756
+2019-07-21,01:49,02:40,50.67,Late Night / Other,Krittika Noodles & Thai,Seattle,47.675685,-122.325706
+2019-07-21,23:17,00:01,44.22,Late Night / Other,Volunteer Park Cafe,Seattle,47.632445,-122.310255
+2019-07-22,03:08,03:32,24.72,Late Night / Other,Cedars Indian Food On Brooklyn,Seattle,47.664756,-122.314527
+2019-07-23,01:36,02:15,39.18,Late Night / Other,U Don Fresh Japanese Noodle,Seattle,47.661735,-122.313192
+2019-07-24,02:17,02:35,17.7,Late Night / Other,Sunset Fried Chicken Sndwchs,Seattle,47.615514,-122.316795
+2019-07-24,17:26,18:05,38.6,Dinner,Coastal Kitchen,Seattle,47.622999,-122.312714
+2019-07-28,00:57,01:32,34.58,Late Night / Other,Bluestone Bistro,Seattle,47.6194,-122.32442
+2019-07-28,02:10,02:31,20.27,Late Night / Other,Aloha Plates,Seattle,47.59748,-122.326978
+2019-08-06,01:29,01:47,17.62,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2019-08-07,04:36,04:56,19.97,Late Night / Other,"""Mc Donald's""",Tacoma,47.163284,-122.483083
+2019-08-10,02:29,03:23,54.55,Late Night / Other,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2019-08-11,23:18,23:40,21.83,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2019-08-12,00:24,01:10,46.32,Late Night / Other,Sunset Fried Chicken Sndwchs,Seattle,47.615514,-122.316795
+2019-08-14,17:29,17:47,18.05,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2019-08-15,17:55,18:49,53.93,Dinner,Tahn Brothers Restaurant,Seattle,47.65858,-122.3134
+2019-08-24,20:00,20:16,15.57,Dinner,Big Time Brewery & Alehouse,Seattle,47.657865,-122.313288
+2019-08-25,03:28,04:08,39.83,Late Night / Other,Baguette Box,Seattle,47.61487,-122.32846
+2019-08-28,23:39,01:11,91.67,Late Night / Other,"""Costa's Restaurant""",Seattle,47.66293,-122.31329
+2019-09-03,17:22,18:17,54.73,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2019-09-03,21:44,22:27,42.63,Dinner,Safeway,Seattle,47.664281,-122.313907
+2019-09-03,22:58,23:30,31.98,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2019-09-03,23:31,00:19,48.05,Late Night / Other,Seoul Posu House,Seattle,47.662487,-122.31278
+2019-09-04,00:20,00:49,28.7,Late Night / Other,"""Costa's Restaurant""",Seattle,47.66293,-122.31329
+2019-09-05,17:40,18:21,40.07,Dinner,Sarduccis,Seattle,47.65795,-122.313574
+2019-09-07,20:34,20:52,17.9,Dinner,Mr Gyros,Seattle,47.661395,-122.325983
+2019-09-07,22:20,22:48,27.72,Late Night / Other,Blue Water Taco Grill,Seattle,47.62379,-122.35689
+2019-09-07,23:40,00:03,23.53,Late Night / Other,Jakes Coffee,Seattle,47.663144,-122.315124
+2019-09-10,21:52,22:11,18.95,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2019-09-14,01:39,02:13,33.58,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2019-09-14,08:08,08:35,26.5,Breakfast,"""Cafe O'Dessert""",Seattle,47.663906,-122.313158
+2019-09-17,05:16,06:01,45.62,Breakfast,University Teriyaki,Seattle,47.65718,-122.312935
+2019-09-17,17:32,17:50,17.7,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2019-09-17,17:50,18:18,27.93,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2019-09-21,22:10,22:55,44.88,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2019-09-24,18:32,19:26,53.97,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2019-09-29,04:04,04:49,44.95,Late Night / Other,U Don Fresh Japanese Noodle,Seattle,47.661735,-122.313192
+2019-09-30,01:37,01:58,20.72,Late Night / Other,Sarduccis,Seattle,47.65795,-122.313574
+2019-10-01,00:42,01:16,34.52,Late Night / Other,U Don Fresh Japanese Noodle,Seattle,47.661735,-122.313192
+2019-10-02,02:10,02:40,29.7,Late Night / Other,"""Costa's Restaurant""",Seattle,47.66293,-122.31329
+2019-10-05,21:13,21:30,17.18,Dinner,SUBWAY,Seattle,47.658792,-122.313326
+2019-10-05,21:35,21:54,18.37,Dinner,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2019-10-05,21:56,22:17,20.53,Dinner,Potbelly Sandwich Shop,Seattle,47.662048,-122.312787
+2019-10-08,02:01,02:30,28.62,Late Night / Other,Caliburger,Seattle,47.661662,-122.313454
+2019-10-10,03:45,05:08,82.93,Late Night / Other,Roosevelt Ale House,Seattle,47.69284,-122.3174
+2019-10-13,01:32,02:01,28.65,Late Night / Other,Rain City Burgers,Seattle,47.676006,-122.317572
+2019-10-18,02:31,02:57,25.83,Late Night / Other,"""Cafe O'Dessert""",Seattle,47.663906,-122.313158
+2019-10-19,02:17,03:14,57.18,Late Night / Other,Jamjuree,Seattle,47.623462,-122.312941
+2019-10-19,03:40,05:01,81.67,Late Night / Other,Barrio Capitol Hill,Seattle,47.613652,-122.316767
+2019-10-19,05:09,05:44,34.6,Breakfast,City Catering Co,Seattle,47.615453,-122.314568
+2019-10-19,16:57,17:28,30.93,Dinner,"""Glo's""",Seattle,47.6193,-122.32455
+2019-10-20,21:52,22:40,47.97,Dinner,Roro Bbq & Grill,Seattle,47.651193,-122.342424
+2019-10-21,02:58,03:51,53.5,Late Night / Other,U Don Fresh Japanese Noodle,Seattle,47.661735,-122.313192
+2019-10-22,18:24,19:10,46.33,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2019-10-26,03:42,04:41,58.87,Late Night / Other,Chipotle Mexican Grill,Seattle,47.659223,-122.313346
+2019-10-27,03:53,04:56,62.85,Late Night / Other,Tokyo House Inc,Bellingham,48.746525,-122.475256
+2019-10-29,03:20,03:35,15.47,Late Night / Other,U Don Fresh Japanese Noodle,Seattle,47.661735,-122.313192
+2019-10-30,03:04,04:35,90.9,Late Night / Other,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2019-10-31,04:47,05:02,15.2,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2019-11-02,02:09,02:38,29.33,Late Night / Other,"""Boar's Nest""",Seattle,47.669678,-122.382682
+2019-11-02,03:31,05:22,110.5,Late Night / Other,"""Lil Woody's""",Seattle,47.668743,-122.384042
+2019-11-03,06:12,08:15,123.43,Breakfast,Sodo Deli,Seattle,47.574583,-122.333697
+2019-11-03,22:31,22:48,17.22,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2019-11-05,00:52,01:29,36.45,Late Night / Other,Fred Meyer,Seattle,47.72399,-122.29233
+2019-11-05,19:23,19:38,15.55,Dinner,Baguette Box,Seattle,47.61487,-122.32846
+2019-11-06,01:48,03:11,82.9,Late Night / Other,"""Applebee's""",Chehalis,46.67764,-122.975484
+2019-11-07,20:26,20:59,32.78,Dinner,Dawns Delectables,Centralia,46.717341,-122.953777
+2019-11-09,02:41,02:58,16.5,Late Night / Other,Pal Do World,Lakewood,47.169074,-122.482373
+2019-11-09,03:04,03:26,21.92,Late Night / Other,Pal Do World,Lakewood,47.169074,-122.482373
+2019-11-14,03:36,04:14,37.92,Late Night / Other,Blue C Sushi,Seattle,47.66212,-122.29844
+2019-11-17,03:19,04:00,40.95,Late Night / Other,SUBWAY,Seattle,47.658792,-122.313326
+2019-11-17,04:10,04:26,15.73,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2019-11-18,01:42,02:57,75.13,Late Night / Other,Judy Fus Snappy Dragon,Seattle,47.693625,-122.317932
+2019-11-18,22:05,22:37,32.75,Late Night / Other,Jack In The Box,Seattle,47.66465,-122.313424
+2019-11-19,01:38,02:21,42.7,Late Night / Other,Honeyhole Sandwiches,Seattle,47.614012,-122.323007
+2019-11-19,02:23,02:51,28.07,Late Night / Other,Kyoto Teriyaki,Seattle,47.614031,-122.32142
+2019-11-23,02:07,02:30,22.92,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2019-11-23,23:28,23:47,19.2,Late Night / Other,Aladdin Falafel Corner,Seattle,47.66236,-122.31335
+2019-12-01,02:26,02:48,21.5,Late Night / Other,Rancho Bravo Tacos,Seattle,47.614993,-122.319052
+2019-12-02,23:44,00:27,43.6,Late Night / Other,"""Vera's Restaurant""",Seattle,47.667749,-122.384827
+2019-12-03,17:36,18:26,50.07,Dinner,Tahn Brothers Restaurant,Seattle,47.65858,-122.3134
+2019-12-09,00:49,01:14,25.0,Late Night / Other,Green House,Seattle,47.657155,-122.314088
+2019-12-10,18:17,19:03,46.22,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2019-12-12,01:39,02:14,35.75,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2019-12-13,18:47,19:06,19.32,Dinner,"""Shultzy's Sausage""",Seattle,47.65728,-122.313172
+2019-12-18,00:15,00:41,26.12,Late Night / Other,Noodle Nation,Seattle,47.65926,-122.31296
+2019-12-20,18:32,19:15,43.53,Dinner,Tahn Brothers Restaurant,Seattle,47.65858,-122.3134
+2019-12-21,23:24,23:50,25.47,Late Night / Other,Rockcreek Seafood & Spirits,Seattle,47.659502,-122.349631
+2019-12-23,23:04,00:16,72.48,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2019-12-25,19:08,19:24,15.87,Dinner,"""Delfino's Chicago Style Pizza""",Seattle,47.663242,-122.299146
+2019-12-29,03:28,05:20,112.2,Late Night / Other,"""Lil Woody's""",Seattle,47.668743,-122.384042
+2020-01-04,19:09,20:08,58.77,Dinner,University Pizzeria,Seattle,47.662162,-122.313447
+2020-01-04,21:11,21:33,22.87,Dinner,Masala Mirch,Seattle,47.62033,-122.32109
+2020-01-05,00:20,00:54,34.68,Late Night / Other,Honeyhole Sandwiches,Seattle,47.614012,-122.323007
+2020-01-05,22:38,23:07,28.7,Late Night / Other,University Pizzeria,Seattle,47.662162,-122.313447
+2020-01-06,20:19,21:01,42.82,Dinner,Which WICH Superior Sandwiches,Seattle,47.663994,-122.313023
+2020-01-06,21:57,22:16,19.0,Dinner,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2020-01-08,02:21,02:40,18.25,Late Night / Other,U Don Fresh Japanese Noodle,Seattle,47.661735,-122.313192
+2020-01-10,08:09,10:03,114.08,Breakfast,Fado Irish Publishing,Seattle,47.603481,-122.335597
+2020-01-12,18:28,19:51,82.72,Dinner,"""Costa's Restaurant""",Seattle,47.66293,-122.31329
+2020-01-12,20:06,20:22,16.53,Dinner,Pho Shizzle2,Seattle,47.65933,-122.31335
+2020-01-12,20:35,20:52,16.65,Dinner,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2020-01-14,18:23,19:10,46.97,Dinner,Tahn Brothers Restaurant,Seattle,47.65858,-122.3134
+2020-01-17,06:19,07:04,45.17,Breakfast,Haru Sushi,Seattle,47.65964,-122.31337
+2020-01-19,02:43,02:59,16.4,Late Night / Other,LA Creperie Voila,Seattle,47.612134,-122.332057
+2020-01-19,05:01,06:37,95.33,Breakfast,Blue C Sushi,Seattle,47.61201,-122.33353
+2020-01-24,03:38,04:07,29.45,Late Night / Other,"""Ivar's Salmon House""",Seattle,47.653614,-122.324059
+2020-01-25,01:09,01:33,24.35,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2020-01-25,03:05,05:30,145.65,Late Night / Other,Naked City Brewing,Seattle,47.691817,-122.355253
+2020-01-25,20:06,21:01,55.52,Dinner,"""Jodee's Bakery""",Seattle,47.680757,-122.32478
+2020-01-26,00:27,01:15,47.55,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2020-01-26,18:50,19:08,18.4,Dinner,"""Jimmy John's""",Seattle,47.669125,-122.37698
+2020-01-26,19:17,20:01,44.55,Dinner,"""Vera's Restaurant""",Seattle,47.667749,-122.384827
+2020-01-26,20:02,20:42,39.85,Dinner,Ballard Station Public House,Seattle,47.668954,-122.386399
+2020-01-27,01:00,02:03,62.53,Late Night / Other,Cafe Solstice,Seattle,47.657397,-122.312928
+2020-01-28,02:54,04:52,118.35,Late Night / Other,Momiji Restaurant,Seattle,47.61479,-122.316433
+2020-01-30,00:06,01:16,69.62,Late Night / Other,Korean Tofu House,Seattle,47.658316,-122.314297
+2020-01-30,20:44,21:17,32.72,Dinner,U Don Fresh Japanese Noodle,Seattle,47.661735,-122.313192
+2020-01-31,01:54,03:11,77.68,Late Night / Other,Thanh VI,Seattle,47.659,-122.31302
+2020-02-01,19:34,20:01,26.73,Dinner,KFC,Centralia,46.717834,-122.96112
+2020-02-02,02:09,02:32,22.73,Late Night / Other,Pal Do World,Lakewood,47.169074,-122.482373
+2020-02-02,02:47,03:57,70.33,Late Night / Other,SUBWAY,Lakewood,47.16148,-122.484589
+2020-02-03,00:57,02:49,112.08,Late Night / Other,Olive Garden Italian Kitchen,Olympia,47.040258,-122.932205
+2020-02-05,20:14,20:34,19.78,Dinner,Dawns Delectables,Centralia,46.717341,-122.953777
+2020-02-05,21:09,21:48,38.53,Dinner,Casadores Mexican Restaurant,Centralia,46.718563,-122.953729
+2020-02-05,21:51,00:01,130.32,Dinner,Boccata Deli & Market,Centralia,46.71942,-122.953366
+2020-02-06,00:35,01:44,69.27,Late Night / Other,"""Applebee's""",Chehalis,46.67764,-122.975484
+2020-02-07,04:30,05:12,41.3,Late Night / Other,Beths Cafe,Seattle,47.6821,-122.34473
+2020-02-08,20:58,21:48,50.37,Dinner,Sushi Tengu,Seattle,47.702475,-122.324811
+2020-02-09,02:28,04:57,149.38,Late Night / Other,Crumble & Flake,Seattle,47.617896,-122.326423
+2020-02-09,23:33,00:00,26.27,Late Night / Other,Tahn Brothers Restaurant,Seattle,47.65858,-122.3134
+2020-02-10,00:51,02:17,86.25,Late Night / Other,Faire Gallery Cafe,Seattle,47.616615,-122.327558
+2020-02-10,22:22,23:23,60.87,Late Night / Other,Korean Tofu House,Seattle,47.658316,-122.314297
+2020-02-11,22:11,23:16,65.18,Late Night / Other,"""Memo's Mexican Food""",Seattle,47.66433,-122.31327
+2020-02-11,23:17,00:04,47.02,Late Night / Other,"""Costa's Restaurant""",Seattle,47.66293,-122.31329
+2020-02-15,00:41,00:58,17.2,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-02-16,02:08,03:25,77.15,Late Night / Other,Korean Tofu House,Seattle,47.658316,-122.314297
+2020-02-19,19:21,19:54,33.32,Dinner,SUBWAY,Seattle,47.658792,-122.313326
+2020-02-19,19:58,20:29,30.97,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-02-19,20:47,21:56,68.5,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-02-19,22:11,22:45,33.28,Late Night / Other,"""Cafe O'Dessert""",Seattle,47.663906,-122.313158
+2020-02-20,02:21,03:14,53.02,Late Night / Other,Sushi Naomi,Seattle,47.692242,-122.355258
+2020-02-20,21:29,21:47,17.98,Dinner,Safeway,Seattle,47.664281,-122.313907
+2020-02-21,09:12,09:57,45.2,Breakfast,Golden Singha Thai,Seattle,47.61823,-122.34723
+2020-02-21,10:09,10:33,23.98,Breakfast,Tilikum Place Cafe,Seattle,47.618058,-122.347631
+2020-02-21,19:09,20:16,66.78,Dinner,Aladdin Falafel Corner,Seattle,47.66236,-122.31335
+2020-02-21,20:17,20:36,19.13,Dinner,University Pizzeria,Seattle,47.662162,-122.313447
+2020-02-21,20:40,21:11,31.58,Dinner,Potbelly Sandwich Shop,Seattle,47.662048,-122.312787
+2020-02-21,21:11,21:31,20.08,Dinner,Potbelly Sandwich Shop,Seattle,47.662048,-122.312787
+2020-02-21,21:35,22:02,26.97,Dinner,Potbelly Sandwich Shop,Seattle,47.662048,-122.312787
+2020-02-22,00:47,01:55,67.38,Late Night / Other,Chipotle Mexican Grill,Seattle,47.659223,-122.313346
+2020-02-22,19:07,20:22,75.02,Dinner,Jade Garden,Seattle,47.598424,-122.323687
+2020-02-22,20:34,21:03,29.73,Dinner,"""Armandino's Salumi""",Seattle,47.59975,-122.33045
+2020-02-23,02:56,03:38,41.68,Late Night / Other,Kimchi Bistro,Seattle,47.620571,-122.321287
+2020-02-23,03:52,05:30,98.2,Late Night / Other,Lost Lake Cafe & Lounge,Seattle,47.61422,-122.31963
+2020-02-23,21:01,21:43,42.52,Dinner,Kimchi Bistro,Seattle,47.620571,-122.321287
+2020-02-27,22:58,23:33,35.55,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-02-27,23:35,00:04,28.35,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-02-28,00:06,02:32,145.93,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-02-28,02:33,03:21,47.77,Late Night / Other,University Pizzeria,Seattle,47.662162,-122.313447
+2020-02-29,00:11,01:48,97.47,Late Night / Other,Wild Rye Cafe Bakery,Seattle,47.612405,-122.331642
+2020-02-29,21:23,22:22,58.95,Dinner,Cheesecake Factory,Seattle,47.611899,-122.332887
+2020-02-29,23:35,00:07,32.72,Late Night / Other,Cheesecake Factory,Seattle,47.611899,-122.332887
+2020-03-01,20:03,20:22,19.62,Dinner,Cheesecake Factory,Seattle,47.611899,-122.332887
+2020-03-01,21:51,22:39,48.58,Dinner,Cheesecake Factory,Seattle,47.611899,-122.332887
+2020-03-06,06:49,08:08,79.6,Breakfast,"""Freddy Junior's""",Seattle,47.614513,-122.320868
+2020-03-07,00:26,00:48,21.97,Late Night / Other,Cedars Indian Food On Brooklyn,Seattle,47.664756,-122.314527
+2020-03-07,02:19,03:33,73.75,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2020-03-08,03:22,04:12,50.38,Late Night / Other,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2020-03-08,04:51,05:10,18.13,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2020-03-10,00:37,01:15,38.0,Late Night / Other,Bimbos Bitchin Burrito Kitchen,Seattle,47.61397,-122.31875
+2020-03-10,01:29,01:55,26.22,Late Night / Other,Bimbos Bitchin Burrito Kitchen,Seattle,47.61397,-122.31875
+2020-03-10,02:05,02:25,20.8,Late Night / Other,Honeyhole Sandwiches,Seattle,47.614012,-122.323007
+2020-03-10,04:12,05:41,88.55,Late Night / Other,Lindas Tavern,Seattle,47.61521,-122.322866
+2020-03-13,04:27,05:15,47.9,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2020-03-14,02:38,03:25,47.1,Late Night / Other,University Pizzeria,Seattle,47.662162,-122.313447
+2020-03-15,17:31,18:15,44.17,Dinner,Sushi Tengu,Seattle,47.702475,-122.324811
+2020-03-17,01:16,01:43,26.35,Late Night / Other,Sizzle Pie,Seattle,47.612719,-122.318909
+2020-03-17,02:45,03:10,24.68,Late Night / Other,Sizzle Pie,Seattle,47.612719,-122.318909
+2020-03-19,21:01,21:26,25.42,Dinner,Shalimar Restaurant,Seattle,47.658759,-122.312883
+2020-03-20,02:26,02:48,21.87,Late Night / Other,Joey Kitchen At U Village,Seattle,47.661686,-122.298478
+2020-03-22,22:11,22:43,32.33,Late Night / Other,"""Costa's Restaurant""",Seattle,47.66293,-122.31329
+2020-03-23,00:15,01:01,46.22,Late Night / Other,Tahn Brothers Restaurant,Seattle,47.65858,-122.3134
+2020-03-23,05:57,07:09,71.77,Breakfast,Baguette Box,Seattle,47.61487,-122.32846
+2020-03-23,07:23,08:55,92.07,Breakfast,Baguette Box,Seattle,47.61487,-122.32846
+2020-03-28,05:06,05:49,43.12,Breakfast,Sizzle Pie,Seattle,47.612719,-122.318909
+2020-03-28,09:30,10:17,46.82,Breakfast,IHOP Restaurant,Seattle,47.611919,-122.319637
+2020-03-29,08:41,09:41,59.8,Breakfast,Kyoto Teriyaki,Seattle,47.614031,-122.32142
+2020-03-30,05:41,06:17,36.42,Breakfast,"""Mc Donald's""",Seattle,47.667744,-122.300347
+2020-04-02,17:12,17:32,19.6,Dinner,Cedars Indian Food On Brooklyn,Seattle,47.664756,-122.314527
+2020-04-04,18:00,18:35,35.32,Dinner,Ohanas,Seattle,47.612704,-122.345764
+2020-04-04,23:32,00:04,31.98,Late Night / Other,Caffe Ladro,Seattle,47.607975,-122.338859
+2020-04-05,00:05,00:37,31.92,Late Night / Other,Caffe Ladro,Seattle,47.607975,-122.338859
+2020-04-05,19:42,20:02,20.85,Dinner,Gorditos,Seattle,47.69046,-122.35579
+2020-04-06,01:29,02:04,34.73,Late Night / Other,Potbelly Sandwich Shop,Seattle,47.662048,-122.312787
+2020-04-06,02:05,02:38,32.48,Late Night / Other,"""Taste Of Xi'An""",Seattle,47.661971,-122.31345
+2020-04-07,02:44,03:45,60.2,Late Night / Other,Hokkaido Ramen Santouka,Seattle,47.662311,-122.299124
+2020-04-09,02:18,03:32,74.62,Late Night / Other,Thanh VI,Seattle,47.659,-122.31302
+2020-04-09,20:39,20:55,15.45,Dinner,Antojitos Pablanos El Sapo LLC,Seattle,47.73088,-122.34473
+2020-04-10,05:05,06:26,81.57,Breakfast,Crocodile,Seattle,47.613589,-122.344281
+2020-04-10,06:29,06:46,17.73,Breakfast,Crocodile,Seattle,47.613589,-122.344281
+2020-04-11,20:54,21:15,21.7,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-04-12,03:46,04:09,22.42,Late Night / Other,Sunset Fried Chicken Sndwchs,Seattle,47.615514,-122.316795
+2020-04-13,17:35,18:05,29.5,Dinner,"""Mc Donald's""",Seattle,47.667744,-122.300347
+2020-04-13,20:04,20:31,26.92,Dinner,"""Taste Of Xi'An""",Seattle,47.661971,-122.31345
+2020-04-14,05:32,05:54,22.9,Breakfast,Fado Irish Publishing,Seattle,47.603481,-122.335597
+2020-04-16,18:37,19:35,57.93,Dinner,"""Shari's Aurora 196""",Shoreline,47.74041,-122.3449
+2020-04-18,01:21,02:28,67.62,Late Night / Other,Korean Tofu House,Seattle,47.658316,-122.314297
+2020-04-18,21:04,21:21,16.77,Dinner,Ichi Bento,Shoreline,47.754221,-122.313776
+2020-04-19,03:18,03:51,32.42,Late Night / Other,Demetris Woodstone Taverna,Edmonds,47.812553,-122.38211
+2020-04-20,23:51,00:19,28.45,Late Night / Other,Pho Shizzle2,Seattle,47.65933,-122.31335
+2020-04-21,21:21,22:04,43.05,Dinner,Five Guys,Lynnwood,47.820755,-122.315636
+2020-04-22,21:52,22:52,59.57,Dinner,Pagliacci Pizza,Seattle,47.655966,-122.315167
+2020-04-23,02:21,02:42,21.12,Late Night / Other,Big Time Brewery & Alehouse,Seattle,47.657865,-122.313288
+2020-04-23,02:44,03:39,54.65,Late Night / Other,7-Eleven,Seattle,47.659062,-122.313122
+2020-04-23,05:15,06:01,46.43,Breakfast,Piatti Ristorante & Bar,Seattle,47.66257,-122.29805
+2020-04-24,05:50,07:59,128.18,Breakfast,Pho Tran Restaurant,Seattle,47.658779,-122.313544
+2020-04-24,19:29,20:59,90.2,Dinner,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2020-04-24,21:17,22:29,72.08,Dinner,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2020-04-25,21:12,22:12,60.47,Dinner,Beths Cafe,Seattle,47.6821,-122.34473
+2020-04-27,00:45,01:22,36.43,Late Night / Other,Big Time Brewery & Alehouse,Seattle,47.657865,-122.313288
+2020-04-27,02:52,04:21,89.22,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-04-29,04:45,05:16,31.13,Late Night / Other,Diesel,Seattle,47.613358,-122.314447
+2020-04-29,05:18,07:19,121.08,Breakfast,Diesel,Seattle,47.613358,-122.314447
+2020-04-29,20:16,20:32,15.98,Dinner,Whole Foods Market,Seattle,47.675024,-122.316819
+2020-04-30,19:02,19:51,49.0,Dinner,Tahn Brothers Restaurant,Seattle,47.65858,-122.3134
+2020-05-02,00:51,01:16,24.98,Late Night / Other,Madeline Bread & Desert,Seattle,47.65818,-122.31303
+2020-05-02,01:53,02:22,28.87,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2020-05-02,21:16,21:49,32.27,Dinner,University Pizzeria,Seattle,47.662162,-122.313447
+2020-05-03,01:55,02:18,22.83,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2020-05-07,02:31,02:49,17.82,Late Night / Other,Americana,Seattle,47.620565,-122.320958
+2020-05-07,22:29,23:45,75.87,Late Night / Other,"""Honeybee's Cafe""",Seattle,47.657803,-122.31329
+2020-05-08,08:50,09:06,16.28,Breakfast,Fado Irish Publishing,Seattle,47.603481,-122.335597
+2020-05-08,20:10,20:41,30.77,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2020-05-08,20:42,21:16,33.78,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2020-05-14,08:38,08:57,19.58,Breakfast,Octopus Bar & Grill LLC,Seattle,47.661186,-122.333225
+2020-05-15,06:08,07:55,106.43,Breakfast,Pho Tran Restaurant,Seattle,47.658779,-122.313544
+2020-05-16,01:21,01:41,19.75,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2020-05-17,07:15,09:28,133.37,Breakfast,Midori Teriyaki,Seattle,47.6167,-122.33108
+2020-05-18,05:11,07:11,120.12,Breakfast,Baguette Box,Seattle,47.61487,-122.32846
+2020-05-18,21:31,21:57,25.58,Dinner,Aladdin Gyro-Cery & Deli,Seattle,47.658171,-122.313278
+2020-05-19,03:03,03:43,39.9,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2020-05-19,22:25,23:13,47.93,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2020-05-21,20:33,21:38,64.47,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-05-22,21:00,21:26,25.55,Dinner,Nasai Teriyaki 3,Seattle,47.65999,-122.31337
+2020-05-22,21:28,21:46,18.48,Dinner,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2020-05-23,21:40,22:05,25.65,Dinner,Cedars Indian Food On Brooklyn,Seattle,47.664756,-122.314527
+2020-05-23,22:20,22:42,22.42,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2020-05-24,19:46,20:25,38.42,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-05-25,05:10,06:03,52.9,Breakfast,Dog In The Park,Seattle,47.610794,-122.337142
+2020-05-25,19:42,21:04,81.43,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-05-26,05:51,06:59,68.28,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-05-27,01:24,03:10,106.55,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-05-27,16:32,17:23,50.63,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-05-27,20:17,22:38,140.3,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-05-27,23:12,00:32,80.32,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-05-29,00:05,00:52,47.88,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-05-29,02:45,03:05,20.68,Late Night / Other,Eltana,Seattle,47.615286,-122.31679
+2020-05-29,06:43,08:14,90.77,Breakfast,SUBWAY,Seattle,47.658792,-122.313326
+2020-05-29,20:12,21:29,76.97,Dinner,Shawerma King,Seattle,47.660998,-122.313208
+2020-05-29,22:13,00:09,116.62,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-05-30,00:14,01:00,46.42,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-05-30,01:38,01:57,19.37,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-05-30,03:15,04:00,44.97,Late Night / Other,"""Rosita's Mexican Grill""",Seattle,47.680839,-122.324614
+2020-05-30,06:26,07:06,39.67,Breakfast,"""King's Hardware""",Seattle,47.666062,-122.38283
+2020-05-30,22:02,23:27,85.05,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2020-05-30,23:52,00:59,66.65,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-05-31,01:00,01:45,45.33,Late Night / Other,Seoul Posu House,Seattle,47.662487,-122.31278
+2020-05-31,19:58,21:25,87.48,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-01,02:42,03:03,20.9,Late Night / Other,Elliott Bay Cafe,Seattle,47.614686,-122.319842
+2020-06-01,06:15,06:54,38.4,Breakfast,Kyoto Teriyaki,Seattle,47.614031,-122.32142
+2020-06-02,20:27,21:50,82.42,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-03,23:42,00:13,31.05,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-06-05,05:59,07:02,62.82,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-05,07:04,07:31,26.88,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-05,20:32,20:58,26.62,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-06,02:04,03:53,108.98,Late Night / Other,Coco Ramen & Curry Bar Izakaya,Bellevue,47.61513,-122.198852
+2020-06-06,20:25,22:35,130.45,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-07,04:54,07:18,143.52,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-07,07:20,07:50,30.05,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-07,23:18,23:35,17.35,Late Night / Other,Jack In The Box,Seattle,47.66465,-122.313424
+2020-06-08,05:17,06:09,52.37,Breakfast,Lost Lake Cafe & Lounge,Seattle,47.61422,-122.31963
+2020-06-08,19:44,21:04,79.75,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-08,21:20,22:58,97.73,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-09,23:19,23:39,20.38,Late Night / Other,Aladdin Gyro-Cery & Deli,Seattle,47.658171,-122.313278
+2020-06-09,23:44,01:22,97.78,Late Night / Other,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2020-06-10,01:57,02:52,55.0,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-06-10,03:49,04:05,16.38,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2020-06-11,01:45,03:01,75.72,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-12,21:16,21:33,17.52,Dinner,Chaco Canyon Cafe,Seattle,47.664742,-122.315556
+2020-06-12,22:24,22:41,17.92,Late Night / Other,Cedars Indian Food On Brooklyn,Seattle,47.664756,-122.314527
+2020-06-14,01:55,02:51,55.92,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-14,03:39,05:29,110.0,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-14,21:56,22:15,19.47,Dinner,A Pizza Mart,Seattle,47.61598,-122.33426
+2020-06-15,22:50,23:14,23.9,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-17,01:16,01:56,40.37,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-18,03:27,04:03,35.68,Late Night / Other,U Don Fresh Japanese Noodle,Seattle,47.661735,-122.313192
+2020-06-18,23:03,23:55,51.78,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-06-21,01:48,02:09,21.4,Late Night / Other,Thai Tom,Seattle,47.66254,-122.31332
+2020-06-21,02:24,02:49,25.5,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2020-06-21,04:22,06:04,102.08,Late Night / Other,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2020-06-21,06:11,07:17,65.7,Breakfast,Generation Gaming Cafe,Seattle,47.661033,-122.313467
+2020-06-21,18:17,19:01,43.6,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-21,23:37,00:34,56.57,Late Night / Other,Big Time Brewery & Alehouse,Seattle,47.657865,-122.313288
+2020-06-22,00:35,02:07,92.4,Late Night / Other,Shalimar Restaurant,Seattle,47.658759,-122.312883
+2020-06-23,20:25,21:39,74.12,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2020-06-23,23:48,00:40,52.45,Late Night / Other,Cafe Mox,Seattle,47.665032,-122.380306
+2020-06-24,05:30,05:48,17.85,Breakfast,Restaurants Unlimited Inc,Seattle,47.651657,-122.352008
+2020-06-24,17:41,17:56,15.0,Dinner,"""Chili's South Indian Cuisine""",Seattle,47.65891,-122.31301
+2020-06-24,18:23,18:45,21.57,Dinner,Cedars Of Lebanon,Seattle,47.659746,-122.312859
+2020-06-25,01:47,04:02,134.87,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-25,04:03,06:18,134.9,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-26,19:06,21:31,145.42,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-27,15:38,16:51,73.1,Lunch,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2020-06-28,06:10,06:32,21.98,Breakfast,Fogon Cocina Mexicana,Seattle,47.615286,-122.32405
+2020-06-29,01:39,02:29,50.02,Late Night / Other,Octopus Bar & Grill LLC,Seattle,47.661186,-122.333225
+2020-06-29,02:45,04:42,116.73,Late Night / Other,Sunset Tavern,Seattle,47.668117,-122.385996
+2020-06-29,23:13,01:35,141.62,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-06-30,07:07,08:23,75.53,Breakfast,"""Domino's""",Seattle,47.661579,-122.330526
+2020-07-01,01:18,01:56,37.47,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-07-01,03:46,04:03,16.98,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-07-02,03:31,03:55,23.93,Late Night / Other,Chipotle Mexican Grill,Seattle,47.659223,-122.313346
+2020-07-02,03:59,04:23,23.75,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-07-02,05:04,06:12,68.12,Breakfast,"""Earl's On The Ave""",Seattle,47.660813,-122.313472
+2020-07-02,22:49,23:21,31.13,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-07-02,23:53,00:46,52.72,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-07-05,00:21,01:36,74.92,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-07-05,05:51,06:36,45.37,Breakfast,Tahn Brothers Restaurant,Seattle,47.65858,-122.3134
+2020-07-05,19:44,20:08,24.35,Dinner,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2020-07-05,23:16,23:32,16.37,Late Night / Other,"""Chili's South Indian Cuisine""",Seattle,47.65891,-122.31301
+2020-07-08,21:42,22:19,36.47,Dinner,U Don Fresh Japanese Noodle,Seattle,47.661735,-122.313192
+2020-07-10,00:00,01:11,71.03,Late Night / Other,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2020-07-10,04:29,05:01,31.17,Late Night / Other,"""Sam's Sushi Bar & Grill""",Seattle,47.66897,-122.38455
+2020-07-10,06:02,06:59,56.5,Breakfast,Billy Beach Sushi & Bar,Seattle,47.668167,-122.384351
+2020-07-10,07:00,07:31,30.9,Breakfast,Billy Beach Sushi & Bar,Seattle,47.668167,-122.384351
+2020-07-10,07:34,08:51,76.7,Breakfast,"""Hattie's Hat Restaurant""",Seattle,47.666063,-122.383221
+2020-07-10,18:51,19:41,49.32,Dinner,Chipotle Mexican Grill,Seattle,47.659223,-122.313346
+2020-07-11,05:51,06:18,26.72,Breakfast,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2020-07-12,01:32,01:55,23.3,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-07-12,02:47,03:02,15.52,Late Night / Other,Shilla Uwajimaya,Seattle,47.597484,-122.326689
+2020-07-12,08:01,08:34,33.35,Breakfast,Sushi Naomi,Seattle,47.692242,-122.355258
+2020-07-15,08:35,08:55,20.73,Breakfast,Pho Tran Restaurant,Seattle,47.658779,-122.313544
+2020-07-16,19:56,20:16,20.18,Dinner,"""Mc Donald's""",Kirkland,47.679755,-122.176579
+2020-07-17,15:40,16:53,72.98,Lunch,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-07-19,07:32,07:49,17.02,Breakfast,Quality Food Ctr,Seattle,47.66188,-122.335904
+2020-07-20,01:23,02:26,62.18,Late Night / Other,New Saigon Restaurant,Seattle,47.61189,-122.33536
+2020-07-20,05:51,07:04,73.85,Breakfast,Mediterranean Express,Seattle,47.6136,-122.32098
+2020-07-20,07:07,07:48,41.92,Breakfast,Mediterranean Express,Seattle,47.6136,-122.32098
+2020-07-20,08:16,09:23,67.9,Breakfast,"""Li'l Woody's""",Seattle,47.615057,-122.328253
+2020-07-20,09:31,10:06,34.85,Breakfast,"""Memo's Mexican Food""",Seattle,47.66433,-122.31327
+2020-07-20,18:58,19:15,17.65,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-07-20,23:40,23:56,15.98,Late Night / Other,Cheesecake Factory,Seattle,47.611899,-122.332887
+2020-07-22,01:07,02:07,60.35,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-07-22,08:55,09:22,26.4,Breakfast,Beths Cafe,Seattle,47.6821,-122.34473
+2020-07-23,01:19,02:14,55.3,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-07-23,02:28,03:11,43.43,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-07-23,22:16,22:47,31.17,Late Night / Other,Tahn Brothers Restaurant,Seattle,47.65858,-122.3134
+2020-07-23,22:57,23:13,15.33,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2020-07-23,23:24,00:08,44.27,Late Night / Other,Village Sushi,Seattle,47.667187,-122.313125
+2020-07-24,03:17,03:42,25.83,Late Night / Other,Thai Tom,Seattle,47.66254,-122.31332
+2020-07-25,00:20,00:42,21.93,Late Night / Other,University Pizzeria,Seattle,47.662162,-122.313447
+2020-07-30,00:41,00:57,16.52,Late Night / Other,Pizza Hut Express,Seattle,47.709131,-122.323941
+2020-08-02,10:02,11:13,71.1,Breakfast,IHOP Restaurant,Seattle,47.611919,-122.319637
+2020-08-03,21:40,22:16,35.75,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-08-03,22:25,22:40,15.15,Late Night / Other,"""St John's""",Seattle,47.61393,-122.32259
+2020-08-03,22:43,22:58,15.83,Late Night / Other,8 Oz Burger Bar Seattle,Seattle,47.613515,-122.321449
+2020-08-04,23:11,23:30,19.47,Late Night / Other,"""Jimmy John's""",Seattle,47.70851,-122.322883
+2020-08-06,23:36,00:04,28.28,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2020-08-07,19:05,20:29,84.52,Dinner,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2020-08-09,06:45,07:42,57.27,Breakfast,Pho Bac,Seattle,47.59875,-122.323821
+2020-08-11,01:52,02:15,22.43,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2020-08-11,02:36,04:37,121.77,Late Night / Other,Seoul Posu House,Seattle,47.662487,-122.31278
+2020-08-13,04:31,06:26,115.83,Late Night / Other,Pho Tran Restaurant,Seattle,47.658779,-122.313544
+2020-08-14,03:00,03:21,21.02,Late Night / Other,Mililani,Seattle,47.608915,-122.339683
+2020-08-14,07:36,08:07,31.5,Breakfast,"""Memo's Mexican Food""",Seattle,47.66433,-122.31327
+2020-08-17,00:07,01:36,89.5,Late Night / Other,NYC Deli Market,Seattle,47.612256,-122.333838
+2020-08-17,19:45,20:01,16.23,Dinner,Ugly Mug Cafe,Seattle,47.659765,-122.313736
+2020-08-17,22:32,22:50,17.85,Late Night / Other,"""Chili's South Indian Cuisine""",Seattle,47.65891,-122.31301
+2020-08-19,01:09,02:00,50.5,Late Night / Other,Ugly Mug Cafe,Seattle,47.659765,-122.313736
+2020-08-19,02:54,03:13,19.78,Late Night / Other,"""Sam's Sushi Bar & Grill""",Seattle,47.66897,-122.38455
+2020-08-19,06:38,06:58,20.67,Breakfast,QFC,Seattle,47.670176,-122.387517
+2020-08-20,03:40,04:35,55.25,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2020-08-21,00:10,00:27,17.28,Late Night / Other,Cedars Indian Food On Brooklyn,Seattle,47.664756,-122.314527
+2020-08-21,19:35,20:38,63.13,Dinner,Pasta Guys LLC,Seattle,47.608677,-122.341056
+2020-08-26,02:47,03:24,36.85,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-08-26,03:26,05:51,144.82,Late Night / Other,My Favorite Deli,Seattle,47.661026,-122.313941
+2020-08-28,19:53,20:11,18.32,Dinner,Pho Shizzle2,Seattle,47.65933,-122.31335
+2020-08-28,21:07,21:32,24.63,Dinner,"""Jimmy John's""",Seattle,47.70851,-122.322883
+2020-08-28,22:54,23:52,57.27,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-08-29,06:32,08:33,121.12,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-08-30,08:26,09:19,52.7,Breakfast,Pho Bac,Seattle,47.616944,-122.330829
+2020-09-03,02:58,03:57,58.83,Late Night / Other,College Inn,Seattle,47.655491,-122.312987
+2020-09-06,06:09,07:35,85.62,Breakfast,Roxys Diner,Seattle,47.65219,-122.35268
+2020-09-07,23:23,23:45,22.22,Late Night / Other,MOD Pizza,Seattle,47.658361,-122.312838
+2020-09-08,02:25,02:47,21.75,Late Night / Other,"""Jimmy John's""",Seattle,47.70851,-122.322883
+2020-09-08,05:46,06:38,51.38,Breakfast,Sizzle Pie,Seattle,47.612719,-122.318909
+2020-09-08,06:41,08:33,112.53,Breakfast,Sizzle Pie,Seattle,47.612719,-122.318909
+2020-09-08,08:35,09:08,33.43,Breakfast,Sizzle Pie,Seattle,47.612719,-122.318909
+2020-09-08,22:46,00:11,85.37,Late Night / Other,Pho Tran Restaurant,Seattle,47.658779,-122.313544
+2020-09-09,00:25,00:47,22.82,Late Night / Other,Cedars Indian Food On Brooklyn,Seattle,47.664756,-122.314527
+2020-09-10,03:30,04:12,42.18,Late Night / Other,Sarduccis,Seattle,47.65795,-122.313574
+2020-09-12,07:45,08:38,53.25,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-09-14,01:16,01:44,28.28,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2020-09-14,01:45,02:08,23.28,Late Night / Other,Seoul Posu House,Seattle,47.662487,-122.31278
+2020-09-14,07:48,08:25,36.9,Breakfast,"""Memo's Mexican Food""",Seattle,47.66433,-122.31327
+2020-09-15,02:25,02:53,28.37,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2020-09-15,03:45,04:19,33.93,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-09-15,22:37,23:48,71.52,Late Night / Other,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2020-09-18,09:20,09:59,39.4,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-09-25,21:04,21:52,48.03,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-09-27,23:29,23:57,28.4,Late Night / Other,Porkchop & Co,Seattle,47.667845,-122.383973
+2020-09-28,00:00,00:34,33.88,Late Night / Other,Palermo Pizza & Pasta-Ballard,Seattle,47.66847,-122.38239
+2020-09-30,23:31,00:08,37.42,Late Night / Other,MOD Pizza,Seattle,47.658361,-122.312838
+2020-10-02,22:42,23:42,59.15,Late Night / Other,"""Shultzy's Sausage""",Seattle,47.65728,-122.313172
+2020-10-04,02:59,03:19,20.12,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2020-10-06,06:36,06:58,22.32,Breakfast,"""Shultzy's Sausage""",Seattle,47.65728,-122.313172
+2020-10-16,09:16,09:36,20.13,Breakfast,Shawerma King,Seattle,47.660998,-122.313208
+2020-10-19,09:39,10:00,20.38,Breakfast,"""Memo's Mexican Food""",Seattle,47.66433,-122.31327
+2020-10-20,00:11,00:54,42.98,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-10-20,01:41,02:35,54.57,Late Night / Other,Seoul Posu House,Seattle,47.662487,-122.31278
+2020-10-21,03:25,03:48,22.47,Late Night / Other,Cafe Solstice,Seattle,47.657397,-122.312928
+2020-10-21,03:48,04:15,26.62,Late Night / Other,Cafe Solstice,Seattle,47.657397,-122.312928
+2020-10-22,01:55,02:10,15.17,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-10-23,01:56,02:31,35.17,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-10-25,00:48,02:17,88.88,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-10-26,19:07,19:51,43.98,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-10-27,03:07,03:34,27.23,Late Night / Other,"""Mc Donald's""",Seattle,47.668254,-122.373179
+2020-10-29,04:40,04:57,16.85,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2020-10-31,01:49,03:20,91.6,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-11-02,02:03,04:23,140.18,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-11-03,02:38,03:54,76.22,Late Night / Other,"""Applebee's""",Chehalis,46.67764,-122.975484
+2020-11-04,02:30,04:02,91.18,Late Night / Other,Olive Garden Italian Kitchen,Olympia,47.040258,-122.932205
+2020-11-05,20:47,21:55,68.43,Dinner,Tiki Tap House,Centralia,46.719205,-122.952693
+2020-11-08,01:42,02:18,35.68,Late Night / Other,Pal Do World,Lakewood,47.169074,-122.482373
+2020-11-10,23:30,23:58,28.3,Late Night / Other,Dawns Delectables,Centralia,46.717341,-122.953777
+2020-11-11,23:53,00:15,22.8,Late Night / Other,"""O'Blarney's Irish Pub""",Centralia,46.71806,-122.95382
+2020-11-13,02:27,03:23,55.35,Late Night / Other,7-Eleven,Seattle,47.659062,-122.313122
+2020-11-13,03:28,03:59,31.07,Late Night / Other,MOD Pizza,Seattle,47.658361,-122.312838
+2020-11-15,04:47,05:05,17.9,Late Night / Other,Pie,Seattle,47.65116,-122.350306
+2020-11-15,07:07,09:31,144.73,Breakfast,Ballard Mandarin,Seattle,47.668928,-122.365928
+2020-11-16,00:03,00:42,38.87,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2020-11-20,20:04,20:53,49.15,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-11-20,21:05,21:58,53.83,Dinner,Raygun Lounge,Seattle,47.614988,-122.325201
+2020-11-22,03:18,04:08,50.33,Late Night / Other,Veggie Grill,Seattle,47.610004,-122.336528
+2020-11-22,04:14,04:49,35.1,Late Night / Other,NYC Deli Market,Seattle,47.612256,-122.333838
+2020-11-23,01:23,01:47,24.02,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2020-11-24,03:11,04:28,76.67,Late Night / Other,Seoul Posu House,Seattle,47.662487,-122.31278
+2020-11-25,00:59,01:30,31.37,Late Night / Other,Ugly Mug Cafe,Seattle,47.659765,-122.313736
+2020-11-25,01:38,03:23,105.17,Late Night / Other,"""Yinzi's Kitchen""",Seattle,47.661666,-122.318342
+2020-11-25,08:12,08:36,24.1,Breakfast,Ichiro Teriyaki,Seattle,47.657588,-122.313163
+2020-11-27,01:00,01:20,20.52,Late Night / Other,LA Vaca Mexican Restaurant,Seattle,47.657743,-122.313291
+2020-11-27,23:04,00:10,66.53,Late Night / Other,Raygun Lounge,Seattle,47.614988,-122.325201
+2020-11-28,00:37,00:55,18.45,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-11-29,02:20,04:20,119.73,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-12-03,19:48,20:27,39.0,Dinner,Pho Shizzle2,Seattle,47.65933,-122.31335
+2020-12-05,18:24,20:28,123.53,Dinner,Panera Bread,Seattle,47.615899,-122.320387
+2020-12-08,20:05,21:16,71.15,Dinner,College Inn,Seattle,47.655491,-122.312987
+2020-12-08,23:42,00:02,19.25,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-12-09,00:04,00:54,49.98,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-12-09,03:37,04:10,32.98,Late Night / Other,Crocodile,Seattle,47.613589,-122.344281
+2020-12-11,00:29,01:21,51.55,Late Night / Other,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2020-12-11,08:16,10:22,125.6,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2020-12-11,21:18,21:43,24.92,Dinner,Pho Shizzle2,Seattle,47.65933,-122.31335
+2020-12-11,21:43,22:05,22.23,Dinner,Nasai Teriyaki 3,Seattle,47.65999,-122.31337
+2020-12-14,01:01,01:44,42.68,Late Night / Other,Green House,Seattle,47.657155,-122.314088
+2020-12-14,03:02,05:20,137.22,Late Night / Other,Diesel,Seattle,47.613358,-122.314447
+2020-12-15,03:14,03:30,15.98,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2020-12-17,02:47,03:05,18.12,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2020-12-18,20:02,20:52,50.02,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2020-12-18,21:11,23:22,131.1,Dinner,Raygun Lounge,Seattle,47.614988,-122.325201
+2020-12-20,21:23,21:55,31.88,Dinner,Luna Park Cafe,Seattle,47.570571,-122.370766
+2020-12-21,01:01,01:26,25.63,Late Night / Other,Pho Shizzle2,Seattle,47.65933,-122.31335
+2020-12-22,03:56,04:13,17.37,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2020-12-28,04:16,04:36,19.88,Late Night / Other,Diesel,Seattle,47.613358,-122.314447
+2020-12-28,04:36,06:34,117.62,Late Night / Other,Diesel,Seattle,47.613358,-122.314447
+2020-12-28,22:49,23:04,15.33,Late Night / Other,Kimchi Bistro,Seattle,47.620571,-122.321287
+2020-12-28,23:07,23:45,38.35,Late Night / Other,"""Julia's On Broadway""",Seattle,47.621322,-122.320541
+2020-12-30,03:00,03:15,15.07,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2020-12-30,22:35,00:06,91.38,Late Night / Other,"""Shultzy's Sausage""",Seattle,47.65728,-122.313172
+2020-12-31,02:00,02:45,45.37,Late Night / Other,Kabul Afghan Cuisine,Seattle,47.661175,-122.331143
+2021-01-03,02:39,03:42,62.25,Late Night / Other,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2021-01-05,03:44,04:19,34.45,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2021-01-07,07:13,07:40,27.22,Breakfast,Noodle Nation,Seattle,47.65926,-122.31296
+2021-01-07,07:48,08:19,30.75,Breakfast,Haru Sushi,Seattle,47.65964,-122.31337
+2021-01-08,12:29,13:25,56.67,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-01-08,13:28,15:19,111.35,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-01-08,15:25,15:44,18.65,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-01-08,16:51,17:42,50.25,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-01-11,03:48,05:04,75.53,Late Night / Other,Karma Lounge,Seattle,47.614692,-122.346668
+2021-01-11,05:15,06:10,54.87,Breakfast,Tilikum Place Cafe,Seattle,47.618058,-122.347631
+2021-01-14,04:05,04:30,24.53,Late Night / Other,Jalapeno Mex Food,Seattle,47.685993,-122.344653
+2021-01-14,06:31,08:47,135.78,Breakfast,Pho Tran Restaurant,Seattle,47.658779,-122.313544
+2021-01-14,20:05,20:22,17.4,Dinner,SUBWAY,Fife,47.242785,-122.368702
+2021-01-15,21:15,21:52,36.85,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2021-01-17,10:01,11:14,72.95,Breakfast,Lost Lake Cafe & Lounge,Seattle,47.61422,-122.31963
+2021-01-17,22:34,23:06,32.0,Late Night / Other,LA Creperie Voila,Seattle,47.612134,-122.332057
+2021-01-18,19:26,19:46,20.3,Dinner,Ichiro Teriyaki,Seattle,47.657588,-122.313163
+2021-01-19,04:44,05:03,19.15,Late Night / Other,Nasai Teriyaki 3,Seattle,47.65999,-122.31337
+2021-01-20,02:08,02:36,27.97,Late Night / Other,Milstead & Co,Seattle,47.649318,-122.347895
+2021-01-20,23:01,23:28,27.08,Late Night / Other,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2021-01-21,09:42,10:42,60.75,Breakfast,Lost Lake Cafe & Lounge,Seattle,47.61422,-122.31963
+2021-01-22,00:29,00:46,16.88,Late Night / Other,Ichiro Teriyaki,Seattle,47.657588,-122.313163
+2021-01-22,15:04,15:30,26.38,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-01-23,06:18,08:41,142.8,Breakfast,Blue Water Taco Grill,Seattle,47.575863,-122.333697
+2021-01-23,18:42,19:17,35.42,Dinner,Tahn Brothers Restaurant,Seattle,47.65858,-122.3134
+2021-01-25,05:32,05:51,19.32,Breakfast,Safeway,Seattle,47.664281,-122.313907
+2021-01-27,22:01,22:26,24.42,Late Night / Other,Ugly Mug Cafe,Seattle,47.659765,-122.313736
+2021-01-27,22:28,23:07,39.03,Late Night / Other,U Don Fresh Japanese Noodle,Seattle,47.661735,-122.313192
+2021-01-27,23:10,23:51,40.85,Late Night / Other,Seoul Posu House,Seattle,47.662487,-122.31278
+2021-01-28,18:46,19:19,33.68,Dinner,Aladdin Gyro-Cery & Deli,Seattle,47.658171,-122.313278
+2021-01-28,19:25,19:52,26.57,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-01-28,20:18,21:57,98.72,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2021-02-01,19:23,20:02,38.65,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-02-02,21:28,21:43,15.37,Dinner,My Favorite Deli,Seattle,47.661026,-122.313941
+2021-02-02,22:19,23:00,41.7,Late Night / Other,El Oaxacano,Seattle,47.668172,-122.385709
+2021-02-03,22:24,00:01,97.25,Late Night / Other,Wild Buffalo House Of Music,Bellingham,48.750715,-122.480548
+2021-02-04,02:09,03:25,75.7,Late Night / Other,Olive Garden Italian Kitchen,Bellingham,48.795457,-122.485171
+2021-02-07,02:46,03:11,25.25,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-02-07,03:24,03:48,23.68,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-02-08,20:04,20:36,31.65,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2021-02-08,20:39,21:18,39.48,Dinner,Raygun Lounge,Seattle,47.614988,-122.325201
+2021-02-11,05:04,06:00,56.03,Breakfast,SUBWAY,Seattle,47.658792,-122.313326
+2021-02-11,06:08,07:14,66.17,Breakfast,SUBWAY,Seattle,47.658792,-122.313326
+2021-02-12,21:24,22:52,87.38,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-02-18,08:31,08:49,18.0,Breakfast,Big Time Brewery & Alehouse,Seattle,47.657865,-122.313288
+2021-02-21,05:33,05:57,23.82,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-02-22,20:20,20:44,23.83,Dinner,"""Memo's Mexican Food""",Seattle,47.66433,-122.31327
+2021-02-25,21:45,22:04,19.15,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2021-02-28,00:45,02:42,116.47,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-02-28,22:20,23:07,46.55,Late Night / Other,Chipotle Mexican Grill,Seattle,47.659223,-122.313346
+2021-02-28,23:13,23:29,16.53,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-03-02,01:36,01:54,17.92,Late Night / Other,My Favorite Deli,Seattle,47.661026,-122.313941
+2021-03-05,00:30,00:57,27.35,Late Night / Other,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2021-03-05,22:58,00:30,91.67,Late Night / Other,Honeyhole Sandwiches,Seattle,47.614012,-122.323007
+2021-03-06,01:02,02:23,80.48,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-03-08,03:33,04:08,34.62,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-03-08,21:12,22:41,88.97,Dinner,Boulevard Grocery,Seattle,47.669094,-122.306177
+2021-03-09,21:01,21:48,47.27,Dinner,Tahn Brothers Restaurant,Seattle,47.65858,-122.3134
+2021-03-10,21:42,22:48,65.47,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2021-03-10,22:55,00:08,73.32,Late Night / Other,Raygun Lounge,Seattle,47.614988,-122.325201
+2021-03-11,21:49,22:26,37.57,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-03-17,02:42,03:21,38.93,Late Night / Other,Tofully,Seattle,47.59848,-122.32743
+2021-03-17,03:25,03:51,26.65,Late Night / Other,Shilla Uwajimaya,Seattle,47.597484,-122.326689
+2021-03-17,20:26,20:43,16.13,Dinner,Aladdin Gyro-Cery & Deli,Seattle,47.658171,-122.313278
+2021-03-17,20:47,21:03,15.83,Dinner,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2021-03-17,21:33,21:57,23.4,Dinner,My Favorite Deli,Seattle,47.661026,-122.313941
+2021-03-20,05:28,06:10,42.58,Breakfast,Cheesecake Factory,Seattle,47.611899,-122.332887
+2021-03-21,20:00,20:23,22.27,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-03-22,01:19,01:45,26.03,Late Night / Other,Chipotle Mexican Grill,Seattle,47.659223,-122.313346
+2021-03-28,22:25,22:44,19.32,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-03-29,09:00,09:34,33.83,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-03-30,02:04,03:27,82.95,Late Night / Other,Wayward Vegan Cafe,Seattle,47.675804,-122.319855
+2021-03-30,03:46,04:16,30.02,Late Night / Other,"""Mc Donald's""",Seattle,47.667744,-122.300347
+2021-03-31,20:43,21:09,25.65,Dinner,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2021-04-01,21:33,22:12,38.92,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2021-04-01,22:55,23:12,17.53,Late Night / Other,Nasai Teriyaki 3,Seattle,47.65999,-122.31337
+2021-04-02,21:30,22:20,49.3,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-04-03,23:31,01:42,130.95,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-04-06,00:19,00:44,24.9,Late Night / Other,"""St John's""",Seattle,47.61393,-122.32259
+2021-04-06,00:51,01:18,27.52,Late Night / Other,Pine Food Store,Seattle,47.614989,-122.32319
+2021-04-06,01:33,02:18,44.67,Late Night / Other,"""Bill's Off Broadway""",Seattle,47.615209,-122.322145
+2021-04-06,02:59,03:21,22.33,Late Night / Other,Pagliacci Pizza,Seattle,47.625516,-122.292833
+2021-04-07,03:20,04:50,90.1,Late Night / Other,Pine Food Store,Seattle,47.614989,-122.32319
+2021-04-08,07:53,08:37,44.28,Breakfast,"""Earl's On The Ave""",Seattle,47.660813,-122.313472
+2021-04-09,21:37,22:18,41.72,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2021-04-09,22:59,23:26,27.1,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-04-10,20:01,20:47,46.67,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-04-12,17:13,19:42,148.78,Dinner,"""Yinzi's Kitchen""",Seattle,47.661666,-122.318342
+2021-04-14,03:35,03:51,16.75,Late Night / Other,Aladdin Gyro-Cery & Deli,Seattle,47.658171,-122.313278
+2021-04-14,21:13,21:31,18.63,Dinner,Belle Epicurean,Seattle,47.605517,-122.333249
+2021-04-14,21:41,22:15,33.47,Dinner,SUBWAY,Seattle,47.608646,-122.338786
+2021-04-16,23:07,23:56,48.97,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2021-04-20,11:29,12:21,52.1,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-04-20,12:28,14:06,97.5,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-04-20,14:09,16:09,120.55,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-04-20,21:56,22:12,15.92,Dinner,Big Time Brewery & Alehouse,Seattle,47.657865,-122.313288
+2021-04-23,02:17,03:38,80.85,Late Night / Other,Shays Restaurant,Shoreline,47.744703,-122.344989
+2021-04-23,06:08,08:07,119.58,Breakfast,Pho Tran Restaurant,Seattle,47.658779,-122.313544
+2021-04-24,12:24,13:09,45.0,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-04-24,13:14,14:59,104.62,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-04-25,19:56,20:49,52.6,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-04-27,03:23,03:45,22.63,Late Night / Other,Which WICH Superior Sandwiches,Seattle,47.663994,-122.313023
+2021-05-02,07:41,08:19,37.43,Breakfast,"""Earl's On The Ave""",Seattle,47.660813,-122.313472
+2021-05-02,08:21,08:47,26.17,Breakfast,"""Earl's On The Ave""",Seattle,47.660813,-122.313472
+2021-05-04,23:38,00:06,27.8,Late Night / Other,Independent Pizzeria,Seattle,47.636383,-122.277058
+2021-05-06,21:06,21:23,17.77,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-08,19:58,20:16,18.77,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-09,03:26,04:14,47.95,Late Night / Other,Chili Basil Thai Grill,Seattle,47.620202,-122.321278
+2021-05-09,05:21,06:14,53.37,Breakfast,Midori Teriyaki,Seattle,47.6167,-122.33108
+2021-05-09,06:32,07:00,27.77,Breakfast,Midori Teriyaki,Seattle,47.6167,-122.33108
+2021-05-09,07:15,08:33,77.85,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-09,21:46,22:01,15.05,Dinner,Black Bottle-Seattle,Seattle,47.615564,-122.349614
+2021-05-09,22:07,22:30,23.07,Late Night / Other,Black Bottle-Seattle,Seattle,47.615564,-122.349614
+2021-05-09,23:06,23:26,19.32,Late Night / Other,Pasta Guys LLC,Seattle,47.608677,-122.341056
+2021-05-10,23:34,23:54,19.55,Late Night / Other,Nasai Teriyaki 3,Seattle,47.65999,-122.31337
+2021-05-11,19:30,19:57,26.8,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-11,23:26,01:37,130.97,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-14,12:19,13:03,44.0,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-14,13:09,14:53,103.32,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-14,14:59,16:35,96.1,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-15,00:47,01:03,15.98,Late Night / Other,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2021-05-16,18:16,18:50,34.7,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2021-05-18,03:23,04:28,65.55,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-21,21:59,22:56,56.92,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2021-05-23,01:40,01:56,15.33,Late Night / Other,Chipotle Mexican Grill,Seattle,47.659223,-122.313346
+2021-05-23,12:12,12:43,30.97,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-23,21:50,23:08,77.97,Dinner,"""Duke's Chowder House Alki""",Seattle,47.580711,-122.405969
+2021-05-24,01:58,03:04,65.72,Late Night / Other,Chipotle Mexican Grill,Seattle,47.659223,-122.313346
+2021-05-24,03:10,04:02,51.67,Late Night / Other,Thai Tom,Seattle,47.66254,-122.31332
+2021-05-24,22:35,22:59,23.73,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-25,04:38,05:59,80.93,Late Night / Other,Sarduccis,Seattle,47.65795,-122.313574
+2021-05-28,11:09,12:16,67.47,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-28,12:18,13:05,47.03,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-28,14:07,15:00,52.85,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-28,15:05,16:55,110.0,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-30,09:53,10:36,43.5,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-30,10:50,11:38,48.68,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-30,16:00,16:42,41.73,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-30,16:48,17:32,44.03,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-30,20:34,21:06,31.97,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-05-31,23:49,01:53,123.92,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-01,07:07,07:34,27.0,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-01,22:22,22:52,30.25,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-05,00:59,02:09,70.15,Late Night / Other,Teriyaki House,Bellingham,48.79627,-122.48691
+2021-06-06,11:33,12:11,38.4,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-06,12:42,14:23,101.4,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-06,14:30,15:50,80.73,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-06,15:56,18:10,133.3,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-07,00:56,01:17,20.13,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-07,03:20,04:33,73.15,Late Night / Other,"""Shultzy's Sausage""",Seattle,47.65728,-122.313172
+2021-06-11,18:55,19:47,51.97,Dinner,Raygun Lounge,Seattle,47.614988,-122.325201
+2021-06-13,01:22,01:49,27.55,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-13,06:44,08:05,81.65,Breakfast,Sushi Naomi,Seattle,47.692242,-122.355258
+2021-06-15,20:42,22:08,86.05,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-15,22:09,22:43,34.0,Late Night / Other,U Don Fresh Japanese Noodle,Seattle,47.661735,-122.313192
+2021-06-16,03:52,04:29,37.35,Late Night / Other,MOD Pizza,Seattle,47.658361,-122.312838
+2021-06-16,17:03,17:51,47.92,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-16,20:12,21:32,79.73,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-17,02:28,03:14,45.85,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-17,03:14,05:43,149.4,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-17,05:44,07:28,103.85,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-18,00:30,00:50,20.0,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-18,11:12,11:54,42.5,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-18,12:01,13:41,100.15,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-18,15:25,16:15,50.03,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-18,21:07,21:49,41.13,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2021-06-18,21:53,23:19,85.95,Dinner,Raygun Lounge,Seattle,47.614988,-122.325201
+2021-06-19,10:12,11:11,59.67,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-19,11:17,12:57,100.08,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-22,20:40,21:03,22.58,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-22,21:11,21:35,24.13,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-23,10:57,12:02,64.58,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-06-24,18:54,20:13,78.82,Dinner,Hokkaido Ramen Santouka,Seattle,47.662311,-122.299124
+2021-06-25,18:58,19:15,16.98,Dinner,Nasai Teriyaki 3,Seattle,47.65999,-122.31337
+2021-06-25,19:37,20:52,75.33,Dinner,U Don Fresh Japanese Noodle,Seattle,47.661735,-122.313192
+2021-06-26,18:55,19:39,44.25,Dinner,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2021-06-29,05:47,06:59,72.7,Breakfast,Beths Cafe,Seattle,47.6821,-122.34473
+2021-07-04,02:28,02:49,21.2,Late Night / Other,University Pizzeria,Seattle,47.662162,-122.313447
+2021-07-04,06:47,07:06,19.07,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-06,01:51,03:11,79.93,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-06,03:55,04:31,36.22,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-06,19:03,19:26,23.03,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-11,02:38,03:10,32.72,Late Night / Other,"""Mr Lu's Seafood & Burgers""",Seattle,47.664652,-122.312762
+2021-07-12,00:52,01:40,47.88,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-12,23:33,23:54,20.95,Late Night / Other,Cedars Indian Food On Brooklyn,Seattle,47.664756,-122.314527
+2021-07-13,00:05,01:21,75.85,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-13,19:04,20:57,113.17,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-14,04:27,05:08,40.48,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2021-07-14,05:15,07:09,114.43,Breakfast,Haru Sushi,Seattle,47.65964,-122.31337
+2021-07-15,00:28,02:24,115.87,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-15,05:54,06:19,25.27,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-15,06:21,08:02,100.78,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-18,18:32,18:52,20.48,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-18,22:05,22:41,36.8,Late Night / Other,Taco Del Mar,Seattle,47.612244,-122.331781
+2021-07-19,01:53,02:44,51.02,Late Night / Other,MOD Pizza,Seattle,47.60945,-122.33271
+2021-07-19,02:48,03:31,43.65,Late Night / Other,In Short Order Daily Grill,Seattle,47.610872,-122.33345
+2021-07-19,04:28,04:46,17.9,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-20,02:10,02:30,20.35,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2021-07-21,04:36,05:28,52.72,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2021-07-21,05:48,07:29,100.63,Breakfast,Haru Sushi,Seattle,47.65964,-122.31337
+2021-07-21,07:31,08:04,32.7,Breakfast,Haru Sushi,Seattle,47.65964,-122.31337
+2021-07-21,21:27,21:57,29.63,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-22,07:31,08:55,83.43,Breakfast,Trader Joes,Seattle,47.66312,-122.317489
+2021-07-22,23:09,00:59,110.42,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-23,08:27,08:55,28.23,Breakfast,Trader Joes,Seattle,47.66312,-122.317489
+2021-07-24,12:44,13:28,43.72,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-24,13:34,15:30,115.32,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-26,03:08,03:53,44.55,Late Night / Other,Pizza Ragazzi,Seattle,47.667067,-122.313127
+2021-07-26,04:34,06:11,97.2,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-07-28,01:57,02:14,16.5,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2021-07-28,02:16,04:09,113.02,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2021-07-28,04:14,05:21,66.98,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2021-07-31,00:19,00:35,16.02,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2021-08-01,02:28,02:54,25.45,Late Night / Other,Pho Shizzle2,Seattle,47.65933,-122.31335
+2021-08-01,03:35,03:59,24.03,Late Night / Other,SUBWAY,Seattle,47.608646,-122.338786
+2021-08-01,04:01,05:10,69.32,Late Night / Other,Wild Ginger-Seattle,Seattle,47.608833,-122.337419
+2021-08-01,05:13,06:12,59.1,Breakfast,Wild Ginger-Seattle,Seattle,47.608833,-122.337419
+2021-08-01,21:50,22:35,45.08,Dinner,Hong Ning Chinese Herb,Seattle,47.598532,-122.32382
+2021-08-01,23:09,00:03,54.65,Late Night / Other,Shanghai Garden Restaurant II,Seattle,47.59766,-122.32621
+2021-08-02,00:26,00:51,24.68,Late Night / Other,Fort St George,Seattle,47.598181,-122.325988
+2021-08-02,03:23,05:11,108.0,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-03,02:07,02:32,25.22,Late Night / Other,MOD Pizza,Seattle,47.658361,-122.312838
+2021-08-03,02:43,03:01,18.32,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2021-08-05,07:54,08:55,60.52,Breakfast,Trader Joes,Seattle,47.66312,-122.317489
+2021-08-05,15:25,15:43,17.67,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-05,19:12,19:45,33.0,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-06,21:32,21:53,20.28,Dinner,SUBWAY,Seattle,47.661058,-122.317382
+2021-08-06,22:38,00:38,119.8,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-07,14:51,16:00,69.08,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-08,07:18,07:43,24.75,Breakfast,Safeway,Seattle,47.664281,-122.313907
+2021-08-09,05:27,05:47,20.13,Breakfast,Safeway,Seattle,47.664281,-122.313907
+2021-08-09,15:31,15:51,19.62,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-10,01:55,02:42,46.12,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-10,03:03,04:09,65.98,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-15,13:22,14:09,47.07,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-15,14:16,16:01,105.32,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-16,19:58,20:13,15.85,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-17,02:41,04:15,93.52,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-21,01:50,02:51,61.17,Late Night / Other,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2021-08-22,10:33,11:30,57.67,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-22,11:33,13:18,105.43,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-22,13:23,15:23,120.03,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-23,12:00,12:49,49.4,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-23,13:01,14:43,102.15,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-23,14:50,15:05,15.73,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-23,21:50,22:31,41.27,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-25,00:01,00:44,43.88,Late Night / Other,Brownchicken Browncow,Seattle,47.620325,-122.32082
+2021-08-25,00:47,01:11,24.78,Late Night / Other,SUBWAY,Seattle,47.620248,-122.320456
+2021-08-25,02:36,04:39,123.08,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2021-08-26,20:44,21:24,40.05,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-28,02:10,03:26,76.0,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-29,07:32,08:17,45.3,Breakfast,Lost Lake Cafe & Lounge,Seattle,47.61422,-122.31963
+2021-08-29,08:18,08:34,15.97,Breakfast,Elliott Bay Cafe,Seattle,47.614686,-122.319842
+2021-08-29,08:40,09:32,51.77,Breakfast,Sizzle Pie,Seattle,47.612719,-122.318909
+2021-08-29,12:18,13:34,76.07,Lunch,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-30,19:35,21:38,122.98,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-08-31,01:57,02:27,30.1,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-02,01:54,02:34,39.5,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-02,05:55,07:32,97.3,Breakfast,Pho Tran Restaurant,Seattle,47.658779,-122.313544
+2021-09-02,07:35,08:41,66.0,Breakfast,Sarduccis,Seattle,47.65795,-122.313574
+2021-09-02,22:29,22:55,25.82,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-04,06:28,07:44,75.4,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-04,23:11,23:27,15.8,Late Night / Other,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2021-09-04,23:29,00:05,36.0,Late Night / Other,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2021-09-05,20:04,21:47,102.13,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-05,21:53,23:32,98.28,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-06,02:00,03:17,76.42,Late Night / Other,7-Eleven,Seattle,47.659062,-122.313122
+2021-09-06,03:21,03:37,16.3,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-06,03:53,04:09,15.7,Late Night / Other,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2021-09-07,01:27,02:08,41.77,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-07,02:20,03:27,66.47,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-07,03:47,04:37,49.92,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-09,03:08,03:31,23.4,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2021-09-11,02:29,02:54,25.03,Late Night / Other,SUBWAY,Seattle,47.658792,-122.313326
+2021-09-11,07:01,07:46,45.77,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-11,07:49,09:31,102.17,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-12,23:27,01:51,144.48,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-13,01:59,02:33,33.75,Late Night / Other,SUBWAY,Seattle,47.661058,-122.317382
+2021-09-13,02:39,02:54,15.0,Late Night / Other,Shawerma King,Seattle,47.660998,-122.313208
+2021-09-15,00:00,00:31,30.97,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2021-09-16,01:35,03:00,84.98,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-16,03:12,05:34,141.58,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2021-09-16,06:19,06:45,25.88,Breakfast,"""Earl's On The Ave""",Seattle,47.660813,-122.313472
+2021-09-16,06:46,07:21,34.67,Breakfast,"""Earl's On The Ave""",Seattle,47.660813,-122.313472
+2021-09-17,17:25,17:42,17.57,Dinner,Wandering Goose,Seattle,47.62218,-122.31282
+2021-09-18,02:10,04:07,117.48,Late Night / Other,4649 Restaurant,Seattle,47.66126,-122.33441
+2021-09-18,04:22,04:43,20.88,Late Night / Other,4649 Restaurant,Seattle,47.66126,-122.33441
+2021-09-25,03:22,05:49,147.6,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-25,05:57,06:29,32.5,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-25,20:01,20:18,16.3,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-09-27,21:10,21:33,23.28,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-02,03:10,04:12,62.42,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-02,20:00,20:36,35.63,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-03,22:24,23:02,37.48,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-04,01:01,01:35,34.02,Late Night / Other,Trader Joes,Seattle,47.66312,-122.317489
+2021-10-04,20:57,21:52,55.35,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2021-10-04,22:34,22:56,22.02,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-04,23:04,00:53,108.93,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-05,00:56,01:26,30.0,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2021-10-05,23:37,00:17,40.93,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2021-10-06,23:22,23:37,15.1,Late Night / Other,Raygun Lounge,Seattle,47.614988,-122.325201
+2021-10-09,04:09,04:44,35.68,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2021-10-09,04:46,05:04,18.67,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-09,05:17,06:25,68.3,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-09,20:07,20:44,37.02,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-11,20:39,22:33,113.88,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-13,07:11,07:38,26.43,Breakfast,Safeway,Seattle,47.664281,-122.313907
+2021-10-14,01:54,02:30,36.05,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-14,02:42,03:51,69.05,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-14,03:53,04:32,39.58,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-14,04:34,06:14,100.37,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-15,20:15,20:39,23.97,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-17,03:03,03:30,26.68,Late Night / Other,Aladdin Falafel Corner,Seattle,47.66236,-122.31335
+2021-10-17,03:35,05:15,99.57,Late Night / Other,Seoul Posu House,Seattle,47.662487,-122.31278
+2021-10-17,05:21,05:58,36.6,Breakfast,"""Chili's South Indian Cuisine""",Seattle,47.65891,-122.31301
+2021-10-18,23:01,23:24,23.18,Late Night / Other,Chili Basil Thai Grill,Seattle,47.620202,-122.321278
+2021-10-18,23:45,00:30,45.17,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2021-10-19,08:03,09:11,68.3,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-21,03:19,03:39,20.52,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2021-10-21,23:05,23:52,47.0,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2021-10-23,03:07,04:35,88.35,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-10-27,02:49,03:53,63.77,Late Night / Other,Cedars Indian Food On Brooklyn,Seattle,47.664756,-122.314527
+2021-10-29,08:56,09:47,50.67,Breakfast,Big Time Brewery & Alehouse,Seattle,47.657865,-122.313288
+2021-11-01,02:15,02:40,25.03,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2021-11-01,22:06,22:57,50.3,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2021-11-02,00:02,00:27,25.62,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-11-02,21:10,21:42,31.33,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-11-03,01:57,02:35,37.95,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-11-03,02:42,04:12,89.95,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2021-11-03,04:25,04:40,15.45,Late Night / Other,7-Eleven,Seattle,47.659062,-122.313122
+2021-11-03,04:42,05:25,42.18,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2021-11-03,20:17,20:33,16.5,Dinner,Aloha Plates,Seattle,47.59748,-122.326978
+2021-11-04,23:56,00:16,19.42,Late Night / Other,Dawns Delectables,Centralia,46.717341,-122.953777
+2021-11-05,00:30,01:23,52.77,Late Night / Other,Brownstone Coffee Lounge,Centralia,46.715422,-122.954346
+2021-11-05,01:28,01:49,21.1,Late Night / Other,Tiki Tap House,Centralia,46.719205,-122.952693
+2021-11-12,22:08,22:31,23.12,Late Night / Other,Tiki Tap House,Centralia,46.719205,-122.952693
+2021-11-16,04:15,04:56,40.77,Late Night / Other,"""Earl's On The Ave""",Seattle,47.660813,-122.313472
+2021-11-16,05:33,06:46,72.57,Breakfast,Hard Rock Cafe,Seattle,47.609198,-122.339269
+2021-11-17,18:41,19:00,19.42,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-11-18,05:11,06:16,65.28,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-11-18,06:31,08:42,131.0,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-11-18,22:11,22:37,25.57,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2021-11-19,08:33,08:57,23.08,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-11-21,09:17,10:27,70.2,Breakfast,Sizzle Pie,Seattle,47.612719,-122.318909
+2021-11-21,10:32,10:49,16.87,Breakfast,Lost Lake Cafe & Lounge,Seattle,47.61422,-122.31963
+2021-11-22,02:58,03:33,34.75,Late Night / Other,Brownchicken Browncow,Seattle,47.620325,-122.32082
+2021-11-22,22:05,22:45,39.55,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2021-11-22,23:50,01:43,113.08,Late Night / Other,Honeyhole Sandwiches,Seattle,47.614012,-122.323007
+2021-11-25,02:15,04:13,118.58,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-11-25,04:23,05:50,87.02,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-11-25,06:21,08:00,99.5,Breakfast,Pho Tran Restaurant,Seattle,47.658779,-122.313544
+2021-11-25,08:04,08:49,45.73,Breakfast,"""Earl's On The Ave""",Seattle,47.660813,-122.313472
+2021-11-25,08:58,09:48,49.3,Breakfast,Sarduccis,Seattle,47.65795,-122.313574
+2021-11-28,05:13,07:08,114.83,Breakfast,Wild Ginger-Seattle,Seattle,47.608833,-122.337419
+2021-11-28,07:36,09:43,127.1,Breakfast,Via Tribunali-Capitol Hl 15th,Seattle,47.61394,-122.3199
+2021-11-28,10:06,10:49,43.08,Breakfast,Seattle Annapurna,Seattle,47.618707,-122.321036
+2021-11-29,07:45,08:11,26.28,Breakfast,Safeway,Seattle,47.664281,-122.313907
+2021-12-02,06:41,08:37,115.85,Breakfast,Pho Tran Restaurant,Seattle,47.658779,-122.313544
+2021-12-02,08:49,09:17,28.22,Breakfast,Safeway,Seattle,47.664281,-122.313907
+2021-12-03,01:00,02:41,101.18,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-12-04,02:55,04:04,69.08,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-12-04,20:22,21:12,49.7,Dinner,"""Costa's Restaurant""",Seattle,47.66293,-122.31329
+2021-12-07,04:51,06:00,68.98,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2021-12-07,06:02,06:52,49.23,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-12-07,20:31,21:52,80.93,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-12-07,22:50,23:29,39.42,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-12-08,04:44,05:24,39.73,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2021-12-08,05:33,06:11,38.0,Breakfast,Haru Sushi,Seattle,47.65964,-122.31337
+2021-12-08,06:20,07:04,44.38,Breakfast,Qdoba Mexican Eats,Seattle,47.65994,-122.31346
+2021-12-09,17:50,18:16,25.33,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-12-11,02:45,05:03,137.47,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-12-13,18:51,19:51,60.2,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2021-12-13,23:18,23:56,37.78,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2021-12-16,03:56,04:46,49.92,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2021-12-17,07:36,09:30,114.05,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-12-19,02:00,02:16,15.12,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2021-12-20,20:57,21:17,19.97,Dinner,Safeway,Seattle,47.664281,-122.313907
+2021-12-23,03:29,04:27,57.95,Late Night / Other,Momiji Restaurant,Seattle,47.61479,-122.316433
+2021-12-26,03:15,03:34,19.38,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2022-01-03,05:21,05:49,28.18,Breakfast,Kimchi Bistro,Seattle,47.620571,-122.321287
+2022-01-03,05:59,06:46,46.3,Breakfast,Honeyhole Sandwiches,Seattle,47.614012,-122.323007
+2022-01-03,06:48,08:02,74.68,Breakfast,Kyoto Teriyaki,Seattle,47.614031,-122.32142
+2022-01-03,22:32,22:56,23.72,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2022-01-05,05:55,07:51,115.52,Breakfast,Haru Sushi,Seattle,47.65964,-122.31337
+2022-01-06,05:22,07:32,129.48,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-01-06,20:30,20:45,15.12,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-01-09,02:26,03:32,66.35,Late Night / Other,7-Eleven,Seattle,47.659062,-122.313122
+2022-01-10,03:30,03:45,15.33,Late Night / Other,Cedars Indian Food On Brooklyn,Seattle,47.664756,-122.314527
+2022-01-10,22:06,22:53,47.68,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-01-10,23:36,00:04,28.07,Late Night / Other,Panera Bread,Seattle,47.615899,-122.320387
+2022-01-11,00:08,00:25,16.38,Late Night / Other,Chili Basil Thai Grill,Seattle,47.620202,-122.321278
+2022-01-11,20:24,21:00,36.7,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-01-13,01:02,01:18,15.48,Late Night / Other,SUBWAY,Seattle,47.661058,-122.317382
+2022-01-14,07:32,09:08,96.27,Breakfast,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-01-15,02:18,02:38,19.62,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-01-15,02:51,04:24,92.15,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-01-15,04:33,05:30,57.55,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-01-18,20:35,20:54,18.95,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-01-19,05:57,06:55,57.72,Breakfast,Haru Sushi,Seattle,47.65964,-122.31337
+2022-01-19,06:59,08:49,109.75,Breakfast,Haru Sushi,Seattle,47.65964,-122.31337
+2022-01-19,09:10,09:51,40.27,Breakfast,"""Earl's On The Ave""",Seattle,47.660813,-122.313472
+2022-01-20,03:40,04:16,36.3,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-01-20,06:21,06:39,18.0,Breakfast,Amante,Seattle,47.618313,-122.325544
+2022-01-22,03:19,03:47,27.1,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-01-23,07:16,08:48,91.85,Breakfast,Via Tribunali-Capitol Hl 15th,Seattle,47.61394,-122.3199
+2022-01-24,17:54,18:57,63.38,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-01-27,19:55,22:05,129.67,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-01-29,01:41,02:02,20.28,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-01-31,04:58,05:34,36.25,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2022-02-01,18:48,20:08,79.57,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-02-01,20:33,20:54,20.88,Dinner,Aladdin Falafel Corner,Seattle,47.66236,-122.31335
+2022-02-02,00:41,01:09,27.95,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-02-02,06:19,06:41,21.72,Breakfast,Bimbos Bitchin Burrito Kitchen,Seattle,47.61397,-122.31875
+2022-02-12,21:50,22:10,20.72,Dinner,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-02-12,22:47,23:05,18.28,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-02-12,23:27,23:51,23.45,Late Night / Other,Silkroad Noodle Bar LLC,Seattle,47.661497,-122.313197
+2022-02-12,23:53,00:09,15.35,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2022-02-15,02:12,02:32,20.82,Late Night / Other,Sarduccis,Seattle,47.65795,-122.313574
+2022-02-15,03:11,05:05,114.6,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2022-02-15,05:07,05:31,23.27,Breakfast,7-Eleven,Seattle,47.659062,-122.313122
+2022-02-16,19:46,20:12,25.95,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-02-16,20:14,20:47,32.62,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-02-17,22:48,23:26,38.17,Late Night / Other,Shalimar Restaurant,Seattle,47.658759,-122.312883
+2022-02-19,08:32,08:52,20.55,Breakfast,"""Earl's On The Ave""",Seattle,47.660813,-122.313472
+2022-02-19,08:56,09:32,35.92,Breakfast,Sarduccis,Seattle,47.65795,-122.313574
+2022-02-20,06:58,07:16,17.68,Breakfast,"""Mama Mia's Pizza""",Seattle,47.667292,-122.317702
+2022-02-20,07:25,08:44,79.17,Breakfast,Sushi Naomi,Seattle,47.692242,-122.355258
+2022-02-21,19:49,20:16,27.38,Dinner,Shalimar Restaurant,Seattle,47.658759,-122.312883
+2022-02-24,05:34,07:16,101.55,Breakfast,Pho Tran Restaurant,Seattle,47.658779,-122.313544
+2022-02-24,07:20,08:43,83.07,Breakfast,"""Earl's On The Ave""",Seattle,47.660813,-122.313472
+2022-02-26,06:01,08:05,123.73,Breakfast,Haru Sushi,Seattle,47.65964,-122.31337
+2022-02-26,08:07,08:47,40.22,Breakfast,Sarduccis,Seattle,47.65795,-122.313574
+2022-02-26,23:07,23:35,28.68,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2022-02-28,06:36,07:03,27.18,Breakfast,Safeway,Seattle,47.664281,-122.313907
+2022-03-02,04:24,04:54,30.12,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2022-03-05,07:18,08:50,91.7,Breakfast,Via Tribunali-Capitol Hl 15th,Seattle,47.61394,-122.3199
+2022-03-05,23:12,00:26,74.1,Late Night / Other,Lost Lake Cafe & Lounge,Seattle,47.61422,-122.31963
+2022-03-06,01:23,01:52,29.65,Late Night / Other,Pinto Thai Bistro & Sushi Bar,Seattle,47.622335,-122.32072
+2022-03-07,23:16,23:51,35.03,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-03-09,02:22,03:28,66.73,Late Night / Other,Umi Steak House,Seattle,47.613294,-122.346051
+2022-03-13,01:16,01:31,15.52,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2022-03-15,23:17,00:08,51.6,Late Night / Other,Potbelly Sandwich Shop,Seattle,47.662048,-122.312787
+2022-03-16,03:43,05:30,107.23,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2022-03-16,05:45,07:09,84.0,Breakfast,Haru Sushi,Seattle,47.65964,-122.31337
+2022-03-17,22:43,23:13,30.4,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2022-03-18,04:49,06:51,122.12,Late Night / Other,Pho Tran Restaurant,Seattle,47.658779,-122.313544
+2022-03-21,01:38,02:53,74.42,Late Night / Other,Kimchi Bistro,Seattle,47.620571,-122.321287
+2022-03-24,00:12,00:44,32.07,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-03-24,02:55,03:21,26.15,Late Night / Other,Chili & Sesame Korean Kitchen,Seattle,47.61505,-122.34772
+2022-03-26,00:38,01:09,31.18,Late Night / Other,In The Bowl,Seattle,47.618632,-122.325612
+2022-03-26,01:43,03:43,119.77,Late Night / Other,Lindas Tavern,Seattle,47.61521,-122.322866
+2022-04-03,06:36,08:00,83.28,Breakfast,Octopus Bar & Grill LLC,Seattle,47.661186,-122.333225
+2022-04-03,18:53,19:10,17.25,Dinner,LA Vaca Mexican Restaurant,Seattle,47.657743,-122.313291
+2022-04-07,00:11,00:54,43.05,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-04-07,05:30,06:00,30.42,Breakfast,"""Earl's On The Ave""",Seattle,47.660813,-122.313472
+2022-04-07,06:04,06:43,38.68,Breakfast,Sarduccis,Seattle,47.65795,-122.313574
+2022-04-09,00:23,00:53,30.07,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2022-04-10,04:05,04:24,19.02,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2022-04-16,22:23,22:54,31.02,Late Night / Other,Cedars Indian Food On Brooklyn,Seattle,47.664756,-122.314527
+2022-04-16,22:56,23:14,17.55,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2022-04-21,00:09,00:49,39.67,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-04-21,05:37,06:37,60.6,Breakfast,SUBWAY,Seattle,47.658792,-122.313326
+2022-04-21,07:03,08:37,93.65,Breakfast,Sizzle Pie,Seattle,47.612719,-122.318909
+2022-04-27,00:25,02:05,100.1,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2022-04-27,03:48,04:28,39.62,Late Night / Other,Pho Tai Vietnamese Restaurant,Bellevue,47.627551,-122.143896
+2022-04-28,06:15,08:44,149.18,Breakfast,"""Earl's On The Ave""",Seattle,47.660813,-122.313472
+2022-04-28,08:46,09:49,62.38,Breakfast,7-Eleven,Seattle,47.659062,-122.313122
+2022-04-28,10:01,10:24,23.35,Breakfast,"""Memo's Mexican Food""",Seattle,47.66433,-122.31327
+2022-04-29,03:36,04:01,25.05,Late Night / Other,Flying Fish,Seattle,47.612903,-122.345635
+2022-04-29,04:02,04:48,45.42,Late Night / Other,Umi Steak House,Seattle,47.613294,-122.346051
+2022-05-03,01:00,01:15,15.62,Late Night / Other,Cedars Indian Food On Brooklyn,Seattle,47.664756,-122.314527
+2022-05-03,01:18,01:40,22.02,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2022-05-03,22:34,23:05,30.17,Late Night / Other,SUBWAY,Seattle,47.608646,-122.338786
+2022-05-14,22:04,22:23,18.75,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2022-05-23,01:52,02:17,24.58,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2022-05-25,04:45,05:00,15.62,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2022-05-25,23:55,00:54,58.23,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-06-03,01:33,02:05,31.6,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2022-06-16,04:40,06:11,90.48,Late Night / Other,"""Applebee's""",Chehalis,46.67764,-122.975484
+2022-06-19,00:27,00:44,16.73,Late Night / Other,7-Eleven,Seattle,47.659062,-122.313122
+2022-06-19,19:16,19:33,17.25,Dinner,"""Beard Papa's""",Seattle,47.59738,-122.327634
+2022-06-20,03:44,04:12,27.75,Late Night / Other,Spice Orient,Seattle,47.608757,-122.338347
+2022-06-21,22:27,22:57,29.68,Late Night / Other,"""Mc Donald's""",Seattle,47.667744,-122.300347
+2022-06-23,23:27,23:52,25.23,Late Night / Other,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2022-06-24,01:00,01:52,52.18,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-06-25,00:37,01:49,71.72,Late Night / Other,Kimchi Bistro,Seattle,47.620571,-122.321287
+2022-06-26,00:57,01:13,16.07,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2022-06-29,18:46,19:19,32.62,Dinner,Aladdin Falafel Corner,Seattle,47.66236,-122.31335
+2022-07-04,06:51,07:19,27.5,Breakfast,727 Pine,Seattle,47.612831,-122.333219
+2022-07-05,03:25,05:06,100.63,Late Night / Other,Caffe Ladro,Seattle,47.607975,-122.338859
+2022-07-05,05:12,05:42,30.25,Breakfast,Japonessa Seattle,Seattle,47.60799,-122.33905
+2022-07-05,07:35,08:23,47.88,Breakfast,Fremont Bowl,Seattle,47.65905,-122.349684
+2022-07-09,03:36,03:52,15.3,Late Night / Other,SUBWAY,Seattle,47.661058,-122.317382
+2022-07-10,18:56,19:13,16.42,Dinner,Aloha Plates,Seattle,47.59748,-122.326978
+2022-07-14,01:37,02:52,75.88,Late Night / Other,Mollusk,Seattle,47.627251,-122.342396
+2022-07-15,03:01,03:16,15.48,Late Night / Other,Noodle Zen,Seattle,47.597477,-122.327267
+2022-07-16,05:55,07:21,85.87,Breakfast,Octopus Bar & Grill LLC,Seattle,47.661186,-122.333225
+2022-07-16,22:19,22:37,18.38,Late Night / Other,Pink Bee,Seattle,47.669508,-122.383928
+2022-07-19,01:19,03:28,128.83,Late Night / Other,E Smith Mercantile,Seattle,47.6006,-122.334055
+2022-07-19,20:05,20:40,34.38,Dinner,Gordon Biersch-Seattle,Seattle,47.612417,-122.334916
+2022-07-19,20:50,21:50,59.75,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-07-20,00:27,00:58,31.25,Late Night / Other,Big Time Brewery & Alehouse,Seattle,47.657865,-122.313288
+2022-07-27,01:09,02:00,51.67,Late Night / Other,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2022-07-27,02:02,02:37,35.47,Late Night / Other,Itadakimasu Restaurant,Seattle,47.664344,-122.314528
+2022-07-27,02:46,04:14,87.28,Late Night / Other,Somtum Thai,Seattle,47.664215,-122.312765
+2022-07-27,18:36,18:53,17.75,Dinner,Potbelly Sandwich Shop,Seattle,47.662048,-122.312787
+2022-07-27,19:11,19:26,15.3,Dinner,University Pizzeria,Seattle,47.662162,-122.313447
+2022-07-31,00:50,01:07,16.65,Late Night / Other,"""Chili's South Indian Cuisine""",Seattle,47.65891,-122.31301
+2022-08-02,20:48,21:51,62.97,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-08-02,22:01,22:27,26.02,Late Night / Other,Gordon Biersch-Seattle,Seattle,47.612417,-122.334916
+2022-08-09,22:22,23:00,38.92,Late Night / Other,Chipotle Mexican Grill,Seattle,47.659223,-122.313346
+2022-08-10,03:16,03:41,25.72,Late Night / Other,Melting Pot,Seattle,47.62474,-122.356205
+2022-08-14,00:42,01:54,72.62,Late Night / Other,Ballard Brothers Seafood,Seattle,47.667391,-122.376667
+2022-08-16,20:57,21:50,53.7,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-08-16,23:14,23:30,16.3,Late Night / Other,SUBWAY,Seattle,47.608646,-122.338786
+2022-08-17,19:40,20:29,48.92,Dinner,Hot Iron Mongolian Grill,Marysville,48.149515,-122.189758
+2022-08-20,21:01,21:19,17.65,Dinner,"""Mc Donald's""",Seattle,47.667744,-122.300347
+2022-08-25,01:15,01:36,20.88,Late Night / Other,SUBWAY,Seattle,47.661058,-122.317382
+2022-08-30,20:52,21:37,44.7,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-09-01,02:35,02:54,19.08,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2022-09-02,16:02,16:56,53.78,Dinner,Huck & Plow,Seattle,47.610669,-122.346572
+2022-09-02,17:23,19:04,101.03,Dinner,Huck & Plow,Seattle,47.610669,-122.346572
+2022-09-02,19:12,20:15,63.2,Dinner,Huck & Plow,Seattle,47.610669,-122.346572
+2022-09-02,20:31,20:48,16.35,Dinner,Market Grill,Seattle,47.60889,-122.34047
+2022-09-02,23:08,23:26,18.15,Late Night / Other,Potbelly Sandwich Shop,Seattle,47.662048,-122.312787
+2022-09-06,19:10,19:26,16.77,Dinner,Aladdin Falafel Corner,Seattle,47.66236,-122.31335
+2022-09-06,19:30,20:05,34.37,Dinner,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2022-09-13,20:49,21:45,56.17,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-09-14,22:09,22:38,28.87,Late Night / Other,Sunlight Cafe,Seattle,47.675104,-122.317432
+2022-09-16,02:59,04:05,65.7,Late Night / Other,Macrina Baking Co,Seattle,47.614112,-122.346385
+2022-09-17,18:58,19:19,20.35,Dinner,Aloha Plates,Seattle,47.59748,-122.326978
+2022-09-18,17:00,18:28,88.65,Dinner,"""Mia's Off Broadway Cafe""",Seattle,47.615971,-122.322213
+2022-09-18,18:47,19:49,61.48,Dinner,"""Quinn's Pub""",Seattle,47.613862,-122.31922
+2022-09-20,20:42,21:04,21.82,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2022-09-21,23:09,00:21,71.32,Late Night / Other,Tahn Brothers Restaurant,Seattle,47.65858,-122.3134
+2022-09-27,04:39,05:53,74.08,Late Night / Other,Haru Sushi,Seattle,47.65964,-122.31337
+2022-09-27,22:03,22:51,48.87,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-09-28,03:19,03:52,33.07,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2022-10-02,00:27,00:45,18.1,Late Night / Other,Elliott Bay Cafe,Seattle,47.614686,-122.319842
+2022-10-05,00:18,00:41,22.73,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2022-10-05,20:23,21:04,41.13,Dinner,MOD Pizza,Seattle,47.658361,-122.312838
+2022-10-05,21:09,21:49,40.37,Dinner,Nasai Teriyaki 3,Seattle,47.65999,-122.31337
+2022-10-05,21:55,22:30,34.75,Dinner,Aladdin Falafel Corner,Seattle,47.66236,-122.31335
+2022-10-11,02:51,03:06,15.17,Late Night / Other,Radici,Seattle,47.599581,-122.331524
+2022-10-12,22:48,23:07,19.6,Late Night / Other,Jyros House & Mediterranean,Renton,47.4972,-122.20469
+2022-10-13,03:47,04:03,15.18,Late Night / Other,Boulangerie Bakery & Cafe,Lakewood,47.169138,-122.48294
+2022-10-14,22:51,23:18,26.95,Late Night / Other,Brownstone Coffee Lounge,Centralia,46.715422,-122.954346
+2022-10-14,23:22,23:48,26.38,Late Night / Other,"""O'Blarney's Irish Pub""",Centralia,46.71806,-122.95382
+2022-10-19,23:59,00:31,32.0,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2022-10-21,19:38,20:13,34.6,Dinner,Cherry Street Coffee House,Seattle,47.604548,-122.332988
+2022-10-25,03:28,03:52,23.75,Late Night / Other,"""Mccoy's Firehouse Bar & Grill""",Seattle,47.600707,-122.331814
+2022-10-25,21:51,22:57,66.28,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-10-25,23:33,23:53,20.0,Late Night / Other,Tangerine Tree,Seattle,47.61382,-122.32178
+2022-10-28,00:49,01:50,60.23,Late Night / Other,Noodle Zen,Seattle,47.597477,-122.327267
+2022-11-02,21:27,22:50,83.27,Dinner,Cafe On The Aveune,Seattle,47.658501,-122.313556
+2022-11-03,02:05,02:50,45.65,Late Night / Other,Big Time Brewery & Alehouse,Seattle,47.657865,-122.313288
+2022-11-19,16:24,17:04,40.78,Dinner,Aladdin Falafel Corner,Seattle,47.66236,-122.31335
+2022-11-22,22:57,23:52,54.48,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-11-24,00:55,01:30,35.35,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2022-11-25,07:43,08:05,22.77,Breakfast,Nickerson Street Saloon-Grill,Seattle,47.646632,-122.350222
+2022-11-30,01:42,02:55,73.65,Late Night / Other,Fogon Cocina Mexicana,Seattle,47.615286,-122.32405
+2022-12-03,22:31,23:15,43.25,Late Night / Other,Aladdin Falafel Corner,Seattle,47.66236,-122.31335
+2022-12-06,21:41,22:54,73.05,Dinner,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2022-12-13,22:46,23:09,23.48,Late Night / Other,Shawerma King,Seattle,47.660998,-122.313208
+2022-12-21,00:55,01:26,30.45,Late Night / Other,Albertsons,Seattle,47.489085,-122.335168
+2022-12-21,21:49,22:41,51.98,Dinner,SUBWAY,Shoreline,47.777151,-122.311763
+2022-12-22,03:26,04:47,81.55,Late Night / Other,Arirang Restaurant,Mill Creek,47.848808,-122.221052
+2022-12-24,23:06,23:40,33.75,Late Night / Other,Tavolata,Seattle,47.614274,-122.346659
+2022-12-25,00:00,00:49,49.37,Late Night / Other,Petra Mediterranean Bistro,Seattle,47.616895,-122.346611
+2023-01-07,03:57,04:19,22.43,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2023-01-12,02:50,03:53,63.37,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2023-01-18,21:28,23:03,95.1,Dinner,"""Mccormick & Schmick's Catring""",Tukwila,47.518188,-122.29634
+2023-01-18,23:47,00:05,18.03,Late Night / Other,"""Mccormick & Schmick's Catring""",Tukwila,47.518188,-122.29634
+2023-01-25,21:35,22:05,30.25,Dinner,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2023-01-25,22:27,22:48,21.05,Late Night / Other,Mee Sum Pastry,Seattle,47.661192,-122.313203
+2023-01-26,01:46,02:51,64.18,Late Night / Other,LA Cocina Oaxaquena,Seattle,47.615441,-122.328226
+2023-01-28,01:50,02:20,29.35,Late Night / Other,Carlile Room,Seattle,47.61334,-122.332735
+2023-02-04,21:43,22:08,25.02,Dinner,"""Shop'n Kart""",Centralia,46.71191,-122.956795
+2023-02-10,19:50,20:19,29.63,Dinner,Boiling Point,Seattle,47.596832,-122.327627
+2023-02-10,21:03,21:31,28.93,Dinner,Pal Do World,Lakewood,47.169074,-122.482373
+2023-02-11,20:38,21:14,35.57,Dinner,"""Arby's""",Centralia,46.730005,-122.979275
+2023-02-17,18:39,18:58,19.02,Dinner,Safeway,Chehalis,46.654997,-122.953884
+2023-02-24,19:56,20:15,19.2,Dinner,B E D Market,Centralia,46.721908,-122.952592
+2023-03-29,22:20,22:37,16.88,Late Night / Other,Yuexi Restaurant,Seattle,47.664988,-122.317143
+2023-03-29,23:51,00:26,35.18,Late Night / Other,Pal Do World,Lakewood,47.169074,-122.482373
+2023-03-31,00:41,00:57,15.95,Late Night / Other,"""Mc Donald's""",Chehalis,46.67839,-122.97955
+2023-03-31,01:32,01:48,15.2,Late Night / Other,"""Applebee's""",Chehalis,46.67764,-122.975484
+2023-04-13,17:22,17:54,32.93,Dinner,"""Papa Murphy's Take 'N' Bake""",Centralia,46.72784,-122.980873
+2023-04-27,01:30,02:05,34.6,Late Night / Other,"""Mc Donald's""",Centralia,46.729995,-122.978248
+2023-05-08,20:41,21:05,24.02,Dinner,Aladdin Falafel Corner,Seattle,47.66236,-122.31335
+2023-05-10,19:57,20:13,15.9,Dinner,Safeway,Seattle,47.664281,-122.313907
+2023-05-14,21:44,22:00,16.15,Dinner,Safeway,Seattle,47.664281,-122.313907
+2023-05-15,23:09,23:43,33.3,Late Night / Other,Smooshylab LLC,Seattle,47.670275,-122.378882
+2023-05-22,19:56,20:20,24.48,Dinner,Safeway,Seattle,47.664281,-122.313907
+2023-06-03,21:37,21:57,20.87,Dinner,Aladdin Falafel Corner,Seattle,47.66236,-122.31335
+2023-06-07,21:26,21:46,19.85,Dinner,Safeway,Seattle,47.664281,-122.313907
+2023-06-12,21:04,21:24,19.3,Dinner,University Pizzeria,Seattle,47.662162,-122.313447
+2023-06-21,19:23,19:38,15.0,Dinner,Safeway,Seattle,47.664281,-122.313907
+2023-06-29,23:40,00:04,24.52,Late Night / Other,Safeway,Seattle,47.664281,-122.313907
+2023-07-04,21:46,22:09,22.9,Dinner,"""Chili's South Indian Cuisine""",Seattle,47.65891,-122.31301
+2023-07-10,23:20,23:39,18.6,Late Night / Other,"""Chili's South Indian Cuisine""",Seattle,47.65891,-122.31301
+2023-07-12,21:56,22:16,20.33,Dinner,Quality Food Ctr,Seattle,47.66188,-122.335904
+2023-07-21,22:58,23:26,28.42,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2023-07-27,21:13,21:31,18.23,Dinner,Quality Food Ctr,Seattle,47.66188,-122.335904
+2023-07-31,02:19,02:38,18.17,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2023-08-01,22:42,23:07,25.92,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2023-08-10,18:21,18:36,15.25,Dinner,Quality Food Ctr,Seattle,47.66188,-122.335904
+2023-08-17,21:30,21:48,18.27,Dinner,Bastille Cafe & Bar,Seattle,47.666438,-122.383664
+2023-08-20,22:48,23:06,18.23,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2023-08-31,00:30,00:54,23.8,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2023-09-09,01:36,01:51,15.02,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2023-09-14,02:32,03:36,63.7,Late Night / Other,4649 Restaurant,Seattle,47.66126,-122.33441
+2023-09-28,19:32,20:42,70.35,Dinner,Genki Sushi,Bellevue,47.57476,-122.17113
+2023-10-06,00:08,00:39,31.33,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2023-10-16,00:16,00:58,41.93,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2023-10-21,23:27,00:09,41.72,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2023-10-29,01:23,01:54,30.42,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2023-11-18,22:38,23:20,42.32,Late Night / Other,Pal Do World,Lakewood,47.169074,-122.482373
+2023-11-28,18:25,18:40,15.77,Dinner,"""Shop'n Kart""",Centralia,46.71191,-122.956795
+2023-11-29,22:06,22:37,30.92,Late Night / Other,Casadores Mexican Restaurant,Centralia,46.718563,-122.953729
+2023-12-01,21:57,22:26,28.12,Dinner,Pal Do World,Lakewood,47.169074,-122.482373
+2023-12-09,01:34,01:50,16.48,Late Night / Other,"""Shop'n Kart""",Centralia,46.71191,-122.956795
+2023-12-10,00:59,01:38,38.73,Late Night / Other,Pal Do World,Lakewood,47.169074,-122.482373
+2023-12-19,23:55,00:17,22.33,Late Night / Other,Tiki Tap House,Centralia,46.719205,-122.952693
+2024-01-04,22:17,22:43,26.08,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2024-01-11,20:58,21:51,52.3,Dinner,Target,Seattle,47.608488,-122.338255
+2024-01-30,21:50,22:24,34.13,Dinner,Quality Food Ctr,Seattle,47.66188,-122.335904
+2024-02-02,18:19,18:55,36.52,Dinner,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-02-06,16:52,17:52,59.75,Dinner,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-02-06,17:57,18:12,15.33,Dinner,Whole Foods Market,Seattle,47.675024,-122.316819
+2024-02-15,16:29,16:48,18.9,Dinner,"""Murphy's""",Seattle,47.661613,-122.333933
+2024-02-15,16:58,19:14,136.42,Dinner,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-02-16,16:50,19:12,141.83,Dinner,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-02-24,14:45,16:34,109.17,Lunch,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-03-13,19:04,19:21,16.33,Dinner,"""Djan's""",Seattle,47.661543,-122.325416
+2024-03-25,19:39,19:57,18.0,Dinner,"""Murphy's""",Seattle,47.661613,-122.333933
+2024-03-26,18:27,19:01,33.08,Dinner,Madison Kitchen,Seattle,47.635492,-122.27896
+2024-03-26,19:52,20:41,49.0,Dinner,SUBWAY,Seattle,47.608646,-122.338786
+2024-04-03,20:21,20:48,27.65,Dinner,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-04-03,20:59,21:22,22.97,Dinner,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-04-03,21:39,21:55,15.38,Dinner,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-04-03,21:57,22:29,31.65,Dinner,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-04-03,22:30,23:05,34.87,Late Night / Other,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-04-03,23:06,23:38,31.6,Late Night / Other,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-04-03,23:40,00:13,33.72,Late Night / Other,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-04-04,00:15,00:47,32.55,Late Night / Other,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-04-04,00:50,01:23,32.98,Late Night / Other,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-04-04,01:25,01:53,28.42,Late Night / Other,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-04-04,01:55,02:27,32.02,Late Night / Other,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-04-07,20:44,21:24,40.17,Dinner,Aladdin Falafel Corner,Seattle,47.66236,-122.31335
+2024-04-10,00:37,02:50,133.17,Late Night / Other,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-04-11,00:43,03:09,146.0,Late Night / Other,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-04-12,00:52,03:14,141.37,Late Night / Other,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-04-14,19:19,19:39,20.18,Dinner,"""Murphy's""",Seattle,47.661613,-122.333933
+2024-04-20,00:50,01:40,49.6,Late Night / Other,University Pizzeria,Seattle,47.662162,-122.313447
+2024-04-25,18:52,20:22,90.72,Dinner,Thai Fusion Bistro,Seattle,47.702331,-122.325565
+2024-04-25,21:14,22:36,81.45,Dinner,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-04-26,01:53,02:09,16.45,Late Night / Other,Pasta & Co,Seattle,47.662336,-122.299854
+2024-04-28,00:36,01:01,24.97,Late Night / Other,Custom Smoothie & Sports Nutri,Seattle,47.616319,-122.337455
+2024-05-03,17:25,17:42,16.65,Dinner,Hawaii Bbq Restaurant,Seattle,47.662749,-122.313173
+2024-05-03,17:44,18:09,24.72,Dinner,Aladdin Falafel Corner,Seattle,47.66236,-122.31335
+2024-05-05,00:55,01:18,22.58,Late Night / Other,Satay,Seattle,47.689643,-122.355655
+2024-05-05,16:20,18:00,100.18,Dinner,"""Gorgeous George's""",Seattle,47.6854,-122.3555
+2024-05-30,03:27,03:47,19.47,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2024-06-05,21:47,22:23,35.67,Dinner,University Pizzeria,Seattle,47.662162,-122.313447
+2024-06-06,02:23,02:39,15.9,Late Night / Other,Safeway,Seattle,47.682041,-122.316964
+2024-06-12,05:01,05:19,18.37,Breakfast,Safeway,Seattle,47.682041,-122.316964
+2024-06-21,01:18,01:47,28.3,Late Night / Other,Garam Masala,Seattle,47.66242,-122.31334
+2024-06-21,01:56,02:17,20.58,Late Night / Other,Taco Del Mar,Redmond,47.67569,-122.31596
+2024-06-28,01:17,01:57,40.62,Late Night / Other,Thai Tom,Seattle,47.66254,-122.31332
+2024-07-03,19:15,19:30,15.28,Dinner,Yuexi Restaurant,Seattle,47.664988,-122.317143
+2024-07-05,01:44,01:59,15.05,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2024-07-17,17:04,17:25,20.82,Dinner,"""Mc Donald's""",Seattle,47.708289,-122.331682
+2024-07-24,23:21,00:04,43.65,Late Night / Other,Safeway,Seattle,47.682041,-122.316964
+2024-08-15,22:53,23:09,15.82,Late Night / Other,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-08-24,21:23,21:52,29.15,Dinner,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-08-27,03:58,05:12,73.72,Late Night / Other,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-08-27,22:14,22:30,16.2,Late Night / Other,"""Chili's South Indian Cuisine""",Seattle,47.65891,-122.31301
+2024-08-31,15:58,17:00,61.07,Lunch,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-08-31,17:46,19:01,74.93,Dinner,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-09-02,21:32,22:29,56.65,Dinner,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-09-05,02:51,03:06,15.48,Late Night / Other,Quality Food Ctr,Seattle,47.66188,-122.335904
+2024-09-06,22:32,22:49,16.75,Late Night / Other,Aladdin Falafel Corner,Seattle,47.66236,-122.31335
+2024-09-09,20:51,21:06,15.73,Dinner,7-Eleven,Seattle,47.708674,-122.334019
+2024-09-12,03:26,04:11,45.28,Late Night / Other,Safeway,Seattle,47.682041,-122.316964
+2024-09-13,19:36,20:37,60.73,Dinner,Kisaku,Seattle,47.66856,-122.33331
+2024-09-19,00:23,00:52,28.88,Late Night / Other,Safeway,Shoreline,47.740914,-122.343858
+2024-09-19,01:45,02:04,19.05,Late Night / Other,SUBWAY,Seattle,47.661058,-122.317382
+2024-09-24,23:28,23:54,26.68,Late Night / Other,India Bistro LTD,Seattle,47.6755,-122.31756
+2024-09-26,02:50,03:09,18.63,Late Night / Other,Whole Foods Market,Seattle,47.675024,-122.316819
+2024-10-04,02:52,03:30,37.22,Late Night / Other,Safeway,Seattle,47.620505,-122.31334
+2024-10-07,01:48,02:45,57.38,Late Night / Other,"""Mama Mia's Pizza""",Seattle,47.667292,-122.317702
+2024-10-07,02:59,03:18,18.92,Late Night / Other,SUBWAY,Seattle,47.661058,-122.317382

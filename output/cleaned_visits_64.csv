@@ -1,0 +1,81 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2017-01-11,01:33,02:18,44.95,Late Night / Other,"""Shari's Restaurant""",Olympia,47.048093,-122.823765
+2017-01-14,19:48,20:24,35.48,Dinner,Round Table Pizza,Burien,47.461939,-122.332523
+2017-03-06,16:23,17:10,47.27,Dinner,Daily Grill,Seattle,47.61134,-122.333904
+2017-05-06,17:37,17:57,20.12,Dinner,Alaskan Sourdough Bakery,Seattle,47.606059,-122.341018
+2017-05-08,01:26,03:02,96.57,Late Night / Other,"""Anthony's Homeport Des Moines""",Des Moines,47.39732,-122.328383
+2017-05-08,18:38,19:22,44.52,Dinner,Quiznos,Burien,47.46281,-122.333993
+2017-06-09,18:48,19:55,66.65,Dinner,Seatown Seabar & Rotisserie,Seattle,47.610622,-122.343831
+2017-06-10,17:53,18:36,42.45,Dinner,"""Ivar's Salmon House""",Seattle,47.653614,-122.324059
+2017-07-07,17:20,18:13,52.28,Dinner,Quiznos,Burien,47.46281,-122.333993
+2017-10-28,01:04,02:41,96.23,Late Night / Other,Bell Thai,Seattle,47.614982,-122.343399
+2017-10-28,17:51,18:28,37.53,Dinner,Smarty Pants Garage,Burien,47.466843,-122.342979
+2017-12-09,20:48,21:24,35.92,Dinner,On Rice Thai Cuisine,Bellingham,48.719892,-122.501423
+2017-12-13,18:17,18:52,35.02,Dinner,Great India Cuisine,Olympia,47.045106,-122.902558
+2018-04-01,02:53,03:22,29.27,Late Night / Other,Atmosphere Cafe,Burien,47.462647,-122.334295
+2018-04-01,20:55,21:52,57.58,Dinner,Far East,Olympia,47.044929,-122.903895
+2018-09-21,18:37,19:00,23.0,Dinner,"""Mc Donald's""",Castle Rock,46.284684,-122.900699
+2018-09-22,15:36,16:02,25.92,Lunch,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-09-22,21:06,21:26,20.77,Dinner,Plaza Santa Fe,Woodinville,47.753525,-122.153418
+2019-02-08,19:21,19:39,18.32,Dinner,"""Flap Jack's Wafflehouse""",Burien,47.479319,-122.3334
+2019-03-09,17:43,18:47,64.22,Dinner,"""Alexa's Cafe""",Bothell,47.759869,-122.204777
+2019-05-03,20:01,21:32,90.67,Dinner,"""Anthony's Homeport Des Moines""",Des Moines,47.39732,-122.328383
+2019-05-06,22:19,22:34,15.1,Late Night / Other,"""Chan's Place Woodinville""",Woodinville,47.75394,-122.14882
+2019-05-19,01:03,02:08,65.13,Late Night / Other,Zeeks Pizza,Kirkland,47.67627,-122.20608
+2019-05-19,19:54,20:24,29.28,Dinner,Red Robin Gourmet Burgers,Woodinville,47.75772,-122.15561
+2019-06-07,21:37,21:54,17.13,Dinner,Atmosphere Cafe,Burien,47.462647,-122.334295
+2019-07-27,17:30,18:31,61.22,Dinner,Baskets Cafe,Bellevue,47.6286,-122.16422
+2019-09-06,18:22,18:49,27.65,Dinner,Quiznos,Burien,47.46281,-122.333993
+2019-09-07,01:52,03:25,92.42,Late Night / Other,Baskets Cafe,Bellevue,47.6286,-122.16422
+2019-09-07,18:46,21:04,138.58,Dinner,"""Anthony's Homeport Des Moines""",Des Moines,47.39732,-122.328383
+2019-10-04,20:38,21:02,24.37,Dinner,KIDD Valley Burgers & Shakes,Seattle,47.668689,-122.300295
+2019-10-04,22:20,22:39,18.63,Late Night / Other,"""Domino's""",Redmond,47.674606,-122.123383
+2019-10-05,01:44,03:01,76.68,Late Night / Other,Dine India,Bothell,47.810692,-122.206962
+2019-11-02,18:54,19:50,55.88,Dinner,Tipsy Cow Burger Bar,Woodinville,47.754295,-122.150644
+2019-12-06,22:04,22:54,50.1,Late Night / Other,Wingstop,Bellevue,47.60961,-122.14145
+2019-12-07,19:05,19:25,19.72,Dinner,"""Chan's Place Woodinville""",Woodinville,47.75394,-122.14882
+2019-12-07,20:35,21:28,52.9,Dinner,"""Mc Donald's""",Redmond,47.671386,-122.114208
+2020-03-13,19:58,20:37,39.1,Dinner,"""Salty's At Redondo Beach""",Des Moines,47.349065,-122.324508
+2020-03-14,19:16,20:05,48.78,Dinner,Dough Zone Dumpling House,Redmond,47.670864,-122.113917
+2020-05-15,01:24,03:34,129.4,Late Night / Other,"""Ray's Boathouse Catering""",Seattle,47.673479,-122.407489
+2020-05-16,17:47,18:12,24.43,Dinner,Dough Zone Dumpling House,Redmond,47.670864,-122.113917
+2020-06-19,03:53,04:09,16.27,Late Night / Other,Tacos El Rey,Centralia,46.713117,-122.955966
+2020-09-19,18:23,19:07,43.17,Dinner,Atmosphere Cafe,Burien,47.462647,-122.334295
+2020-11-14,00:12,01:15,62.42,Late Night / Other,Red Robin Gourmet Burgers,Woodinville,47.75772,-122.15561
+2020-12-24,03:08,03:33,25.0,Late Night / Other,Dough Zone Dumpling House,Redmond,47.670864,-122.113917
+2020-12-25,01:59,03:18,79.15,Late Night / Other,Izumi,Kirkland,47.71249,-122.1878
+2020-12-25,20:12,20:56,44.23,Dinner,Dough Zone Dumpling House,Redmond,47.670864,-122.113917
+2021-02-27,22:37,23:15,38.2,Late Night / Other,Dough Zone Dumpling House,Redmond,47.670864,-122.113917
+2021-05-08,20:00,20:47,46.43,Dinner,Black Zia Cantina,Burien,47.466477,-122.341798
+2021-05-11,21:06,22:18,72.2,Dinner,Chada LLC,Blaine,48.99292,-122.752034
+2021-05-13,19:55,21:04,69.18,Dinner,Bai Tong Restaurant,Redmond,47.631817,-122.141735
+2021-07-04,18:21,18:44,22.88,Dinner,Baskets Cafe,Bellevue,47.6286,-122.16422
+2021-10-15,17:51,18:21,30.18,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2021-10-17,14:32,15:05,33.88,Lunch,Sear Fire Inspired Amer Stkhs,Redmond,47.671076,-122.121901
+2021-10-17,15:12,16:11,59.38,Lunch,Sear Fire Inspired Amer Stkhs,Redmond,47.671076,-122.121901
+2021-10-17,16:26,17:02,36.4,Dinner,13 Coins,Bellevue,47.61811,-122.201602
+2021-10-17,17:03,18:02,59.53,Dinner,13 Coins,Bellevue,47.61811,-122.201602
+2022-02-10,02:58,04:13,75.03,Late Night / Other,Dough Zone Dumpling House,Redmond,47.670864,-122.113917
+2022-02-10,21:51,22:07,15.55,Dinner,Little Caesars Pizza,Kirkland,47.730063,-122.174292
+2022-03-12,01:20,01:54,33.83,Late Night / Other,Atmosphere Cafe,Burien,47.462647,-122.334295
+2022-05-04,23:06,23:26,20.62,Late Night / Other,Atmosphere Cafe,Burien,47.462647,-122.334295
+2022-05-15,00:39,01:25,45.67,Late Night / Other,Dough Zone Dumpling House,Redmond,47.670864,-122.113917
+2022-07-22,18:04,19:08,63.57,Dinner,Dough Zone Dumpling House,Redmond,47.670864,-122.113917
+2022-07-23,00:37,02:17,100.4,Late Night / Other,Kanishka Cuisine Of India,Redmond,47.67277,-122.117799
+2022-07-23,20:43,21:22,39.3,Dinner,Atmosphere Cafe,Burien,47.462647,-122.334295
+2022-09-09,19:13,20:05,51.92,Dinner,Chopsticks Noodle House,Olympia,47.04385,-122.90242
+2022-09-09,20:05,20:50,44.37,Dinner,Saigon Rendezvous Restaurant,Olympia,47.043839,-122.902461
+2022-09-16,20:39,21:32,53.3,Dinner,Baskets Cafe,Bellevue,47.6286,-122.16422
+2022-09-17,20:43,21:25,42.15,Dinner,SUBWAY,Olympia,47.047568,-122.834304
+2022-09-28,18:48,19:11,23.15,Dinner,Dough Zone Dumpling House,Redmond,47.670864,-122.113917
+2022-09-29,02:16,03:09,53.05,Late Night / Other,Sip Thai Bistro,Redmond,47.68018,-122.12369
+2022-09-30,01:20,02:13,52.23,Late Night / Other,Monsoon East,Bellevue,47.610112,-122.203013
+2022-10-28,19:24,20:14,49.9,Dinner,Baskets Cafe,Bellevue,47.6286,-122.16422
+2022-10-30,01:43,02:53,69.78,Late Night / Other,Monsoon East,Bellevue,47.610112,-122.203013
+2022-10-30,19:12,20:12,60.47,Dinner,Dough Zone Dumpling House,Redmond,47.670864,-122.113917
+2022-12-23,21:11,22:10,58.6,Dinner,Baskets Cafe,Bellevue,47.6286,-122.16422
+2022-12-24,19:57,20:24,27.12,Dinner,Michou Fresca,Seattle,47.60988,-122.34228
+2022-12-25,19:07,20:16,69.28,Dinner,Dough Zone Dumpling House,Redmond,47.670864,-122.113917
+2023-02-08,20:39,21:53,73.27,Dinner,Dough Zone Dumpling House,Redmond,47.670864,-122.113917
+2024-04-27,01:45,02:20,34.52,Late Night / Other,Isarn Thai Foul Kitchen,Lynnwood,47.829765,-122.278203
+2025-09-18,21:09,22:11,62.02,Dinner,Dough Zone Dumpling House,Redmond,47.670864,-122.113917

@@ -1,0 +1,12 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2019-02-18,18:31,20:39,128.0,Dinner,"""Joe's Deli""",Federal Way,47.301018,-122.317308
+2019-02-18,20:44,21:12,28.55,Dinner,"""Joe's Deli""",Federal Way,47.301018,-122.317308
+2019-02-20,02:47,03:02,15.65,Late Night / Other,"""Mc Donald's""",Centralia,46.729995,-122.978248
+2022-02-09,22:12,22:46,34.38,Late Night / Other,Herbfarm,Woodinville,47.73361,-122.14689
+2022-02-12,01:59,03:06,67.63,Late Night / Other,"""Zulu's Board Game Cafe""",Bothell,47.760551,-122.202383
+2022-02-12,21:43,22:06,22.77,Dinner,Re Public Restaurant & Bar,Seattle,47.623011,-122.338532
+2022-02-19,19:41,20:14,33.18,Dinner,"""Papa Murphy's Take 'N' Bake""",Mountlake Ter,47.807916,-122.291712
+2025-03-21,01:49,02:05,16.03,Late Night / Other,Bonefish Grill,Bothell,47.79333,-122.21602
+2025-03-22,21:22,22:03,41.52,Dinner,Pen Thai Restaurant,Bothell,47.759852,-122.205036
+2025-03-23,22:12,23:34,82.12,Late Night / Other,Terra Plata,Seattle,47.614094,-122.327983
+2025-03-25,19:27,20:28,60.97,Dinner,El Puerto Mexican Restaurant,Edmonds,47.810807,-122.377886

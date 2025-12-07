@@ -1,0 +1,137 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2018-07-26,03:31,04:14,43.2,Late Night / Other,Longhorn Barbecue,Spokane Valley,47.678226,-117.283576
+2018-08-03,21:20,21:42,22.12,Dinner,Froyo Earth-Wandermere,Spokane,47.771709,-117.405049
+2018-08-08,04:04,04:33,28.38,Late Night / Other,Fred Meyer,Spokane,47.7675,-117.402752
+2018-08-09,18:55,20:27,91.67,Dinner,SUBWAY,Mccleary,47.055239,-123.267754
+2018-08-10,19:14,20:35,80.55,Dinner,SUBWAY,Mccleary,47.055239,-123.267754
+2018-08-25,01:50,02:47,57.62,Late Night / Other,"""Anthony's At Spokane Falls""",Spokane,47.663,-117.42477
+2018-08-31,21:48,22:09,20.6,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2018-09-03,00:52,01:32,40.52,Late Night / Other,Fred Meyer,Spokane,47.7675,-117.402752
+2018-09-04,00:33,00:56,22.27,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2018-10-15,02:33,02:50,16.87,Late Night / Other,Munchen Haus,Leavenworth,47.594424,-120.662958
+2018-11-15,01:38,03:41,123.2,Late Night / Other,Das Stein Haus,Spokane,47.716581,-117.438727
+2018-11-16,16:36,16:53,17.07,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2018-12-12,23:57,00:25,28.22,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2018-12-29,19:29,19:55,26.3,Dinner,Fred Meyer,Spokane,47.7675,-117.402752
+2019-04-02,22:27,23:00,33.05,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2019-04-03,00:45,01:12,27.02,Late Night / Other,De Leon Foods Inc,Spokane,47.714721,-117.407555
+2019-05-01,01:59,02:15,16.62,Late Night / Other,Sante Restaurant & Charcuterie,Spokane,47.659384,-117.418598
+2019-05-01,02:25,04:07,101.88,Late Night / Other,"""P F Chang's China Bistro""",Spokane,47.65881,-117.423756
+2019-05-02,05:13,06:20,67.25,Breakfast,"""Home Accents/Frank's Pizzaria""",Spokane,47.769587,-117.408115
+2019-06-04,22:14,22:41,27.2,Late Night / Other,Cash & Carry Smart Foodservice,Spokane,47.727062,-117.408703
+2019-06-07,00:42,02:45,122.73,Late Night / Other,"""Home Accents/Frank's Pizzaria""",Spokane,47.769587,-117.408115
+2019-06-27,19:45,20:19,34.48,Dinner,De Leon Foods,Spokane Valley,47.655933,-117.195211
+2019-06-30,00:56,01:19,23.02,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2019-07-02,01:05,03:07,121.38,Late Night / Other,Das Stein Haus,Spokane,47.716581,-117.438727
+2019-07-18,01:02,01:25,23.47,Late Night / Other,De Leon Foods Inc,Spokane,47.714721,-117.407555
+2019-07-18,01:53,02:41,48.28,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2019-07-19,20:11,20:56,45.63,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2019-07-23,00:28,01:02,34.02,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2019-07-25,00:56,01:34,37.7,Late Night / Other,De Leon Foods Inc,Spokane,47.714721,-117.407555
+2019-10-19,00:04,00:22,18.7,Late Night / Other,Steelhead Bar & Grille,Spokane,47.659689,-117.420782
+2019-10-28,00:08,01:09,60.5,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2019-10-28,15:49,16:50,60.77,Lunch,Mr Wok Restaurant,Spokane,47.7415,-117.409346
+2019-11-10,23:22,23:58,35.42,Late Night / Other,Fred Meyer,Spokane,47.7675,-117.402752
+2019-11-20,23:39,00:01,21.52,Late Night / Other,Clinkerdagger,Spokane,47.664931,-117.422638
+2019-11-26,00:47,01:03,15.22,Late Night / Other,Fred Meyer,Spokane Valley,47.658828,-117.193806
+2020-01-03,23:59,02:29,149.78,Late Night / Other,"""Milford's Fish House""",Spokane,47.66422,-117.42684
+2020-01-04,23:28,00:04,35.57,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2020-01-14,01:16,02:47,91.22,Late Night / Other,Old European,Spokane,47.727422,-117.410652
+2020-02-09,19:12,19:36,24.45,Dinner,Fred Meyer,Spokane,47.7675,-117.402752
+2020-02-10,01:43,02:56,73.0,Late Night / Other,"""Sergio's Mexican Sports Grill""",Spokane,47.657664,-117.424719
+2020-02-16,02:02,04:02,119.55,Late Night / Other,Steelhead Bar & Grille,Spokane,47.659689,-117.420782
+2020-02-17,21:54,22:12,17.55,Dinner,Fred Meyer,Spokane,47.7675,-117.402752
+2020-02-24,23:45,00:02,16.5,Late Night / Other,Fred Meyer,Spokane,47.7675,-117.402752
+2020-03-01,02:32,02:58,25.65,Late Night / Other,SUBWAY,Spokane,47.703414,-117.411405
+2020-03-12,00:07,00:39,31.83,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2020-03-12,21:03,21:33,30.05,Dinner,Nudo Ramen House,Spokane,47.745975,-117.404516
+2020-03-14,01:13,02:16,63.2,Late Night / Other,Palm Court Grill,Spokane,47.656878,-117.424256
+2020-05-29,22:34,23:15,40.9,Late Night / Other,Fred Meyer,Spokane,47.7675,-117.402752
+2020-06-03,18:14,18:50,36.7,Dinner,El Rincon Tapatio,Spokane,47.68666,-117.36555
+2020-06-10,01:00,02:26,85.72,Late Night / Other,Foodies,Kennewick,46.208729,-119.121955
+2020-06-12,00:03,01:59,115.4,Late Night / Other,"""P F Chang's China Bistro""",Spokane,47.65881,-117.423756
+2020-06-18,20:40,21:03,22.65,Dinner,Fred Meyer,Spokane,47.7675,-117.402752
+2020-06-20,18:47,19:08,20.87,Dinner,Casa De Oro,Spokane,47.695913,-117.411521
+2020-07-09,01:15,03:42,147.05,Late Night / Other,Casper Fry,Spokane,47.646331,-117.390017
+2020-07-18,12:55,13:10,15.08,Lunch,"""Chili's Grill & Bar""",Spokane,47.625456,-117.537243
+2020-08-05,20:26,20:48,22.2,Dinner,Casa De Oro,Spokane,47.695913,-117.411521
+2020-08-25,18:43,19:04,21.07,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2020-08-27,22:39,22:58,19.35,Late Night / Other,De Leon Foods Inc,Spokane,47.714721,-117.407555
+2020-09-03,03:17,04:36,78.45,Late Night / Other,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2020-10-16,16:13,16:51,38.48,Dinner,Old European,Spokane,47.727422,-117.410652
+2020-10-21,00:45,01:59,74.78,Late Night / Other,Scratch Spokane,Spokane,47.656214,-117.426987
+2020-10-21,02:15,02:47,31.18,Late Night / Other,Scratch Spokane,Spokane,47.656214,-117.426987
+2020-10-22,03:42,04:51,68.87,Late Night / Other,Red Robin Gourmet Burgers,Spokane Valley,47.674214,-117.203554
+2020-10-22,16:23,17:11,47.85,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2020-10-22,18:29,18:47,17.55,Dinner,Fred Meyer,Spokane,47.7675,-117.402752
+2020-11-03,20:00,20:45,45.25,Dinner,Wall Street Diner,Spokane,47.699255,-117.421598
+2020-11-12,01:00,03:07,126.33,Late Night / Other,Casper Fry,Spokane,47.646331,-117.390017
+2020-11-21,20:23,20:55,31.98,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2020-12-23,00:32,01:53,80.53,Late Night / Other,El Caporal Restaurant,Selah,46.654331,-120.529968
+2021-02-16,02:10,02:38,28.17,Late Night / Other,MOD Pizza,Spokane,47.743479,-117.408448
+2021-02-18,02:07,02:34,27.25,Late Night / Other,De Leon Foods Inc,Spokane,47.714721,-117.407555
+2021-02-18,02:40,03:05,24.63,Late Night / Other,SUBWAY,Spokane,47.703414,-117.411405
+2021-03-12,23:28,23:48,20.05,Late Night / Other,Fred Meyer,Spokane,47.7675,-117.402752
+2021-04-06,01:23,01:40,16.25,Late Night / Other,De Leon Foods Inc,Spokane,47.714721,-117.407555
+2021-04-06,17:24,18:01,36.2,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2021-04-08,22:06,22:23,17.35,Late Night / Other,Clinkerdagger,Spokane,47.664931,-117.422638
+2021-04-26,23:19,23:39,19.93,Late Night / Other,Casa De Oro,Spokane,47.695913,-117.411521
+2021-05-11,01:43,03:43,119.93,Late Night / Other,Casper Fry,Spokane,47.646331,-117.390017
+2021-05-12,00:33,00:54,21.27,Late Night / Other,Cash & Carry Smart Foodservice,Spokane,47.727062,-117.408703
+2021-05-14,01:52,02:14,21.53,Late Night / Other,De Leon Foods Inc,Spokane,47.714721,-117.407555
+2021-06-02,01:09,01:32,23.77,Late Night / Other,Fred Meyer,Spokane,47.7675,-117.402752
+2021-06-07,19:15,20:11,56.17,Dinner,Wall Street Diner,Spokane,47.699255,-117.421598
+2021-07-16,01:20,03:08,108.38,Late Night / Other,Casper Fry,Spokane,47.646331,-117.390017
+2021-07-20,22:18,23:02,44.23,Late Night / Other,Clinkerdagger,Spokane,47.664931,-117.422638
+2021-09-02,20:59,21:29,30.3,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2021-09-04,20:26,20:42,16.55,Dinner,Casa De Oro,Spokane,47.695913,-117.411521
+2021-09-07,20:30,20:53,22.27,Dinner,Casa De Oro,Spokane,47.695913,-117.411521
+2021-09-09,03:41,04:59,77.77,Late Night / Other,Hong Kong Buffet,Spokane Valley,47.6738,-117.208741
+2021-09-16,15:58,16:58,60.4,Lunch,Clinkerdagger,Spokane,47.664931,-117.422638
+2021-09-16,17:25,18:06,41.43,Dinner,"""Denny's""",Spokane,47.690512,-117.4117
+2021-09-19,18:35,18:58,23.32,Dinner,Qdoba Mexican Eats,Spokane,47.646989,-117.41283
+2021-09-28,17:29,17:56,26.48,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2021-09-28,20:24,20:45,20.32,Dinner,Casa De Oro,Spokane,47.695913,-117.411521
+2021-10-27,01:50,02:09,19.53,Late Night / Other,Mayan Mexican Restaurant,Lacey,46.99695,-122.82007
+2021-11-21,20:36,20:58,21.65,Dinner,Costco Wholesale,Spokane,47.725677,-117.4124
+2021-12-08,02:05,02:22,17.6,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2021-12-19,19:21,20:44,82.55,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2021-12-22,00:11,00:41,29.47,Late Night / Other,Sante Restaurant & Charcuterie,Spokane,47.659384,-117.418598
+2021-12-28,19:56,20:25,29.5,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2021-12-30,19:39,20:07,28.48,Dinner,De Leon Foods,Spokane Valley,47.655933,-117.195211
+2022-01-09,01:20,01:49,28.17,Late Night / Other,"""Wollnick's""",Spokane,47.658732,-117.419044
+2022-03-11,21:20,21:39,18.6,Dinner,Casa De Oro,Spokane,47.695913,-117.411521
+2022-04-05,19:05,19:35,29.88,Dinner,Casa De Oro,Spokane,47.695913,-117.411521
+2022-04-12,03:04,03:53,48.6,Late Night / Other,Round Table Pizza,Spokane Valley,47.655758,-117.197282
+2022-04-26,21:40,21:56,16.03,Dinner,Casa De Oro,Spokane,47.695913,-117.411521
+2022-04-28,05:03,05:47,43.85,Breakfast,Onion Bar & Grill-North,Spokane,47.726709,-117.410695
+2022-05-26,02:03,04:12,129.07,Late Night / Other,"""Wollnick's""",Spokane,47.658732,-117.419044
+2022-12-14,16:48,18:57,128.62,Dinner,Clinkerdagger,Spokane,47.664931,-117.422638
+2023-01-22,00:13,00:29,15.9,Late Night / Other,Fred Meyer,Spokane,47.7675,-117.402752
+2023-01-22,00:43,01:09,25.8,Late Night / Other,"""Dickey's Barbecue Pit""",Spokane,47.772509,-117.402649
+2023-08-01,00:47,02:27,100.28,Late Night / Other,Zola,Spokane,47.659129,-117.412479
+2023-08-07,20:58,21:29,30.83,Dinner,Casa De Oro,Spokane,47.695913,-117.411521
+2023-09-03,16:33,17:01,27.18,Dinner,"""Chili's Grill & Bar""",Spokane,47.625456,-117.537243
+2023-09-19,19:33,19:54,20.75,Dinner,Fred Meyer,Spokane,47.7675,-117.402752
+2023-09-19,19:56,20:15,18.8,Dinner,Fred Meyer,Spokane,47.7675,-117.402752
+2023-10-01,22:18,22:47,29.72,Late Night / Other,Fred Meyer,Spokane,47.7675,-117.402752
+2023-10-02,21:25,22:13,48.75,Dinner,Froyo Earth-Wandermere,Spokane,47.771709,-117.405049
+2023-10-25,18:34,19:19,45.65,Dinner,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2023-10-30,22:56,23:19,23.22,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Spokane,47.768006,-117.402756
+2023-10-30,23:26,23:41,15.18,Late Night / Other,"""Dickey's Barbecue Pit""",Spokane,47.772509,-117.402649
+2023-11-04,19:09,19:39,29.67,Dinner,Uncle Ulis,Leavenworth,47.595885,-120.660893
+2023-11-04,19:48,20:40,52.05,Dinner,Blewett Brewing Co LLC,Leavenworth,47.595127,-120.659691
+2023-11-04,20:46,21:19,33.48,Dinner,Pavz Cafe Bistro,Leavenworth,47.595341,-120.661247
+2023-11-04,21:31,22:09,38.55,Dinner,Munchen Haus,Leavenworth,47.594424,-120.662958
+2023-11-06,01:47,02:39,51.9,Late Night / Other,Pavz Cafe Bistro,Leavenworth,47.595341,-120.661247
+2024-01-30,20:38,21:09,31.35,Dinner,Casa De Oro,Spokane,47.695913,-117.411521
+2024-02-19,19:11,19:58,47.27,Dinner,Taco Bell,Spokane,47.747586,-117.403019
+2024-04-30,04:48,05:52,64.05,Late Night / Other,"""Applebee's""",Spokane,47.747018,-117.403427
+2024-05-28,04:15,05:25,70.1,Late Night / Other,Red Robin Gourmet Burgers,Spokane,47.749431,-117.401049
+2024-06-02,18:33,19:34,61.05,Dinner,"""Applebee's""",Spokane,47.747018,-117.403427
+2024-06-11,04:00,05:21,81.13,Late Night / Other,"""Applebee's""",Spokane,47.747018,-117.403427
+2024-06-18,03:57,05:03,65.62,Late Night / Other,"""Applebee's""",Spokane,47.747018,-117.403427
+2024-07-04,03:36,04:51,74.65,Late Night / Other,Onion Bar & Grill-North,Spokane,47.726709,-117.410695
+2024-07-09,03:24,04:20,56.47,Late Night / Other,"""Applebee's""",Spokane,47.747018,-117.403427
+2024-07-12,21:25,21:59,33.57,Dinner,Casa De Oro,Spokane,47.695913,-117.411521
+2024-07-19,20:21,20:43,22.32,Dinner,Sonic Drive-In,Spokane,47.669866,-117.409982

@@ -1,0 +1,95 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2016-03-02,20:33,20:49,16.1,Dinner,LA Costa Mexican Restaurant,Vancouver,45.656476,-122.590043
+2016-03-11,00:47,01:36,49.23,Late Night / Other,"""Wendy's""",Vancouver,45.681518,-122.666381
+2016-03-16,06:30,07:17,47.05,Breakfast,Brickhouse Bar & Grill,Vancouver,45.632512,-122.671674
+2016-04-04,00:46,01:06,20.02,Late Night / Other,Safeway,Vancouver,45.641296,-122.556701
+2016-04-10,00:48,01:03,15.02,Late Night / Other,Safeway,Vancouver,45.641296,-122.556701
+2016-04-19,23:05,23:53,48.6,Late Night / Other,Chipotle Mexican Grill,Vancouver,45.615161,-122.504133
+2016-07-11,00:21,02:30,129.15,Late Night / Other,"""Wendy's""",Vancouver,45.681518,-122.666381
+2016-07-25,00:23,01:37,73.77,Late Night / Other,LA Costa Mexican Restaurant,Vancouver,45.656476,-122.590043
+2016-09-18,00:14,00:52,38.47,Late Night / Other,Fred Meyer,Vancouver,45.619407,-122.555528
+2016-11-12,00:35,01:09,33.55,Late Night / Other,Red Lobster,Vancouver,45.656677,-122.588195
+2015-12-18,00:19,01:28,68.63,Late Night / Other,Blue Castle,Battle Ground,45.775389,-122.52362
+2016-01-26,01:32,01:51,19.15,Late Night / Other,"""Wendy's""",Vancouver,45.681518,-122.666381
+2016-02-02,06:02,07:25,83.35,Breakfast,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2016-02-21,03:37,05:33,116.45,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2017-03-07,00:54,01:13,19.35,Late Night / Other,Safeway,Vancouver,45.641296,-122.556701
+2017-04-10,00:54,01:44,49.78,Late Night / Other,Fred Meyer,Vancouver,45.619407,-122.555528
+2017-04-18,19:19,20:09,50.45,Dinner,"""Hudson's Bar & Grill""",Vancouver,45.65362,-122.59204
+2017-05-11,01:34,01:52,18.27,Late Night / Other,Safeway,Vancouver,45.681701,-122.66809
+2017-06-21,17:46,18:37,51.23,Dinner,LA Costa Mexican Restaurant,Vancouver,45.656476,-122.590043
+2017-07-04,04:57,06:05,68.2,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2017-08-08,18:52,19:22,29.68,Dinner,LA Costa Mexican Restaurant,Vancouver,45.656476,-122.590043
+2017-08-24,00:13,01:22,69.35,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2016-12-27,23:44,23:59,15.35,Late Night / Other,"""Los Pepe's Inc""",Battle Ground,45.775211,-122.524289
+2017-11-26,20:03,20:20,17.33,Dinner,Muchas Gracias Mexican Food,Vancouver,45.642514,-122.557499
+2018-01-24,08:15,08:55,39.53,Breakfast,Brickhouse Bar & Grill,Vancouver,45.632512,-122.671674
+2018-01-24,21:35,21:51,15.9,Dinner,Chucks Produce & Street Market,Vancouver,45.618029,-122.536857
+2018-01-24,21:57,22:21,24.2,Dinner,Safeway,Vancouver,45.616892,-122.530888
+2018-01-26,02:19,03:46,86.75,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2018-02-05,21:22,22:14,51.28,Dinner,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2018-02-07,04:08,04:37,28.32,Late Night / Other,Muchas Gracias Mexican Food,Vancouver,45.642514,-122.557499
+2018-04-03,17:55,18:34,38.68,Dinner,"""Elmer's Breakfast-Lunch-Dinner""",Vancouver,45.621643,-122.555965
+2018-04-18,19:15,19:51,36.32,Dinner,"""Hudson's Bar & Grill""",Vancouver,45.65362,-122.59204
+2018-04-18,20:25,21:02,37.3,Dinner,"""Wendy's""",Vancouver,45.681518,-122.666381
+2018-04-24,16:57,17:42,44.87,Dinner,Cafe Natalia,Camas,45.58629,-122.40337
+2018-05-05,20:16,20:31,15.43,Dinner,Buffalo Wild Wings Grill & Bar,Vancouver,45.678185,-122.66844
+2018-05-15,20:07,20:53,46.65,Dinner,Winco Foods,Vancouver,45.63886,-122.59725
+2018-05-23,03:54,04:28,34.03,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2018-06-02,23:46,00:08,22.5,Late Night / Other,Safeway,Vancouver,45.641296,-122.556701
+2018-07-09,23:58,00:21,22.55,Late Night / Other,Winco Foods,Vancouver,45.63886,-122.59725
+2018-07-24,04:47,06:06,78.83,Late Night / Other,Shen Chang Restaurant,Vancouver,45.664815,-122.562576
+2018-08-01,20:31,21:48,76.68,Dinner,"""Elmer's Breakfast-Lunch-Dinner""",Vancouver,45.65033,-122.599862
+2018-09-25,22:04,22:44,39.48,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2018-12-15,23:48,00:13,25.33,Late Night / Other,Winco Foods,Vancouver,45.63886,-122.59725
+2019-02-11,16:01,16:28,27.7,Dinner,Safeway,Vancouver,45.641296,-122.556701
+2019-02-11,16:31,17:01,29.68,Dinner,Safeway,Vancouver,45.641296,-122.556701
+2019-02-24,00:35,01:02,26.17,Late Night / Other,Safeway,Vancouver,45.641296,-122.556701
+2019-05-31,23:46,00:02,15.2,Late Night / Other,Safeway,Vancouver,45.641296,-122.556701
+2019-06-18,21:37,22:46,69.02,Dinner,"""Applebee's""",Vancouver,45.715818,-122.652135
+2019-07-17,01:44,02:09,24.5,Late Night / Other,Okuno & Assoc Inc,Vancouver,45.71536,-122.64952
+2019-08-20,23:21,00:13,52.77,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2019-09-08,22:11,22:31,20.08,Late Night / Other,Safeway,Vancouver,45.641296,-122.556701
+2019-09-27,00:02,00:21,19.37,Late Night / Other,Safeway,Vancouver,45.641296,-122.556701
+2019-10-10,23:37,23:55,17.55,Late Night / Other,Safeway,Vancouver,45.641296,-122.556701
+2019-12-10,17:36,18:31,54.52,Dinner,"""Elmer's Breakfast-Lunch-Dinner""",Vancouver,45.65033,-122.599862
+2020-01-01,06:09,06:57,48.05,Breakfast,Beaches Restaurant & Bar,Vancouver,45.614929,-122.652099
+2020-02-05,21:37,21:52,15.28,Dinner,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2020-04-02,21:17,21:37,19.5,Dinner,Happy Family Rstrnt Bg-Lounge,Vancouver,45.642209,-122.55561
+2020-06-07,23:43,23:58,15.37,Late Night / Other,Safeway,Vancouver,45.641296,-122.556701
+2020-06-11,23:42,23:58,15.35,Late Night / Other,Safeway,Vancouver,45.641296,-122.556701
+2020-07-24,04:01,05:09,68.12,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2020-08-12,22:26,23:31,64.75,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.619074,-122.646483
+2020-09-13,23:39,00:00,20.83,Late Night / Other,Safeway,Vancouver,45.641296,-122.556701
+2020-11-09,03:22,04:19,56.63,Late Night / Other,Beaches Restaurant & Bar,Vancouver,45.614929,-122.652099
+2021-01-04,21:28,21:46,17.9,Dinner,Goldendale Market Fresh,Goldendale,45.822602,-120.812856
+2021-01-08,22:29,23:06,37.42,Late Night / Other,SUBWAY,Goldendale,45.826471,-120.805325
+2021-01-17,01:00,01:19,18.9,Late Night / Other,Okuno & Assoc Inc,Vancouver,45.71536,-122.64952
+2021-03-03,18:15,19:48,93.78,Dinner,Hockinson Cafe At Battle Grnd,Battle Ground,45.782714,-122.5578
+2021-04-14,18:43,19:20,36.95,Dinner,"""Elmer's Breakfast-Lunch-Dinner""",Vancouver,45.65033,-122.599862
+2021-06-22,20:57,21:16,19.9,Dinner,Grocery Outlet,Vancouver,45.64281,-122.61255
+2021-07-14,21:41,21:56,15.1,Dinner,Safeway,Camas,45.586883,-122.399418
+2021-08-11,19:41,20:33,52.38,Dinner,LA Placita Taqueria,Goldendale,45.821952,-120.823649
+2021-09-24,19:47,21:07,80.75,Dinner,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2021-09-26,22:19,23:03,43.32,Late Night / Other,"""Applebee's""",Vancouver,45.620111,-122.541093
+2021-10-02,19:29,20:48,79.03,Dinner,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2021-10-16,17:18,18:17,58.63,Dinner,"""Elmer's Breakfast-Lunch-Dinner""",Vancouver,45.621643,-122.555965
+2021-12-17,18:33,19:00,26.82,Dinner,"""Applebee's""",Vancouver,45.620111,-122.541093
+2021-10-28,20:53,21:47,53.65,Dinner,"""Elmer's Breakfast-Lunch-Dinner""",Vancouver,45.621643,-122.555965
+2022-02-11,17:00,17:21,20.42,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2022-03-04,20:14,21:06,52.32,Dinner,"""Applebee's""",Vancouver,45.620111,-122.541093
+2022-03-18,21:37,23:00,83.23,Dinner,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2022-03-22,19:01,19:42,41.58,Dinner,SUBWAY,Vancouver,45.638893,-122.671673
+2022-04-01,01:19,01:49,30.58,Late Night / Other,Pizza Hut,Vancouver,45.678527,-122.554504
+2022-04-07,02:13,03:20,67.02,Late Night / Other,"""Elmer's Breakfast-Lunch-Dinner""",Vancouver,45.65033,-122.599862
+2022-04-19,21:01,21:57,56.05,Dinner,"""Applebee's""",Vancouver,45.620111,-122.541093
+2023-02-19,19:56,20:15,18.4,Dinner,Chucks Produce & Street Market,Vancouver,45.618029,-122.536857
+2023-04-11,17:59,19:47,108.12,Dinner,Talay Thai,Vancouver,45.684326,-122.53382
+2023-04-25,20:34,21:23,48.62,Dinner,"""Applebee's""",Vancouver,45.620111,-122.541093
+2023-12-10,21:13,22:20,66.75,Dinner,"""Applebee's""",Vancouver,45.620111,-122.541093
+2023-12-17,01:52,03:00,68.2,Late Night / Other,"""Applebee's""",Vancouver,45.660095,-122.557312
+2023-12-31,23:21,00:00,39.18,Late Night / Other,"""Applebee's""",Vancouver,45.620111,-122.541093
+2024-01-21,22:25,23:21,56.77,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.615343,-122.507009
+2023-06-27,17:50,18:25,34.72,Dinner,SUBWAY,Vancouver,45.638893,-122.671673
+2023-07-27,01:28,02:20,52.3,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2023-08-23,03:03,04:15,71.9,Late Night / Other,"""Applebee's""",Vancouver,45.660095,-122.557312

@@ -1,0 +1,6 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2020-10-16,19:49,20:57,67.63,Dinner,Palomino-Bellevue,Bellevue,47.615841,-122.20156
+2020-10-23,18:22,18:46,23.78,Dinner,Costco Wholesale,Federal Way,47.287035,-122.310169
+2020-11-04,00:02,00:55,52.58,Late Night / Other,"""Mc Donald's""",Milton,47.252,-122.294574
+2024-04-05,20:39,22:01,81.95,Dinner,Cafe Rio Mexican Grill,Federal Way,47.315255,-122.311708
+2024-04-06,21:59,22:18,18.3,Dinner,"""Mc Donald's""",Tacoma,47.157112,-122.40111

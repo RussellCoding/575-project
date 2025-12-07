@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_cc48ca7ec872e5e53047b3dec5762adc {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/iso8601-js-period@0.2.1/iso8601.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-timedimension@1.1.1/dist/leaflet.timedimension.control.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_cc48ca7ec872e5e53047b3dec5762adc" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_cc48ca7ec872e5e53047b3dec5762adc = L.map(
+                "map_cc48ca7ec872e5e53047b3dec5762adc",
+                {
+                    center: [47.6, -122.33],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 8,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_97492a504e71f63e6aec523e4e9664ad = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_97492a504e71f63e6aec523e4e9664ad.addTo(map_cc48ca7ec872e5e53047b3dec5762adc);
+        
+    
+            L.Control.TimeDimensionCustom = L.Control.TimeDimension.extend({
+                _getDisplayDateFormat: function(date){
+                    var newdate = new moment(date);
+                    console.log(newdate)
+                    return newdate.format("YYYY-MM-DD HH:mm:ss");
+                }
+            });
+            map_cc48ca7ec872e5e53047b3dec5762adc.timeDimension = L.timeDimension(
+                {
+                    period: "PT1H",
+                }
+            );
+            var timeDimensionControl = new L.Control.TimeDimensionCustom(
+                {
+  "position": "bottomleft",
+  "minSpeed": 0.1,
+  "maxSpeed": 200,
+  "autoPlay": false,
+  "loopButton": false,
+  "timeSliderDragUpdate": false,
+  "speedSlider": true,
+  "playerOptions": {
+  "transitionTime": 200,
+  "loop": false,
+  "startOver": true,
+},
+}
+            );
+            map_cc48ca7ec872e5e53047b3dec5762adc.addControl(this.timeDimensionControl);
+
+            var geoJsonLayer = L.geoJson({"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.288648, 47.565468]}, "properties": {"time": "2014-06-01T23:14:00", "popup": "<b>Smokehouse</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 23:14<br>End: 23:34<br>Date: 2014-06-01<br>Duration: 19.55 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.2989, 47.66867]}, "properties": {"time": "2014-06-02T03:38:00", "popup": "<b>Franks Oyster Hse-Champagne</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 03:38<br>End: 04:58<br>Date: 2014-06-02<br>Duration: 80.0 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.25994, 47.44103]}, "properties": {"time": "2014-06-05T00:25:00", "popup": "<b>Mizuki Buffet</b><br>Tukwila<br>Meal: Late Night / Other<br>Start: 00:25<br>End: 02:16<br>Date: 2014-06-05<br>Duration: 110.93 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.296136, 47.435086]}, "properties": {"time": "2014-06-05T19:54:00", "popup": "<b>Jack In The Box</b><br>Seatac<br>Meal: Dinner<br>Start: 19:54<br>End: 20:26<br>Date: 2014-06-05<br>Duration: 31.95 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.34228, 47.60988]}, "properties": {"time": "2018-04-28T19:22:00", "popup": "<b>Michou Fresca</b><br>Seattle<br>Meal: Dinner<br>Start: 19:22<br>End: 19:57<br>Date: 2018-04-28<br>Duration: 35.1 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.341056, 47.608677]}, "properties": {"time": "2018-04-28T20:25:00", "popup": "<b>Pasta Guys LLC</b><br>Seattle<br>Meal: Dinner<br>Start: 20:25<br>End: 21:36<br>Date: 2018-04-28<br>Duration: 71.6 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.347626, 47.626823]}, "properties": {"time": "2018-04-28T22:32:00", "popup": "<b>\"Big Mario's Pizza\"</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 22:32<br>End: 23:02<br>Date: 2018-04-28<br>Duration: 30.13 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.127535, 47.676713]}, "properties": {"time": "2018-04-29T02:14:00", "popup": "<b>Sages Restaurant</b><br>Redmond<br>Meal: Late Night / Other<br>Start: 02:14<br>End: 03:48<br>Date: 2018-04-29<br>Duration: 93.67 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.52058, 47.624807]}, "properties": {"time": "2018-04-30T16:12:00", "popup": "<b>Hitchcock Deli</b><br>Bainbridge Isle<br>Meal: Dinner<br>Start: 16:12<br>End: 16:58<br>Date: 2018-04-30<br>Duration: 45.65 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.52058, 47.624807]}, "properties": {"time": "2018-04-30T19:00:00", "popup": "<b>Hitchcock Deli</b><br>Bainbridge Isle<br>Meal: Dinner<br>Start: 19:00<br>End: 20:35<br>Date: 2018-04-30<br>Duration: 95.28 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.3134, 47.65858]}, "properties": {"time": "2018-05-01T00:37:00", "popup": "<b>Tahn Brothers Restaurant</b><br>Seattle<br>Meal: Late Night / Other<br>Start: 00:37<br>End: 01:09<br>Date: 2018-05-01<br>Duration: 32.48 minutes", "icon": "circle", "iconstyle": {"color": "red", "fillColor": "red", "fillOpacity": 0.7, "radius": 8}}}]}, {
+                    pointToLayer: function (feature, latLng) {
+                        if (feature.properties.icon == 'marker') {
+                            if(feature.properties.iconstyle){
+                                return new L.Marker(latLng, {
+                                    icon: L.icon(feature.properties.iconstyle)});
+                            }
+                            //else
+                            return new L.Marker(latLng);
+                        }
+                        if (feature.properties.icon == 'circle') {
+                            if (feature.properties.iconstyle) {
+                                return new L.circleMarker(latLng, feature.properties.iconstyle)
+                                };
+                            //else
+                            return new L.circleMarker(latLng);
+                        }
+                        //else
+
+                        return new L.Marker(latLng);
+                    },
+                    style: function (feature) {
+                        return feature.properties.style;
+                    },
+                    onEachFeature: function(feature, layer) {
+                        if (feature.properties.popup) {
+                        layer.bindPopup(feature.properties.popup);
+                        }
+                        if (feature.properties.tooltip) {
+                        layer.bindTooltip(feature.properties.tooltip);
+                        }
+                    }
+                })
+
+            var timestamped_geo_json_a0e3897e8951c9cd1295f54ca017d604 = L.timeDimension.layer.geoJson(
+                geoJsonLayer,
+                {
+                    updateTimeDimension: true,
+                    addlastPoint: true,
+                    duration: undefined,
+                }
+            ).addTo(map_cc48ca7ec872e5e53047b3dec5762adc);
+        
+</script>
+</html>

@@ -1,0 +1,364 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2018-11-27,01:57,02:25,28.12,Late Night / Other,Genki Sushi,Bellevue,47.57476,-122.17113
+2018-11-28,00:03,00:31,28.08,Late Night / Other,Teriyaki Time,Bellevue,47.57572,-122.16871
+2018-12-04,01:27,01:45,18.15,Late Night / Other,Azteca Mexican Restaurants,Bellevue,47.6115,-122.18976
+2018-12-04,19:36,19:58,21.97,Dinner,Greek Express,Bellevue,47.60962,-122.14175
+2018-12-06,19:24,19:40,16.37,Dinner,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2018-12-06,19:49,20:13,24.12,Dinner,"""Jimmy John's""",Bellevue,47.61125,-122.199663
+2018-12-30,18:51,19:11,19.78,Dinner,Genki Sushi,Bellevue,47.57476,-122.17113
+2019-01-02,19:45,20:02,16.73,Dinner,Greek Express,Bellevue,47.60962,-122.14175
+2019-01-15,19:17,19:40,23.45,Dinner,Greek Express,Bellevue,47.60962,-122.14175
+2019-01-21,19:37,19:56,18.95,Dinner,Genki Sushi,Bellevue,47.57476,-122.17113
+2019-01-21,23:50,00:30,40.38,Late Night / Other,"""Jimmy John's""",Bellevue,47.61125,-122.199663
+2019-01-23,01:24,01:45,21.55,Late Night / Other,Genki Sushi,Bellevue,47.57476,-122.17113
+2019-02-05,02:44,03:35,50.27,Late Night / Other,Family Pancake House,Redmond,47.668481,-122.104427
+2019-02-06,20:01,20:43,42.17,Dinner,Taco Time,Issaquah,47.551465,-122.046206
+2019-02-10,19:16,20:01,44.93,Dinner,Family Pancake House,Redmond,47.668481,-122.104427
+2019-02-11,19:21,19:42,21.3,Dinner,Greek Express,Bellevue,47.60962,-122.14175
+2019-02-12,19:17,19:39,21.32,Dinner,Taco Time,Issaquah,47.551465,-122.046206
+2019-02-13,03:46,04:22,35.32,Late Night / Other,Smith,Seattle,47.593821,-122.333687
+2019-02-13,19:25,19:46,20.85,Dinner,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2019-02-15,19:41,20:14,32.98,Dinner,Greek Express,Bellevue,47.60962,-122.14175
+2019-02-19,01:50,02:14,24.68,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-02-19,04:44,05:14,29.98,Late Night / Other,Din Tai Fung-Bellevue,Bellevue,47.616623,-122.201603
+2019-02-20,20:03,20:21,18.15,Dinner,Taco Time,Issaquah,47.551465,-122.046206
+2019-02-25,02:16,02:37,21.6,Late Night / Other,Ai Sushi Restaurant,Bellevue,47.619597,-122.130571
+2019-02-25,19:10,20:07,57.75,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-02-26,20:33,21:09,36.78,Dinner,"""Amigo's Family Mexican Rstrnt""",Bellevue,47.614845,-122.196841
+2019-02-27,03:16,04:02,45.88,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-02-28,00:54,01:09,15.13,Late Night / Other,Central Bar & Restaurant,Bellevue,47.615628,-122.196262
+2019-03-02,02:14,02:44,29.73,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-03-02,19:14,19:31,17.23,Dinner,Genki Sushi,Bellevue,47.57476,-122.17113
+2019-03-03,18:41,19:03,21.85,Dinner,Potbelly Sandwich Shop,Bellevue,47.61407,-122.19823
+2019-03-03,21:59,00:13,133.58,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-04,01:21,02:21,59.8,Late Night / Other,Ai Sushi Restaurant,Bellevue,47.619597,-122.130571
+2019-03-04,15:49,17:59,129.33,Lunch,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-05,16:18,18:21,123.45,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-05,19:11,19:31,19.93,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-06,01:20,02:00,39.58,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-03-06,21:30,22:01,30.73,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-08,01:31,01:57,26.45,Late Night / Other,Taco Time,Issaquah,47.551465,-122.046206
+2019-03-08,18:33,19:09,35.8,Dinner,Greek Express,Bellevue,47.60962,-122.14175
+2019-03-10,16:24,18:48,143.5,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-10,18:52,19:28,36.17,Dinner,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2019-03-11,19:07,20:08,61.0,Dinner,Purple Cafe-Wine Bar-Bellevue,Bellevue,47.614091,-122.198815
+2019-03-11,20:16,20:48,31.6,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-12,15:41,17:49,128.12,Lunch,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-12,18:16,19:28,72.72,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-13,00:57,01:47,50.38,Late Night / Other,Kungho Chinese,Bellevue,47.577297,-122.169325
+2019-03-13,15:43,17:55,132.68,Lunch,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-14,01:06,01:31,25.03,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-03-14,15:42,16:38,55.42,Lunch,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-16,01:52,02:58,66.1,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-03-17,18:57,19:52,55.48,Dinner,"""Amigo's Family Mexican Rstrnt""",Bellevue,47.614845,-122.196841
+2019-03-18,00:57,01:19,21.95,Late Night / Other,Taco Time,Issaquah,47.551465,-122.046206
+2019-03-18,16:16,17:07,51.33,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-18,17:09,19:11,122.9,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-19,16:30,18:36,125.97,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-20,23:46,00:38,51.9,Late Night / Other,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-22,22:59,01:03,123.57,Late Night / Other,Broiler Bay,Bellevue,47.61054,-122.19804
+2019-03-23,01:14,03:04,109.82,Late Night / Other,Broiler Bay,Bellevue,47.61054,-122.19804
+2019-03-25,17:00,18:28,87.17,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-26,00:38,01:26,47.87,Late Night / Other,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-27,16:34,18:16,101.9,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-03-30,01:06,01:47,40.57,Late Night / Other,Wingstop,Bellevue,47.60961,-122.14145
+2019-03-30,18:25,18:50,24.97,Dinner,Taco Time,Issaquah,47.551465,-122.046206
+2019-03-31,23:37,01:31,114.17,Late Night / Other,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-04-04,00:20,00:39,19.27,Late Night / Other,Broiler Bay,Bellevue,47.61054,-122.19804
+2019-04-04,01:05,01:35,30.87,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-04-04,23:16,00:33,76.9,Late Night / Other,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-04-07,16:54,18:30,96.25,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-04-08,22:20,00:34,134.2,Late Night / Other,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-04-09,01:00,01:25,24.87,Late Night / Other,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-04-10,00:44,01:20,36.3,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-04-10,20:38,23:04,145.43,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-04-11,00:38,01:54,75.88,Late Night / Other,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-04-11,16:13,18:09,115.92,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-04-11,23:52,01:11,78.07,Late Night / Other,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-04-12,21:10,21:35,24.83,Dinner,Taco Time,Bellevue,47.612163,-122.199233
+2019-04-13,01:08,01:37,28.83,Late Night / Other,Genki Sushi,Bellevue,47.57476,-122.17113
+2019-04-15,01:17,01:49,31.95,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-04-18,00:55,01:17,21.95,Late Night / Other,Taco Time,Issaquah,47.551465,-122.046206
+2019-04-19,18:37,18:54,17.13,Dinner,Taco Time,Bellevue,47.612163,-122.199233
+2019-04-20,00:57,01:19,22.35,Late Night / Other,Burgermaster,Bellevue,47.642237,-122.199057
+2019-04-21,18:33,18:51,18.32,Dinner,Taco Time,Bellevue,47.612163,-122.199233
+2019-04-24,01:40,02:12,31.38,Late Night / Other,Taco Time,Bellevue,47.612163,-122.199233
+2019-04-25,01:27,01:56,29.38,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-04-25,23:53,00:08,15.1,Late Night / Other,Milagro Cantina,Kirkland,47.67457,-122.2058
+2019-04-26,00:17,01:06,49.35,Late Night / Other,Milagro Cantina,Kirkland,47.67457,-122.2058
+2019-04-27,18:15,18:44,28.33,Dinner,Greek Express,Bellevue,47.60962,-122.14175
+2019-04-28,19:15,19:40,24.58,Dinner,"""Amigo's Family Mexican Rstrnt""",Bellevue,47.614845,-122.196841
+2019-04-28,19:49,20:58,68.2,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-04-28,21:18,21:48,30.62,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-04-29,16:08,18:34,146.83,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-04-29,23:32,00:45,72.28,Late Night / Other,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-04-30,16:26,18:18,111.73,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-05-01,15:54,17:01,66.85,Lunch,Tangerine Thai Cuisine,Bellevue,47.613423,-122.196291
+2019-05-01,17:06,18:23,76.83,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-05-02,00:19,00:36,17.5,Late Night / Other,Genki Sushi,Bellevue,47.57476,-122.17113
+2019-05-02,23:12,00:37,85.18,Late Night / Other,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-05-06,02:03,02:42,38.77,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-05-06,16:36,18:37,120.57,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-05-13,01:43,02:02,18.78,Late Night / Other,Taco Time,Bellevue,47.612163,-122.199233
+2019-05-14,01:52,02:25,32.63,Late Night / Other,Ai Sushi Restaurant,Bellevue,47.619597,-122.130571
+2019-05-17,19:10,19:33,22.55,Dinner,Jamjuree,Seattle,47.623462,-122.312941
+2019-05-26,20:48,21:03,15.33,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-05-26,21:33,22:40,66.48,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-05-27,00:25,00:43,17.57,Late Night / Other,Broiler Bay,Bellevue,47.61054,-122.19804
+2019-05-28,16:47,17:42,55.55,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-05-30,19:44,20:25,41.03,Dinner,Blank Space Cafe,Bellevue,47.61538,-122.196347
+2019-05-30,20:52,22:04,72.57,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-06-02,01:05,01:28,22.12,Late Night / Other,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2019-06-04,01:24,02:02,38.65,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-06-04,22:31,23:30,59.55,Late Night / Other,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-06-05,00:13,00:33,19.63,Late Night / Other,Genki Sushi,Bellevue,47.57476,-122.17113
+2019-06-05,19:52,21:16,83.63,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-06-05,21:31,23:13,101.48,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-06-06,17:56,18:23,26.82,Dinner,Seastar Restaurant & Raw Bar,Bellevue,47.612292,-122.196265
+2019-06-06,18:35,18:53,18.6,Dinner,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2019-06-07,23:48,00:17,29.23,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-06-09,00:32,01:02,30.18,Late Night / Other,Thai Grill,Bellevue,47.61774,-122.19698
+2019-06-13,00:10,00:43,33.5,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-06-15,18:16,18:54,37.48,Dinner,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2019-06-16,01:18,01:45,26.85,Late Night / Other,"""Mc Donald's""",Bellevue,47.581339,-122.136261
+2019-06-17,00:33,01:07,33.7,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-06-17,19:58,20:35,37.3,Dinner,Greek Express,Bellevue,47.60962,-122.14175
+2019-06-18,18:25,18:52,26.3,Dinner,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2019-06-20,21:15,21:35,19.3,Dinner,Quiznos,Federal Way,47.289379,-122.316257
+2019-06-21,19:09,19:28,19.72,Dinner,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2019-06-27,03:29,04:36,66.55,Late Night / Other,East & West Proctor,Tacoma,47.270774,-122.489213
+2019-06-27,19:11,19:57,46.53,Dinner,Pancake Corral,Bellevue,47.596398,-122.198084
+2019-06-29,19:14,20:00,46.12,Dinner,Greek Express,Bellevue,47.60962,-122.14175
+2019-06-30,00:24,01:12,48.92,Late Night / Other,Rosewood Cafe,Tacoma,47.271357,-122.480727
+2019-07-04,01:31,01:48,16.33,Late Night / Other,Pick-Quick Drive In,Fife,47.242798,-122.372297
+2019-07-06,02:15,02:44,28.2,Late Night / Other,Burgermaster,Bellevue,47.642237,-122.199057
+2019-07-09,02:14,03:05,51.52,Late Night / Other,Quiznos,Bellevue,47.61487,-122.196207
+2019-07-11,01:42,02:16,34.13,Late Night / Other,Taco Time,Bellevue,47.612163,-122.199233
+2019-07-12,01:06,01:26,19.75,Late Night / Other,Panda Express,Bellevue,47.612961,-122.201449
+2019-07-15,01:31,02:13,41.87,Late Night / Other,Crab Pot-Bellevue,Bellevue,47.620281,-122.180588
+2019-07-15,02:21,02:45,24.07,Late Night / Other,Crab Pot-Bellevue,Bellevue,47.620281,-122.180588
+2019-07-16,01:26,01:58,32.63,Late Night / Other,Burgermaster,Bellevue,47.642237,-122.199057
+2019-07-16,02:49,03:35,46.35,Late Night / Other,Sky City Restaurant,Seattle,47.620386,-122.349283
+2019-07-16,03:54,04:16,21.77,Late Night / Other,Sky City Restaurant,Seattle,47.620386,-122.349283
+2019-07-20,00:41,01:16,35.0,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-08-03,00:07,00:42,35.45,Late Night / Other,"""Jimmy John's""",Bellevue,47.61125,-122.199663
+2019-08-11,23:59,00:18,18.78,Late Night / Other,Jack In The Box,Kelso,46.145923,-122.896155
+2019-08-17,20:31,21:35,63.82,Dinner,Greek Express,Bellevue,47.60962,-122.14175
+2019-08-18,02:38,02:57,19.05,Late Night / Other,Burgermaster,Bellevue,47.642237,-122.199057
+2019-08-19,01:08,01:37,28.8,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-08-22,17:59,18:22,22.98,Dinner,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2019-09-02,00:58,01:16,18.13,Late Night / Other,Burgermaster,Bellevue,47.642237,-122.199057
+2019-09-02,01:20,01:44,24.52,Late Night / Other,Burgermaster,Bellevue,47.642237,-122.199057
+2019-09-06,01:13,01:32,18.88,Late Night / Other,Burgermaster,Bellevue,47.642237,-122.199057
+2019-09-06,18:40,18:57,16.67,Dinner,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2019-09-07,00:47,01:06,19.35,Late Night / Other,Burgermaster,Bellevue,47.642237,-122.199057
+2019-09-07,18:11,18:40,28.52,Dinner,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2019-09-08,00:15,00:55,39.48,Late Night / Other,Azteca Mexican Restaurants,Bellevue,47.6115,-122.18976
+2019-09-09,17:18,17:39,20.37,Dinner,Petra Cafe,Seattle,47.615242,-122.337904
+2019-09-23,01:02,01:32,29.18,Late Night / Other,Wingstop,Bellevue,47.60961,-122.14145
+2019-09-26,18:27,18:43,16.37,Dinner,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2019-09-27,18:46,19:32,45.67,Dinner,Greek Express,Bellevue,47.60962,-122.14175
+2019-09-27,23:50,00:22,32.07,Late Night / Other,SUBWAY,Bellevue,47.610061,-122.200638
+2019-09-28,00:42,00:57,15.02,Late Night / Other,SUBWAY,Bellevue,47.610061,-122.200638
+2019-10-16,00:07,00:25,17.08,Late Night / Other,Byblos Deli,Bellevue,47.628306,-122.15044
+2019-10-17,01:33,02:03,29.58,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2019-10-28,20:10,21:02,52.18,Dinner,Mediterranean Kitchen,Bellevue,47.611386,-122.202239
+2019-11-13,00:10,01:41,90.6,Late Night / Other,"""Maggiano's Little Italy""",Bellevue,47.61716,-122.200584
+2019-11-13,01:43,02:51,68.1,Late Night / Other,Cypress Lounge & Wine Bar,Bellevue,47.616453,-122.200836
+2019-11-24,19:24,19:51,27.47,Dinner,Ai Sushi Restaurant,Bellevue,47.619597,-122.130571
+2019-11-24,21:50,22:08,18.05,Dinner,"""Jimmy John's""",Bellevue,47.61125,-122.199663
+2019-12-03,20:29,20:44,15.42,Dinner,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2019-12-20,01:28,02:07,38.97,Late Night / Other,California Pizza Kitchen,Bellevue,47.615328,-122.199372
+2019-12-21,02:10,02:36,25.87,Late Night / Other,Ken Zaburo,Kirkland,47.70859,-122.17496
+2019-12-26,18:13,19:33,79.63,Dinner,Caffe Rococo,Kirkland,47.67643,-122.205492
+2020-01-05,20:11,20:32,20.35,Dinner,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2020-01-07,20:08,21:01,52.85,Dinner,Scandinavian Specialty Prods,Seattle,47.678246,-122.377126
+2020-02-18,02:08,02:51,43.17,Late Night / Other,Genki Sushi,Bellevue,47.57476,-122.17113
+2020-03-27,20:01,20:31,30.42,Dinner,SUBWAY,Bellevue,47.610061,-122.200638
+2020-04-02,23:46,00:53,67.07,Late Night / Other,SUBWAY,Bellevue,47.610061,-122.200638
+2020-04-22,02:04,02:22,17.3,Late Night / Other,"""Jimmy John's""",Bellevue,47.61125,-122.199663
+2020-05-06,03:18,03:36,18.38,Late Night / Other,Genki Sushi,Bellevue,47.57476,-122.17113
+2020-05-09,18:51,19:14,22.73,Dinner,Gourmet Teriyaki,Mercer Island,47.58636,-122.23592
+2020-05-16,01:07,01:33,25.58,Late Night / Other,Genki Sushi,Bellevue,47.57476,-122.17113
+2020-05-16,19:48,20:29,40.87,Dinner,Blank Space Cafe,Bellevue,47.61538,-122.196347
+2020-05-22,01:05,01:29,23.87,Late Night / Other,"""Mc Donald's""",Redmond,47.671386,-122.114208
+2020-05-22,18:52,19:14,22.12,Dinner,Broiler Bay,Bellevue,47.61054,-122.19804
+2020-06-13,17:28,17:44,15.65,Dinner,Georgian,Seattle,47.60815,-122.334931
+2020-06-13,17:51,18:59,67.57,Dinner,Georgian,Seattle,47.60815,-122.334931
+2020-06-21,01:15,01:34,18.08,Late Night / Other,Five Guys,Redmond,47.63112,-122.14032
+2020-06-23,19:02,19:42,39.78,Dinner,Genki Sushi,Bellevue,47.57476,-122.17113
+2020-06-29,01:29,01:55,25.57,Late Night / Other,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2020-07-24,19:19,19:42,23.5,Dinner,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2020-07-29,01:18,01:42,23.8,Late Night / Other,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2020-08-03,01:46,02:23,37.17,Late Night / Other,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2020-08-04,00:24,00:39,15.05,Late Night / Other,Marinepolis Sushi Land,Bellevue,47.611353,-122.197145
+2020-08-08,17:08,17:56,47.9,Dinner,Fremont Bowl,Seattle,47.65905,-122.349684
+2020-08-08,18:17,18:37,20.05,Dinner,Custom Smoothie,Seattle,47.650156,-122.351814
+2020-08-23,03:03,03:19,15.42,Late Night / Other,Genki Sushi,Bellevue,47.57476,-122.17113
+2020-08-25,18:52,19:47,55.38,Dinner,Elevation Burger LLC,Seattle,47.580775,-122.33524
+2020-09-02,01:28,02:33,65.05,Late Night / Other,Mox Boarding House,Bellevue,47.622879,-122.162831
+2020-09-22,17:40,18:16,36.03,Dinner,SUBWAY,Bellevue,47.582023,-122.140486
+2020-09-25,19:07,19:43,36.0,Dinner,Racha Noodle & Tai Cuisine,Redmond,47.681658,-122.12313
+2020-10-08,01:17,01:34,17.13,Late Night / Other,Five Guys,Redmond,47.63112,-122.14032
+2020-10-09,01:47,02:17,29.9,Late Night / Other,"""Mc Donald's""",Redmond,47.671386,-122.114208
+2020-10-10,20:39,21:48,69.13,Dinner,Yellow Church Cafe,Ellensburg,46.991494,-120.547492
+2020-10-25,03:08,03:30,21.2,Late Night / Other,Ruchi Indian Restraunt,Bellevue,47.622381,-122.131917
+2020-10-31,22:09,22:39,30.0,Late Night / Other,Fred Meyer,Redmond,47.670691,-122.104415
+2020-11-06,23:07,23:22,15.42,Late Night / Other,Gourmet Teriyaki,Mercer Island,47.58636,-122.23592
+2020-11-12,23:10,23:56,45.92,Late Night / Other,Gourmet Teriyaki,Mercer Island,47.58636,-122.23592
+2020-11-13,20:28,20:45,16.72,Dinner,Gourmet Teriyaki,Mercer Island,47.58636,-122.23592
+2020-11-28,19:58,20:16,17.37,Dinner,Gourmet Teriyaki,Mercer Island,47.58636,-122.23592
+2020-12-06,01:05,01:21,15.4,Late Night / Other,Taco Time,Kirkland,47.678991,-122.180131
+2020-12-13,00:37,01:40,63.13,Late Night / Other,Racha Noodle & Tai Cuisine,Redmond,47.681658,-122.12313
+2020-12-19,20:22,20:44,21.87,Dinner,Ixtapa Redmond Ridge,Redmond,47.694333,-122.040902
+2021-01-07,01:19,02:43,83.5,Late Night / Other,Bambinos,Seattle,47.617886,-122.347583
+2021-01-30,02:12,03:12,60.17,Late Night / Other,Brasserie Margaux,Seattle,47.613814,-122.340693
+2021-01-30,14:49,15:16,26.73,Lunch,Brasserie Margaux,Seattle,47.613814,-122.340693
+2021-03-02,00:52,01:16,24.03,Late Night / Other,Ai Sushi Restaurant,Bellevue,47.619597,-122.130571
+2021-03-05,02:22,03:19,56.77,Late Night / Other,Razzis,Seattle,47.69113,-122.35553
+2021-03-11,02:43,03:44,60.78,Late Night / Other,Beths Cafe,Seattle,47.6821,-122.34473
+2021-03-15,20:43,21:10,27.4,Dinner,"""Beba's Delicatessen""",Seattle,47.613987,-122.341713
+2021-04-14,01:59,02:20,20.52,Late Night / Other,L & L Drive-Inn,Kent,47.422149,-122.248858
+2021-06-05,19:17,20:06,48.43,Dinner,SUBWAY,Bellevue,47.610061,-122.200638
+2021-06-19,01:57,02:16,19.08,Late Night / Other,SUBWAY,North Bend,47.491516,-121.796325
+2021-06-21,01:45,02:12,27.12,Late Night / Other,Burgermaster,Bellevue,47.642237,-122.199057
+2021-06-26,21:10,21:29,18.73,Dinner,Anise Thai Cuisine,Mercer Island,47.5864,-122.23536
+2021-07-02,18:48,19:15,26.92,Dinner,Burgermaster,Bellevue,47.642237,-122.199057
+2021-07-06,01:32,01:49,17.63,Late Night / Other,Pagliacci Pizza,Kirkland,47.66709,-122.166344
+2021-07-27,03:36,04:13,36.22,Late Night / Other,Royal Grinders,Seattle,47.651141,-122.350866
+2021-07-29,04:20,04:47,26.37,Late Night / Other,Via Tribunali-Capitol Hl 15th,Seattle,47.61394,-122.3199
+2021-07-29,04:55,05:23,27.95,Late Night / Other,Bimbos Bitchin Burrito Kitchen,Seattle,47.61397,-122.31875
+2021-07-29,05:42,06:05,23.23,Breakfast,Terra Plata,Seattle,47.614094,-122.327983
+2021-07-29,19:13,19:52,39.58,Dinner,Nordstrom,Bellevue,47.61132,-122.201382
+2021-07-30,22:06,22:27,21.85,Late Night / Other,Pita Pit,Tacoma,47.254718,-122.438731
+2021-08-19,15:45,16:10,24.85,Lunch,Ruchi Indian Restraunt,Bellevue,47.622381,-122.131917
+2021-08-25,21:26,21:45,19.05,Dinner,Din Tai Fung-Bellevue,Bellevue,47.616623,-122.201603
+2021-09-02,03:11,03:47,35.78,Late Night / Other,Dough Zone Dumpling House,Redmond,47.670864,-122.113917
+2021-09-07,02:00,02:49,48.82,Late Night / Other,Pagliacci Pizza,Kirkland,47.66709,-122.166344
+2021-09-08,01:32,01:48,15.38,Late Night / Other,"""Mc Donald's""",Bellevue,47.581339,-122.136261
+2021-09-12,03:55,04:13,17.57,Late Night / Other,Pagliacci Pizza,Kirkland,47.66709,-122.166344
+2021-09-17,01:17,01:47,29.45,Late Night / Other,Midori Teriyaki,Seattle,47.6167,-122.33108
+2021-09-17,01:53,04:00,127.25,Late Night / Other,Midori Teriyaki,Seattle,47.6167,-122.33108
+2021-09-18,02:37,03:04,27.32,Late Night / Other,Burgermaster,Bellevue,47.642237,-122.199057
+2021-09-22,04:36,06:05,89.27,Late Night / Other,Sizzle Pie,Seattle,47.612719,-122.318909
+2021-09-25,01:46,02:17,31.43,Late Night / Other,Pagliacci Pizza,Kirkland,47.66709,-122.166344
+2021-10-03,01:21,01:43,21.82,Late Night / Other,Pagliacci Pizza,Kirkland,47.66709,-122.166344
+2021-10-05,19:40,20:18,38.37,Dinner,Joey,Bellevue,47.617814,-122.20067
+2021-10-06,02:33,04:13,100.62,Late Night / Other,Raygun Lounge,Seattle,47.614988,-122.325201
+2021-10-07,01:18,01:45,26.87,Late Night / Other,Genki Sushi,Bellevue,47.57476,-122.17113
+2021-10-07,03:28,04:04,36.45,Late Night / Other,"""Romio's Pizza & Pasta""",Redmond,47.671712,-122.115879
+2021-10-08,16:16,16:52,36.03,Dinner,"""Shari's Renton""",Renton,47.483269,-122.194735
+2021-10-14,03:16,03:31,15.15,Late Night / Other,Genki Sushi,Bellevue,47.57476,-122.17113
+2021-10-15,19:30,19:59,28.65,Dinner,Racha Noodle & Tai Cuisine,Redmond,47.681658,-122.12313
+2021-10-18,03:17,05:40,142.7,Late Night / Other,Terra Plata,Seattle,47.614094,-122.327983
+2021-10-19,02:21,02:41,19.58,Late Night / Other,Red Robin Gourmet Burgers,Everett,47.912075,-122.215315
+2021-10-19,02:51,03:34,42.67,Late Night / Other,Red Robin Gourmet Burgers,Everett,47.912075,-122.215315
+2021-10-24,01:29,01:51,22.02,Late Night / Other,Gourmet Teriyaki,Mercer Island,47.58636,-122.23592
+2021-10-25,03:36,04:44,67.78,Late Night / Other,Taco Del Mar,Redmond,47.67569,-122.31596
+2021-10-26,03:57,04:25,27.92,Late Night / Other,Sri Uma,Kenmore,47.756645,-122.235422
+2021-10-28,20:38,21:06,27.97,Dinner,Zeeks Pizza,Bellevue,47.61907,-122.20414
+2021-10-29,03:06,03:32,26.5,Late Night / Other,Genki Sushi,Bellevue,47.57476,-122.17113
+2021-10-30,19:26,19:54,27.9,Dinner,"""Romio's Pizza & Pasta""",Redmond,47.671712,-122.115879
+2021-10-30,19:59,20:16,16.98,Dinner,"""Mc Donald's""",Redmond,47.671386,-122.114208
+2021-10-30,21:07,21:24,16.88,Dinner,Bimbos Bitchin Burrito Kitchen,Seattle,47.61397,-122.31875
+2021-10-30,21:57,23:06,68.98,Dinner,Americana,Seattle,47.620565,-122.320958
+2021-10-30,23:08,23:26,17.92,Late Night / Other,Masala Mirch,Seattle,47.62033,-122.32109
+2021-10-31,00:02,01:46,103.58,Late Night / Other,Sitting Room,Seattle,47.62586,-122.35859
+2021-11-02,03:13,03:44,31.07,Late Night / Other,"""Zulu's Board Game Cafe""",Bothell,47.760551,-122.202383
+2021-11-03,06:15,07:19,64.05,Breakfast,Brownchicken Browncow,Seattle,47.620325,-122.32082
+2021-11-04,03:25,03:45,19.63,Late Night / Other,Pagliacci Pizza,Kirkland,47.66709,-122.166344
+2021-11-06,02:18,02:34,16.68,Late Night / Other,Ai Sushi Restaurant,Bellevue,47.619597,-122.130571
+2021-11-07,01:48,02:23,34.72,Late Night / Other,Red Robin Gourmet Burgers,Redmond,47.631084,-122.142449
+2021-11-08,03:36,04:02,26.17,Late Night / Other,Target,Redmond,47.6725,-122.10355
+2021-11-11,05:45,06:02,16.7,Breakfast,Safeway,Redmond,47.632656,-122.14052
+2021-11-17,01:36,02:24,47.47,Late Night / Other,Family Pancake House,Redmond,47.668481,-122.104427
+2021-11-21,00:57,01:42,45.55,Late Night / Other,Sizzle Pie,Seattle,47.612719,-122.318909
+2021-11-21,01:47,02:32,45.78,Late Night / Other,IHOP Restaurant,Seattle,47.611919,-122.319637
+2021-11-22,03:08,03:31,23.65,Late Night / Other,Target,Redmond,47.6725,-122.10355
+2021-11-23,04:26,04:47,20.68,Late Night / Other,Short N Sweet Tapioca Tea,Everett,47.90754,-122.23259
+2021-11-25,01:05,01:33,27.78,Late Night / Other,Pagliacci Pizza,Kirkland,47.66709,-122.166344
+2021-12-02,06:45,07:38,53.58,Breakfast,Tutta Bella Columbia City,Seattle,47.5572,-122.284447
+2021-12-03,04:45,05:16,31.15,Late Night / Other,"""Ivar's Salmon House""",Seattle,47.653614,-122.324059
+2021-12-03,23:41,00:01,20.23,Late Night / Other,Bento Teriyaki,Bothell,47.76569,-122.21133
+2021-12-04,08:27,08:58,31.07,Breakfast,Beths Cafe,Seattle,47.6821,-122.34473
+2021-12-05,22:16,23:02,45.88,Late Night / Other,Cypress Lounge & Wine Bar,Bellevue,47.616453,-122.200836
+2021-12-15,02:38,04:25,107.28,Late Night / Other,August Moon Chinese Restaurant,Sammamish,47.584068,-122.034941
+2021-12-16,01:45,02:39,53.75,Late Night / Other,Sri Uma,Kenmore,47.756645,-122.235422
+2021-12-17,01:00,01:18,17.12,Late Night / Other,"""Pippa's Real Tea""",Port Townsend,48.115422,-122.754239
+2021-12-17,01:20,01:37,17.7,Late Night / Other,"""Pippa's Real Tea""",Port Townsend,48.115422,-122.754239
+2021-12-17,01:47,02:34,47.25,Late Night / Other,Khu Larb Thai Restaurant,Port Townsend,48.115164,-122.756099
+2021-12-18,20:01,20:23,22.5,Dinner,Pho Tai Vietnamese Restaurant,Bellevue,47.627551,-122.143896
+2021-12-19,03:22,04:28,66.4,Late Night / Other,Red Robin Gourmet Burgers,Redmond,47.631084,-122.142449
+2021-12-19,19:50,20:12,22.13,Dinner,Zeeks Pizza,Bellevue,47.61907,-122.20414
+2021-12-24,20:29,20:55,25.92,Dinner,Burgermaster,Bellevue,47.642237,-122.199057
+2021-12-26,02:11,02:50,39.35,Late Night / Other,Family Pancake House,Redmond,47.668481,-122.104427
+2021-12-26,07:04,07:56,51.28,Breakfast,Brileys Bbq,Lake Forest Park,47.738642,-122.28998
+2021-12-26,19:04,19:33,28.43,Dinner,Brileys Bbq,Lake Forest Park,47.738642,-122.28998
+2021-12-26,19:42,19:57,15.43,Dinner,Tai Ho Restaurant,Kenmore,47.758821,-122.257227
+2022-01-02,01:39,01:56,16.92,Late Night / Other,Red Robin Gourmet Burgers,Redmond,47.631084,-122.142449
+2022-01-06,02:20,02:37,16.97,Late Night / Other,Pagliacci Pizza,Kirkland,47.66709,-122.166344
+2022-01-09,02:33,03:24,51.2,Late Night / Other,Family Pancake House,Redmond,47.668481,-122.104427
+2022-01-12,04:53,06:27,94.15,Late Night / Other,"""Xi'An Noodles""",Seattle,47.667767,-122.313117
+2022-01-14,19:31,19:52,20.83,Dinner,Pho Tai Vietnamese Restaurant,Bellevue,47.627551,-122.143896
+2022-01-19,23:19,01:02,103.2,Late Night / Other,Essential Market,Seattle,47.608389,-122.335105
+2022-01-20,01:04,01:21,17.05,Late Night / Other,Essential Market,Seattle,47.608389,-122.335105
+2022-01-20,01:52,02:24,31.75,Late Night / Other,Essential Market,Seattle,47.608389,-122.335105
+2022-01-23,01:25,01:50,25.25,Late Night / Other,Pick-Quick Drive In,Auburn,47.318312,-122.221417
+2022-01-25,04:55,06:32,97.47,Late Night / Other,"""Xi'An Noodles""",Seattle,47.667767,-122.313117
+2022-01-31,01:34,01:50,16.13,Late Night / Other,"""Mc Donald's""",Kirkland,47.679755,-122.176579
+2022-02-03,05:56,06:42,45.75,Breakfast,Midori Teriyaki,Seattle,47.6167,-122.33108
+2022-02-08,21:40,21:59,18.83,Dinner,Blue Water Taco Grill,Seattle,47.60977,-122.32334
+2022-02-10,02:58,03:20,22.8,Late Night / Other,Ai Sushi Restaurant,Bellevue,47.619597,-122.130571
+2022-02-16,23:25,23:45,19.68,Late Night / Other,Kicori Ramen,Issaquah,47.538881,-122.026882
+2022-02-20,02:27,02:44,16.7,Late Night / Other,Pagliacci Pizza,Kirkland,47.66709,-122.166344
+2022-03-04,00:32,00:51,18.67,Late Night / Other,Palmers East,Redmond,47.673889,-122.123107
+2022-03-06,19:43,20:02,18.5,Dinner,Pho Tai Vietnamese Restaurant,Bellevue,47.627551,-122.143896
+2022-03-06,20:42,21:01,19.5,Dinner,Gourmet Teriyaki,Mercer Island,47.58636,-122.23592
+2022-04-12,03:50,04:06,15.77,Late Night / Other,Burgermaster,Bellevue,47.642237,-122.199057
+2022-04-13,20:02,20:18,15.98,Dinner,Island Time Eatery,Redmond,47.669856,-122.12176
+2022-04-22,21:30,21:49,18.4,Dinner,QFC,Bothell,47.76577,-122.21133
+2022-04-27,01:29,01:51,22.07,Late Night / Other,Pagliacci Pizza,Kirkland,47.66709,-122.166344
+2022-04-30,21:21,21:53,31.67,Dinner,Bento Teriyaki,Bothell,47.76569,-122.21133
+2022-05-12,20:55,21:12,17.37,Dinner,SUBWAY,Bellevue,47.617665,-122.193105
+2022-05-13,00:12,00:31,19.27,Late Night / Other,Pagliacci Pizza,Kirkland,47.66709,-122.166344
+2022-05-14,22:15,22:54,38.87,Late Night / Other,Taco Time,Issaquah,47.551465,-122.046206
+2022-05-24,23:33,23:53,20.6,Late Night / Other,Kungho Chinese,Bellevue,47.577297,-122.169325
+2022-06-04,22:32,22:54,22.37,Late Night / Other,"""Mc Donald's""",Woodinville,47.752842,-122.153438
+2022-06-11,22:53,23:26,32.97,Late Night / Other,Eltana,Seattle,47.615286,-122.31679
+2022-06-12,00:05,01:16,70.42,Late Night / Other,Momiji Restaurant,Seattle,47.61479,-122.316433
+2022-06-12,02:36,02:53,16.35,Late Night / Other,Momiji Restaurant,Seattle,47.61479,-122.316433
+2022-06-14,19:08,19:25,16.25,Dinner,Kyoto Teriyaki,Seattle,47.614031,-122.32142
+2022-07-20,00:47,01:14,26.85,Late Night / Other,Nasai Teriyaki,Redmond,47.631946,-122.138257
+2022-07-30,23:23,23:48,25.43,Late Night / Other,Soulfood,Redmond,47.675292,-122.130695
+2022-08-12,01:16,01:42,26.1,Late Night / Other,Ai Sushi Restaurant,Bellevue,47.619597,-122.130571
+2022-08-15,02:18,02:36,17.7,Late Night / Other,Target,Redmond,47.6725,-122.10355
+2022-08-28,04:30,04:54,23.63,Late Night / Other,Burgermaster,Bellevue,47.642237,-122.199057
+2022-08-29,21:11,21:50,38.82,Dinner,Ai Sushi Restaurant,Bellevue,47.619597,-122.130571
+2022-09-19,01:35,01:58,22.87,Late Night / Other,Pagliacci Pizza,Kirkland,47.66709,-122.166344
+2022-11-02,02:04,02:28,24.08,Late Night / Other,Soulfood,Redmond,47.675292,-122.130695
+2022-11-25,21:16,21:38,22.35,Dinner,Round Table Pizza,Redmond,47.630786,-122.139302
+2022-12-02,23:06,23:24,18.25,Late Night / Other,"""Dickey's Barbecue Pit""",Bellevue,47.628311,-122.151453
+2023-01-11,04:27,04:44,17.1,Late Night / Other,Taco Time,Redmond,47.671248,-122.111196
+2023-01-29,16:43,17:13,30.3,Dinner,Safeway,Redmond,47.632656,-122.14052
+2023-05-19,20:25,20:58,32.25,Dinner,Greek Express,Bellevue,47.60962,-122.14175
+2023-05-21,20:12,20:38,25.95,Dinner,Ai Sushi Restaurant,Bellevue,47.619597,-122.130571
+2023-06-18,02:32,02:55,23.75,Late Night / Other,Wayback Burgers,Woodland,45.927424,-122.753552
+2023-07-01,00:07,00:24,17.23,Late Night / Other,Asian Food Ctr,Bellevue,47.62717,-122.14648
+2023-07-07,21:26,21:43,17.8,Dinner,Bawarchi Indian Restaurant,Bellevue,47.623053,-122.133159
+2023-07-12,20:50,21:10,19.9,Dinner,Ai Sushi Restaurant,Bellevue,47.619597,-122.130571
+2023-07-15,01:57,02:21,23.77,Late Night / Other,Safeway,Redmond,47.632656,-122.14052
+2023-08-08,20:21,20:38,16.43,Dinner,Taqueria El Gallo,Redmond,47.67294,-122.11713
+2023-08-21,03:14,03:33,18.23,Late Night / Other,Safeway,Redmond,47.632656,-122.14052
+2023-08-24,00:26,02:43,136.55,Late Night / Other,Mamnoon,Seattle,47.614341,-122.327849
+2023-09-21,01:32,01:55,23.03,Late Night / Other,Greek Express,Bellevue,47.60962,-122.14175
+2023-09-22,21:26,22:16,50.48,Dinner,Gourmet Teriyaki,Mercer Island,47.58636,-122.23592
+2023-09-23,18:47,19:03,16.25,Dinner,Gourmet Teriyaki,Mercer Island,47.58636,-122.23592
+2023-10-13,20:54,21:13,18.82,Dinner,Yuexi Restaurant,Seattle,47.664988,-122.317143
+2023-11-04,19:10,20:31,81.37,Dinner,Family Pancake House,Redmond,47.668481,-122.104427
+2023-11-05,23:17,23:34,17.07,Late Night / Other,Gourmet Teriyaki,Mercer Island,47.58636,-122.23592
+2023-11-15,00:15,01:17,62.0,Late Night / Other,Best Teriyaki & Sushi,Duvall,47.739554,-121.985922
+2023-11-15,20:26,20:58,31.85,Dinner,Family Pancake House,Redmond,47.668481,-122.104427
+2023-11-23,21:20,21:35,15.37,Dinner,Qdoba Mexican Eats,Redmond,47.632013,-122.138296
+2023-12-09,01:04,03:10,126.4,Late Night / Other,Sages Restaurant,Redmond,47.676713,-122.127535
+2023-12-13,03:32,03:48,16.27,Late Night / Other,Burgermaster,Bellevue,47.642237,-122.199057
+2023-12-26,03:15,03:36,20.27,Late Night / Other,Safeway,Redmond,47.67174,-122.10976

@@ -1,0 +1,511 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2012-03-16,05:23,06:04,41.48,Breakfast,Chinese Garden Restaurant,Camas,45.585876,-122.371398
+2012-03-23,01:33,03:53,140.2,Late Night / Other,Vinotopia Restaurant,Vancouver,45.616626,-122.551011
+2012-03-25,17:31,18:36,65.0,Dinner,"""Los Pepe's Inc""",Battle Ground,45.775211,-122.524289
+2012-04-06,22:17,23:00,42.57,Late Night / Other,Blue Castle,Battle Ground,45.775389,-122.52362
+2012-04-21,21:10,21:31,21.47,Dinner,Fern Prairie Market,Camas,45.636474,-122.397888
+2012-04-27,17:56,18:37,40.62,Dinner,Albertsons,Vancouver,45.723852,-122.652929
+2012-04-27,19:06,19:54,48.95,Dinner,"""Wendy's""",Vancouver,45.681518,-122.666381
+2012-04-29,18:05,18:36,30.95,Dinner,Sonic Drive-In,Vancouver,45.615014,-122.476499
+2012-05-01,22:06,22:35,29.12,Late Night / Other,Little Caesars Pizza,Camas,45.585817,-122.370654
+2012-05-01,22:36,22:53,17.0,Late Night / Other,Little Caesars Pizza,Camas,45.585817,-122.370654
+2012-05-04,00:34,00:59,25.23,Late Night / Other,Safeway,Camas,45.586883,-122.399418
+2012-05-07,00:07,01:11,64.3,Late Night / Other,Blue Castle,Battle Ground,45.775389,-122.52362
+2012-05-22,20:34,22:03,88.58,Dinner,"""Los Pepe's Inc""",Battle Ground,45.775211,-122.524289
+2012-05-30,00:43,00:58,15.08,Late Night / Other,Costco Wholesale,Camas,45.62254,-122.471963
+2012-05-30,00:59,01:25,25.38,Late Night / Other,Costco Wholesale,Camas,45.62254,-122.471963
+2012-06-04,22:23,23:43,80.7,Late Night / Other,"""Los Pepe's Inc""",Battle Ground,45.775211,-122.524289
+2012-06-16,01:09,01:54,44.5,Late Night / Other,Golden Tent Mongolian Bbq,Vancouver,45.657892,-122.577883
+2012-06-21,20:53,22:21,87.92,Dinner,"""Los Pepe's Inc""",Battle Ground,45.775211,-122.524289
+2012-06-22,06:06,07:26,79.53,Breakfast,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2012-06-22,08:36,09:37,60.9,Breakfast,SUBWAY,Vancouver,45.686802,-122.662838
+2012-06-25,00:01,00:45,44.78,Late Night / Other,"""Wendy's""",Vancouver,45.681518,-122.666381
+2012-06-25,21:49,22:29,40.18,Dinner,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2012-06-28,01:50,02:10,19.9,Late Night / Other,Costco Wholesale,Camas,45.62254,-122.471963
+2012-07-05,22:28,23:36,68.67,Late Night / Other,"""Los Pepe's Inc""",Battle Ground,45.775211,-122.524289
+2012-07-06,22:09,22:25,16.0,Late Night / Other,"""Mar's Chinese Cuisine""",Vancouver,45.636697,-122.506207
+2012-07-07,21:28,21:49,21.1,Dinner,"""Wendy's""",Vancouver,45.66523,-122.55466
+2012-07-18,03:32,04:19,47.17,Late Night / Other,Blue Castle,Battle Ground,45.775389,-122.52362
+2012-07-18,19:24,20:19,55.0,Dinner,LA Costa Mexican Restaurant,Vancouver,45.656476,-122.590043
+2012-07-20,19:50,20:35,45.82,Dinner,"""Wendy's""",Vancouver,45.681518,-122.666381
+2012-07-23,22:37,23:43,65.87,Late Night / Other,"""Los Pepe's Inc""",Battle Ground,45.775211,-122.524289
+2012-08-06,18:50,19:53,63.25,Dinner,Little Caesars Pizza,Camas,45.585817,-122.370654
+2012-08-14,22:26,23:58,92.27,Late Night / Other,Little Caesars Pizza,Camas,45.585817,-122.370654
+2012-08-19,19:58,20:55,56.37,Dinner,"""Los Pepe's Inc""",Battle Ground,45.775211,-122.524289
+2012-08-27,02:51,04:51,119.18,Late Night / Other,"""Applebee's""",Vancouver,45.620111,-122.541093
+2012-08-31,20:15,20:44,29.48,Dinner,Albertsons,Vancouver,45.723852,-122.652929
+2012-09-10,23:01,23:18,17.05,Late Night / Other,Costco Wholesale,Camas,45.62254,-122.471963
+2012-09-12,20:34,21:31,56.57,Dinner,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2012-09-13,01:29,01:47,18.02,Late Night / Other,Ayutla Restaurant,Goldendale,45.813117,-120.810134
+2012-09-13,02:28,02:52,24.37,Late Night / Other,"""Mc Donald's""",Goldendale,45.812335,-120.808376
+2012-09-14,03:25,04:11,45.3,Late Night / Other,Camas Thai Cuisine,Camas,45.585884,-122.405273
+2012-09-30,20:37,21:24,46.77,Dinner,Safeway,Battle Ground,45.78184,-122.545765
+2012-10-09,23:05,23:24,19.17,Late Night / Other,Winco Foods,Vancouver,45.709007,-122.556252
+2012-10-22,19:52,20:27,34.87,Dinner,"""Wendy's""",Vancouver,45.681518,-122.666381
+2012-11-10,21:23,22:15,51.98,Dinner,"""Elmer's Breakfast-Lunch-Dinner""",Vancouver,45.65033,-122.599862
+2012-11-12,22:16,22:49,32.93,Late Night / Other,Chinese Garden Restaurant,Camas,45.585876,-122.371398
+2012-11-18,20:18,20:35,17.4,Dinner,LA Costa Mexican Restaurant,Vancouver,45.656476,-122.590043
+2012-12-14,01:23,02:12,48.98,Late Night / Other,Happy Island Restaurant,Camas,45.586103,-122.404465
+2013-01-04,01:51,02:48,57.63,Late Night / Other,Golden Tent Mongolian Bbq,Vancouver,45.657892,-122.577883
+2013-01-09,19:18,20:48,89.65,Dinner,Camas Thai Cuisine,Camas,45.585884,-122.405273
+2012-12-22,22:28,23:27,59.72,Late Night / Other,"""Elmer's Breakfast-Lunch-Dinner""",Vancouver,45.65033,-122.599862
+2013-03-15,00:02,01:00,57.62,Late Night / Other,Caps N Taps,Camas,45.585906,-122.404585
+2013-02-20,22:11,23:42,91.07,Late Night / Other,Mariachi Alegre Mexican Rstrnt,Buckley,47.158331,-122.036741
+2013-04-03,23:46,00:04,18.13,Late Night / Other,Kop Chai,Camas,45.58551,-122.404113
+2013-04-04,00:15,00:46,31.1,Late Night / Other,Mill Corner,Camas,45.584899,-122.405395
+2013-04-04,02:34,03:01,27.1,Late Night / Other,Mill City Brew Works,Camas,45.585831,-122.404175
+2013-04-18,18:23,18:47,23.98,Dinner,Pita Pit,Vancouver,45.665768,-122.557545
+2013-05-09,23:00,23:16,16.15,Late Night / Other,Mill Corner,Camas,45.584899,-122.405395
+2013-07-12,02:32,02:51,19.23,Late Night / Other,SUBWAY,Battle Ground,45.771928,-122.549401
+2013-07-13,22:15,22:34,19.33,Late Night / Other,Burgerville USA,Battle Ground,45.780771,-122.539581
+2013-07-22,22:20,23:33,73.27,Late Night / Other,"""Los Pepe's Inc""",Battle Ground,45.775211,-122.524289
+2013-07-31,20:43,21:22,39.37,Dinner,Albertsons,Vancouver,45.723852,-122.652929
+2013-08-15,22:04,22:45,40.37,Late Night / Other,Albertsons,Vancouver,45.723852,-122.652929
+2013-06-15,21:25,21:58,33.08,Dinner,Camas Thai Cuisine,Camas,45.585884,-122.405273
+2013-09-11,21:58,22:41,43.27,Dinner,"""Los Pepe's Inc""",Battle Ground,45.775211,-122.524289
+2013-11-29,01:30,02:31,61.17,Late Night / Other,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2013-11-30,21:25,22:03,38.72,Dinner,Albertsons,Vancouver,45.723852,-122.652929
+2013-10-08,19:20,19:37,16.75,Dinner,Albertsons,Vancouver,45.723852,-122.652929
+2013-11-14,22:09,23:28,79.02,Late Night / Other,Ayutla Restaurant,Goldendale,45.813117,-120.810134
+2013-11-17,00:08,01:10,61.5,Late Night / Other,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2013-11-19,01:13,01:51,37.8,Late Night / Other,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2013-11-19,20:49,21:45,55.77,Dinner,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2013-11-21,00:32,01:50,78.28,Late Night / Other,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2013-11-24,20:51,21:32,40.7,Dinner,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2013-12-23,19:08,19:55,47.38,Dinner,Golden Tent Mongolian Bbq,Vancouver,45.657892,-122.577883
+2013-12-29,00:47,01:50,62.68,Late Night / Other,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2014-01-02,16:52,17:42,50.78,Dinner,Albertsons,Vancouver,45.723852,-122.652929
+2014-01-22,17:39,17:59,19.42,Dinner,Albertsons,Vancouver,45.723852,-122.652929
+2014-01-25,02:00,02:45,44.58,Late Night / Other,"""Wendy's""",Vancouver,45.681518,-122.666381
+2013-12-02,23:14,00:15,60.93,Late Night / Other,Ayutla Restaurant,Goldendale,45.813117,-120.810134
+2013-12-03,20:17,21:09,52.37,Dinner,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2013-12-04,20:59,21:46,47.0,Dinner,Ayutla Restaurant,Goldendale,45.813117,-120.810134
+2013-12-09,00:22,01:21,58.72,Late Night / Other,"""Wendy's""",Vancouver,45.681518,-122.666381
+2013-12-13,01:03,01:34,31.32,Late Night / Other,Rice Time,Camas,45.585972,-122.403796
+2013-12-13,01:41,02:15,33.45,Late Night / Other,Kop Chai,Camas,45.58551,-122.404113
+2013-12-13,02:17,03:10,52.65,Late Night / Other,Camas Thai Cuisine,Camas,45.585884,-122.405273
+2014-01-30,17:17,17:35,18.02,Dinner,Safeway,Camas,45.586883,-122.399418
+2014-01-31,00:16,01:58,101.7,Late Night / Other,Rice Time,Camas,45.585972,-122.403796
+2014-01-31,02:09,03:17,67.88,Late Night / Other,Mill City Brew Works,Camas,45.585831,-122.404175
+2014-01-31,15:51,17:11,80.62,Lunch,Mill City Brew Works,Camas,45.585831,-122.404175
+2014-01-31,18:39,19:51,71.55,Dinner,Mill City Brew Works,Camas,45.585831,-122.404175
+2014-02-11,17:51,18:38,47.38,Dinner,Camas Thai Cuisine,Camas,45.585884,-122.405273
+2014-02-18,20:06,20:26,20.0,Dinner,Safeway,Camas,45.586883,-122.399418
+2014-02-20,00:35,01:05,30.1,Late Night / Other,Mariachi Alegre Mexican Rstrnt,Buckley,47.158331,-122.036741
+2014-02-20,05:04,06:08,64.22,Breakfast,Mariachi Alegre Mexican Rstrnt,Buckley,47.158331,-122.036741
+2014-02-27,16:33,17:34,61.28,Dinner,Albertsons,Vancouver,45.723852,-122.652929
+2014-03-01,00:51,01:18,27.28,Late Night / Other,Chinese Garden Restaurant,Camas,45.585876,-122.371398
+2014-03-04,21:26,21:53,27.4,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2014-03-15,00:06,01:32,86.15,Late Night / Other,"""Applebee's""",Vancouver,45.620111,-122.541093
+2014-03-20,20:13,21:02,48.67,Dinner,Camas Thai Cuisine,Camas,45.585884,-122.405273
+2014-04-03,20:29,20:44,15.53,Dinner,Albertsons,Vancouver,45.723852,-122.652929
+2014-04-03,22:18,22:35,16.67,Late Night / Other,"""Wendy's""",Vancouver,45.681518,-122.666381
+2014-04-08,20:06,20:33,27.88,Dinner,Albertsons,Vancouver,45.723852,-122.652929
+2014-04-10,19:17,20:10,53.07,Dinner,Grocery Outlet,Camas,45.585429,-122.370219
+2014-04-13,19:14,19:55,40.95,Dinner,Grocery Outlet,Camas,45.585429,-122.370219
+2014-04-22,14:54,16:22,87.82,Lunch,Heritage Restaurant,Gig Harbor,47.310119,-122.581979
+2014-04-24,20:42,20:57,15.77,Dinner,Little Caesars Pizza,Port Orchard,47.503259,-122.629372
+2014-04-26,19:10,19:25,15.03,Dinner,Safeway,Port Orchard,47.518166,-122.630402
+2014-03-26,22:32,22:59,26.88,Late Night / Other,Safeway,Camas,45.586883,-122.399418
+2014-05-08,17:18,17:51,33.75,Dinner,Albertsons,Vancouver,45.723852,-122.652929
+2014-06-16,02:12,03:47,94.97,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2014-06-22,20:29,20:57,28.53,Dinner,LA Costa Mexican Restaurant,Vancouver,45.656476,-122.590043
+2014-06-28,04:30,05:06,35.67,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2014-06-30,23:48,00:04,16.0,Late Night / Other,Safeway,Camas,45.586883,-122.399418
+2014-07-25,22:05,22:30,24.52,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2014-07-21,23:54,00:11,17.28,Late Night / Other,Fred Meyer,Vancouver,45.676791,-122.663263
+2014-07-24,22:43,23:11,28.82,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Vancouver,45.617493,-122.526197
+2014-07-28,23:49,00:07,17.67,Late Night / Other,Chinese Garden Restaurant,Camas,45.585876,-122.371398
+2014-07-31,23:14,23:45,31.33,Late Night / Other,Chucks Produce & Street Market,Vancouver,45.618029,-122.536857
+2014-08-07,01:02,01:22,20.6,Late Night / Other,Rice Time,Camas,45.585972,-122.403796
+2014-08-11,20:15,20:58,42.6,Dinner,Albertsons,Vancouver,45.723852,-122.652929
+2014-08-12,20:19,21:55,95.82,Dinner,Fred Meyer,Vancouver,45.676791,-122.663263
+2014-08-19,21:30,22:40,69.95,Dinner,"""Los Pepe's Inc""",Battle Ground,45.775211,-122.524289
+2014-08-27,05:15,06:43,87.62,Breakfast,"""BJ'S Restaurant & Brewhouse""",Redmond,47.66877,-122.119848
+2014-08-27,23:21,00:53,92.5,Late Night / Other,"""Mar's Chinese Cuisine""",Vancouver,45.636697,-122.506207
+2014-08-29,00:48,01:26,38.17,Late Night / Other,Winco Foods,Vancouver,45.63886,-122.59725
+2014-09-05,22:04,22:23,18.73,Late Night / Other,Costco Wholesale,Camas,45.62254,-122.471963
+2014-09-07,20:42,21:16,33.42,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2014-09-12,16:55,17:43,48.3,Dinner,Cafe Natalia,Camas,45.58629,-122.40337
+2014-09-13,19:54,20:12,18.05,Dinner,"""Wendy's""",Vancouver,45.681518,-122.666381
+2014-09-02,21:27,21:43,15.88,Dinner,"""Wendy's""",Vancouver,45.681518,-122.666381
+2014-10-07,23:36,23:54,18.18,Late Night / Other,Chucks Produce & Street Market,Vancouver,45.618029,-122.536857
+2014-10-12,19:39,21:12,93.05,Dinner,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2014-10-15,18:44,19:43,59.55,Dinner,"""Los Pepe's Inc""",Battle Ground,45.775211,-122.524289
+2014-10-01,23:01,23:45,43.9,Late Night / Other,"""Wendy's""",Vancouver,45.681518,-122.666381
+2014-10-02,01:11,01:29,18.52,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Vancouver,45.720714,-122.662762
+2014-10-26,20:36,20:54,18.67,Dinner,Chucks Produce & Street Market,Vancouver,45.618029,-122.536857
+2014-10-20,18:26,19:23,57.72,Dinner,Blue Castle,Battle Ground,45.775389,-122.52362
+2014-11-06,00:56,01:47,51.48,Late Night / Other,"""Linda's Home Plate Restraunt""",Vancouver,45.666483,-122.548391
+2014-11-06,21:06,21:59,52.85,Dinner,"""Wendy's""",Vancouver,45.681518,-122.666381
+2014-11-07,23:32,00:26,54.18,Late Night / Other,Albertsons,Vancouver,45.723852,-122.652929
+2014-11-11,22:16,22:39,22.95,Late Night / Other,360 Kitchen,Vancouver,45.595671,-122.476472
+2014-11-14,20:00,20:37,37.05,Dinner,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2014-11-13,19:05,19:21,15.68,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2014-11-14,00:34,01:38,64.02,Late Night / Other,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2014-11-25,22:15,22:37,21.73,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2014-12-07,22:12,22:34,22.72,Late Night / Other,Safeway,Camas,45.586883,-122.399418
+2014-12-09,03:09,03:30,20.38,Late Night / Other,Beaches Restaurant & Bar,Vancouver,45.614929,-122.652099
+2014-12-15,20:18,20:51,33.28,Dinner,Mill City Brew Works,Camas,45.585831,-122.404175
+2014-12-17,22:17,22:36,19.22,Late Night / Other,Camas Thai Cuisine,Camas,45.585884,-122.405273
+2014-12-18,23:03,23:54,51.33,Late Night / Other,Albertsons,Vancouver,45.723852,-122.652929
+2014-12-20,20:18,21:49,91.32,Dinner,"""Elmer's Breakfast-Lunch-Dinner""",Vancouver,45.65033,-122.599862
+2014-12-21,20:19,21:52,92.25,Dinner,Heathen Brewing Feral Pubc Hse,Vancouver,45.630126,-122.672302
+2015-01-03,22:05,22:26,21.15,Late Night / Other,Costco Wholesale,Camas,45.62254,-122.471963
+2015-01-07,20:02,20:19,16.75,Dinner,"""Wendy's""",Vancouver,45.681518,-122.666381
+2015-08-07,01:33,02:01,28.62,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2015-08-11,19:54,20:10,15.78,Dinner,Dawns Delectables,Centralia,46.717341,-122.953777
+2015-08-12,18:39,19:08,29.17,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2015-09-03,00:43,02:47,123.65,Late Night / Other,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2015-09-03,18:16,18:33,17.5,Dinner,Albertsons,Vancouver,45.723852,-122.652929
+2015-09-03,20:05,20:28,23.02,Dinner,"""Wendy's""",Vancouver,45.681518,-122.666381
+2015-09-11,21:11,21:29,17.98,Dinner,Wildfour Cafe & Cupcakes,Washougal,45.578475,-122.353812
+2015-09-11,21:32,21:49,17.5,Dinner,Wildfour Cafe & Cupcakes,Washougal,45.578475,-122.353812
+2015-09-12,22:57,23:22,24.88,Late Night / Other,LA Costa Mexican Restaurant,Vancouver,45.656476,-122.590043
+2015-09-13,23:00,23:19,19.53,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2015-09-18,00:08,00:31,23.4,Late Night / Other,Chucks Produce & Street Market,Vancouver,45.618029,-122.536857
+2015-09-26,23:52,01:35,103.48,Late Night / Other,Round Table Clubhouse,Camas,45.586647,-122.3724
+2015-09-27,20:56,22:40,103.8,Dinner,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2015-09-29,20:38,21:13,34.97,Dinner,Safeway,Camas,45.586883,-122.399418
+2015-10-08,15:50,17:47,117.07,Lunch,Talay Thai,Vancouver,45.684326,-122.53382
+2015-10-12,20:16,21:23,66.68,Dinner,Chucks Produce & Street Market,Vancouver,45.618029,-122.536857
+2015-10-14,20:36,21:20,43.8,Dinner,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2015-10-15,01:35,02:46,70.38,Late Night / Other,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2015-10-22,01:38,01:57,19.33,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2015-10-26,00:03,01:44,100.28,Late Night / Other,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2015-11-05,20:02,21:02,59.88,Dinner,Chucks Produce & Street Market,Vancouver,45.618029,-122.536857
+2015-11-07,20:48,21:51,63.25,Dinner,"""Applebee's""",Vancouver,45.715818,-122.652135
+2015-11-09,00:02,01:40,97.57,Late Night / Other,Leonardos Pizzeria,Vancouver,45.62078,-122.50232
+2015-12-09,19:56,21:11,74.33,Dinner,Country Cousin,Centralia,46.728639,-122.979073
+2016-01-08,23:22,00:12,50.35,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2015-12-18,00:43,01:02,18.32,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2015-12-19,18:08,18:26,18.42,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2015-12-20,18:07,18:29,21.72,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2016-02-04,16:24,17:02,37.22,Dinner,Safeway,Camas,45.586883,-122.399418
+2016-02-14,22:01,22:22,20.75,Late Night / Other,Top Burger Drive-In,Camas,45.590515,-122.40509
+2016-02-14,23:55,01:28,92.48,Late Night / Other,Rock Wood Fired Pizza-Spirits,Vancouver,45.61909,-122.645846
+2016-02-18,19:00,19:34,33.75,Dinner,"""Papa Murphy's Take 'N' Bake""",Vancouver,45.617493,-122.526197
+2016-02-21,18:39,19:01,22.05,Dinner,Chucks Produce & Street Market,Vancouver,45.618029,-122.536857
+2016-02-25,14:26,14:49,23.72,Lunch,Mariachi Alegre Mexican Rstrnt,Buckley,47.158331,-122.036741
+2016-02-29,21:18,21:53,34.48,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2016-03-18,18:53,20:20,87.35,Dinner,Spiffys Restaurant & Bakery,Chehalis,46.54698,-122.87482
+2016-03-27,00:38,01:03,25.65,Late Night / Other,Round Table Clubhouse,Camas,45.586647,-122.3724
+2016-03-27,19:01,19:35,34.48,Dinner,Country Cafe,Ridgefield,45.817527,-122.683594
+2016-04-01,19:31,19:54,23.0,Dinner,Wildfour Cafe & Cupcakes,Washougal,45.578475,-122.353812
+2016-04-02,02:42,03:20,38.38,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2016-04-07,22:41,23:08,26.5,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2016-04-15,20:14,20:32,18.25,Dinner,Safeway,Camas,45.586883,-122.399418
+2016-04-21,19:27,19:46,18.53,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2016-04-21,19:48,20:06,18.52,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2016-04-22,18:20,19:19,59.77,Dinner,"""Hudson's Bar & Grill""",Vancouver,45.65362,-122.59204
+2016-04-26,17:54,18:09,15.03,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2016-06-18,23:43,01:36,112.83,Late Night / Other,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2016-06-20,01:16,01:32,16.25,Late Night / Other,Safeway,Camas,45.586883,-122.399418
+2016-05-25,19:36,20:02,25.73,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2016-05-25,21:29,22:03,34.57,Dinner,Caps N Taps,Camas,45.585906,-122.404585
+2016-05-29,20:33,21:20,46.77,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2016-06-02,06:53,07:09,16.68,Breakfast,Target,Vancouver,45.616732,-122.50583
+2016-06-07,20:44,21:00,15.5,Dinner,Safeway,Vancouver,45.616892,-122.530888
+2016-06-09,01:18,01:40,22.43,Late Night / Other,Round Table Clubhouse,Camas,45.586647,-122.3724
+2016-06-11,02:44,03:28,43.82,Late Night / Other,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2016-06-13,23:51,00:40,48.9,Late Night / Other,Mill City Brew Works,Camas,45.585831,-122.404175
+2016-06-30,21:16,22:36,80.05,Dinner,Red Robin Gourmet Burgers,Battle Ground,45.770619,-122.548873
+2016-07-13,23:38,00:39,60.68,Late Night / Other,"""Applebee's""",Vancouver,45.620111,-122.541093
+2016-07-14,21:57,22:19,21.6,Dinner,Vancouver Black Bear Diner,Vancouver,45.609742,-122.503646
+2016-07-14,22:21,22:59,37.78,Late Night / Other,Vancouver Black Bear Diner,Vancouver,45.609742,-122.503646
+2016-07-15,20:55,22:36,101.33,Dinner,"""Papa Murphy's Take 'N' Bake""",Vancouver,45.617493,-122.526197
+2016-07-20,19:16,19:47,30.8,Dinner,Target,Vancouver,45.616732,-122.50583
+2016-07-20,20:22,20:44,21.32,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2016-07-20,21:19,21:37,18.25,Dinner,Burgerville USA,Vancouver,45.604919,-122.503295
+2016-07-22,22:15,23:05,49.33,Late Night / Other,Beaches Restaurant & Bar,Vancouver,45.614929,-122.652099
+2016-07-29,01:15,01:33,18.33,Late Night / Other,Safeway,Camas,45.586883,-122.399418
+2016-07-30,23:53,02:00,126.88,Late Night / Other,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2016-08-12,01:58,02:16,18.38,Late Night / Other,Safeway,Camas,45.586883,-122.399418
+2016-08-12,22:22,23:14,52.77,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2016-08-14,18:48,19:07,18.97,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2016-08-15,19:55,20:52,57.0,Dinner,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2016-08-16,00:45,01:48,62.93,Late Night / Other,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2016-08-21,20:46,21:43,57.02,Dinner,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2016-08-23,00:27,01:11,43.92,Late Night / Other,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2016-08-25,21:25,21:44,19.72,Dinner,Provecho,Vancouver,45.63507,-122.670776
+2016-09-09,20:55,21:12,17.27,Dinner,Safeway,Camas,45.586883,-122.399418
+2016-09-12,19:58,20:13,15.63,Dinner,Safeway,Camas,45.586883,-122.399418
+2016-09-15,00:11,00:44,33.78,Late Night / Other,Okuno & Assoc Inc,Vancouver,45.71536,-122.64952
+2016-09-19,00:18,01:17,58.87,Late Night / Other,Nuestra Mesa,Camas,45.585221,-122.405216
+2016-06-23,22:00,22:27,26.65,Late Night / Other,Costco Wholesale,Camas,45.62254,-122.471963
+2016-06-26,19:23,19:58,34.4,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2016-06-27,22:46,23:34,47.45,Late Night / Other,"""Marie's Sodbusters""",Goldendale,45.825749,-120.805769
+2016-09-20,19:16,19:36,19.68,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2016-10-16,19:55,20:26,31.03,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2016-10-25,18:24,18:43,18.65,Dinner,Sian Palace Restaurant,Poulsbo,47.749614,-122.654305
+2016-10-28,23:14,01:11,116.95,Late Night / Other,Red Robin Gourmet Burgers,Lacey,47.056251,-122.768849
+2016-11-09,18:45,20:00,74.53,Dinner,China Sun,Port Orchard,47.50927,-122.630768
+2016-11-10,18:23,18:40,17.28,Dinner,Little Caesars Pizza,Port Orchard,47.503259,-122.629372
+2016-11-13,23:15,00:10,55.78,Late Night / Other,Caps N Taps,Camas,45.585906,-122.404585
+2016-12-07,00:03,00:19,16.53,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2016-12-08,00:27,01:27,59.98,Late Night / Other,"""Applebee's""",Vancouver,45.620111,-122.541093
+2016-12-08,02:23,03:52,88.97,Late Night / Other,Vinotopia Restaurant,Vancouver,45.616626,-122.551011
+2016-12-23,02:13,04:16,123.13,Late Night / Other,Rock Wood Fired Pizza-Spirits,Vancouver,45.61909,-122.645846
+2017-01-11,21:54,22:09,15.77,Dinner,Frack Burger,Vancouver,45.62388,-122.562408
+2017-01-15,19:18,19:50,31.43,Dinner,Caps N Taps,Camas,45.585906,-122.404585
+2017-01-19,19:53,20:11,18.37,Dinner,Fred Meyer,Vancouver,45.676791,-122.663263
+2017-01-27,23:33,00:47,74.57,Late Night / Other,"""Applebee's""",Vancouver,45.620111,-122.541093
+2017-01-28,00:55,03:23,147.87,Late Night / Other,Vinotopia Restaurant,Vancouver,45.616626,-122.551011
+2017-03-10,04:09,04:26,17.05,Late Night / Other,"""Mc Donald's""",Vancouver,45.618797,-122.537416
+2017-03-11,00:44,01:18,33.6,Late Night / Other,Safeway,Camas,45.586883,-122.399418
+2017-03-17,02:03,02:51,47.37,Late Night / Other,Rice Time,Camas,45.585972,-122.403796
+2017-03-22,01:31,03:02,91.43,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2017-03-22,18:00,19:39,99.7,Dinner,Little Caesars Pizza,Camas,45.585817,-122.370654
+2017-03-29,23:46,02:08,141.72,Late Night / Other,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2017-05-04,21:13,21:29,16.9,Dinner,LA Costa Mexican Restaurant,Vancouver,45.656476,-122.590043
+2017-05-06,20:04,20:20,16.52,Dinner,Goldendale Market Fresh,Goldendale,45.822602,-120.812856
+2017-02-24,02:35,03:02,27.67,Late Night / Other,Kitchen The LLC,Enumclaw,47.203108,-121.989816
+2017-02-24,03:06,04:49,103.58,Late Night / Other,Historic Mint Rstrnt & Alhs,Enumclaw,47.203831,-121.989852
+2017-05-30,23:20,23:41,20.67,Late Night / Other,Costco Wholesale,Camas,45.62254,-122.471963
+2017-05-30,23:45,00:08,23.0,Late Night / Other,Costco Wholesale,Camas,45.62254,-122.471963
+2017-06-05,19:07,19:48,41.15,Dinner,Little Caesars Pizza,Camas,45.585817,-122.370654
+2017-06-06,18:00,18:31,30.95,Dinner,Little Caesars Pizza,Camas,45.585817,-122.370654
+2017-06-17,00:19,01:49,89.65,Late Night / Other,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2017-07-04,20:44,22:07,82.83,Dinner,Little Caesars Pizza,Camas,45.585817,-122.370654
+2017-07-12,01:44,03:14,90.25,Late Night / Other,"""Applebee's""",Vancouver,45.620111,-122.541093
+2017-06-12,20:29,21:44,74.42,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2017-08-23,12:58,13:13,15.42,Lunch,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2017-08-29,23:58,00:35,36.98,Late Night / Other,"""Flanagan's Craft Pub""",Puyallup,47.191201,-122.293767
+2017-08-30,21:47,23:19,92.63,Dinner,Little Caesars Pizza,Camas,45.585817,-122.370654
+2017-08-31,23:55,00:44,48.9,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.615343,-122.507009
+2017-09-04,19:34,20:36,61.7,Dinner,Country Cousin,Centralia,46.728639,-122.979073
+2017-09-08,00:38,00:57,19.23,Late Night / Other,Safeway,Camas,45.586883,-122.399418
+2017-09-11,03:02,03:52,49.32,Late Night / Other,Round Table Clubhouse,Camas,45.586647,-122.3724
+2017-09-11,20:23,20:46,23.25,Dinner,Taco Bell,Vancouver,45.653412,-122.587996
+2017-09-12,21:19,22:03,43.85,Dinner,"""Domino's""",Camas,45.584055,-122.368681
+2017-09-19,01:24,02:22,57.67,Late Night / Other,Chinese Garden Restaurant,Camas,45.585876,-122.371398
+2017-08-07,21:02,22:59,116.7,Dinner,Little Caesars Pizza,Camas,45.585817,-122.370654
+2017-08-10,04:56,06:02,65.22,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.615343,-122.507009
+2017-08-12,21:02,22:42,100.45,Dinner,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2017-08-17,23:42,00:05,23.3,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2017-08-19,20:16,21:36,79.65,Dinner,Grocery Cocktail & Social,Vancouver,45.626407,-122.672339
+2017-09-27,20:59,21:52,52.43,Dinner,"""Applebee's""",Vancouver,45.620111,-122.541093
+2017-09-29,20:04,21:57,113.1,Dinner,Beaches Restaurant & Bar,Vancouver,45.614929,-122.652099
+2017-10-13,17:21,17:39,18.45,Dinner,Jack In The Box,Washougal,45.579101,-122.33551
+2017-10-15,22:37,22:53,16.28,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2017-10-17,19:06,19:27,21.08,Dinner,Caps N Taps,Camas,45.585906,-122.404585
+2017-10-20,00:33,01:08,35.72,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2017-10-28,04:09,05:22,72.83,Late Night / Other,"""Shari's Restaurant""",Vancouver,45.657104,-122.589294
+2017-11-07,18:58,19:50,52.85,Dinner,"""Applebee's""",Vancouver,45.620111,-122.541093
+2017-12-01,22:50,23:18,27.75,Late Night / Other,Costco Wholesale,Camas,45.62254,-122.471963
+2017-12-01,23:33,00:04,30.65,Late Night / Other,Costco Wholesale,Camas,45.62254,-122.471963
+2017-12-17,19:54,21:10,76.3,Dinner,Camas Thai Cuisine,Camas,45.585884,-122.405273
+2017-12-20,00:13,00:29,16.53,Late Night / Other,Fred Meyer,Vancouver,45.676791,-122.663263
+2018-02-01,21:33,21:48,15.27,Dinner,Safeway,Camas,45.586883,-122.399418
+2018-02-10,02:01,02:16,15.08,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2018-02-12,19:35,20:38,63.17,Dinner,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2018-02-14,22:12,23:01,49.23,Late Night / Other,"""Applebee's""",Vancouver,45.620111,-122.541093
+2017-12-23,15:46,16:02,15.87,Lunch,360 Kitchen,Vancouver,45.595671,-122.476472
+2017-12-25,20:47,21:35,48.1,Dinner,"""Applebee's""",Vancouver,45.715818,-122.652135
+2017-12-28,21:10,21:49,39.1,Dinner,Sweet Tomatoes,Vancouver,45.620181,-122.542059
+2018-01-01,19:45,21:11,86.33,Dinner,Little Caesars Pizza,Camas,45.585817,-122.370654
+2018-01-05,15:17,15:41,24.2,Lunch,Fred Meyer,Vancouver,45.676791,-122.663263
+2018-01-05,18:32,19:21,49.3,Dinner,"""Martha's Pantry""",Vancouver,45.622944,-122.61276
+2018-01-08,21:16,22:11,55.0,Dinner,Rice Time,Camas,45.585972,-122.403796
+2018-01-10,15:38,16:09,30.67,Lunch,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2018-01-11,21:13,21:30,16.57,Dinner,Safeway,Camas,45.586883,-122.399418
+2018-01-25,23:44,00:12,27.68,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2018-01-26,23:39,00:59,80.38,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2018-02-24,22:28,23:05,37.22,Late Night / Other,Burgerville USA,Centralia,46.725831,-122.973583
+2018-02-26,16:26,17:08,42.75,Dinner,Little Caesars Pizza,Camas,45.585817,-122.370654
+2018-03-03,23:16,23:33,16.35,Late Night / Other,Safeway,Camas,45.586883,-122.399418
+2018-03-06,17:31,18:19,48.83,Dinner,"""Elmer's Breakfast-Lunch-Dinner""",Vancouver,45.621643,-122.555965
+2018-03-09,02:27,02:48,20.58,Late Night / Other,Safeway,Vancouver,45.681701,-122.66809
+2018-03-29,19:35,19:57,21.4,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2018-03-30,20:09,21:25,75.37,Dinner,Rock Wood Fired Pizza-Spirits,Vancouver,45.61909,-122.645846
+2018-04-03,20:24,20:40,16.3,Dinner,360 Kitchen,Vancouver,45.595671,-122.476472
+2018-04-07,17:47,18:24,36.75,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2018-04-08,23:17,23:34,16.63,Late Night / Other,Costco Wholesale,Camas,45.62254,-122.471963
+2018-04-20,03:40,03:58,18.33,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2018-04-25,20:02,20:18,15.6,Dinner,Safeway,Vancouver,45.616892,-122.530888
+2018-05-03,18:24,19:22,57.62,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2018-05-07,18:33,18:59,25.28,Dinner,"""Applebee's""",Vancouver,45.620111,-122.541093
+2018-05-17,22:16,22:48,32.27,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2018-05-28,17:32,17:50,17.47,Dinner,Safeway,Vancouver,45.616892,-122.530888
+2018-06-01,23:51,00:14,23.92,Late Night / Other,SUBWAY,Vancouver,45.639079,-122.600054
+2018-06-07,11:03,12:11,67.98,Lunch,IHOP Restaurant,Vancouver,45.599846,-122.504512
+2018-06-07,17:40,18:10,30.22,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2018-06-15,16:06,16:50,44.45,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2018-06-16,19:46,20:06,19.93,Dinner,Sonic Drive-In,Vancouver,45.615014,-122.476499
+2018-06-18,22:05,22:21,16.35,Late Night / Other,Little Caesars Pizza,Camas,45.585817,-122.370654
+2018-06-26,01:07,01:23,15.7,Late Night / Other,Safeway,Camas,45.586883,-122.399418
+2018-06-28,20:15,20:43,28.17,Dinner,Chucks Produce & Street Market,Vancouver,45.618029,-122.536857
+2018-07-07,23:14,23:40,25.32,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2018-07-13,01:25,01:57,31.85,Late Night / Other,Costco Wholesale,Camas,45.62254,-122.471963
+2018-07-13,02:32,03:08,35.77,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2018-07-18,22:52,23:19,26.7,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2018-07-23,20:19,21:04,44.98,Dinner,"""Applebee's""",Vancouver,45.620111,-122.541093
+2018-07-26,20:17,20:58,40.8,Dinner,SUBWAY,Vancouver,45.638893,-122.671673
+2018-07-27,01:59,02:39,40.23,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2018-08-01,18:33,20:07,94.18,Dinner,Little Caesars Pizza,Camas,45.585817,-122.370654
+2018-08-06,21:38,23:14,95.8,Dinner,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2018-08-09,22:44,23:02,18.1,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2018-08-09,23:16,23:34,18.07,Late Night / Other,Papa Murphys Take N Bake Pizza,Vancouver,45.626455,-122.604038
+2018-08-15,04:47,06:00,72.13,Late Night / Other,"""Denny's""",Lacey,47.048289,-122.821993
+2018-08-19,20:56,22:30,94.43,Dinner,Applewood Restaurant & Bar,Camas,45.606444,-122.475155
+2018-08-20,22:43,23:18,34.48,Late Night / Other,Rice Time,Camas,45.585972,-122.403796
+2018-08-23,22:37,22:53,16.12,Late Night / Other,Rice Time,Camas,45.585972,-122.403796
+2018-09-01,21:14,22:21,67.53,Dinner,Vancouver Pizza Co,Vancouver,45.638488,-122.671081
+2018-09-05,21:03,22:01,57.33,Dinner,Little Caesars Pizza,Camas,45.585817,-122.370654
+2018-09-06,04:02,04:45,42.62,Late Night / Other,Safeway,Camas,45.586883,-122.399418
+2018-09-07,21:18,21:53,34.93,Dinner,"""Applebee's""",Vancouver,45.620111,-122.541093
+2018-09-09,03:01,03:22,20.82,Late Night / Other,Fred Meyer,Vancouver,45.620129,-122.645388
+2018-09-20,17:13,17:35,22.27,Dinner,Little Caesars Pizza,Camas,45.585817,-122.370654
+2018-09-20,17:40,18:16,36.08,Dinner,Safeway,Camas,45.586883,-122.399418
+2018-09-21,01:45,02:22,37.18,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2018-10-22,18:13,18:29,16.18,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2018-10-29,19:02,19:18,15.48,Dinner,SUBWAY,Vancouver,45.639079,-122.600054
+2018-10-31,19:06,19:22,16.42,Dinner,SUBWAY,Vancouver,45.686802,-122.662838
+2018-11-05,19:11,20:04,53.1,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2018-11-17,01:01,01:19,17.1,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2018-11-19,17:30,17:50,20.25,Dinner,Safeway,Vancouver,45.681701,-122.66809
+2018-12-10,20:34,21:01,27.62,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2018-12-18,00:38,01:43,65.3,Late Night / Other,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2018-12-27,19:39,20:52,73.13,Dinner,Camas Thai Cuisine,Camas,45.585884,-122.405273
+2019-01-01,02:39,03:27,48.22,Late Night / Other,"""Applebee's""",Vancouver,45.620111,-122.541093
+2019-01-01,03:39,04:15,35.8,Late Night / Other,"""Applebee's""",Vancouver,45.620111,-122.541093
+2019-01-04,21:32,22:45,72.07,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2019-01-18,23:35,00:08,33.05,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2019-01-25,23:23,00:12,49.52,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2019-02-05,17:22,17:49,26.73,Dinner,"""Little Italy's Trattoria""",Vancouver,45.628295,-122.672302
+2019-02-05,17:58,18:21,22.77,Dinner,Provecho,Vancouver,45.63507,-122.670776
+2019-02-05,19:25,20:01,36.08,Dinner,LA Bottega,Vancouver,45.63596,-122.67127
+2018-12-02,02:12,02:28,16.25,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2019-02-10,22:03,22:23,19.3,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2019-02-11,21:39,21:59,20.12,Dinner,Papa Murphys Take N Bake Pizza,Vancouver,45.626455,-122.604038
+2019-02-11,22:01,22:20,18.75,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2019-03-03,23:50,00:14,24.92,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2019-03-04,17:47,18:08,20.38,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2019-03-07,23:32,23:59,27.05,Late Night / Other,Safeway,Vancouver,45.616892,-122.530888
+2019-03-08,00:08,00:26,17.12,Late Night / Other,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2019-03-16,17:22,17:44,21.6,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2019-03-21,20:30,20:54,23.58,Dinner,Chucks Produce & Street Market,Vancouver,45.618029,-122.536857
+2019-04-02,19:11,20:25,73.83,Dinner,Dawns Delectables,Centralia,46.717341,-122.953777
+2019-04-02,20:46,22:44,117.77,Dinner,"""O'Blarney's Irish Pub""",Centralia,46.71806,-122.95382
+2019-04-03,03:48,04:11,23.1,Late Night / Other,Feast At 316,Camas,45.58594,-122.402837
+2019-04-04,23:38,00:01,22.55,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2019-04-09,23:47,00:20,32.93,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2019-05-02,13:06,14:00,53.92,Lunch,Safeway,Vancouver,45.626209,-122.602787
+2019-05-02,21:57,22:29,32.02,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2019-05-07,20:52,21:10,17.6,Dinner,Provecho,Vancouver,45.63507,-122.670776
+2019-06-01,02:07,02:47,40.17,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2019-06-08,16:58,17:14,15.9,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2019-06-13,01:05,01:21,15.63,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2019-06-13,20:58,21:28,29.8,Dinner,SUBWAY,Vancouver,45.686802,-122.662838
+2019-06-17,18:32,18:53,20.8,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2019-06-23,21:49,22:05,16.27,Dinner,Provecho,Vancouver,45.63507,-122.670776
+2019-06-23,23:41,00:12,30.7,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2019-06-27,16:22,16:42,19.95,Dinner,Fred Meyer,Vancouver,45.620129,-122.645388
+2019-07-01,23:03,23:35,32.7,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2019-07-10,19:55,20:15,19.92,Dinner,Chucks Produce & Street Market,Vancouver,45.618029,-122.536857
+2019-07-11,01:31,01:51,20.48,Late Night / Other,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2019-07-22,20:26,20:46,20.25,Dinner,Fred Meyer,Vancouver,45.620129,-122.645388
+2019-07-31,23:25,23:50,24.37,Late Night / Other,SUBWAY,Vancouver,45.686802,-122.662838
+2019-08-02,22:01,22:36,34.77,Late Night / Other,Costco Wholesale,Camas,45.62254,-122.471963
+2019-08-02,22:37,23:12,34.92,Late Night / Other,Costco Wholesale,Camas,45.62254,-122.471963
+2019-08-03,00:20,00:44,24.33,Late Night / Other,Safeway,Camas,45.586883,-122.399418
+2019-08-12,22:57,23:23,25.88,Late Night / Other,Little Caesars Pizza,Camas,45.585817,-122.370654
+2019-08-18,19:53,20:23,30.2,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2019-08-26,20:31,21:06,34.8,Dinner,Fred Meyer,Vancouver,45.676791,-122.663263
+2019-08-30,18:09,20:17,127.27,Dinner,Talay Thai,Vancouver,45.684326,-122.53382
+2019-09-05,19:06,20:35,89.35,Dinner,Pizza Brava,Snohomish,47.91254,-122.09256
+2019-09-05,20:47,22:04,76.75,Dinner,Pizza Brava,Snohomish,47.91254,-122.09256
+2019-09-06,00:20,02:05,104.82,Late Night / Other,Cabbage Patch Restaurant,Snohomish,47.911857,-122.094055
+2019-09-13,20:35,21:32,57.62,Dinner,"""Applebee's""",Vancouver,45.620111,-122.541093
+2019-09-14,20:16,20:39,22.37,Dinner,"""Wendy's""",Vancouver,45.681518,-122.666381
+2019-09-19,23:53,00:09,16.3,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2019-09-20,23:54,01:53,119.1,Late Night / Other,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2019-10-13,18:16,18:42,26.42,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2019-10-14,00:56,02:32,96.23,Late Night / Other,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2019-10-14,19:08,19:23,15.5,Dinner,Top Burger Drive-In,Camas,45.590515,-122.40509
+2019-10-15,18:34,19:38,63.83,Dinner,Casadores Mexican Restaurant,Centralia,46.718563,-122.953729
+2019-10-15,20:13,20:57,43.73,Dinner,Dawns Delectables,Centralia,46.717341,-122.953777
+2019-10-21,21:18,21:54,35.35,Dinner,Winco Foods,Vancouver,45.63886,-122.59725
+2019-10-25,19:06,19:28,22.38,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2019-10-29,15:07,15:36,28.53,Lunch,SUBWAY,Vancouver,45.686802,-122.662838
+2019-11-04,19:06,19:25,18.25,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2019-11-04,19:29,19:59,30.42,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2019-11-05,23:04,23:49,44.62,Late Night / Other,Little Caesars Pizza,Camas,45.585817,-122.370654
+2019-11-13,05:36,05:57,21.4,Breakfast,Fred Meyer,Vancouver,45.620129,-122.645388
+2019-11-14,16:40,17:56,75.72,Dinner,Vancouver Black Bear Diner,Vancouver,45.609742,-122.503646
+2019-11-14,21:11,21:30,19.5,Dinner,Safeway,Vancouver,45.681701,-122.66809
+2019-11-18,16:36,17:15,39.43,Dinner,Safeway,Vancouver,45.616892,-122.530888
+2019-11-20,17:05,17:43,38.57,Dinner,"""Elmer's Breakfast-Lunch-Dinner""",Vancouver,45.621643,-122.555965
+2019-11-24,00:29,01:47,78.22,Late Night / Other,"""Juliano's Pizzeria""",Vancouver,45.616849,-122.511956
+2019-11-27,18:50,19:21,30.63,Dinner,LA Bottega,Vancouver,45.63596,-122.67127
+2019-11-28,23:26,23:42,16.23,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2019-12-05,22:24,23:11,47.0,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2019-12-12,00:16,00:34,18.23,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2019-12-16,19:56,20:39,43.62,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2019-12-22,21:45,22:01,16.52,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2019-12-30,23:28,23:53,25.35,Late Night / Other,Albertsons,Vancouver,45.723852,-122.652929
+2020-01-07,19:35,19:53,18.53,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2020-01-12,19:35,20:14,38.7,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2020-01-15,17:02,18:36,93.85,Dinner,Talay Thai,Vancouver,45.684326,-122.53382
+2020-01-15,19:30,20:07,37.8,Dinner,Albertsons,Vancouver,45.723852,-122.652929
+2020-01-16,20:54,21:09,15.15,Dinner,Safeway,Camas,45.586883,-122.399418
+2020-01-17,15:15,15:32,17.08,Lunch,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2020-01-25,22:51,23:16,25.0,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2020-02-06,00:37,00:54,17.03,Late Night / Other,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2020-02-10,20:41,20:57,16.63,Dinner,Safeway,Vancouver,45.616892,-122.530888
+2020-02-14,18:44,19:05,21.3,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2020-02-16,00:58,01:22,24.48,Late Night / Other,Safeway,Vancouver,45.681701,-122.66809
+2020-02-26,16:56,17:11,15.3,Dinner,Chucks Produce & Street Market,Vancouver,45.618029,-122.536857
+2020-02-26,21:38,22:06,28.45,Dinner,Westside Pizza,Buckley,47.158898,-122.036102
+2020-02-27,23:42,01:40,118.05,Late Night / Other,Westside Pizza,Buckley,47.158898,-122.036102
+2020-02-29,03:43,04:25,41.68,Late Night / Other,Westside Pizza,Buckley,47.158898,-122.036102
+2020-02-29,15:44,16:33,48.97,Lunch,Westside Pizza,Buckley,47.158898,-122.036102
+2020-03-05,18:22,18:58,35.22,Dinner,Little Caesars Pizza,Camas,45.585817,-122.370654
+2020-03-05,22:02,22:18,16.2,Late Night / Other,Safeway,Vancouver,45.681701,-122.66809
+2020-03-19,00:09,00:26,16.25,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2020-03-20,01:15,03:33,138.02,Late Night / Other,Red Lobster,Vancouver,45.656677,-122.588195
+2020-03-22,21:03,21:31,28.28,Dinner,Safeway,Shelton,47.214642,-123.106174
+2020-03-25,19:17,19:39,22.02,Dinner,Fred Meyer,Vancouver,45.620129,-122.645388
+2020-03-29,19:18,20:00,42.58,Dinner,Safeway,Vancouver,45.641296,-122.556701
+2020-03-29,20:33,21:00,27.2,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2020-04-04,02:01,02:19,18.3,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2020-04-05,20:44,21:09,24.52,Dinner,Chucks Produce & Street Market,Vancouver,45.618029,-122.536857
+2020-04-08,20:42,21:16,33.88,Dinner,Walmart Supercenter,Vancouver,45.618093,-122.479101
+2020-04-17,03:03,04:12,68.4,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.655188,-122.587416
+2020-04-19,18:25,19:02,36.55,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2020-04-22,17:46,18:41,55.08,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2020-04-22,18:43,19:19,36.43,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2020-04-25,18:06,18:22,16.13,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2020-04-29,21:15,22:21,65.43,Dinner,"""Applebee's""",Vancouver,45.620111,-122.541093
+2020-04-30,21:08,21:42,34.4,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2020-05-17,23:35,00:01,25.18,Late Night / Other,Little Caesars Pizza,Camas,45.585817,-122.370654
+2020-05-19,19:40,20:00,20.28,Dinner,"""Wendy's""",Vancouver,45.681518,-122.666381
+2020-05-20,23:19,00:03,43.53,Late Night / Other,"""Applebee's""",Vancouver,45.620111,-122.541093
+2020-05-23,02:15,03:00,45.0,Late Night / Other,Safeway,Vancouver,45.616892,-122.530888
+2020-05-26,20:36,20:59,23.32,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2020-05-28,21:21,21:46,25.4,Dinner,"""Wendy's""",Vancouver,45.681518,-122.666381
+2020-05-29,17:16,17:36,20.13,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2020-05-30,05:05,05:22,16.25,Breakfast,Safeway,Vancouver,45.626209,-122.602787
+2020-05-31,20:34,20:51,16.28,Dinner,Costco Wholesale,Camas,45.62254,-122.471963
+2020-05-31,21:01,21:19,18.23,Dinner,Leonardos Pizzeria,Vancouver,45.62078,-122.50232
+2020-06-05,19:55,20:35,40.13,Dinner,Country Cafe,Ridgefield,45.817527,-122.683594
+2020-06-05,20:51,21:07,16.22,Dinner,SUBWAY,Vancouver,45.686802,-122.662838
+2020-06-09,23:45,00:09,24.42,Late Night / Other,Safeway,Camas,45.586883,-122.399418
+2020-06-10,22:26,23:20,54.05,Late Night / Other,Red Robin Gourmet Burgers,Vancouver,45.615343,-122.507009
+2020-06-14,02:53,03:08,15.52,Late Night / Other,Walmart Supercenter,Vancouver,45.618093,-122.479101
+2020-06-30,01:56,02:17,20.47,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787
+2020-07-01,16:28,17:09,41.48,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2020-07-01,18:34,19:14,39.87,Dinner,Pizza Hut,Vancouver,45.678527,-122.554504
+2020-07-02,18:56,19:33,37.12,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2020-07-08,19:47,20:03,16.37,Dinner,Quality Food Ctrs,Vancouver,45.594798,-122.476427
+2020-07-08,20:38,20:56,18.2,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2020-07-11,18:28,19:07,38.65,Dinner,Safeway,Vancouver,45.626209,-122.602787
+2020-07-13,21:39,21:55,16.27,Dinner,Safeway,Vancouver,45.616892,-122.530888
+2020-07-23,18:23,19:25,61.98,Dinner,Little Caesars Pizza,Camas,45.585817,-122.370654
+2020-07-31,03:41,03:57,16.47,Late Night / Other,Fred Meyer,Vancouver,45.676791,-122.663263
+2020-08-05,01:15,01:33,18.28,Late Night / Other,Frack Burger,Vancouver,45.62388,-122.562408
+2020-08-05,17:14,18:15,61.52,Dinner,Little Caesars Pizza,Camas,45.585817,-122.370654
+2020-08-06,22:38,22:54,16.2,Late Night / Other,Walmart Supercenter,Vancouver,45.618093,-122.479101
+2020-08-18,00:50,01:14,24.28,Late Night / Other,SUBWAY,Vancouver,45.686802,-122.662838
+2020-09-06,23:26,23:57,31.5,Late Night / Other,Safeway,Vancouver,45.616892,-122.530888
+2020-09-08,04:18,04:33,15.13,Late Night / Other,Safeway,Vancouver,45.626209,-122.602787

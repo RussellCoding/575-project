@@ -1,0 +1,5 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2013-04-14,19:40,20:46,66.38,Dinner,"""Phaikun's Thai Cuisine""",Pullman,46.7215,-117.1843
+2015-08-12,02:26,03:23,56.62,Late Night / Other,Casadores Mexican Restaurant,Centralia,46.718563,-122.953729
+2015-10-14,02:15,03:52,96.15,Late Night / Other,Regatta Bar & Grille,Seattle,47.608092,-122.332117
+2015-10-14,20:47,21:38,51.0,Dinner,Thai Thani Kitchen,Seattle,47.619952,-122.336241

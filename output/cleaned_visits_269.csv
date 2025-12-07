@@ -1,0 +1,635 @@
+date,start_time,end_time,duration_minutes,meal,restaurant,city,latitude,longitude
+2011-04-19,18:39,19:27,48.05,Dinner,West Edge Market,Seattle,47.6066,-122.338831
+2011-04-27,01:55,02:38,42.4,Late Night / Other,North City Wine Bar & Bistro,Shoreline,47.757723,-122.313171
+2011-04-27,20:46,21:50,64.33,Dinner,"""King's Teriyaki""",Woodinville,47.753784,-122.160695
+2011-07-05,02:23,04:38,134.62,Late Night / Other,North City Wine Bar & Bistro,Shoreline,47.757723,-122.313171
+2011-07-29,23:21,23:41,19.17,Late Night / Other,"""Applebee's""",Lynnwood,47.820591,-122.296373
+2011-08-11,18:13,19:05,51.78,Dinner,Taco Del Mar,Ritzville,47.117448,-118.36751
+2011-09-13,18:01,18:17,15.2,Dinner,Garden Cafe,Woodinville,47.75343,-122.157025
+2011-09-28,19:30,20:07,37.53,Dinner,Qdoba Mexican Eats,Mill Creek,47.849819,-122.219328
+2011-10-11,02:14,02:55,40.83,Late Night / Other,Red Robin Gourmet Burgers,Woodinville,47.75772,-122.15561
+2011-10-14,18:06,18:42,36.02,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2011-10-17,20:34,22:29,114.83,Dinner,Red Lobster,Lynnwood,47.821467,-122.291018
+2011-10-18,00:08,00:52,44.08,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2011-10-23,19:07,19:44,36.38,Dinner,"""Romio's Pizza & Pasta""",Kirkland,47.71164,-122.18815
+2011-10-25,17:59,18:28,28.87,Dinner,"""Romio's Pizza & Pasta""",Kirkland,47.71164,-122.18815
+2011-11-02,21:40,22:04,24.1,Dinner,Jubilee Reach Thrift Store,Bellevue,47.630695,-122.144156
+2011-11-03,18:08,18:25,16.75,Dinner,Family Pancake House,Redmond,47.668481,-122.104427
+2011-11-05,20:15,20:39,23.42,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2011-11-07,18:21,18:46,24.83,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2011-11-10,18:19,20:02,102.55,Dinner,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2011-11-15,03:27,03:45,17.3,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2011-11-15,17:04,17:24,20.3,Dinner,"""Romio's Pizza & Pasta""",Kirkland,47.71164,-122.18815
+2011-11-15,18:43,18:58,15.15,Dinner,Village Square Cafe,Redmond,47.678543,-122.124759
+2011-11-30,19:07,19:25,18.27,Dinner,Turners,Everett,47.978912,-122.200738
+2011-12-11,22:34,22:56,22.4,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2011-12-17,17:48,18:22,33.83,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2011-12-22,22:49,23:18,29.4,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2011-12-26,19:38,19:59,21.35,Dinner,QFC,Mercer Island,47.584959,-122.232886
+2012-01-08,17:48,18:35,47.07,Dinner,Bthree WA Burgers & Breakfast,Lynnwood,47.8212,-122.28811
+2012-01-08,19:44,20:06,21.47,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-01-17,19:01,19:39,38.18,Dinner,Pho Vina,Woodinville,47.753853,-122.152807
+2012-01-26,03:39,04:09,29.48,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-02-01,22:23,00:01,98.4,Late Night / Other,Big Fish Grill-Woodinville,Woodinville,47.754802,-122.156336
+2012-02-09,21:07,21:25,17.42,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-02-11,20:09,21:42,92.27,Dinner,Red Lobster,Lynnwood,47.821467,-122.291018
+2012-02-17,02:26,02:52,25.72,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-03-05,02:45,03:43,57.65,Late Night / Other,Fred Meyer,Redmond,47.670691,-122.104415
+2012-03-05,05:41,05:59,18.07,Breakfast,MOD Pizza,Woodinville,47.75686,-122.15443
+2012-03-06,17:37,18:17,40.3,Dinner,Bthree WA Burgers & Breakfast,Lynnwood,47.8212,-122.28811
+2012-03-10,13:35,13:59,24.28,Lunch,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-03-11,01:13,01:41,28.0,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2012-03-14,19:15,20:08,52.18,Dinner,Archer Ale House,Bellingham,48.720108,-122.504588
+2012-04-10,20:07,21:09,61.7,Dinner,"""Duke's Bellevue Chowder House""",Bellevue,47.615254,-122.20154
+2012-04-18,16:36,17:10,34.02,Dinner,El Buen Gusto Rest,Prosser,46.205826,-119.770212
+2012-04-19,19:30,19:56,25.13,Dinner,El Caporal Mexican Restaurant,Prosser,46.205231,-119.769573
+2012-04-19,20:07,20:30,22.48,Dinner,Coffee Break Expresso,Prosser,46.219778,-119.790138
+2012-04-24,20:17,20:32,15.13,Dinner,"""Jersey Mike's Subs""",Woodinville,47.753789,-122.152807
+2012-04-25,01:37,01:53,16.57,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-05-01,20:34,20:56,22.62,Dinner,"""Jersey Mike's Subs""",Woodinville,47.753789,-122.152807
+2012-05-01,20:59,21:47,48.27,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-05-09,20:43,21:13,29.18,Dinner,Armadillo Barbecue,Woodinville,47.74045,-121.9864
+2012-05-14,00:14,00:40,26.52,Late Night / Other,Safeway,Kirkland,47.732456,-122.174391
+2012-05-15,22:26,23:07,40.4,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-05-18,21:55,23:19,84.42,Dinner,Taco Del Mar,Lynnwood,47.821053,-122.290227
+2012-05-19,20:26,20:44,17.48,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2012-05-19,20:52,21:09,16.82,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2012-06-04,19:52,20:35,42.78,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2012-06-08,21:53,22:10,17.12,Dinner,"""Jersey Mike's Subs""",Woodinville,47.753789,-122.152807
+2012-06-14,18:29,19:10,40.63,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-06-15,19:55,20:26,30.32,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2012-06-21,00:06,00:48,42.08,Late Night / Other,Rogue Ales Issaquah Brewhouse,Issaquah,47.530098,-122.037104
+2012-07-02,01:23,01:53,30.23,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-07-09,17:54,18:10,16.35,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2012-08-09,20:28,21:03,35.05,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-08-10,01:12,01:28,16.33,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-08-11,22:40,00:02,82.03,Late Night / Other,Joey Kitchen At U Village,Seattle,47.661686,-122.298478
+2012-08-15,21:03,21:24,20.98,Dinner,"""Domino's""",Woodinville,47.756315,-122.080998
+2012-08-18,21:50,22:14,24.32,Dinner,"""Jersey Mike's Subs""",Woodinville,47.753789,-122.152807
+2012-08-20,02:36,02:58,21.5,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2012-08-22,22:43,23:02,19.13,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-08-25,17:00,17:24,24.45,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-08-28,18:21,18:48,26.38,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2012-08-28,19:43,20:07,24.57,Dinner,"""Domino's""",Woodinville,47.756315,-122.080998
+2012-08-28,23:17,23:47,29.9,Late Night / Other,"""Rooney's""",Woodinville,47.75588,-122.15176
+2012-08-30,01:46,03:29,103.22,Late Night / Other,Ooba Tooba Mex Grill,Woodinville,47.75306,-122.15212
+2012-09-03,22:37,23:10,32.83,Late Night / Other,Armadillo Barbecue,Woodinville,47.74045,-121.9864
+2012-09-03,23:11,23:47,35.38,Late Night / Other,Armadillo Barbecue,Woodinville,47.74045,-121.9864
+2012-09-06,01:41,02:07,25.95,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-09-08,21:35,21:55,20.15,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2012-09-10,20:45,21:14,28.43,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-09-16,19:57,20:44,47.67,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2012-09-17,00:53,01:49,56.5,Late Night / Other,"""Rooney's""",Woodinville,47.75588,-122.15176
+2012-09-18,00:06,00:41,34.37,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-09-22,00:29,00:53,24.45,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-10-01,00:09,00:28,18.35,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-10-01,22:33,23:32,59.0,Late Night / Other,"""Rooney's""",Woodinville,47.75588,-122.15176
+2012-10-02,21:59,22:18,19.07,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-10-04,03:50,04:45,54.97,Late Night / Other,North City Wine Bar & Bistro,Shoreline,47.757723,-122.313171
+2012-10-04,05:56,06:39,43.35,Breakfast,North City Wine Bar & Bistro,Shoreline,47.757723,-122.313171
+2012-10-06,01:16,01:32,16.1,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2012-10-08,00:40,01:13,32.9,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-10-12,21:54,23:13,79.13,Dinner,Side By Side,Seattle,47.662447,-122.311919
+2012-10-15,01:21,01:47,26.27,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-10-17,22:48,23:19,30.85,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-10-19,16:58,17:25,26.28,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-10-21,23:50,00:12,22.2,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2012-10-24,23:49,00:20,30.42,Late Night / Other,Safeway,Kirkland,47.732456,-122.174391
+2012-10-28,23:20,23:49,28.42,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2011-03-28,00:53,01:22,29.35,Late Night / Other,Chipotle Mexican Grill,Lynnwood,47.829707,-122.272485
+2011-03-31,22:58,23:24,25.85,Late Night / Other,"""Anthony's Homeport Kirkland""",Bellevue,47.674024,-122.206215
+2014-01-14,21:14,21:44,30.4,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2014-01-15,16:29,17:04,34.5,Dinner,Little London Plane,Seattle,47.59933,-122.332843
+2014-01-19,20:27,20:45,18.17,Dinner,Safeway,Kirkland,47.732456,-122.174391
+2014-01-20,19:15,19:42,26.52,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2014-01-28,20:42,21:01,18.87,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2014-01-29,03:52,05:40,108.12,Late Night / Other,Match Coffee & Wine,Duvall,47.741781,-121.986291
+2014-02-02,21:42,22:17,34.32,Dinner,Trader Joes,Redmond,47.674916,-122.127643
+2014-02-17,18:26,19:52,86.27,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2014-05-04,23:03,23:22,19.32,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2014-05-04,23:34,00:22,47.32,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2014-05-06,03:45,04:05,20.28,Late Night / Other,Tipsy Cow Burger Bar,Woodinville,47.754295,-122.150644
+2014-05-06,18:57,19:29,31.47,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2014-05-09,15:25,16:00,35.13,Lunch,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2014-05-09,20:15,21:36,80.52,Dinner,Bay Cafe,Seattle,47.6556,-122.38117
+2014-05-12,00:14,01:47,93.37,Late Night / Other,Big Fish Grill-Woodinville,Woodinville,47.754802,-122.156336
+2014-05-13,20:10,20:28,17.72,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2014-05-15,23:50,00:11,20.9,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2014-05-31,20:10,20:29,18.6,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2014-05-31,21:06,21:24,17.37,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2014-06-23,19:57,20:16,18.18,Dinner,"""Jimmy John's""",Redmond,47.67569,-122.12714
+2014-06-28,23:23,23:42,18.72,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2014-06-28,23:48,00:31,42.87,Late Night / Other,Sora Sushi Woodinville,Woodinville,47.733328,-122.152737
+2014-06-30,18:59,20:37,97.92,Dinner,Salt & Iron,Edmonds,47.811162,-122.378817
+2014-06-30,21:43,22:17,33.93,Dinner,MOD Pizza,Woodinville,47.75686,-122.15443
+2014-07-07,18:10,18:30,19.7,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2014-07-10,23:06,00:55,108.53,Late Night / Other,Spiros Pizza,Shoreline,47.76286,-122.34642
+2014-07-13,21:10,21:32,22.58,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2014-07-25,20:14,21:02,47.63,Dinner,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2014-07-25,21:51,23:16,85.42,Dinner,"""Applebee's""",Lynnwood,47.820591,-122.296373
+2014-07-28,00:53,01:24,31.7,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2014-08-01,00:13,00:35,22.42,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2014-08-01,19:59,21:48,108.73,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2014-08-02,21:03,21:19,16.3,Dinner,Gobble,Woodinville,47.755764,-122.161196
+2014-08-06,00:58,01:32,34.07,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2014-08-13,19:54,20:15,21.2,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2014-08-25,20:53,22:21,88.05,Dinner,Salt & Iron,Edmonds,47.811162,-122.378817
+2014-08-31,20:13,20:41,28.4,Dinner,Soulfood,Redmond,47.675292,-122.130695
+2014-09-17,20:57,21:42,44.42,Dinner,Safeway,Kirkland,47.732456,-122.174391
+2014-09-17,21:54,22:36,41.47,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2014-09-23,20:13,20:55,41.68,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2014-09-26,23:47,00:08,20.77,Late Night / Other,Jin Me Rest,Lynnwood,47.832885,-122.277404
+2014-10-08,18:38,19:29,51.12,Dinner,Panera Bread,Seattle,47.615899,-122.320387
+2012-11-07,20:09,20:43,33.67,Dinner,Greene Juice,Kirkland,47.675467,-122.203589
+2012-11-09,00:08,00:35,27.52,Late Night / Other,Ooba Tooba Mex Grill,Woodinville,47.75306,-122.15212
+2012-11-13,00:00,00:26,26.53,Late Night / Other,Wehoneybrew.Com Espresso Cafe,Bothell,47.760051,-122.205772
+2012-11-13,00:28,00:48,20.45,Late Night / Other,Tandem A Wine & Cheese Bar,Bothell,47.76039,-122.204407
+2012-11-13,23:36,00:36,60.02,Late Night / Other,Thai Mekong Restaurant,Graham,47.07738,-122.2929
+2012-11-17,00:20,00:50,29.35,Late Night / Other,Clay Oven,Woodinville,47.75328,-122.15357
+2012-11-18,23:14,23:44,30.55,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-11-24,17:48,18:29,41.05,Dinner,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2012-11-25,20:24,20:40,16.87,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-11-30,19:52,20:17,25.65,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2012-12-07,20:30,21:05,35.7,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-12-08,23:25,23:50,24.7,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-12-15,01:14,01:45,30.32,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-12-15,22:20,22:39,18.97,Late Night / Other,Safeway,Kirkland,47.732456,-122.174391
+2012-12-17,21:52,22:46,53.75,Dinner,"""Teddy's Bigger Burgers""",Woodinville,47.756392,-122.153345
+2012-12-19,00:51,01:35,44.23,Late Night / Other,Red Robin Gourmet Burgers,Auburn,47.296082,-122.242098
+2012-12-23,02:02,02:28,25.95,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2012-12-28,19:39,20:17,37.85,Dinner,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2012-12-28,23:16,23:44,27.63,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-01-12,02:34,02:50,16.17,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-01-13,17:16,17:48,32.45,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-01-19,23:45,00:05,19.65,Late Night / Other,Plaza Santa Fe,Woodinville,47.753525,-122.153418
+2013-01-21,01:39,01:58,18.88,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-01-22,22:57,23:15,18.12,Late Night / Other,Safeway,Kirkland,47.732456,-122.174391
+2013-01-23,19:39,19:59,20.42,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-01-27,21:27,21:46,18.97,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2013-01-27,21:48,22:17,28.35,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2013-02-01,23:24,23:53,29.45,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-02-08,01:21,01:47,26.03,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-02-10,22:41,22:58,16.63,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2013-02-10,23:00,23:16,16.27,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2013-02-16,23:35,23:53,18.12,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-02-18,19:45,21:18,93.53,Dinner,"""Anthony's Homeport Edmonds""",Edmonds,47.80798,-122.39098
+2013-02-20,16:43,17:21,37.82,Dinner,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2013-02-21,18:56,19:20,24.4,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-02-24,19:39,20:02,23.1,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2013-03-01,22:31,23:14,42.23,Late Night / Other,"""Garlic Jim's Famous Grmt Pizza""",Bothell,47.761343,-122.176131
+2013-03-03,00:25,00:41,16.38,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-03-09,01:16,01:38,22.23,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-03-10,22:39,23:08,29.17,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2013-03-12,22:37,22:58,20.47,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-03-14,23:45,00:03,17.95,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-03-17,18:40,19:02,22.27,Dinner,Zeeks Pizza,Kirkland,47.67627,-122.20608
+2013-03-17,19:35,19:59,23.37,Dinner,Thai Ginger-Madison Park,Seattle,47.63582,-122.27866
+2013-03-17,20:01,21:15,74.62,Dinner,Cactus Restaurants Inc,Seattle,47.63614,-122.27782
+2013-03-18,00:39,03:01,141.98,Late Night / Other,Bear & The Bee,Seattle,47.613441,-122.344782
+2013-03-23,15:35,15:57,22.25,Lunch,Whole Foods Market,Bellevue,47.618372,-122.184971
+2013-03-25,18:47,19:28,41.12,Dinner,"""50's Burger Bar""",Edmonds,47.81063,-122.37793
+2013-03-25,19:30,20:44,73.47,Dinner,Salt & Iron,Edmonds,47.811162,-122.378817
+2013-03-30,02:26,03:01,34.98,Late Night / Other,Ooba Tooba Mex Grill,Woodinville,47.75306,-122.15212
+2013-03-31,20:30,21:28,58.53,Dinner,Whole Foods Market,Bellevue,47.618372,-122.184971
+2013-04-01,20:52,21:36,44.03,Dinner,Chanterelle Restaurant,Edmonds,47.810955,-122.379108
+2013-04-08,00:56,01:21,24.32,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-04-10,18:02,18:32,29.88,Dinner,Iyara Thai Cuisine,Redmond,47.67256,-122.12104
+2013-04-13,01:33,01:49,16.83,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-04-16,18:51,19:51,60.28,Dinner,"""Ruth's Chris Steak House""",Bellevue,47.61535,-122.201821
+2013-04-28,19:27,19:53,26.1,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-05-01,19:31,20:59,88.47,Dinner,Red Robin Gourmet Burgers,Spokane,47.658825,-117.423306
+2013-05-01,21:04,22:03,58.27,Dinner,Safari Room Fresh Grill & Bar,Spokane,47.656255,-117.422986
+2013-05-05,18:15,18:50,34.17,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-05-06,19:01,19:35,33.85,Dinner,"""Mc Donald's""",Everett,47.963783,-122.208584
+2013-05-09,05:12,05:39,26.47,Breakfast,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-05-11,20:18,21:11,53.12,Dinner,Slip,Kirkland,47.67542,-122.2072
+2013-05-13,02:29,02:57,27.5,Late Night / Other,"""Teddy's Bigger Burgers""",Woodinville,47.756392,-122.153345
+2013-05-16,22:28,23:12,43.3,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-05-18,00:26,01:14,47.95,Late Night / Other,Big Fish Grill-Woodinville,Woodinville,47.754802,-122.156336
+2013-05-19,23:24,23:40,16.05,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2013-05-23,18:32,19:07,34.67,Dinner,Safeway,Kirkland,47.732456,-122.174391
+2013-05-25,03:45,04:16,30.18,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-05-26,22:12,22:36,24.25,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-05-29,03:23,03:41,18.65,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-05-29,23:11,23:46,35.58,Late Night / Other,Ooba Tooba Mex Grill,Woodinville,47.75306,-122.15212
+2013-05-31,19:29,19:47,18.53,Dinner,Safeway,Monroe,47.859853,-121.967143
+2013-05-31,20:36,21:13,37.12,Dinner,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2013-05-31,21:19,22:09,49.95,Dinner,"""Rooney's""",Woodinville,47.75588,-122.15176
+2013-06-03,18:22,18:40,18.13,Dinner,Safeway,Kirkland,47.732456,-122.174391
+2013-06-09,20:58,21:30,31.38,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-06-13,17:46,18:07,20.4,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-06-17,17:36,17:55,19.12,Dinner,Safeway,Kirkland,47.732456,-122.174391
+2013-06-21,16:52,18:21,89.15,Dinner,"""Bob's Burgers & Brew""",Sumas,47.60239,-122.331082
+2013-06-23,22:03,22:43,40.17,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-07-03,19:28,19:54,26.53,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-07-05,19:54,20:40,46.48,Dinner,Big Fish Grill-Woodinville,Woodinville,47.754802,-122.156336
+2013-07-06,19:54,20:12,18.58,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-07-10,19:47,20:34,47.18,Dinner,Satay,Seattle,47.689643,-122.355655
+2013-07-13,17:07,17:26,19.27,Dinner,Soulfood,Redmond,47.675292,-122.130695
+2013-07-15,23:15,23:43,27.6,Late Night / Other,"""Ezell's Famous Chicken""",Woodinville,47.75348,-122.1538
+2013-07-16,18:18,19:22,63.53,Dinner,Little Park Restaurant,Spanaway,47.101078,-122.435348
+2013-07-17,23:05,23:32,26.4,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2013-07-17,23:38,00:03,25.07,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2013-07-19,20:24,20:52,28.23,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-07-20,21:06,21:43,36.82,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-07-20,22:17,22:47,30.25,Late Night / Other,Saagar Groceries,Kirkland,47.712472,-122.186569
+2013-07-21,19:09,19:33,24.58,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-07-23,18:37,19:00,22.7,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-07-24,21:39,22:19,40.3,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-07-25,20:04,21:53,109.08,Dinner,Qdoba Mexican Eats,Redmond,47.632013,-122.138296
+2013-07-31,21:44,22:23,38.23,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-08-03,23:13,23:44,31.13,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-08-09,19:01,20:04,63.03,Dinner,Soulfood,Redmond,47.675292,-122.130695
+2013-08-09,21:49,22:20,31.42,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2013-08-09,22:53,23:12,18.63,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-08-10,19:22,19:47,24.37,Dinner,Safeway,Kirkland,47.732456,-122.174391
+2013-08-12,00:35,01:09,34.28,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2013-08-15,04:07,06:15,127.82,Late Night / Other,Match Coffee & Wine,Duvall,47.741781,-121.986291
+2013-08-18,22:14,23:08,53.33,Late Night / Other,Bthree WA Burgers & Breakfast,Lynnwood,47.8212,-122.28811
+2013-08-20,20:57,21:38,40.72,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-08-23,19:43,20:10,27.45,Dinner,Gobble,Woodinville,47.755764,-122.161196
+2013-08-23,21:52,22:22,30.25,Dinner,Safeway,Kirkland,47.732456,-122.174391
+2013-08-24,20:08,20:30,21.53,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-08-24,21:00,21:18,18.42,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2013-08-24,21:20,21:45,24.33,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2013-09-05,20:20,21:26,66.03,Dinner,Village Eatery Tea Co,Bothell,47.78207,-122.222802
+2013-09-09,21:46,23:28,101.82,Dinner,Red Lobster,Lynnwood,47.821467,-122.291018
+2013-09-13,21:20,22:35,75.15,Dinner,"""Girardi's Osteria""",Edmonds,47.807115,-122.377952
+2013-09-14,23:55,00:57,61.75,Late Night / Other,"""Teddy's Bigger Burgers""",Woodinville,47.756392,-122.153345
+2013-09-22,22:13,22:35,22.2,Late Night / Other,Safeway,Kirkland,47.732456,-122.174391
+2013-09-24,20:51,21:12,21.23,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-10-04,21:49,22:22,33.77,Dinner,I Love Teriyaki,Bellevue,47.630657,-122.155041
+2013-10-04,22:25,23:11,46.48,Late Night / Other,"""Denny's""",Bellevue,47.630445,-122.14347
+2013-10-05,20:45,22:04,79.52,Dinner,Luna Park Cafe,Seattle,47.570571,-122.370766
+2013-10-09,22:51,23:22,30.47,Late Night / Other,"""P F Chang's China Bistro""",Seattle,47.611281,-122.337644
+2013-10-11,22:04,22:33,28.1,Late Night / Other,Big Fish Grill-Woodinville,Woodinville,47.754802,-122.156336
+2013-10-18,00:08,00:26,18.27,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-10-24,00:51,01:27,35.82,Late Night / Other,Clay Oven,Woodinville,47.75328,-122.15357
+2013-10-24,18:49,19:18,28.55,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-10-29,01:34,01:51,16.27,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-10-29,21:17,21:53,35.88,Dinner,Gobble,Woodinville,47.755764,-122.161196
+2013-10-30,03:38,05:46,127.72,Late Night / Other,Venice Pizza,Edmonds,47.77894,-122.36219
+2013-11-07,23:28,23:48,20.42,Late Night / Other,Safeway,Kirkland,47.723476,-122.206339
+2013-11-19,19:58,22:04,125.87,Dinner,"""Anthony's Homeport Edmonds""",Edmonds,47.80798,-122.39098
+2013-11-22,22:24,23:09,44.68,Late Night / Other,"""Shari's Restaurant""",Lynnwood,47.822216,-122.314802
+2013-11-23,21:02,21:40,38.47,Dinner,Feed Co Burgers,Redmond,47.674642,-122.122205
+2013-12-05,21:35,22:01,26.27,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2013-12-10,19:38,20:29,51.37,Dinner,Bthree WA Burgers & Breakfast,Lynnwood,47.8212,-122.28811
+2013-12-23,00:39,00:54,15.18,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2013-12-23,19:42,20:59,76.63,Dinner,Las Espuelas Family Mexican,Mountlake Ter,47.791553,-122.291146
+2013-12-24,19:04,19:58,53.83,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2013-12-26,01:46,03:36,109.92,Late Night / Other,Pen Thai Restaurant,Bothell,47.759852,-122.205036
+2013-12-30,20:54,21:20,26.17,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2014-01-06,00:37,00:55,17.8,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2014-01-06,19:32,20:24,51.88,Dinner,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2016-06-04,01:48,03:21,93.0,Late Night / Other,Ooba Tooba Mex Grill,Woodinville,47.75306,-122.15212
+2016-06-06,22:17,22:43,26.25,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-06-06,22:57,23:44,46.98,Late Night / Other,"""Chan's Place Woodinville""",Woodinville,47.75394,-122.14882
+2016-06-08,19:54,20:10,16.2,Dinner,New Orleans Creole Restaurant,Seattle,47.601138,-122.333785
+2016-06-19,18:54,19:13,19.13,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2016-06-23,21:19,21:48,28.68,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-06-25,20:31,22:12,100.52,Dinner,Ooba Tooba Mex Grill,Woodinville,47.75306,-122.15212
+2016-06-27,21:32,21:51,18.63,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2016-06-30,20:22,20:38,16.28,Dinner,Safeway,Kirkland,47.732456,-122.174391
+2016-07-02,20:29,20:57,27.97,Dinner,Soulfood,Redmond,47.675292,-122.130695
+2016-07-06,20:55,21:45,49.33,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2016-07-12,21:42,22:04,22.27,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-07-12,23:21,00:14,53.18,Late Night / Other,Ooba Tooba Mex Grill,Woodinville,47.75306,-122.15212
+2016-07-17,21:00,22:06,65.58,Dinner,Trails End Tap House & Rstrnt,Snohomish,47.917965,-122.087895
+2016-07-18,20:42,21:08,26.55,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-07-22,20:37,20:58,21.47,Dinner,"""Teddy's Bigger Burgers""",Woodinville,47.756392,-122.153345
+2016-07-26,22:19,22:45,26.82,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-08-08,00:17,00:48,30.65,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-08-08,23:42,00:06,24.47,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-08-09,23:58,01:07,69.25,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2016-08-10,02:29,03:00,30.47,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2016-08-14,20:39,21:28,49.15,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2016-08-19,19:11,19:35,24.32,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-08-21,20:26,21:34,68.35,Dinner,"""Teddy's Bigger Burgers""",Woodinville,47.756392,-122.153345
+2016-08-22,20:07,20:26,19.0,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-08-23,19:09,19:25,16.22,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2016-08-25,21:15,22:05,50.12,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2016-09-01,03:03,04:38,95.23,Late Night / Other,Shaker & Spear-Belltown,Seattle,47.611762,-122.34174
+2016-09-06,00:09,00:53,44.48,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2016-09-07,22:13,22:30,16.3,Late Night / Other,"""Wendy's""",Woodinville,47.754788,-122.1584
+2016-09-09,23:15,23:40,25.38,Late Night / Other,"""Teddy's Bigger Burgers""",Woodinville,47.756392,-122.153345
+2016-09-10,21:17,21:34,16.4,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2014-10-28,23:01,23:22,20.72,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2014-11-03,00:35,01:06,31.05,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2014-11-06,01:29,03:29,119.88,Late Night / Other,Tango,Seattle,47.613893,-122.328804
+2014-11-14,21:51,22:12,20.78,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2014-11-14,22:21,22:38,16.97,Late Night / Other,Gobble,Woodinville,47.755764,-122.161196
+2014-11-25,23:23,23:53,30.37,Late Night / Other,Red Robin Gourmet Burgers,Redmond,47.631084,-122.142449
+2014-11-26,20:27,20:44,17.08,Dinner,"""Johnny's""",Fife,47.239709,-122.358629
+2014-12-02,20:10,21:34,83.65,Dinner,"""Anthony's Homeport Edmonds""",Edmonds,47.80798,-122.39098
+2014-12-17,22:07,22:51,44.57,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2014-12-19,21:15,21:37,22.13,Dinner,Gobble,Woodinville,47.755764,-122.161196
+2014-12-26,22:30,00:04,93.8,Late Night / Other,"""Anthony's Homeport Edmonds""",Edmonds,47.80798,-122.39098
+2014-12-28,23:01,23:16,15.48,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2014-12-28,23:25,23:42,16.73,Late Night / Other,Gobble,Woodinville,47.755764,-122.161196
+2015-02-04,15:22,15:41,19.37,Lunch,QFC,Mercer Island,47.541717,-122.225919
+2015-02-05,20:01,21:50,109.07,Dinner,"""Anthony's Homeport Edmonds""",Edmonds,47.80798,-122.39098
+2015-02-14,22:38,22:56,18.15,Late Night / Other,Gobble,Woodinville,47.755764,-122.161196
+2015-02-19,18:41,19:05,23.6,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-02-22,16:54,17:36,42.32,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2015-03-03,00:43,00:59,15.68,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-03-04,21:34,21:58,23.82,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-03-07,19:49,20:11,21.57,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2015-03-27,19:35,20:04,28.75,Dinner,Fred Meyer,Kirkland,47.70836,-122.184198
+2015-04-05,01:10,01:30,20.67,Late Night / Other,Clay Oven,Woodinville,47.75328,-122.15357
+2015-04-15,21:24,21:46,21.93,Dinner,El Pueblito,Gig Harbor,47.331074,-122.582754
+2015-04-15,22:17,23:12,55.68,Late Night / Other,Tides Tavern,Gig Harbor,47.329241,-122.578141
+2015-04-21,23:42,00:20,38.55,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-04-25,21:22,21:47,24.17,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2015-04-26,01:37,02:16,38.53,Late Night / Other,Ooba Tooba Mex Grill,Woodinville,47.75306,-122.15212
+2015-04-29,01:38,02:00,22.05,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-04-29,22:23,23:15,51.82,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2015-04-30,22:58,23:59,61.2,Late Night / Other,Cheesecake Factory,Seattle,47.611899,-122.332887
+2015-05-01,22:29,22:45,16.37,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-05-04,00:21,00:48,27.1,Late Night / Other,Gobble,Woodinville,47.755764,-122.161196
+2015-05-09,16:46,17:42,55.68,Dinner,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2015-05-09,17:52,18:53,61.58,Dinner,"""Teddy's Bigger Burgers""",Woodinville,47.756392,-122.153345
+2015-05-13,21:40,23:49,128.8,Dinner,Cathouse Pizza,Snohomish,47.911616,-122.096909
+2015-05-14,15:52,17:23,90.97,Lunch,Bthree WA Burgers & Breakfast,Lynnwood,47.8212,-122.28811
+2015-05-17,21:58,22:15,16.77,Dinner,Big Fish Grill-Woodinville,Woodinville,47.754802,-122.156336
+2015-05-25,21:41,22:05,23.75,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-05-28,01:05,02:43,98.47,Late Night / Other,Match Coffee & Wine,Duvall,47.741781,-121.986291
+2015-05-30,19:03,20:11,67.62,Dinner,Lime & Lemon,Lynnwood,47.822552,-122.282676
+2015-06-01,23:25,23:44,19.0,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-06-03,23:24,00:18,53.68,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2015-06-04,00:20,00:53,33.17,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2015-06-04,17:15,18:34,78.68,Dinner,KFC,Lynnwood,47.821287,-122.287474
+2015-06-08,19:29,19:48,19.33,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-06-12,20:27,22:37,129.78,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2015-06-13,20:40,21:01,21.57,Dinner,"""Anthony's Homeport Edmonds""",Edmonds,47.80798,-122.39098
+2015-06-13,23:19,23:39,20.32,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-06-15,17:53,18:27,33.85,Dinner,Safeway,Puyallup,47.135317,-122.294844
+2015-06-15,19:42,19:59,16.75,Dinner,I Love Teriyaki,Bellevue,47.630657,-122.155041
+2015-06-15,21:40,21:59,18.4,Dinner,Whole Foods Market,Bellevue,47.618372,-122.184971
+2015-06-19,18:56,20:19,83.7,Dinner,Bthree WA Burgers & Breakfast,Lynnwood,47.8212,-122.28811
+2015-07-08,19:32,19:49,16.68,Dinner,Qdoba Mexican Eats,Redmond,47.632013,-122.138296
+2015-07-08,20:38,21:13,35.22,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-07-12,18:56,20:14,78.35,Dinner,Demetris Woodstone Taverna,Edmonds,47.812553,-122.38211
+2015-07-13,18:56,19:16,20.85,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2015-07-13,22:25,22:49,23.83,Late Night / Other,"""Garlic Jim's Famous Grmt Pizza""",Bothell,47.761343,-122.176131
+2015-07-25,21:45,22:08,22.97,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2015-07-25,22:33,23:08,34.8,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-07-29,20:53,21:20,26.82,Dinner,Safeway,Kirkland,47.732456,-122.174391
+2015-08-02,21:12,21:52,39.88,Dinner,Red Robin Gourmet Burgers,Woodinville,47.75772,-122.15561
+2015-08-03,21:22,21:51,28.28,Dinner,"""Teddy's Bigger Burgers""",Woodinville,47.756392,-122.153345
+2015-08-05,20:12,20:43,30.83,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-08-07,23:06,00:05,58.77,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2015-08-09,00:54,01:51,56.78,Late Night / Other,"""Mc Donald's""",Puyallup,47.09944,-122.29272
+2015-08-10,20:31,20:52,20.55,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-08-13,22:06,22:30,23.75,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2015-08-24,19:46,21:20,94.5,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2015-08-24,22:09,22:33,23.83,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2015-09-05,20:42,21:57,75.63,Dinner,Bahama Breeze,Tukwila,47.461175,-122.261461
+2015-09-14,21:47,22:11,24.4,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-09-16,20:40,22:00,80.33,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2015-09-17,19:09,19:56,47.02,Dinner,Bthree WA Burgers & Breakfast,Lynnwood,47.8212,-122.28811
+2015-09-19,00:03,00:45,41.55,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-09-21,00:15,00:33,17.57,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-09-24,23:17,23:39,21.57,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2015-10-01,21:57,23:23,86.38,Dinner,Pizzeria Bruciato,Bainbridge Isle,47.624894,-122.519156
+2015-10-02,18:41,20:09,87.33,Dinner,Bthree WA Burgers & Breakfast,Lynnwood,47.8212,-122.28811
+2015-10-08,22:58,23:41,42.88,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2015-10-13,22:12,23:52,99.55,Late Night / Other,El Puerto Mexican Restaurant,Edmonds,47.810807,-122.377886
+2015-10-16,23:05,23:34,29.33,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-10-18,22:00,22:32,32.07,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2015-10-21,00:34,00:59,25.08,Late Night / Other,"""Mc Donald's""",Puyallup,47.09944,-122.29272
+2015-11-07,21:41,22:34,52.83,Dinner,Red Lobster,Lynnwood,47.821467,-122.291018
+2015-11-08,00:20,00:38,18.3,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-11-17,23:45,00:07,22.13,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-11-29,18:13,18:30,16.73,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-12-04,16:55,18:33,97.28,Dinner,Bthree WA Burgers & Breakfast,Lynnwood,47.8212,-122.28811
+2015-12-08,00:37,01:02,24.92,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2015-12-13,21:22,22:49,86.32,Dinner,"""Anthony's Homeport Edmonds""",Edmonds,47.80798,-122.39098
+2015-12-20,16:21,17:42,80.45,Dinner,Hometown Restaurant,Centralia,46.724655,-122.971801
+2015-12-20,22:45,00:17,92.2,Late Night / Other,"""Anthony's Homeport Edmonds""",Edmonds,47.80798,-122.39098
+2015-12-25,01:53,02:19,25.98,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-01-03,00:02,00:32,30.03,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-01-03,22:05,23:18,73.25,Late Night / Other,Salt & Iron,Edmonds,47.811162,-122.378817
+2016-01-09,18:49,19:38,49.6,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2016-01-09,21:09,21:26,17.53,Dinner,Safeway,Kirkland,47.732456,-122.174391
+2016-01-12,19:41,20:09,28.75,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-01-20,02:01,02:23,22.6,Late Night / Other,Ooba Tooba Mex Grill,Woodinville,47.75306,-122.15212
+2016-01-23,20:37,21:04,26.4,Dinner,Safeway,Kirkland,47.732456,-122.174391
+2016-01-24,23:00,00:36,95.33,Late Night / Other,Church Key Pub,Edmonds,47.811258,-122.378447
+2016-01-25,00:36,00:53,16.77,Late Night / Other,Church Key Pub,Edmonds,47.811258,-122.378447
+2016-01-26,19:07,19:52,44.8,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-02-01,19:03,19:37,33.95,Dinner,Soulfood,Redmond,47.675292,-122.130695
+2016-02-06,19:19,20:09,49.12,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2016-02-07,23:53,00:19,26.67,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-02-08,19:36,20:24,48.08,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2016-02-11,21:45,22:04,18.93,Dinner,"""Domino's""",Woodinville,47.756315,-122.080998
+2016-02-16,00:45,01:01,15.73,Late Night / Other,Safeway,Kirkland,47.732456,-122.174391
+2016-02-20,16:02,16:40,37.43,Dinner,"""Garlic Jim's Famous Grmt Pizza""",Bothell,47.761343,-122.176131
+2016-02-26,21:26,23:00,93.67,Dinner,"""Anthony's Homeport Edmonds""",Edmonds,47.80798,-122.39098
+2016-03-05,20:14,20:32,18.38,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-03-05,20:44,21:05,21.28,Dinner,MOD Pizza,Woodinville,47.75686,-122.15443
+2016-03-08,18:44,19:01,16.4,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-03-08,23:16,00:16,60.6,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2016-03-19,23:44,00:17,32.78,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2016-03-20,00:27,00:44,16.38,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2016-03-21,21:24,21:47,22.78,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-03-22,22:30,22:50,19.43,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2016-03-22,23:00,23:30,30.3,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2016-03-28,21:07,21:52,44.95,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-03-30,18:15,18:32,16.78,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2016-04-03,00:45,01:07,22.13,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-04-06,23:58,00:24,25.85,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-04-08,17:02,18:34,92.27,Dinner,Bthree WA Burgers & Breakfast,Lynnwood,47.8212,-122.28811
+2016-04-10,19:36,19:55,19.28,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-04-12,23:55,00:44,48.9,Late Night / Other,Church Key Pub,Edmonds,47.811258,-122.378447
+2016-04-13,21:02,21:19,16.93,Dinner,Coco Ramen & Curry Bar Izakaya,Bellevue,47.61513,-122.198852
+2016-04-15,22:29,22:47,18.1,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-04-19,22:46,23:33,47.5,Late Night / Other,Twisted Cuban Cafe & Bar,Woodinville,47.753116,-122.170725
+2016-04-20,18:49,19:26,37.0,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2016-04-25,23:38,23:55,16.48,Late Night / Other,Fred Meyer,Kirkland,47.70836,-122.184198
+2016-04-27,21:29,22:39,69.58,Dinner,Purple Cafe-Wine Bar-Wdnvll,Woodinville,47.73322,-122.152634
+2016-05-03,21:43,23:33,109.95,Dinner,"""Teddy's Bigger Burgers""",Woodinville,47.756392,-122.153345
+2016-05-03,23:38,23:59,20.45,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-05-07,18:59,19:46,46.93,Dinner,"""Teddy's Bigger Burgers""",Woodinville,47.756392,-122.153345
+2016-05-07,22:31,23:08,36.37,Late Night / Other,Cathouse Pizza,Snohomish,47.911616,-122.096909
+2016-05-14,19:47,20:52,65.23,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-05-16,19:52,20:12,20.5,Dinner,"""Jake's Cafe On 2nd Street""",Snohomish,47.912628,-122.091146
+2016-05-21,20:33,20:49,16.38,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-05-24,19:21,19:52,30.93,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-05-29,20:11,20:37,26.82,Dinner,"""Jake's Cafe On 2nd Street""",Snohomish,47.912628,-122.091146
+2016-05-29,20:51,21:14,23.08,Dinner,"""Jake's Cafe On 2nd Street""",Snohomish,47.912628,-122.091146
+2017-02-26,21:25,21:47,22.22,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2017-03-01,19:23,19:58,34.62,Dinner,MOD Pizza,Woodinville,47.75686,-122.15443
+2017-03-02,02:34,02:59,24.87,Late Night / Other,Fred Meyer,Kirkland,47.70836,-122.184198
+2017-03-04,15:14,15:53,39.43,Lunch,Whole Foods Market,Bellevue,47.618372,-122.184971
+2017-03-15,20:36,20:53,16.62,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2017-03-26,22:38,22:58,20.15,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2017-03-28,00:05,00:43,38.12,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2017-04-05,23:40,00:27,47.33,Late Night / Other,Glass & Bottle,Snoqualmie,47.529869,-121.872745
+2017-04-10,23:25,23:45,20.3,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2017-04-16,15:28,15:55,26.57,Lunch,Whole Foods Market,Bellevue,47.618372,-122.184971
+2017-04-19,18:06,19:17,71.72,Dinner,Javabean Inc Ballard,Seattle,47.671238,-122.38766
+2017-04-23,17:16,17:34,18.47,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2017-04-23,17:47,18:03,16.18,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2017-05-03,21:34,22:00,26.08,Dinner,MOD Pizza,Woodinville,47.75686,-122.15443
+2017-05-06,22:31,22:49,17.72,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2017-05-10,20:04,20:24,20.27,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2017-05-17,19:10,19:31,20.6,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2017-05-27,21:15,21:37,22.27,Dinner,Safeway,Kirkland,47.732456,-122.174391
+2017-05-30,21:55,22:12,17.25,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2017-06-09,20:14,20:35,20.37,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2017-07-01,20:44,21:01,16.58,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2017-07-01,21:03,21:27,24.53,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2017-07-02,21:46,22:13,26.37,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2017-07-08,00:01,00:21,19.22,Late Night / Other,Fred Meyer,Kirkland,47.70836,-122.184198
+2017-07-21,23:09,23:39,30.3,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2017-07-25,21:41,21:59,18.07,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2017-07-30,23:25,23:54,29.62,Late Night / Other,Soulfood,Redmond,47.675292,-122.130695
+2017-08-05,23:05,23:31,26.47,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2017-08-11,19:49,20:39,49.48,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2017-08-16,23:21,00:02,40.85,Late Night / Other,Gobble,Woodinville,47.755764,-122.161196
+2017-08-18,22:44,23:15,31.37,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2017-08-21,19:10,19:36,26.0,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2017-09-03,00:20,00:56,36.08,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2017-09-07,23:15,23:52,36.65,Late Night / Other,Glass & Bottle,Snoqualmie,47.529869,-121.872745
+2017-09-09,20:04,20:33,29.0,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2017-09-09,20:51,21:11,20.1,Dinner,"""Domino's""",Kirkland,47.721179,-122.20829
+2017-09-15,20:54,21:15,20.7,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2017-09-21,21:48,22:16,28.62,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2017-09-26,23:06,23:24,18.28,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2017-10-18,22:57,00:22,85.12,Late Night / Other,"""Ming's Garden Chinese Cuisine""",Snoqualmie,47.530237,-121.872808
+2017-10-23,23:04,23:51,47.6,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2017-10-25,23:12,23:53,41.15,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2017-11-05,21:36,21:52,16.28,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2017-11-10,23:29,00:05,36.03,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2017-11-11,22:17,22:32,15.27,Late Night / Other,Soulfood,Redmond,47.675292,-122.130695
+2017-11-17,22:37,22:59,22.97,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2017-12-05,17:37,18:05,28.1,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2017-12-08,23:02,23:49,47.12,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2017-12-16,23:08,23:29,21.02,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2018-01-02,15:27,15:48,20.5,Lunch,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-01-10,19:21,19:41,19.73,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-01-12,21:03,21:27,23.58,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-01-15,19:18,20:16,58.33,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-01-15,22:37,23:08,31.35,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2018-02-07,19:29,19:48,18.08,Dinner,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2018-02-12,19:10,19:26,16.37,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-02-13,21:34,22:04,29.88,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2018-02-13,22:09,22:35,26.23,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2018-02-22,21:15,22:04,48.87,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-02-22,22:24,22:50,25.95,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-03-04,21:57,22:16,19.0,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-03-04,22:47,23:57,70.25,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2018-03-09,20:20,20:55,35.37,Dinner,Fred Meyer,Kirkland,47.70836,-122.184198
+2018-03-16,18:55,19:11,15.62,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-03-22,20:24,20:43,19.02,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-04-16,21:51,22:12,21.0,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-04-19,22:10,22:31,20.32,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-04-23,20:15,20:42,27.68,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-05-03,19:50,20:21,30.67,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2018-05-04,20:35,20:55,20.07,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-05-08,23:05,23:51,46.23,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2018-05-10,22:30,22:47,17.27,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-05-15,19:59,21:01,61.98,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-05-18,20:38,21:13,35.3,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-05-21,20:51,21:13,22.12,Dinner,Los Hernandez,Union Gap,46.550514,-120.475662
+2018-05-22,20:35,20:51,15.92,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-05-24,20:09,20:28,19.07,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2018-06-01,19:16,20:24,68.02,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-06-06,17:47,18:11,23.25,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-06-14,15:21,15:46,24.97,Lunch,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-06-16,19:50,20:38,47.75,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-06-30,18:33,19:28,55.2,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-07-05,21:43,22:19,36.72,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-07-07,00:01,00:20,18.97,Late Night / Other,Safeway,Kirkland,47.732456,-122.174391
+2018-07-08,22:43,22:58,15.4,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-07-20,20:17,21:03,45.53,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-07-23,20:50,21:12,22.08,Dinner,Brown Point Diner,Tacoma,47.300621,-122.435403
+2018-07-25,19:22,20:04,42.15,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-07-28,22:30,22:55,25.52,Late Night / Other,Safeway,Kirkland,47.732456,-122.174391
+2018-08-04,21:32,21:56,23.92,Dinner,Coffee Break Expresso,Prosser,46.219778,-119.790138
+2018-08-09,22:41,23:44,62.97,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2018-08-18,22:21,22:42,20.62,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2018-08-19,22:36,23:01,24.83,Late Night / Other,Costco Wholesale,Woodinville,47.779395,-122.148542
+2018-08-20,20:03,21:11,67.62,Dinner,Brown Point Diner,Tacoma,47.300621,-122.435403
+2018-08-23,23:25,23:41,15.95,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-08-31,00:13,00:48,35.42,Late Night / Other,Soulfood,Redmond,47.675292,-122.130695
+2018-09-04,17:28,17:43,15.25,Dinner,Garden Cafe,Woodinville,47.75343,-122.157025
+2018-09-04,20:46,21:58,72.0,Dinner,Blue Bird Cafe,Arlington,48.195111,-122.126478
+2018-09-04,22:37,22:59,21.72,Late Night / Other,Mirkwood & Shire Cafe,Arlington,48.198972,-122.126041
+2018-09-07,20:29,20:44,15.53,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-09-10,23:10,00:47,97.0,Late Night / Other,"""Ming's Garden Chinese Cuisine""",Snoqualmie,47.530237,-121.872808
+2018-09-18,20:24,20:39,15.53,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-09-25,20:21,20:41,19.97,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-09-25,20:51,21:43,51.92,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-10-01,20:31,20:47,16.0,Dinner,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2018-10-06,21:14,21:47,33.58,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-10-14,23:57,00:12,15.12,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-10-19,18:36,20:36,120.92,Dinner,Topside Bar & Grill,Steilacoom,47.172424,-122.597998
+2018-10-21,21:29,22:53,84.45,Dinner,Big Fish Grill-Woodinville,Woodinville,47.754802,-122.156336
+2018-10-22,23:00,23:49,48.73,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2018-11-01,21:02,21:32,29.28,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2018-11-05,21:10,21:30,20.67,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2018-11-05,21:58,22:25,26.3,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2018-11-06,20:11,20:52,41.0,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-11-09,20:35,21:10,35.65,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-11-12,02:29,04:12,102.85,Late Night / Other,Bay Cafe,Seattle,47.6556,-122.38117
+2018-11-30,21:47,22:17,29.98,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-12-07,21:57,22:17,20.63,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2018-12-10,20:53,21:08,15.67,Dinner,Big Fish Grill-Woodinville,Woodinville,47.754802,-122.156336
+2018-12-14,20:15,20:58,43.45,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2019-01-02,20:18,20:39,20.28,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2019-01-04,21:58,22:26,28.6,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2019-01-13,20:09,20:57,47.57,Dinner,"""Lowell's Restaurant""",Seattle,47.60899,-122.34137
+2019-01-16,19:16,20:25,68.92,Dinner,Topside Bar & Grill,Steilacoom,47.172424,-122.597998
+2019-01-23,17:40,18:04,24.1,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2019-01-26,20:00,20:16,16.4,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2019-01-26,20:29,20:53,24.08,Dinner,Safeway,Kirkland,47.732456,-122.174391
+2019-01-30,19:28,20:01,32.88,Dinner,Seattle Annapurna,Seattle,47.618707,-122.321036
+2019-02-12,18:17,18:59,42.27,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2019-02-22,03:13,03:35,22.33,Late Night / Other,"""R C's Rstrnt Casino Sportsbar""",Sunnyside,46.296685,-119.956117
+2019-02-25,21:37,22:07,29.67,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2016-09-20,22:03,22:44,40.62,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-09-26,22:36,23:23,47.02,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2016-09-28,23:06,23:27,20.83,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-10-04,20:58,21:33,34.82,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2016-10-06,00:17,00:37,20.38,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-10-08,22:05,22:31,26.43,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-10-14,21:37,22:40,63.13,Dinner,"""Jake's Cafe On 2nd Street""",Snohomish,47.912628,-122.091146
+2016-10-14,23:50,00:15,24.47,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2016-10-18,22:30,22:48,18.37,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2016-10-18,23:31,00:03,32.52,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-10-20,00:22,01:06,43.65,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-10-23,00:20,00:59,38.78,Late Night / Other,"""Chan's Place Woodinville""",Woodinville,47.75394,-122.14882
+2016-10-23,22:44,23:18,34.37,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-10-24,20:01,21:56,114.67,Dinner,Abella Pizzeria,Tacoma,47.2436,-122.43679
+2016-10-26,23:01,23:50,49.55,Late Night / Other,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2016-10-29,21:02,21:42,40.27,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2016-10-29,21:57,22:54,56.83,Dinner,Ooba Tooba Mex Grill,Woodinville,47.75306,-122.15212
+2016-10-31,00:02,00:55,53.63,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2016-10-31,00:59,01:18,18.45,Late Night / Other,Safeway,Kirkland,47.732456,-122.174391
+2016-11-06,21:06,21:31,24.48,Dinner,Costco Wholesale,Woodinville,47.779395,-122.148542
+2016-11-18,20:27,21:18,50.97,Dinner,"""Papa Murphy's Take 'N' Bake""",Woodinville,47.75502,-122.150545
+2016-11-21,22:25,23:04,38.68,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-11-22,22:12,22:32,20.27,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-11-24,02:55,04:25,90.07,Late Night / Other,"""Ming's Garden Chinese Cuisine""",Snoqualmie,47.530237,-121.872808
+2016-11-26,23:17,23:41,23.93,Late Night / Other,Ooba Tooba Mex Grill,Woodinville,47.75306,-122.15212
+2016-11-28,17:41,18:06,24.38,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-11-29,23:19,23:36,16.4,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-12-14,22:05,22:58,52.8,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2016-12-18,21:10,21:41,30.48,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2016-12-25,19:57,20:16,18.43,Dinner,Safeway,Kirkland,47.732456,-122.174391
+2017-01-04,16:48,17:15,26.43,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2017-01-07,20:40,21:45,65.03,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2017-01-07,22:09,23:06,56.82,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2017-01-10,22:29,22:59,29.3,Late Night / Other,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2017-01-14,19:41,20:28,46.77,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2017-01-20,18:30,18:48,18.1,Dinner,Uwajimaya Inc,Bellevue,47.616026,-122.181942
+2017-01-22,21:39,22:03,24.37,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2017-01-23,21:28,22:14,45.95,Dinner,"""Mc Donald's""",Kirkland,47.731589,-122.17421
+2017-01-29,23:43,00:01,17.35,Late Night / Other,Big Fish Grill-Woodinville,Woodinville,47.754802,-122.156336
+2017-01-31,20:59,21:50,50.72,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2017-02-04,18:58,19:16,18.25,Dinner,Haggen Food & Pharmacy,Woodinville,47.755668,-122.156759
+2017-02-08,21:09,22:10,60.65,Dinner,SUBWAY,Kirkland,47.731011,-122.173508
+2017-02-08,23:03,23:19,16.18,Late Night / Other,SUBWAY,Kirkland,47.731011,-122.173508
+2017-02-12,21:08,21:46,38.72,Dinner,Safeway,Kirkland,47.732456,-122.174391
