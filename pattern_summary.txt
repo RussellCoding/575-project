@@ -1,0 +1,675 @@
+restaurant visit analysis
+============================================================
+
+
+
+Person 64
+
+
+average visits per week: 2.76
+
+top restaurants:
+  1. Dough Zone Dumpling House - 13 times
+  2. Baskets Cafe - 6 times
+  3. Atmosphere Cafe - 6 times
+  4. Quiznos - 3 times
+  5. "Anthony's Homeport Des Moines" - 3 times
+
+busiest days:
+  Saturday: 28 visits
+  Friday: 23 visits
+  Sunday: 13 visits
+
+cities visited:
+  Redmond - 20 times
+  Burien - 13 times
+  Bellevue - 11 times
+  Woodinville - 8 times
+  Seattle - 8 times
+
+average time spent:
+  Dinner: 46 min
+  Late Night / Other: 57 min
+  Lunch: 40 min
+
+
+
+
+Person 67
+
+
+average visits per week: 3.09
+
+top restaurants:
+  1. "Papa Murphy's Take 'N' Bake" - 23 times
+  2. Fred Meyer - 17 times
+  3. Casa De Oro - 12 times
+  4. De Leon Foods Inc - 7 times
+  5. Clinkerdagger - 5 times
+
+busiest days:
+  Tuesday: 30 visits
+  Thursday: 29 visits
+  Wednesday: 19 visits
+
+cities visited:
+  Spokane - 117 times
+  Spokane Valley - 8 times
+  Leavenworth - 6 times
+  Mccleary - 2 times
+  Kennewick - 1 times
+
+average time spent:
+  Breakfast: 56 min
+  Dinner: 36 min
+  Late Night / Other: 53 min
+  Lunch: 45 min
+
+
+
+
+Person 68
+
+
+average visits per week: 4.12
+
+top restaurants:
+  1. Safeway - 28 times
+  2. Red Robin Gourmet Burgers - 11 times
+  3. Grocery Outlet - 10 times
+  4. SUBWAY - 9 times
+  5. Panda Express - 8 times
+
+busiest days:
+  Wednesday: 69 visits
+  Thursday: 56 visits
+  Monday: 24 visits
+
+cities visited:
+  Spokane - 160 times
+  Spokane Valley - 22 times
+  Seattle - 3 times
+  North Bend - 3 times
+  Bellevue - 2 times
+
+average time spent:
+  Breakfast: 40 min
+  Dinner: 44 min
+  Late Night / Other: 50 min
+  Lunch: 53 min
+
+
+
+
+Person 69
+
+
+average visits per week: 4.85
+
+top restaurants:
+  1. "Mc Donald's" - 6 times
+  2. Wing Dome - 5 times
+  3. "Bad Albert's Tap & Grill" - 2 times
+  4. "Wendy's" - 2 times
+  5. Mean Sandwich - 2 times
+
+busiest days:
+  Monday: 19 visits
+  Sunday: 14 visits
+  Wednesday: 9 visits
+
+cities visited:
+  Seattle - 46 times
+  Olympia - 5 times
+  Tacoma - 5 times
+  Lacey - 4 times
+  Bellingham - 1 times
+
+average time spent:
+  Breakfast: 57 min
+  Dinner: 47 min
+  Late Night / Other: 61 min
+  Lunch: 46 min
+
+
+
+
+Person 70
+
+
+average visits per week: 3.75
+
+top restaurants:
+  1. Rosauers Supermarkets - 17 times
+  2. Safeway - 16 times
+  3. Chipotle Mexican Grill - 14 times
+  4. Albertsons - 10 times
+  5. "Jimmy John's" - 8 times
+
+busiest days:
+  Saturday: 48 visits
+  Friday: 37 visits
+  Sunday: 35 visits
+
+cities visited:
+  Spokane - 115 times
+  Spokane Valley - 29 times
+  Seattle - 9 times
+  Lake Stevens - 6 times
+  Tukwila - 6 times
+
+average time spent:
+  Dinner: 38 min
+  Late Night / Other: 39 min
+  Lunch: 64 min
+
+
+
+
+Person 175
+
+
+average visits per week: 14.27
+
+top restaurants:
+  1. Quality Food Ctr - 75 times
+  2. Village Sushi - 68 times
+  3. Shalimar Restaurant - 45 times
+  4. Safeway - 40 times
+  5. Cafe Solstice - 20 times
+
+busiest days:
+  Sunday: 151 visits
+  Saturday: 124 visits
+  Friday: 102 visits
+
+cities visited:
+  Seattle - 681 times
+  Port Townsend - 38 times
+  Bellevue - 9 times
+  Edmonds - 2 times
+  Bremerton - 2 times
+
+average time spent:
+  Breakfast: 64 min
+  Dinner: 59 min
+  Late Night / Other: 65 min
+  Lunch: 70 min
+
+
+
+
+Person 177
+
+
+average visits per week: 2.75
+
+top restaurants:
+  1. Hitchcock Deli - 2 times
+  2. Smokehouse - 1 times
+  3. Franks Oyster Hse-Champagne - 1 times
+  4. Mizuki Buffet - 1 times
+  5. Michou Fresca - 1 times
+
+busiest days:
+  Monday: 3 visits
+  Saturday: 3 visits
+  Sunday: 2 visits
+
+cities visited:
+  Seattle - 6 times
+  Bainbridge Isle - 2 times
+  Tukwila - 1 times
+  Seatac - 1 times
+  Redmond - 1 times
+
+average time spent:
+  Dinner: 56 min
+  Late Night / Other: 61 min
+
+
+
+
+Person 179
+
+
+average visits per week: 1.25
+
+top restaurants:
+  1. "Mc Donald's" - 2 times
+  2. Palomino-Bellevue - 1 times
+  3. Costco Wholesale - 1 times
+  4. Cafe Rio Mexican Grill - 1 times
+
+busiest days:
+  Friday: 3 visits
+  Wednesday: 1 visits
+  Saturday: 1 visits
+
+cities visited:
+  Federal Way - 2 times
+  Bellevue - 1 times
+  Milton - 1 times
+  Tacoma - 1 times
+
+average time spent:
+  Dinner: 48 min
+  Late Night / Other: 53 min
+
+
+
+
+Person 181
+
+
+average visits per week: 3.88
+
+top restaurants:
+  1. Asian Express - 39 times
+  2. Pon Proem Thai - 16 times
+  3. QFC - 16 times
+  4. "George's Sausage & Deli" - 15 times
+  5. Chiang Gourmet - 11 times
+
+busiest days:
+  Wednesday: 33 visits
+  Monday: 32 visits
+  Sunday: 32 visits
+
+cities visited:
+  Seattle - 144 times
+  Mercer Island - 37 times
+  Bellevue - 4 times
+  Bellingham - 2 times
+  Olympia - 1 times
+
+average time spent:
+  Breakfast: 55 min
+  Dinner: 54 min
+  Late Night / Other: 53 min
+  Lunch: 36 min
+
+
+
+
+Person 182
+
+
+average visits per week: 1.0
+
+top restaurants:
+  1. "Mc Donald's" - 1 times
+  2. Roomian Cafe - 1 times
+  3. Perkins Restaurant & Bakery - 1 times
+  4. SUBWAY - 1 times
+  5. Asia BBQ & Fast Food - 1 times
+
+busiest days:
+  Sunday: 2 visits
+  Monday: 2 visits
+  Friday: 1 visits
+
+cities visited:
+  Centralia - 1 times
+  Issaquah - 1 times
+  Spokane - 1 times
+  Lakewood - 1 times
+  Seattle - 1 times
+
+average time spent:
+  Dinner: 21 min
+  Lunch: 68 min
+
+
+
+
+Person 258
+
+
+average visits per week: 2.2
+
+top restaurants:
+  1. "Joe's Deli" - 2 times
+  2. "Mc Donald's" - 1 times
+  3. Herbfarm - 1 times
+  4. "Zulu's Board Game Cafe" - 1 times
+  5. Re Public Restaurant & Bar - 1 times
+
+busiest days:
+  Saturday: 4 visits
+  Monday: 2 visits
+  Wednesday: 2 visits
+
+cities visited:
+  Bothell - 3 times
+  Seattle - 2 times
+  Federal Way - 2 times
+  Woodinville - 1 times
+  Centralia - 1 times
+
+average time spent:
+  Dinner: 52 min
+  Late Night / Other: 43 min
+
+
+
+
+Person 269
+
+
+average visits per week: 11.96
+
+top restaurants:
+  1. Haggen Food & Pharmacy - 193 times
+  2. SUBWAY - 87 times
+  3. Costco Wholesale - 58 times
+  4. Safeway - 27 times
+  5. "Papa Murphy's Take 'N' Bake" - 20 times
+
+busiest days:
+  Monday: 104 visits
+  Saturday: 101 visits
+  Tuesday: 95 visits
+
+cities visited:
+  Woodinville - 347 times
+  Kirkland - 126 times
+  Lynnwood - 22 times
+  Edmonds - 22 times
+  Seattle - 20 times
+
+average time spent:
+  Breakfast: 29 min
+  Dinner: 39 min
+  Late Night / Other: 37 min
+  Lunch: 34 min
+
+
+
+
+Person 272
+
+
+average visits per week: 2.0
+
+top restaurants:
+  1. Safeway - 17 times
+  2. Red Robin Gourmet Burgers - 17 times
+  3. "Applebee's" - 10 times
+  4. "Elmer's Breakfast-Lunch-Dinner" - 7 times
+  5. "Wendy's" - 4 times
+
+busiest days:
+  Tuesday: 22 visits
+  Wednesday: 20 visits
+  Sunday: 15 visits
+
+cities visited:
+  Vancouver - 85 times
+  Battle Ground - 3 times
+  Camas - 3 times
+  Goldendale - 3 times
+
+average time spent:
+  Breakfast: 54 min
+  Dinner: 44 min
+  Late Night / Other: 44 min
+
+
+
+
+Person 273
+
+
+average visits per week: 9.81
+
+top restaurants:
+  1. Safeway - 83 times
+  2. Quality Food Ctrs - 46 times
+  3. Costco Wholesale - 38 times
+  4. Little Caesars Pizza - 24 times
+  5. "Applebee's" - 19 times
+
+busiest days:
+  Thursday: 106 visits
+  Friday: 92 visits
+  Monday: 71 visits
+
+cities visited:
+  Vancouver - 291 times
+  Camas - 136 times
+  Goldendale - 25 times
+  Battle Ground - 19 times
+  Buckley - 8 times
+
+average time spent:
+  Breakfast: 49 min
+  Dinner: 41 min
+  Late Night / Other: 44 min
+  Lunch: 47 min
+
+
+
+
+Person 276
+
+
+average visits per week: 1.33
+
+top restaurants:
+  1. "Phaikun's Thai Cuisine" - 1 times
+  2. Casadores Mexican Restaurant - 1 times
+  3. Regatta Bar & Grille - 1 times
+  4. Thai Thani Kitchen - 1 times
+
+busiest days:
+  Wednesday: 3 visits
+  Sunday: 1 visits
+
+cities visited:
+  Seattle - 2 times
+  Pullman - 1 times
+  Centralia - 1 times
+
+average time spent:
+  Dinner: 59 min
+  Late Night / Other: 76 min
+
+
+
+
+Person 328
+
+
+average visits per week: 8.43
+
+top restaurants:
+  1. Mason Jar - 88 times
+  2. SUBWAY - 29 times
+  3. Harvester Restaurant - 25 times
+  4. "Yoke's Fresh Market" - 25 times
+  5. "Zip's Drive-In" - 19 times
+
+busiest days:
+  Friday: 99 visits
+  Sunday: 89 visits
+  Saturday: 80 visits
+
+cities visited:
+  Cheney - 237 times
+  Spokane - 141 times
+  Spangle - 25 times
+  Seattle - 14 times
+  Tacoma - 11 times
+
+average time spent:
+  Breakfast: 62 min
+  Dinner: 40 min
+  Late Night / Other: 49 min
+  Lunch: 49 min
+
+
+
+
+Person 336
+
+
+average visits per week: 6.98
+
+top restaurants:
+  1. Seastar Restaurant & Raw Bar - 44 times
+  2. Greek Express - 31 times
+  3. Marinepolis Sushi Land - 19 times
+  4. Taco Time - 16 times
+  5. Genki Sushi - 16 times
+
+busiest days:
+  Thursday: 59 visits
+  Sunday: 57 visits
+  Saturday: 55 visits
+
+cities visited:
+  Bellevue - 204 times
+  Seattle - 49 times
+  Redmond - 42 times
+  Kirkland - 18 times
+  Mercer Island - 11 times
+
+average time spent:
+  Breakfast: 41 min
+  Dinner: 41 min
+  Late Night / Other: 38 min
+  Lunch: 81 min
+
+
+
+
+Person 338
+
+
+average visits per week: 4.52
+
+top restaurants:
+  1. "Denny's" - 21 times
+  2. Suki Yaki Inn Japanese Rest - 20 times
+  3. 3 Sisters Restaurant - 15 times
+  4. High Nooner - 14 times
+  5. "Did's Pizza & Froyo" - 14 times
+
+busiest days:
+  Wednesday: 55 visits
+  Tuesday: 46 visits
+  Thursday: 38 visits
+
+cities visited:
+  Spokane Valley - 153 times
+  Spokane - 79 times
+  Bellingham - 1 times
+  Pasco - 1 times
+  Kennewick - 1 times
+
+average time spent:
+  Breakfast: 57 min
+  Dinner: 38 min
+  Late Night / Other: 48 min
+  Lunch: 98 min
+
+
+
+
+Person 343
+
+
+average visits per week: 25.92
+
+top restaurants:
+  1. Silkroad Noodle Bar LLC - 245 times
+  2. Spring Kitchen Uw - 70 times
+  3. Safeway - 56 times
+  4. LA Cocina Oaxaquena - 50 times
+  5. Haru Sushi - 34 times
+
+busiest days:
+  Sunday: 229 visits
+  Thursday: 208 visits
+  Wednesday: 193 visits
+
+cities visited:
+  Seattle - 1291 times
+  Centralia - 30 times
+  Lakewood - 13 times
+  Chehalis - 8 times
+  Bellingham - 7 times
+
+average time spent:
+  Breakfast: 60 min
+  Dinner: 44 min
+  Late Night / Other: 47 min
+  Lunch: 73 min
+
+
+
+
+Person 344
+
+
+average visits per week: 1.6
+
+top restaurants:
+  1. Beaches Restaurant & Bar - 2 times
+  2. Satay - 1 times
+  3. "Ivar's Salmon House" - 1 times
+  4. Ciao - 1 times
+  5. Munchen Haus - 1 times
+
+busiest days:
+  Friday: 5 visits
+  Saturday: 2 visits
+  Thursday: 1 visits
+
+cities visited:
+  Seattle - 2 times
+  Vancouver - 2 times
+  Bellevue - 2 times
+  Coupeville - 1 times
+  Leavenworth - 1 times
+
+average time spent:
+  Dinner: 61 min
+  Late Night / Other: 41 min
+
+
+
+
+overall group patterns
+
+
+most popular restaurants:
+  1. Safeway - 283 total visits
+  2. Silkroad Noodle Bar LLC - 247 total visits
+  3. SUBWAY - 197 total visits
+  4. Haggen Food & Pharmacy - 195 total visits
+  5. Quality Food Ctr - 102 total visits
+  6. Costco Wholesale - 99 total visits
+  7. Mason Jar - 88 total visits
+  8. Red Robin Gourmet Burgers - 80 total visits
+  9. Village Sushi - 70 total visits
+  10. Spring Kitchen Uw - 70 total visits
+
+most visited cities:
+  Seattle: 2278 visits
+  Spokane: 616 visits
+  Vancouver: 381 visits
+  Woodinville: 357 visits
+  Bellevue: 251 visits
+
+meal breakdown:
+  Late Night / Other: 2669 (50%)
+  Dinner: 2171 (41%)
+  Breakfast: 306 (6%)
+  Lunch: 179 (3%)
+
+avgs:
+  -visits per person: 266.2
+  -unique restaurants per person: 72.5
+  -visit duration: 47 min
