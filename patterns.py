@@ -64,9 +64,9 @@ def create_meal_chart(df):
     import matplotlib.pyplot as plt
     meal_counts = df['meal'].value_counts()
     bars= plt.bar(meal_counts.index, meal_counts.values, color=['#ff9999','#66b3ff','#99ff99','#ffcc99'])
-    plt.xlabel('meal Type')
-    plt.ylabel('number of Visits')
-    plt.title('meal Type Distribution')
+    plt.xlabel('Meal Type')
+    plt.ylabel('Number of Visits')
+    plt.title('Meal Type Distribution')
     for bar in bars:
         height = bar.get_height()
         plt.text(bar.get_x() + bar.get_width()/2., height,
