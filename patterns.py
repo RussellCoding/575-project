@@ -57,6 +57,51 @@ def find_group_patterns(all_data):
   
     meal_totals = combined_df['meal'].value_counts()
  
+ #added this to help display data 
+ #i used this as a ref https://www.geeksforgeeks.org/pandas/bar-plot-in-matplotlib/
+def create_meal_chart(df):
+    output_path = 'meal_type_distribution.png'
+    import matplotlib.pyplot as plt
+    meal_counts = df['meal'].value_counts()
+    bars= plt.bar(meal_counts.index, meal_counts.values, color=['#ff9999','#66b3ff','#99ff99','#ffcc99'])
+    plt.xlabel('meal Type')
+    plt.ylabel('number of Visits')
+    plt.title('meal Type Distribution')
+    for bar in bars:
+        height = bar.get_height()
+        plt.text(bar.get_x() + bar.get_width()/2., height,
+                f'{int(height)}',
+                ha='center', va='bottom')
+    plt.tight_layout()
+    plt.savefig(output_path, dpi=300, bbox_inches='tight')
+    plt.close()
+
+#made this to show all the visits in washington as a heatmap
+def create_heatmap(df):
+    import folium
+    from folium.plugins import HeatMap
+    output_path = 'visit_heatmap.html'
+    df_cord = df[(df['latitude'].notnull()) & (df['longitude'].notnull())]
+
+    #make sure its working 
+    if df_cord.empty:
+        print("no coordinate data available for heatmap")
+        return
+    
+    center_lat = df_cord['latitude'].mean()
+    center_lon = df_cord['longitude'].mean()
+
+    m = folium.Map(location=[center_lat, center_lon], zoom_start=7)
+
+    hData = [[row['latitude'], row['longitude']] for index, row in df_cord.iterrows()]
+
+    HeatMap(hData, 
+            min_opacity=0.7,
+            radius=10,
+            blur=17,
+    ).add_to(m)
+    m.save(output_path)
+
 
 def main():
     people = ['64', '67', '68', '69', '70', '175', '177', '179', '181', '182',
@@ -127,7 +172,9 @@ def main():
             
             #find group pattern
             combined_df = pd.concat(all_data.values(), ignore_index=True)
-            
+            create_meal_chart(combined_df)
+            create_heatmap(combined_df)
+
             f.write(f"\n\n")
             f.write(f"overall group patterns\n")
             f.write(f"\n\n")
